@@ -1,0 +1,54 @@
+---
+title: Автобусна линия Експрес Младост
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-04-20T14:38:10.192Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-20T07:22:28.343Z
+---
+
+🚋 | [1901 - 1924](/bg/public-transport/tram-routes-1901-1924) | [1924 - 1928](/bg/public-transport/tram-routes-1924-1928) | [1928 - сега](/bg/public-transport/tram-routes-1928-sega) | 🚌 | [1935 - 1959](/bg/public-transport/bus-routes-1935-1959) | [1959 - 1968](/bg/public-transport/bus-routes-1959-1968) | [1968 - сега](/bg/public-transport/bus-routes-1968-sega) | [заместващи](/bg/public-transport/bus-routes-replacement-services) | 🚎 | [1941 - 1960](/bg/public-transport/trolleybus-routes-1941-1960) | [1960 - сега](/bg/public-transport/trolleybus-routes-1960-sega) | 🚇 | [1998 - сега](/bg/public-transport/metro-routes) |
+
+---
+
+# Кратка история
+
+**Очаквайте скоро…**
+
+
+# Маршрути през годините
+| <span style="color:#81C784">Разкриване на линия</span> | <span style="color:#FFB74D">Временна промяна</span> | <span style="color:#64B5F6">Постоянна промяна</span> | <span style="color:#E57373">Закриване на линия</span> |
+
+
+## Tabs {.tabset}
+
+
+### 1982
+
+**04.11.1982 кооперативен пазар в ж.к. Младост 1** \- бул. Андрей Сахаров - бул. Александър Малинов - бул. Цариградско шосе - бул. Евлоги Георгиев - **Военна академия** *(спира на кооперативен пазар, блок 43, пл. Орлов мост и Военна академия)*
+
+**1983 линията е закрита**
+
+# Експлоатационни параметри
+
+- **Очаквайте скоро…**
+{.grid-list}
+
+# **Подвижен състав**
+
+**Очаквайте скоро…**
+
+# Снимки
+  
+# Tabs {.tabset}
+
+
+ ## Mодел
+ 
+ <!--Инв. номер--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://media.istockphoto.com/id/1221240925/vector/coming-soon-lettering-coming-soon-for-promotion-advertisement-sale-marketing.jpg?s=612x612&w=0&k=20&c=RZPMOqmoyOwEEQfjnWm8_j-G1Ht2TBRxshHNR0nn96o=" height="200px"><figcaption>📷 Име Фамилия</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196863628@N07/52480156032" target="_blank" title="2747"> <img src="https://media.istockphoto.com/id/1221240925/vector/coming-soon-lettering-coming-soon-for-promotion-advertisement-sale-marketing.jpg?s=612x612&w=0&k=20&c=RZPMOqmoyOwEEQfjnWm8_j-G1Ht2TBRxshHNR0nn96o=" width="100%"></a></div></div>
+
+
+
+

@@ -1,0 +1,176 @@
+<!--
+title: developers 2
+description: 
+published: true
+date: 2022-12-01T19:06:41.526Z
+tags: 
+editor: code
+dateCreated: 2022-12-01T14:43:01.280Z
+-->
+
+	<meta charset="UTF-8" />
+
+	<input style="width: 70%; height: 50%; " id="point1" onchange="reload();" type="range" min="0" max="76" value="0" />
+	<output id="point1val"></output>
+	<select id="point1x" onchange="reload();" hidden>
+					<option value="1941-02-08">1941-02-08</option>
+					<option value="1948-05-01">1948-05-01</option>
+					<option value="1949-05-07">1949-05-07</option>
+					<option value="1949-12-14">1949-12-14</option>
+					<option value="1950-06">1950-06</option>
+					<option value="1951-11-07">1951-11-07</option>
+					<option value="1952-09-27">1952-09-27</option>
+					<option value="1952-12-12">1952-12-12</option>
+					<option value="1955">1955</option>
+					<option value="1957-09-17">1957-09-17</option>
+					<option value="1959-01-01">1959-01-01</option>
+					<option value="1960-09">1960-09</option>
+					<option value="1960-12">1960-12</option>
+					<option value="1962">1962</option>
+					<option value="1962-04-18">1962-04-18</option>
+					<option value="1965-12">1965-12</option>
+					<option value="1970-09-07">1970-09-07</option>
+					<option value="1972-12-01">1972-12-01</option>
+					<option value="1973">1973</option>
+					<option value="1973-09-12">1973-09-12</option>
+					<option value="1975">1975</option>
+					<option value="1978-01-20">1978-01-20</option>
+					<option value="1978-03-02">1978-03-02</option>
+					<option value="1978-04">1978-04</option>
+					<option value="1979">1979</option>
+					<option value="1979-01-12">1979-01-12</option>
+					<option value="1979-12-17">1979-12-17</option>
+					<option value="1980-01-16">1980-01-16</option>
+					<option value="1981-08-10">1981-08-10</option>
+					<option value="1982-01-23">1982-01-23</option>
+					<option value="1983">1983</option>
+					<option value="1983-04-01">1983-04-01</option>
+					<option value="1984-09-07">1984-09-07</option>
+					<option value="1984-10-31">1984-10-31</option>
+					<option value="1986-01-20">1986-01-20</option>
+					<option value="1987-06">1987-06</option>
+					<option value="1987-09-09">1987-09-09</option>
+					<option value="1987-10">1987-10</option>
+					<option value="1988-11-08">1988-11-08</option>
+					<option value="1988-12">1988-12</option>
+					<option value="1989-02-03">1989-02-03</option>
+					<option value="1989-06-08">1989-06-08</option>
+					<option value="1989-10-21">1989-10-21</option>
+					<option value="1990">1990</option>
+					<option value="1991-10">1991-10</option>
+					<option value="1991-12-06">1991-12-06</option>
+					<option value="1992">1992</option>
+					<option value="1993-06-01">1993-06-01</option>
+					<option value="1993-06-01/1993-09-01">1993-06-01/1993-09-01</option>
+					<option value="1994">1994</option>
+					<option value="1994-04-01/1994-05-30">1994-04-01/1994-05-30</option>
+					<option value="1997">1997</option>
+					<option value="1997-02">1997-02</option>
+					<option value="1998-01">1998-01</option>
+					<option value="1999-11">1999-11</option>
+					<option value="2000-06-20">2000-06-20</option>
+					<option value="2000-09">2000-09</option>
+					<option value="2000-11">2000-11</option>
+					<option value="2001-09-01">2001-09-01</option>
+					<option value="2002-08-24">2002-08-24</option>
+					<option value="2006-08-14">2006-08-14</option>
+					<option value="2007-04-02">2007-04-02</option>
+					<option value="2008-07-31">2008-07-31</option>
+					<option value="2010-10-10">2010-10-10</option>
+					<option value="2011-07-16">2011-07-16</option>
+					<option value="2012-05-22">2012-05-22</option>
+					<option value="2012-05-24">2012-05-24</option>
+					<option value="2014-02-23">2014-02-23</option>
+					<option value="2014-05-16">2014-05-16</option>
+					<option value="2015-06-10">2015-06-10</option>
+					<option value="2015-08-20">2015-08-20</option>
+					<option value="2016-01-20">2016-01-20</option>
+					<option value="2017-07-02">2017-07-02</option>
+					<option value="2018-08-14">2018-08-14</option>
+					<option value="2019-07-13">2019-07-13</option>
+					<option value="2020-07-26">2020-07-26</option>
+					<option value="2020-10-01">2020-10-01</option>
+			</select>
+	<select id="point2" onchange="reload();" hidden>
+		<option value="">Compare to</option>
+					<option value="1941-02-08">1941-02-08</option>
+					<option value="1948-05-01">1948-05-01</option>
+					<option value="1949-05-07">1949-05-07</option>
+					<option value="1949-12-14">1949-12-14</option>
+					<option value="1950-06">1950-06</option>
+					<option value="1951-11-07">1951-11-07</option>
+					<option value="1952-09-27">1952-09-27</option>
+					<option value="1952-12-12">1952-12-12</option>
+					<option value="1955">1955</option>
+					<option value="1957-09-17">1957-09-17</option>
+					<option value="1959-01-01">1959-01-01</option>
+					<option value="1960-09">1960-09</option>
+					<option value="1960-12">1960-12</option>
+					<option value="1962">1962</option>
+					<option value="1962-04-18">1962-04-18</option>
+					<option value="1965-12">1965-12</option>
+					<option value="1970-09-07">1970-09-07</option>
+					<option value="1972-12-01">1972-12-01</option>
+					<option value="1973">1973</option>
+					<option value="1973-09-12">1973-09-12</option>
+					<option value="1975">1975</option>
+					<option value="1978-01-20">1978-01-20</option>
+					<option value="1978-03-02">1978-03-02</option>
+					<option value="1978-04">1978-04</option>
+					<option value="1979">1979</option>
+					<option value="1979-01-12">1979-01-12</option>
+					<option value="1979-12-17">1979-12-17</option>
+					<option value="1980-01-16">1980-01-16</option>
+					<option value="1981-08-10">1981-08-10</option>
+					<option value="1982-01-23">1982-01-23</option>
+					<option value="1983">1983</option>
+					<option value="1983-04-01">1983-04-01</option>
+					<option value="1984-09-07">1984-09-07</option>
+					<option value="1984-10-31">1984-10-31</option>
+					<option value="1986-01-20">1986-01-20</option>
+					<option value="1987-06">1987-06</option>
+					<option value="1987-09-09">1987-09-09</option>
+					<option value="1987-10">1987-10</option>
+					<option value="1988-11-08">1988-11-08</option>
+					<option value="1988-12">1988-12</option>
+					<option value="1989-02-03">1989-02-03</option>
+					<option value="1989-06-08">1989-06-08</option>
+					<option value="1989-10-21">1989-10-21</option>
+					<option value="1990">1990</option>
+					<option value="1991-10">1991-10</option>
+					<option value="1991-12-06">1991-12-06</option>
+					<option value="1992">1992</option>
+					<option value="1993-06-01">1993-06-01</option>
+					<option value="1993-06-01/1993-09-01">1993-06-01/1993-09-01</option>
+					<option value="1994">1994</option>
+					<option value="1994-04-01/1994-05-30">1994-04-01/1994-05-30</option>
+					<option value="1997">1997</option>
+					<option value="1997-02">1997-02</option>
+					<option value="1998-01">1998-01</option>
+					<option value="1999-11">1999-11</option>
+					<option value="2000-06-20">2000-06-20</option>
+					<option value="2000-09">2000-09</option>
+					<option value="2000-11">2000-11</option>
+					<option value="2001-09-01">2001-09-01</option>
+					<option value="2002-08-24">2002-08-24</option>
+					<option value="2006-08-14">2006-08-14</option>
+					<option value="2007-04-02">2007-04-02</option>
+					<option value="2008-07-31">2008-07-31</option>
+					<option value="2010-10-10">2010-10-10</option>
+					<option value="2011-07-16">2011-07-16</option>
+					<option value="2012-05-22">2012-05-22</option>
+					<option value="2012-05-24">2012-05-24</option>
+					<option value="2014-02-23">2014-02-23</option>
+					<option value="2014-05-16">2014-05-16</option>
+					<option value="2015-06-10">2015-06-10</option>
+					<option value="2015-08-20">2015-08-20</option>
+					<option value="2016-01-20">2016-01-20</option>
+					<option value="2017-07-02">2017-07-02</option>
+					<option value="2018-08-14">2018-08-14</option>
+					<option value="2019-07-13">2019-07-13</option>
+					<option value="2020-07-26">2020-07-26</option>
+					<option value="2020-10-01">2020-10-01</option>
+			</select>
+	<br/>
+	<img id="map" src="https://sofia.walnutphp.com/tbseg.php?point1=1941-02-08" />
+	

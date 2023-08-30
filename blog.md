@@ -1,0 +1,53 @@
+---
+title: Блог
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-08-30T11:50:34.993Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-25T10:24:49.382Z
+---
+
+## Събития на Тринмо 
+
+- [:tada: Витоша пролетен фест 2023 *12-14.05.2023*](/bg/blog/2023-vitosha-proleten-fest)
+{.links-list}
+
+
+
+## Блог
+- [:railway_track: 1009mm vs 1435mm *Петър Мънъри*](/bg/blog/1009-vs-1435)
+- [:clock3: Софийският градски транспорт и Google *Анина Сантова - Капитал*](/bg/blog/sofia-public-transport-and-google)
+- [:1234: Има ли нужда от преномерация на линиите в София *Петър Мънъри*](/bg/blog/prenomerirane-na-linii)
+- [:moon::bus: Нощен транспорт през годините *Петър Мънъри*](/bg/blog/noshten-transport-prez-godinite)
+- [:snowflake: Защо не се движат всчики климатизирани автобуси? *Петър Мънъри*](/bg/blog/klimatizirani-avtobusi)
+- [:busstop: Фалшиви спирки? *www.biologie-seite.de*](/bg/blog/falshivi-spirki-germania)
+- [:bus: Видове автобуси в София *Петър Мънъри*](/bg/blog/vidove-avtobusi)
+- [:a: Линии номерирани с буквен индекс или  суфикс *Петър Мънъри*](/bg/blog/linii-s-bukvi)
+- [:train:+:train: Пенделно движение на трамваи *Петър Мънъри*](/bg/blog/pendelno-dvijenie-na-tramvai)
+- [:busstop: Как да направим спирките по-безопасни *urban.bg*](/bg/blog/kak-da-napravim-spirkite-po-bezopasni)
+- [:bell: Трамваи по време на международна детска асамблея  *Петър Мънъри*](/bg/blog/detska-asambleya)
+- [:train: Малкото трамвайче *Иван Тодоров*](/bg/blog/malkoto-tramvaiche)
+- [:envelope: Пощенските кутии на софийските трамваи *Любомир Найденов*](/bg/blog/e-mail-vs-tram-mail)
+- [:memo: Транспорт пред колапс *Любомир Найденов*](/bg/blog/transport-pred-kolaps)
+- [:two::zero: Фотогалерия: 20 години, откакто метрото тръгна под София *Дневник*](/bg/blog/20-godini-metro)
+{.links-list}
+---
+
+
+## Предложения за промени и нови линии
+
+- [:one::zero::seven: Удължаване на автобус 107 до Суходол за връзка с метрото *Спаси София - 15.03.2022*](/bg/blog/spasi-sofia-107)
+- [:one::seven::three: Нова линия №173 за южните квартали *Спаси София - 05.02.2021*](/bg/blog/spasi-sofia-173)
+- [:one::nine::four: Нова линия 194: Левски Г – Слатина – Студ. град *Спаси София - 22.07.2019*](/bg/blog/spasi-sofia-194)
+- [:five::zero::zero: Нови 12 автобусни линии ще свързват кварталите с метрото в София *Столична община - 05.01.2012*](/bg/blog/novi-linii-500)
+{.links-list}
+
+
+
+## Доклади
+
+- [:memo: Усъвършенстване управлението на обществения пътнически транспорт в София *Булпан - Юни 2006*](/bg/blog/2006-bulplan-upravlenie-obshtestven-transport)
+{.links-list}
+
+

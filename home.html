@@ -1,0 +1,557 @@
+<!--
+title: trinmo.org
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-08-18T10:52:38.690Z
+tags: 
+editor: code
+dateCreated: 2022-04-23T23:27:12.124Z
+-->
+
+<ul class="links-list">
+<li><a href="/bg/public-transport/fleet-list/actual" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📝" src="/_assets/svg/twemoji/1f4dd.svg"> Актуален списък на подвижния състав <em>Вкл. състави и трамваи на ремонт Последно обновяване: <b>01.06.2023</b></em></a></li></ul>
+
+<h1 id="градски-транспорт" class="toc-header"> 🚍 Градски транспорт</h1><br>
+<div style="width:auto">
+      <div  style="display:block;">
+        <h3>Търси по линия</h3><br>
+       <input type="text" id="myInput"  style="margin: 2px; padding: 8px; width:70px; border: 1px solid black; border-radius: 5px;" onkeyup="myFunction()" placeholder="Линия">&nbsp;
+        <select name="transportType" id="transportType" style="margin: 2px; width:auto; border: 1px solid black; border-radius: 5px; padding: 8px; background:#F5F5F5" onChange="myFunction()">
+          <option value="0">Всички</option>
+          <option value="1" selected>🚋 Трамвай</option>
+          <option value="2">🚎 Тролейбус</option>
+          <option value="3">🚌 Автобус</option>
+          <option value="4">Ⓜ️ Метрополитен</option>
+          <option value="5">🚡 ПВЛ</option>
+      	</select>
+      </div>
+      <div class="dropdown-content" id="dropdownTable">
+      	<table id="myTable" style="display: block; position:absolute; z-index:1000; text-align:center;">
+					<tr><th>Линия</th><th>Вид</th><th>Период</th></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/1">1</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/1A">1A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/2">2</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/2A">2A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/3">3</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/3A">3A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/4">4</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/5">5</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/5A">5A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/6">6</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/6A">6A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/7">7</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/7A">7A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/8">8</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/8A">8A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/9">9</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/9A">9A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/10">10</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/10A">10A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/11">11</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/12">12</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/12A">12A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/13">13</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/14">14</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/14A">14A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/15">15</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/16">16</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/17">17</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/18">18</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/18A">18A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/19">19</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/20">20</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/21">21</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/22">22</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/22A">22A</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/23"> 23 </a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1928-sega/27">27</a></td><td>Трамвай</td><td>1928-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/1-1">1-1</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/1-9">1-9</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/2-2">2-2</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/2-6">2-6</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/2-7">2-7</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/2-10">2-10</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/3-3">3-3</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/3-3A">3-3A</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/3-7">3-7</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/3-10">3-10</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/4-4">4-4</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/4-10">4-10</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/5-5">5-5</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/6-6">6-6</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/6-6A">6-6A</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/7-7">7-7</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/8-8">8-8</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/9-9">9-9</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1924-1928/10-10">10-10</a></td><td>Трамвай</td><td>1924-1928</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Alabinska">Алабинска</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Vitoshka">Витошка</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Grobishta">Гробища</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Garata-Igantiev">Гарата-Игнатиев</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Kniajevska">Княжевска</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Pirot-Poduiane">Пирот-Подуяне</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/tram-routes-1901-1924/Tsar-Osvoboditel">Цар Освободител</a></td><td>Трамвай</td><td>1901-1924</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/1">1</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/2">2</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/3">3</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/4">4</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/5">5</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/5A">5A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/6">6</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/7">7</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/7A">7A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/8">8</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/9">9</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/10">10</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/11">11</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/11A">11A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/12">12</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/13">13</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/14">14</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/15">15</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/16">16</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/17">17</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/18">18</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/18A">18A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/19">19</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/20">20</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/21">21</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/21-22">21-22</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/22">22</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/23">23</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/24">24</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/24A">24A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/25">25</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/25A">25A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/26">26</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/26A">26A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/27">27</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/28">28</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/29">29</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/30">30</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/31">31</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/32">32</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/33">33</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/34">34</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/35">35</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/36">36</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/37">37</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/38">38</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/39">39</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/40">40</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/41">41</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/42">42</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/42A">42A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/43">43</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/43A">43A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/44">44</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/44A">44A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/44%D0%91">44Б</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/45">45</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/46">46</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/47">47</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/47-48">47-48</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/48">48</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/49">49</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/49A">49A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/50">50</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/51">51</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/52">52</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/53">53</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/54">54</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/54A">54A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/55">55</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/56">56</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/56A">56A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/57">57</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/58">58</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/59">59</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/59A">59A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/60">60</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/61">61</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/62">62</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/63">63</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/63A">63A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/64">64</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/64A">64A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/64%D0%92">64В</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/65">65</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/65A">65A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/66">66</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/66A">66A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/67">67</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/67A">67A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/68">68</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/68A">68A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/69">69</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/69A">69A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/69%D0%91">69Б</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/70">70</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/70A">70A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/71">71</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/72">72</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/72A">72A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/72%D0%91">72Б</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/73">73</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/73A">73A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/73%D0%91">73Б</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/74">74</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/74A">74A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/75">75</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/76">76</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/77">77</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/77A"> 77A </a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/78">78</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/79">79</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/79A">79A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/80">80</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/81">81</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/82">82</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/82A">82A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/83">83</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/83A">83A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/84">84</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/85">85</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/86">86</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/86A">86A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/87">87</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/88">88</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/88A">88A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/89">89</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/90">90</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/90A">90A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/91">91</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/91A">91A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/92">92</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/93">93</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/93%D0%91">93Б</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/94">94</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/95">95</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/96">96</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/97">97</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/98">98</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/98%D0%90">98А</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/99">99</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/100">100</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/101">101</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/102">102</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/102A">102A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/103">103</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/104">104</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/105">105</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/106">106</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/107">107</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/108">108</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/108A">108A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/109">109</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/110">110</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/111">111</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/112">112</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/113">113</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/114">114</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/115E">115E</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/117">117</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/118">118</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/119">119</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/120">120</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/121">121</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/122">122</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/122A">122A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/123">123</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/124">124</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/125">125</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/126">126</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/150">150</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/150A">150A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/163">163</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/166">166</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/184">184</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/185">185</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/200">200</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/201">201</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/202">202</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/203">203</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/204">204</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/209">209</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/211">211</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/213">213</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/214">214</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/215">215</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/216">216</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/242">242</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/260">260</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/261">261</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/261A">261A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/266">266</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/267">267</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/270">270</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/276">276</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/279">279</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/280">280</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/283">283</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/284">284</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/285">285</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/294">294</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/300">300</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/301">301</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/304">304</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/305">305</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/306">306</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/309">309</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/310">310</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/313">313</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/314">314</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/334">334</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/335">335</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/336">336</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/337">337</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/338">338</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/361">361</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/383">383</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/384">384</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/400">400</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/404">404</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/413">413</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/461">461</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/504">504</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/505">505</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/604">604</a></td><td>Автобус</td><td>1968-сега</td></tr>
+          <tr><td><a href="/bg/public-transport/bus-routes-1968-sega/D1">Д1</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/Y1">У1</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/Y2">У2</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/EL">ЕЛ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/EM">ЕМ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/N1">N1</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/N2">N2</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/N3">N3</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/A">A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/B">B</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/C">C</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/605A">605A</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/606B">606B</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/607C">607C</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/1TM">1TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/2TM">2TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/3TM">3TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/4TM">4TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/5TM">5TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/6TM">6TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/6T1-6T2">6Т1-6Т2</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/7TM">7TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/8TM">8TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/9TM">9TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/10TM">10TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/11TM">11TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/12TM">12TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/13TM">13TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/14TM">14TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/18TM">18TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/19TM">19TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/20TM">20TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/22TM">22TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/23TM">23TM</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/1ТБ">1ТБ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/2ТБ">2ТБ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/4ТБ">4ТБ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/5ТБ">5ТБ</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1968-sega/6Т">6Т</a></td><td>Автобус</td><td>1968-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%90">А</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%91">Б</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%92">В</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%93">Г</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%94">Д</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%95">Е</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%96">Ж</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%97">З</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%98">И</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9A">К</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9B">Л</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9C">М</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9D">Н</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9E">О</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%9F">П</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A0">Р</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A1">С</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A1-%D0%B0">Са</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A2">Т</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A4">Ф</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A5">Х</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1935-1959/%D0%A7">Ч</a></td><td>Автобус</td><td>1935-1939</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/1">1</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/2">2</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/3">3</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/4">4</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/5">5</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/6">6</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/7">7</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/8">8</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/9">9</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/10">10</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/11">11</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/12">12</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/13">13</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/14">14</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/15">15</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/16">16</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/16A">16A</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/17">17</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/18">18</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/19">19</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/20">20</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/21">21</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/22">22</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/23">23</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/24">24</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/25">25</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/26">26</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/27">27</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/28">28</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/29">29</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/30">30</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/31">31</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/32">32</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/33">33</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/34">34</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/35">35</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/36">36</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/37">37</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/38">38</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/bus-routes-1959-1968/39">39</a></td><td>Автобус</td><td>1959-1968</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/1">1</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/1A">1A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/2">2</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/2A">2A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/3">3</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/3A">3A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/4">4</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/4A">4A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/5">5</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/5A">5A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/5%D0%91">5Б</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/6">6</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/6A">6A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/7">7</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/7A">7A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/8">8</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/8A">8A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/9">9</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/9A">9A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/10">10</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/11">11</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/11A">11A</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1960-sega/12">12</a></td><td>Тролейбус</td><td>1960-сега</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%98">И</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%9B">Л</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%9F">П</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%A0">Р</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%A1">С</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%A2">Т</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+					<tr><td><a href="/bg/public-transport/trolleybus-routes-1941-1960/%D0%A5%D0%94">ХД</a></td><td>Тролейбус</td><td>1941-1960</td></tr>
+				</table>
+      </div>
+    </div>
+<br>
+<ul class="links-list">
+<li><a href="/bg/public-transport/route-network-and-lines" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🔢" src="/_assets/svg/twemoji/1f522.svg"> Линии на градския транспорт <em>Всички линии през годините</em></a></li>
+<li><a href="/bg/public-transport/route-changes" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="↩️" src="/_assets/svg/twemoji/21a9.svg"> Маршрутни промени <em>Само промени, които са във връзка с ремонти, събития или експериментални.</em></a></li>
+<li><a href="/bg/public-transport/fleet-list" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚇" src="/_assets/svg/twemoji/1f687.svg"> Подвижен състав <em>Информация за подвижния състав в София, включващ трамваи, автобуси, тролейбуси и метро</em></a></li>
+<li><a href="/bg/public-transport/virtual-tables" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🕐" src="/_assets/svg/twemoji/1f550.svg">  Виртуални табла <em>Кога ще пристигне следващото превозно средство</em></a></li>  
+<li><a href="/bg/identity/advertisements" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🎨" src="/_assets/svg/twemoji/1f3a8.svg">  Рекламите по возилата <em>Хронология на рекламите</em></a></li>
+<li><a href="/bg/infrastructure/garages-and-depots" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> Гаражи и депа <em>Повече информация и пълен списък на гаражите и депата в София</em></a></li>
+<li><a href="/bg/public-transport/tickets" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🎫" src="/_assets/svg/twemoji/1f3ab.svg"> Карти, билети и таксуване <em>Актуални цени, исторически тарифи и билети</em></a></li>
+<li><a href="/bg/public-transport/schedules" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🕐" src="/_assets/svg/twemoji/1f550.svg"> Разписания и разстановки <em>Експлоатационни параметри на линиитe и техните разписания</em></a></li>
+<li><a href="/bg/public-transport/passanger-counting" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="👥" src="/_assets/svg/twemoji/1f465.svg"> Преброявания и модално разпределение  <em>Статистика и анализи на разлчини данни за използваемостта на МГТ</em></a></li>
+<li><a href="/bg/public-transport/maps-and-schemes" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🗺" src="/_assets/svg/twemoji/1f5fa.svg"> Схеми на градския транспорт <em>Официални карти и схеми от СКГТ/ЦГМ</em></a></li>
+<li><a href="/bg/public-transport/metro-maps" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="Ⓜ️" src="/_assets/svg/twemoji/24c2.svg"> Схеми на метрото <em>Различни схеми през годините</em></a></li>
+<li><a href="/bg/public-transport/privitised-lines" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="⭐️" src="/_assets/svg/twemoji/2b50.svg"> Концесионирани линии <em>Информация за договорите за превоз на пътници, начални и крайни дати</em></a></li>
+<li><a href="/bg/public-transport/monthly-transport-journal" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📔" src="/_assets/svg/twemoji/1f4d4.svg"> Месечен транспортен дневник <em>Информация за промени по подвижния състав</em></a></li>
+</ul>
+<h1 id="инфраструктура" class="toc-header"> 🏦 Инфраструктура</h1>
+<ul class="links-list">
+<li><a href="/bg/infrastructure/metro-stations" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚇" src="/_assets/svg/twemoji/1f687.svg"> Метростанции <em>Повече информация и пълен списък на метростанциите в София</em></a></li>
+<li><a href="/bg/infrastructure/charging-stations" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🔌" src="/_assets/svg/twemoji/1f50c.svg"> Зарядни станции <em>Повече информация и пълен списък на зарядните станции в София</em></a></li>
+<li><a href="/bg/infrastructure/rectifier-stations" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="⚡️" src="/_assets/svg/twemoji/26a1.svg"> Токоизправителни станции <em>Повече информация и пълен списък на тисовете в София</em></a></li>
+<li><a href="/bg/infrastructure/garages-and-depots" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> Гаражи и депа <em>Повече информация и пълен списък на гаражите и депата в София</em></a></li>
+<li><a href="/bg/infrastructure/tram-line-projects" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📐" src="/_assets/svg/twemoji/1f4d0.svg"> Проекти за нови трасета и за реконструкции на същестуващи <em>Информация и проекти за минали и бъдещи реконструкции на релсовия път</em></a></li>
+<li><a href="/bg/infrastructure/tram-network" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🏗" src="/_assets/svg/twemoji/1f3d7.svg"> Трамвайна мрежа <em>Развитие през годините</em></a></li>
+<li><a href="/bg/infrastructure/mechanized-undercutting" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚋" src="/_assets/svg/twemoji/1f68b.svg"> Подбиване на релсовия път <em>Трасетата които подлежат на подбиване</em></a></li>
+<li><a href="/bg/infrastructure/tram-loops" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚊" src="/_assets/svg/twemoji/1f68a.svg"> Обръщателни колела <em>Kарта и описание на всички обръщателни колела</em></a></li>
+<li><a href="/bg/infrastructure/vik" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚧" src="/_assets/svg/twemoji/1f6a7.svg"> Изграждане на Канализация <em>Банкя, Обеля, Драгалевци...</em></a></li>
+<li><a href="/bg/infrastructure/bus-lanes" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> BUS ленти <em>Kарта и описание на всички BUS ленти</em></a></li>
+<li><a href="/bg/infrastructure" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🛣" src="/_assets/svg/twemoji/1f6e3.svg"> Улична мрежа <em>Всичко за уличната мрежа</em></a></li>
+<li><a href="/bg/bicycle-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚴" src="/_assets/svg/twemoji/1f6b4.svg"> Велосипедна мрежа <em>Карта и описание на всички велосипедни трасета</em></a></li>
+</ul>
+<h1 id="планиране-и-стратегии" class="toc-header"> 🔀 Планиране и стратегии</h1>
+<ul class="links-list">
+<li><a href="/bg/planning-and-strategies/master-plan" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📝" src="/_assets/svg/twemoji/1f4dd.svg"> ОУП <em>Общ устройствен план на София</em></a></li>
+<li><a href="/bg/planning-and-strategies/pup" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📝" src="/_assets/svg/twemoji/1f4dd.svg"> ПУП <em>Списък и информация на подробни устройствени планове, засягащи транспорта</em></a></li>
+</ul>
+<p><strong>Планове и програми за развитие</strong></p>
+<ul class="links-list">
+<li><a href="/bg/planning-and-strategies/plan-za-ustoichiva-gradska-mobilnost" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📝" src="/_assets/svg/twemoji/1f4dd.svg"> 2018 - 2035 <em>План за устойчива градска мобилност на град София - 2035</em></a></li>
+<li><a href="/bg/planning-and-strategies/2016-2019-programa-za-razvitie-na-velosipednia-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚴" src="/_assets/svg/twemoji/1f6b4.svg"> 2016 - 2019 <em>Програма за развитие на велосипедния транспорт на територията на Столична община</em></a></li>
+<li><a href="/bg/planning-and-strategies/2016-2018-programa-za-razvitie-na-avobusnia-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> 2016 - 2018 <em>Програма за развитие на автобусния транспорт на територията на Столична община</em></a></li>
+<li><a href="/bg/planning-and-strategies/2012-2015-programa-za-razvitie-na-obshtestvenia-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> 2012 - 2015 <em>Програма за развитие на обществения транспорт в София</em></a></li>
+<li><a href="/bg/planning-and-strategies/2012-2015-programa-za-razvitie-na-velosipednia-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚴" src="/_assets/svg/twemoji/1f6b4.svg"> 2012 - 2015 <em>Програма за развитие на велосипедния транспорт а територията на Столична община</em></a></li>
+<li><a href="/bg/planning-and-strategies/plan-za-ustoichiva-gradska-mobilnost" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚴" src="/_assets/svg/twemoji/1f6b4.svg"> 2012 - 2017 <em>План за развитие на велосипедния транспорт на територията на Столична община</em></a></li>
+</ul>
+<p><strong>Наредби</strong></p>
+<ul class="links-list">
+<li><a href="/bg/planning-and-strategies/naredba-2" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📐" src="/_assets/svg/twemoji/1f4d0.svg"> Наредба 2 <em>За планиране и проектиране на комуникационно-транспортната система на урбанизираните територии</em></a></li>
+<li><a href="/bg/planning-and-strategies/naredba-gradski-transport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> Наредба <em>За реда и условията за пътуване с обществения градски транспорт на територията на Столична община</em></a></li>
+</ul>
+<h1 id="управление" class="toc-header"> 👨‍💼 Управление</h1>
+<ul class="links-list">
+<li><a href="/bg/management/stolichen-avtotransport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg"> Столичен автотранспорт ЕАД <em>Оператор извършващ превози с автобуси</em></a></li>
+<li><a href="/bg/management/stolichen-electrotransport" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚎" src="/_assets/svg/twemoji/1f68e.svg">  Столичен електротранспорт ЕАД <em>Оператор извършащ превози с трамваи, тролейбуси и електробуси.</em></a></li>
+<li><a href="/bg/management/metropoliten" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚇" src="/_assets/svg/twemoji/1f687.svg"> Метрополитен ЕАД <em>Оператор извършващ превози с метро</em></a></li>
+<li><a href="/bg/management/centar-za-gradska-mobilnost" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="©️" src="/_assets/svg/twemoji/a9.svg"> Център за градска мобилност ЕАД <em>Оператор извършващ превози с метро</em></a></li>
+</ul>
+<h1 id="политика" class="toc-header"> 📢 Политика</h1>
+<ul class="links-list">
+<li><a href="/bg/politics/transport-council" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🏛" src="/_assets/svg/twemoji/1f3db.svg"> Постоянна комисия по транспорт и пътна безопасност <em>Списък на заседанията на комисията по транспорт в Столична община</em></a></li>
+<li><a href="/bg/politics/sofia-council-decisions" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📃" src="/_assets/svg/twemoji/1f4c3.svg">  Столичен общински съвет (СОС) <em>Списък на всички решения на СОС/СНС/СГНС засягащи транспорта в София</em></a></li>
+</ul>
+<h1 id="икономика-и-общество" class="toc-header"> 📈 Икономика и общество</h1>
+<ul class="links-list">
+<li><a href="/bg/economics-and-society/sofia-budget" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="💰" src="/_assets/svg/twemoji/1f4b0.svg"> Бюджет на Столична община <em>Изпълнение и отчетност</em></a></li>
+<li><a href="/bg/economics-and-society/economic-framework" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📊" src="/_assets/svg/twemoji/1f4ca.svg"> Икономическа рамка <em>Всички годишни рамки от 2013г. до днес</em></a></li>
+<li><a href="/bg/economics-and-society/public-procurement" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="💶" src="/_assets/svg/twemoji/1f4b6.svg">  Обществени поръчки <em>Списък на всички обществени поръчки за нов подвижен състав</em></a></li>
+<li><a href="/bg/economics-and-society/annual-financial-report" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📝" src="/_assets/svg/twemoji/1f4dd.svg">  Годишни финансови отчети и доклади на дейността на транспортните дружества<em>От 2007г. до днес</em></a></li>
+</ul>
+<h1 id="енергия-и-околна-среда" class="toc-header"> 🍃 Енергия и околна среда</h1>
+<ul class="links-list">
+<li><a href="/bg/energy-and-enviroment" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🇪🇺" src="/_assets/svg/twemoji/1f1ea-1f1fa.svg"> Оперативни програми <em>Околна среда 2007 – 2013 г. ; Околна среда 2014 – 2020 г.</em></a></li>
+</ul>
+<h1 id="литература" class="toc-header"> 📖 Литература</h1>
+<ul class="links-list">
+<li><a href="/bg/literature" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📚" src="/_assets/svg/twemoji/1f4da.svg"> Юбилейна литература <em>1931, 1941, 1961, 1976, 2001</em></a></li>
+<li><a href="/bg/literature" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📖" src="/_assets/svg/twemoji/1f4d6.svg"> Пътеводители и справочници <em>1964, 1978, 1981</em></a></li>
+<li><a href="/bg/literature" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📰" src="/_assets/svg/twemoji/1f4f0.svg"> Вестници <em>в-к "Вечерни новини", в-к "Транспортна искра" и др.</em></a></li>
+<li><a href="/bg/literature" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📖" src="/_assets/svg/twemoji/1f4d6.svg"> Списания <em>Списания София, Сердика и др.</em></a></li>
+<li><a href="/bg/literature" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📜" src="/_assets/svg/twemoji/1f4dc.svg"> Архиви <em>Столичен архив и Държавен архив</em></a></li>
+</ul>
+<h1 id="идентичност" class="toc-header"> 🎨 Идентичност</h1>
+<ul class="links-list">
+<li><a href="/bg/identity/livery" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚌" src="/_assets/svg/twemoji/1f68c.svg">  Ливреи <em>Оцветяването на превозните средства</em></a></li>
+<li><a href="/bg/identity/stop-signs" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🚏" src="/_assets/svg/twemoji/1f68f.svg"> Спиркознаци <em>История на спиркознаците</em></a></li>
+<li><a href="/bg/public-transport/information-systems-and-management" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🔢" src="/_assets/svg/twemoji/1f522.svg"> Информационни системи <em>Електронни табели, шрифтове, гласово оповестяване др.</em></a></li>
+<li><a href="/bg/identity" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🤵" src="/_assets/svg/twemoji/1f935.svg"> Униформи <em>История на униформите</em></a></li>
+<li><a href="/bg/identity" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🛡" src="/_assets/svg/twemoji/1f6e1.svg"> Корпоративна идентичност <em>Цветове, логота и др.</em></a></li>
+<li><a href="/bg/philately" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="✉️" src="/_assets/svg/twemoji/2709.svg"> Филателия <em>Пощенски марки с превозни средства на градския транспорт</em></a></li>
+<li><a href="/bg/public-transport/tickets" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🎫" src="/_assets/svg/twemoji/1f3ab.svg"> Карти, билети и таксуване <em>Актуални цени, исторически тарифи и билети</em></a></li>
+<li><a href="/bg/identity/advertisement-materials" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="📔" src="/_assets/svg/twemoji/1f4d4.svg"> Рекламни материали <em>Рекламни брошури и др.</em></a></li>
+</ul>
+<h1 id="️-подкрепете-ни" class="toc-header"> 🎪 Наши събития</h1>
+<ul class="links-list">
+<li><a href="/bg/blog/2023-vitosha-proleten-fest" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🎉" src="/_assets/svg/twemoji/1f389.svg"> Витоша пролетен фест 2023 <em>12-14.05.2023</em></a></li>
+</ul>
+<h1 id="️-подкрепете-ни" class="toc-header"> ❤️ Подкрепете ни</h1>
+<ul class="links-list">
+<li><a href="/bg/donate" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🖊" src="/_assets/svg/twemoji/1f58a.svg"> С вашите познания <em>Ако искате да помогнете с описването на историята</em></a></li>
+<li><a href="/bg/donate" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="💵" src="/_assets/svg/twemoji/1f4b5.svg"> Финансово <em>Ако ви харесва това което четете и искате да има повече</em></a></li>
+</ul>
+
+
+

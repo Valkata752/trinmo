@@ -1,0 +1,48 @@
+---
+title: Автобусна линия 2TM
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-06-03T13:32:04.548Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-20T07:28:30.962Z
+---
+
+🚋 | [1901 - 1924](/bg/public-transport/tram-routes-1901-1924) | [1924 - 1928](/bg/public-transport/tram-routes-1924-1928) | [1928 - сега](/bg/public-transport/tram-routes-1928-sega) | 🚌 | [1935 - 1959](/bg/public-transport/bus-routes-1935-1959) | [1959 - 1968](/bg/public-transport/bus-routes-1959-1968) | [1968 - сега](/bg/public-transport/bus-routes-1968-sega) | [заместващи](/bg/public-transport/bus-routes-replacement-services) | 🚎 | [1941 - 1960](/bg/public-transport/trolleybus-routes-1941-1960) | [1960 - сега](/bg/public-transport/trolleybus-routes-1960-sega) | 🚇 | [1998 - сега](/bg/public-transport/metro-routes) |
+
+---
+
+# Кратка история
+
+**Очаквайте скоро…**
+
+
+# Маршрути през годините
+| <span style="color:#81C784">Разкриване на линия</span> | <span style="color:#FFB74D">Временна промяна</span> | <span style="color:#64B5F6">Постоянна промяна</span> | <span style="color:#E57373">Закриване на линия</span> |
+
+
+## Tabs {.tabset}
+
+
+### 1997
+
+- **Очаквайте скоро…**
+{.grid-list}
+
+# Експлоатационни параметри
+
+- **Очаквайте скоро…**
+{.grid-list}
+
+# **Подвижен състав**
+
+**Очаквайте скоро…**
+
+# Снимки
+  
+# Tabs {.tabset}
+
+
+## Ikarus 280
+<!--3109--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10Ro2WBZ7VwFgcT0NxtBk9mCeVzdsWHAe" height="200px"><figcaption><b>3109</b> 📷 Мариан Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10Ro2WBZ7VwFgcT0NxtBk9mCeVzdsWHAe" width="100%"></div></div>
