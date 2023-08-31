@@ -2,7 +2,7 @@
 title: Метролиния 2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-31T17:12:38.955Z
+date: 2023-08-31T17:13:26.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:48:54.754Z
@@ -418,20 +418,6 @@ dateCreated: 2023-08-18T07:48:54.754Z
 <time datetime="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;М2</time>
     <span><strong>ДЖЕЙМС БАУЧЕР</strong> Крайна станция</span></li>
 </ul>
-
-
-# Експлоатационни параметри
-| :new: Ново разписание | :leftwards_arrow_with_hook: Нов маршрут |
-
-# Tabs {.tabset}
-## 2021
-> Западен парк - Младежки Театър (АП-Земляне)
-{.is-info}
-
--  Празник | **брой коли** ?-?-?-? | **интервал** ?-?-?-?
-{.grid-list}
-
-
 
 # Снимки
   
