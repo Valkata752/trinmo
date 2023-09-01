@@ -2,7 +2,7 @@
 title: Метролиния 2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-31T17:13:26.668Z
+date: 2023-09-01T08:43:47.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:48:54.754Z
@@ -21,13 +21,13 @@ dateCreated: 2023-08-18T07:48:54.754Z
 Първоначално обаче, вторият метродиаметър е планиран да свързва квартал Илиянци, в северната част на града. Там е трябвало и да се разположи самостоятелно метродепо за обслужване на подвижния състав само на тази линия. Трасето към Надежда е планирано като отклонение, подобно на трасето до Бизнес парка на първия метродиаметър.
 
 ### Проектната схема на метрото, 1974г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://truenorth.bg/showimage.php?img=190714110017.jpg&w=960&h=960" height="400px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://truenorth.bg/showimage.php?img=190714110017.jpg&w=960&h=960">
 
 Впоследствие обаче, проектът е променен. През 1999г.се взима решението за изграждане на метростанция "Обеля", която не фигурира в проектите дотогава. Именно затова в документацията тя е записана като станция "0", тъй като освен всичко друго е разположена между двете първи станции на първия и втория метродиаметър. Така, на практика станция "Обеля" може донякъде да се счита като първата открита станция от втората линия, макар и дълги години да беше крайна станция на линия 1. 
 Изключение правят само станциите построени заедно с НДК- "НДК" и "Свети Наум", днес "Европейски съюз".
 
 ### Станция "Обеля", 2003г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.metropolitan.bg/assets/resourceimages/899/obelya-2.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://www.metropolitan.bg/assets/resourceimages/899/obelya-2.jpg">
 
 ## Новият проект и новото трасе
 
@@ -37,7 +37,7 @@ dateCreated: 2023-08-18T07:48:54.754Z
 ## Строителство
 
 ### Машината "София", 2010г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.herrenknecht.com/fileadmin/user_upload/references/reference/Republic_of_Bulgaria/2010/_RAW8260.jpg" height="300px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://www.herrenknecht.com/fileadmin/user_upload/references/reference/Republic_of_Bulgaria/2010/_RAW8260.jpg">
 
 Втория метродиаметър е планиран като метро от нов тип. Подобно на станциите, открити през 2009г. (участъка до Младост), втората линия трябва да бъде със станции със странични перони, с дължина от 105м., а тунелите в междустанционните участъци трябва да са двупътни. Изключение от проекта са двете станции, завършени през 1980-81г., при НДК. Те са с островни перони с дължина от 120м., а свързващите ги тунели са еднпоътни.
 
@@ -45,7 +45,8 @@ dateCreated: 2023-08-18T07:48:54.754Z
 След станция "Хан Кубрат", трасето преминава в пространството между надлеза и трамвайите линии. Там е построено и 160-метрово разширение в тунела, предвидено за бъдещото отклонение на линията до кв.Илиянци. Там, при сприрка "Триъгълника" и беше рзположена стартовата шахта на тунелопробивната машина. Тя носеше името "София" и беше пригодена специално за условията и геологията на втория метродиаметър. Тя прокопа участъка до бул.Патриарх Евтимий, преди мс "НДК". Тя премина през станциите "Кн.Мария Луиза", "Централна гара". "Лъвов мост" и "Сердика II". След "НДК", линията навлиза под бул.Черни връх, където при кръстовището му с бул.Арсеналски и ул.Св.Наум е разположена станция "Европейски съюз". От там, трасето "катери" до станция "Джеймс Баучер", като тя е последна от пъвия пусков участък.
 
 ### Станция "Сердика II", 2010г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://img.capital.bg/shimg/zx1278_3118687.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+
+<br><img src="https://img.capital.bg/shimg/zx1278_3118687.jpg">
 
 ## Пуск
 
@@ -54,16 +55,21 @@ dateCreated: 2023-08-18T07:48:54.754Z
 Мотрисите се движат директно от мс "ИЕЦ Цароградско шосе" до мс "Джеймс Баучер", без прехвърляне на "Обеля".
 
 ### Станция "Ломско шосе", 2012г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.metropolitan.bg/assets/resourceimages/901/lomsko-shose-1.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+
+<br><img src="https://www.metropolitan.bg/assets/resourceimages/901/lomsko-shose-1.jpg">
+
+
 
 ### Станция "Сердика II", 2012г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.metropolitan.bg/assets/resourceimages/907/metrostation-serdica-1.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://www.metropolitan.bg/assets/resourceimages/907/metrostation-serdica-1.jpg">
+
 
 ### Станция "Джеймс Баучер", 2012г.
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.metropolitan.bg/assets/resourceimages/918/metro-dzhejms-baucher-4.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://www.metropolitan.bg/assets/resourceimages/918/metro-dzhejms-baucher-4.jpg">
+
 
 ### Влак 81-740/741.2Б "Русич", доставен за пуска на линия 2
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://tmholding.ru/upload/iblock/78c/78c74dde1042280a6038031fdc29bcea.jpg" height="350px"><figcaption><b> </b> </figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+<br><img src="https://tmholding.ru/upload/iblock/78c/78c74dde1042280a6038031fdc29bcea.jpg">
 
 
 # Маршрути през годините
