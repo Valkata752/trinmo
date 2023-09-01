@@ -2,7 +2,7 @@
 title: Схеми на метрото
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-02-09T10:39:58.217Z
+date: 2023-09-01T08:55:16.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T14:47:21.440Z
@@ -13,10 +13,10 @@ dateCreated: 2023-01-19T14:47:21.440Z
 # Tabs {.tabset}
 
 ## 2020
-<img src="https://lh5.googleusercontent.com/HQGDLUMk1kj9iicdkOh8IHu1Jp_vya-yg-zQ-v2vL0bbCNjHeon5ZOgo-k-s1UflSSY=w2400"/>
+<img src="https://drive.google.com/uc?id=1lUzB-UcxQ8nLRA2tK6Lxg1hDjstO_43A"/>
 
 ## 2018
-<img src="https://lh6.googleusercontent.com/BHJIQxZAIbsYv6r-jUEVe1FTWXASaHzymvmd1FLhtWEGXmY5CsZLM7jdhWrAkS24V6Q=w2400"/>
+<img src="https://drive.google.com/uc?id=1cI-7_X66ZAt6EHn9wpUTsAFChpJRl3i4"/>
 
 # Схеми ОУП
 
@@ -24,11 +24,25 @@ dateCreated: 2023-01-19T14:47:21.440Z
 
 
 ## 2022
-<img src="https://live.staticflickr.com/65535/52522726308_b3520ed2a9_k.jpg"/>
+<img src="https://drive.google.com/uc?id=1KgobjwOmf8ju87SCPBnPddE6U8FVoktn"/>
 
 ## 2017
-<img src="https://live.staticflickr.com/65535/52522726003_ab015e776d_k.jpg"/>
+<img src="https://drive.google.com/uc?id=1E4IEmYWv4UePxziQHF4uieDKVlV6lUts"/>
 
 ## 2009
-<img src="https://live.staticflickr.com/65535/52522655215_5721a9dd44_k.jpg"/>
+<img src="https://drive.google.com/uc?id=1uAuvqQduitiJbMt3FY0LRQ6tcMdChLMu"/>
 
+
+# Исторически
+
+# Tabs {.tabset}
+
+
+## 1990
+
+<img src="https://drive.google.com/uc?id=1YnEmKH3XCcNSxi93FHAVKjlkiBQNDs7P"/>
+
+
+## 1974
+
+<img src="https://drive.google.com/uc?id=1-E__k6lBenA1j-dPnJgrCZbmmRTqR_aR"/>
