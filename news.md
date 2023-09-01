@@ -2,13 +2,20 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T11:04:22.268Z
+date: 2023-09-01T08:38:04.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
 ---
 
 <!--https://www.sofia.bg/transport-news--> 
+
+## 01.09.2023
+> От 01.09.2023 г. се преномерират линии:
+> [109](/bg/public-transport/bus-routes-1968-sega/109) на [**X9**](/bg/public-transport/bus-routes-1968-sega/X9) 
+[110](/bg/public-transport/bus-routes-1968-sega/110) на [**X10**](/bg/public-transport/bus-routes-1968-sega/X10) 
+{.is-info}
+
 
 ## 28.08.2023
 > Считано от 28.08.2023г. се пускат автобуси [Karsan Jest electric](/bg/public-transport/fleet-list/2022-Karsan-e-Jest) по маршрута на линия 
