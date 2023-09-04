@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-16T19:49:08.914Z
+date: 2023-09-04T23:26:00.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -35,6 +35,10 @@ Oчаквайте скоро...
 ## Друго
 
 # Снимки
-  
+   
 # Tabs {.tabset}
+
+## 175
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" height="200px"><figcaption> <b>A62</b> 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" width="100%"></div></div>
 
