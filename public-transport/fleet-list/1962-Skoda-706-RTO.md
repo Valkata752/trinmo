@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T07:26:48.939Z
+date: 2023-09-05T07:36:27.315Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -19,6 +19,14 @@ dateCreated: 2022-05-19T21:54:23.664Z
 {.is-info}
 
 
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=16xyV3dciyFYnKVeFEM2wqpmYkuzDBFeP"></td>
+    <td><b>Нова доставка от Шкоди</b><br>Работниците от závodu SVA в град Holýšov, област Domažlice са предали на представителите на Авто Импекс София последните 20 бр. автобуси Skoda 706 RTO SVA-car от тазгодишната доставка от 50 автобуса.
+</td>
+  </tr>
+  <td colspan=2 >ℹ️ вестник "Pravda" от 01.09.1970г.</td>
+</table>
 
 
 
@@ -57,7 +65,15 @@ dateCreated: 2022-05-19T21:54:23.664Z
 ## Друго
 
 # Снимки
-   
+
+
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
+
+
+
+
+
 # Tabs {.tabset}
 
 ## 175
@@ -71,7 +87,8 @@ dateCreated: 2022-05-19T21:54:23.664Z
 > Версия 1 (към 1961 вече я има, по снимка от книгата за 60 години градски транспорт в София, 1961 г.) – червен цвят под прозорците; две двуврати автоматични врати; светеща кутия за маршрутна табела с дизайн, наследен от Škoda 706 RO; мигачи на овала между челото и  страничните стени на каросерията; допълнителни фарове в бронята (почти съм сигурен, макар че не се вижда добре на снимката, тъй като изглежда са се слагали стандартно в първите години на производството на всичките типове); охладителна решетка с 11 хоризонтални „ребра“; надпис “Karosa” на охладителната решетка. Известни регистрационни номера: Сф 54-88, Сф 54-96; Сф 55-57;
 {.is-info}
 
-
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" height="200px"><figcaption> <b>СФ 5488</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" width="100%"></div></div>
 <!--175--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
 <!--175--> 
@@ -87,5 +104,12 @@ dateCreated: 2022-05-19T21:54:23.664Z
 <!--175--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" height="200px"><figcaption> <b>СA 5293</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" width="100%"></div></div>
 
+# Tabs {.tabset}
 
+## Версия 3
+> Версия 3 (към 1972 г. вече я има) – като версия 2, но без допълнителни фарове в бронята, без надпис “Karosa” на решетката и с външно осветление на вратите. Известни регистрационни номера: СГ 1107
+{.is-info}
+
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" height="200px"><figcaption> <b>СA 5293</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" width="100%"></div></div>
 
