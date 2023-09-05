@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T06:59:52.687Z
+date: 2023-09-05T07:07:13.644Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -38,6 +38,10 @@ dateCreated: 2022-05-19T21:54:23.664Z
 
 ## Обслужвани линии
 
+# Технически характеристики
+
+## Чертеж
+<img src="https://drive.google.com/uc?id=11X7FW0ktGf6cbyt_DcBift8QRjY2YDeR" width="600px">
 
 
 ## Друго
