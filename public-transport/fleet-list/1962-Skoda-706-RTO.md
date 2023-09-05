@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T07:07:13.644Z
+date: 2023-09-05T07:22:16.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -53,4 +53,13 @@ dateCreated: 2022-05-19T21:54:23.664Z
 ## 175
 <!--175--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" height="200px"><figcaption> <b>A62</b> 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" width="100%"></div></div>
+
+
+# Tabs {.tabset}
+
+## 5***
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" height="200px"><figcaption> <b>СФ 5521</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" width="100%"></div></div>
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
 
