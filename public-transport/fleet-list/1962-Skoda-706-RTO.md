@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T07:51:05.023Z
+date: 2023-09-05T07:55:38.685Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -67,22 +67,6 @@ dateCreated: 2022-05-19T21:54:23.664Z
 # Снимки
 
 
-<!--175--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
-
-<!--175--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" height="200px"><figcaption> <b>СФБ 5577</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
-
-
-
-
-# Tabs {.tabset}
-
-## 175
-<!--175--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" height="200px"><figcaption> <b>СГ1107</b> (175) 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" width="100%"></div></div>
-
-
 # Tabs {.tabset}
 
 ## Версия 1
@@ -117,6 +101,20 @@ dateCreated: 2022-05-19T21:54:23.664Z
 > Версия 3 (към 1972 г. вече я има) – като версия 2, но без допълнителни фарове в бронята, без надпис “Karosa” на решетката и с външно осветление на вратите. Известни регистрационни номера: СГ 1107
 {.is-info}
 
-<!--175--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" height="200px"><figcaption> <b>СA 5293</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" width="100%"></div></div>
+<!--1107--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" height="200px"><figcaption> <b>СГ1107</b> (175) 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" width="100%"></div></div>
 
+
+# Tabs {.tabset}
+
+## Разни
+
+<!--1877--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
+
+<!--5577--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" height="200px"><figcaption> <b>СФБ 5577</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
+
+
+ <!--2120--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WU_2FIFBhRMih9hPcny_2uqaNYpN1yXF" height="200px"><figcaption> <b>СФ 2120</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WU_2FIFBhRMih9hPcny_2uqaNYpN1yXF" width="100%"></div></div>
