@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T07:36:27.315Z
+date: 2023-09-05T07:44:15.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -93,6 +93,9 @@ dateCreated: 2022-05-19T21:54:23.664Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
 <!--175--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" height="200px"><figcaption> <b>СФ 5521</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" width="100%"></div></div>
+<!--175--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" height="200px"><figcaption> <b>СФ 5577</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" width="100%"></div></div>
+
 
 
 # Tabs {.tabset}
