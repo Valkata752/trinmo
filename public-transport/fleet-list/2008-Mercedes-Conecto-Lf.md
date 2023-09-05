@@ -2,7 +2,7 @@
 title: Mercedes Conecto Lf
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T14:30:53.401Z
+date: 2023-09-05T08:13:09.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:16:41.481Z
@@ -257,7 +257,7 @@ dateCreated: 2022-05-19T21:16:41.481Z
 <iframe src="https://drive.google.com/file/d/19r0UomBXq43n5klHtImc_FDKux3luLz9/preview" width="100%" height="480"></iframe>
 
 ## Чертеж
-<img src="https://drive.google.com/uc?id=1x6XrAUINNsLfFiqC9-cuS-5t0aMXXhi5" width="600px">
+<img src="https://drive.google.com/uc?id=11ikODtDIM7_iLrWLyqcoynPcYG3Qs65k">
 
 # Снимки
      
