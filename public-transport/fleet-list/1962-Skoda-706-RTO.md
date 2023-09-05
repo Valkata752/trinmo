@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T08:24:40.581Z
+date: 2023-09-05T08:31:28.791Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -10,8 +10,8 @@ dateCreated: 2022-05-19T21:54:23.664Z
 
 # Кратка история
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><b>Нова доставка от Шкоди</b><br>Работниците от závodu SVA в град Holýšov, област Domažlice са предали на представителите на Авто Импекс София последните 20 бр. автобуси Skoda 706 RTO SVA-car от тазгодишната доставка от 50 автобуса.<br></td>
-<td><img src="https://drive.google.com/uc?id=16xyV3dciyFYnKVeFEM2wqpmYkuzDBFeP"></td></tr>
+<td><img src="https://drive.google.com/uc?id=16xyV3dciyFYnKVeFEM2wqpmYkuzDBFeP"></td>
+<td><b>Нова доставка от Шкоди</b><br>Работниците от závodu SVA в град Holýšov, област Domažlice са предали на представителите на Авто Импекс София последните 20 бр. автобуси Skoda 706 RTO SVA-car от тазгодишната доставка от 50 автобуса.</td></tr>
   <td colspan=2 >ℹ️ <b>вестник "Pravda" от 01.09.1970г.</b><a href=""></a></td></table></div>
   
 
