@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T07:55:38.685Z
+date: 2023-09-05T07:59:46.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -73,13 +73,13 @@ dateCreated: 2022-05-19T21:54:23.664Z
 > Версия 1 (към 1961 вече я има, по снимка от книгата за 60 години градски транспорт в София, 1961 г.) – червен цвят под прозорците; две двуврати автоматични врати; светеща кутия за маршрутна табела с дизайн, наследен от Škoda 706 RO; мигачи на овала между челото и  страничните стени на каросерията; допълнителни фарове в бронята (почти съм сигурен, макар че не се вижда добре на снимката, тъй като изглежда са се слагали стандартно в първите години на производството на всичките типове); охладителна решетка с 11 хоризонтални „ребра“; надпис “Karosa” на охладителната решетка. Известни регистрационни номера: Сф 54-88, Сф 54-96; Сф 55-57;
 {.is-info}
 
-<!--175--> 
+<!--5488--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" height="200px"><figcaption> <b>СФ 5488</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" width="100%"></div></div>
-<!--175--> 
+<!--5497--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
-<!--175--> 
+<!--5521--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" height="200px"><figcaption> <b>СФ 5521</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" width="100%"></div></div>
-<!--175--> 
+<!--5577--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" height="200px"><figcaption> <b>СФ 5577</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" width="100%"></div></div>
 
 
@@ -108,6 +108,9 @@ dateCreated: 2022-05-19T21:54:23.664Z
 # Tabs {.tabset}
 
 ## Разни
+ <!--0006--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14tAkv71gDaJ4V_tU23Xgh_egvKxNEt7r" height="200px"><figcaption> <b>ТхБ 0006</b> 📷 скан от Метан⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14tAkv71gDaJ4V_tU23Xgh_egvKxNEt7r" width="100%"></div></div>
+ 
 
 <!--1877--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
