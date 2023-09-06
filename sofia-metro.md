@@ -2,7 +2,7 @@
 title: Софийско метро
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-01T08:46:52.673Z
+date: 2023-09-06T20:14:01.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T18:12:55.542Z
@@ -144,3 +144,4 @@ dateCreated: 2023-08-17T18:12:55.542Z
   
   # Методи на строителство
   
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OJra_j6koME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
