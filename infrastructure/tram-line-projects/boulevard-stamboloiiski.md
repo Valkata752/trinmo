@@ -2,7 +2,7 @@
 title: Трасе по бул. Стамболийски
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-06T13:33:10.235Z
+date: 2023-09-06T13:36:35.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T05:27:30.066Z
@@ -24,13 +24,22 @@ dateCreated: 2023-04-14T05:27:30.066Z
 
 <img src="https://drive.google.com/uc?id=1DsnadSVgq_Um-P4xbSfnGqSeeR-hEMz4">
 
-<img src="https://drive.google.com/uc?id=1DsnadSVgq_Um-P4xbSfnGqSeeR-hEMz4">
 
 # 4 ПРОЕКТНО РЕШЕНИЕ
 
 ## 4.1 СИТУАЦИЯ И НАДЛЪЖЕН ПРОФИЛ
 
 В план е съблюдавана геометрията на съществуващото положение, както и уличната регулация. Реализираните минимални отмествания по ос и ниво са вследствие привеждането на съществуващата геометрия в съответствие с нормативните изисквания. В краищата на участъците нивелетите са привързани към съществуващото положение по ниво и наклон, като дадените в надлъжните профили коти са получени от дадената в част „Геодезия“ работна основа. Точките, които трябва да служат за отправни при строителството са дадени на ситуационните чертежи. Елементите на хоризонталната и вертикалната геометрия на коловозите са приложени в регистри към настоящия проект.
+
+<iframe src="https://drive.google.com/file/d/1ZVeYcdysvYMmL5iJJmkLfrMhFCtZAe59/preview" width="100%" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1G5uxn03wxGje7ET8KTU09Hx8CLSljPEB/preview" width="100%" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1CpF8mz-2LHPpkKkojBeKaIWuzHv5LHfO/preview" width="100%" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1oG1b8Lbx8zRaUMd95Jzo93_xBNSlgaPb/preview" width="100%" height="480"></iframe>
+
+
 
 ## 4.2 ГОРНО СТРОЕНЕ
 
