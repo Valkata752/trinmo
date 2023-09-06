@@ -2,7 +2,7 @@
 title: Софийско метро
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-06T20:16:44.607Z
+date: 2023-09-06T20:18:16.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T18:12:55.542Z
@@ -143,5 +143,8 @@ dateCreated: 2023-08-17T18:12:55.542Z
   <td colspan=2 >ℹ️ <a href="/bg/sofia-metro/conceptual-design-metrostations-m3"><b>Повече информация...</b></a></td></table></div>
   
   # Методи на строителство
-  
+
+Строителството на метрото е дълъг и сложен процес с който можете да се запознаете накратко във видеото:
+
+<br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/djrLIfUvLCI?si=S619UIqICyv1x5z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
