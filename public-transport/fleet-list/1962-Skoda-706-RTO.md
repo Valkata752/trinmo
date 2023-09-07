@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T08:31:28.791Z
+date: 2023-09-07T08:14:13.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -113,7 +113,7 @@ dateCreated: 2022-05-19T21:54:23.664Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
 
 <!--5577--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" height="200px"><figcaption> <b>СФБ 5577</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" height="200px"><figcaption> <b>СФБ 2031</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
 
 
  <!--2120--> 
