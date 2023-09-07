@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:12:49.191Z
+date: 2023-09-07T13:15:43.781Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -33,29 +33,27 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 # Превозни средства 
 
 
+# Tabs {.tabset}
 
-## Китай  
+
+## Китай
   
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1JiVJYWmBvcd79Zu83EWqKtkX2YuC-2j4"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div> 
-    
- <div class="table-responsive"><table style="width:100%"><tr>
-<td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1LXP_kOIxWmgXwf53G25KY63RcRT3gp2C"></td></tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
+
  
-     
+# Tabs {.tabset}
+
+
+## Русия  
+
  <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1P-sloLaYJ2i1F9ef3E636Pj52pAfl5aV"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
-  
-  <div class="table-responsive"><table style="width:100%"><tr>
-<td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
+
   
 
   <div class="table-responsive"><table style="width:100%"><tr>
@@ -64,21 +62,36 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
   
 
+# Tabs {.tabset}
+
+
  ## Чехия 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1mEYOQpVR2j1vEWwD1YRAHcS0MDwmKRJF"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>    
   
-
+  
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><span> ВИН номер</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
   
 
 
 
+# Tabs {.tabset}
 
 
 ## Унгария
+
+    
+ <div class="table-responsive"><table style="width:100%"><tr>
+<td><span> ВИН номер</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1LXP_kOIxWmgXwf53G25KY63RcRT3gp2C"></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
+  
 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
