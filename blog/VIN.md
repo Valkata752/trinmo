@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:17:58.105Z
+date: 2023-09-07T13:20:35.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -32,11 +32,11 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 
 # Превозни средства 
 
-
-# Tabs {.tabset}
-
-
 ## Китай
+## Tabs {.tabset}
+
+
+## 6126HGA
   
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
@@ -44,10 +44,11 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div> 
 
  
-# Tabs {.tabset}
+## Русия
+## Tabs {.tabset}
 
 
-## Русия  
+### ЗиУ
 
  <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
@@ -61,17 +62,16 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 <td><img src="https://drive.google.com/uc?id=1cNbJjHzB9Rw12ZA7JViJED_sxZguw5n2"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
   
+## Чехия
+## Tabs {.tabset}
 
-# Tabs {.tabset}
-
-
- ## Чехия 
+### Skoda 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1mEYOQpVR2j1vEWwD1YRAHcS0MDwmKRJF"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>    
   
-  
+### Tedom 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
