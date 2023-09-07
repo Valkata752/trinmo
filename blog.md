@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-30T11:50:34.993Z
+date: 2023-09-07T12:45:27.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,6 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
+- [:1234: Разчитане на VIN номера *Петър Мънъри*](/bg/blog/1009-vs-1435)
 - [:railway_track: 1009mm vs 1435mm *Петър Мънъри*](/bg/blog/1009-vs-1435)
 - [:clock3: Софийският градски транспорт и Google *Анина Сантова - Капитал*](/bg/blog/sofia-public-transport-and-google)
 - [:1234: Има ли нужда от преномерация на линиите в София *Петър Мънъри*](/bg/blog/prenomerirane-na-linii)
