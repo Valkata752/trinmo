@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:23:18.401Z
+date: 2023-09-07T13:25:27.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -78,7 +78,16 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 <td><img src="https://drive.google.com/uc?id=1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
-  
+  ## Унагрия
+
+### Tabs {.tabset}
+
+#### Solaris
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><span> ВИН номер</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1hSFX7-kGXInoBJEuheRl8sIWPhAiMBAB"></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
+
 
 
 ## Унагрия
