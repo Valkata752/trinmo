@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:15:43.781Z
+date: 2023-09-07T13:17:58.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -80,11 +80,11 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
   
 
 
+## Унагрия
 
-# Tabs {.tabset}
+### Tabs {.tabset}
 
-
-## Унгария
+#### 280.92
 
     
  <div class="table-responsive"><table style="width:100%"><tr>
