@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:21:17.250Z
+date: 2023-09-07T13:23:18.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -36,7 +36,7 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 ## Tabs {.tabset}
 
 
-## 6126HGA
+### ZK6126HGA
   
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
@@ -48,14 +48,15 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 ## Tabs {.tabset}
 
 
-### ЗиУ
+### ЗиУ BOO
 
  <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1P-sloLaYJ2i1F9ef3E636Pj52pAfl5aV"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
-  
+
+### ЗиУ B10  
 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
