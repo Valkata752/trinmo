@@ -2,7 +2,7 @@
 title: Доклади за покупка на нови превозни средства
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-08T10:03:35.134Z
+date: 2023-09-08T10:13:59.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-08T08:57:15.949Z
