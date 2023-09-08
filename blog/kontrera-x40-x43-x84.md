@@ -2,7 +2,7 @@
 title: Разкриване на излетни линии Х40, Х43, Х84
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-08T08:52:42.064Z
+date: 2023-09-08T08:53:07.398Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-08T08:46:28.579Z
