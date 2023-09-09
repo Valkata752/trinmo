@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-01T08:38:04.951Z
+date: 2023-09-09T10:19:54.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -18,7 +18,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 
 ## 28.08.2023
-> Считано от 28.08.2023г. се пускат автобуси [Karsan Jest electric](/bg/public-transport/fleet-list/2022-Karsan-e-Jest) по маршрута на линия 
+> Считано от 28.08.2023г. се пускат автобуси [Karsan Jest electric](/bg/public-transport/fleet-list/2022-Karsan-e-Jest) по маршрута на линия [44](/bg/public-transport/bus-routes-1968-sega/44) 
 {.is-info}
 
 ## 27.08.2023
