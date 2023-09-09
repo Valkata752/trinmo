@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-15T15:14:55.800Z
+date: 2023-09-09T14:10:42.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -24,17 +24,17 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rFKyZU4hMEt_BCbk0A9mobCM8zepR_ZSZmAYCHGm4kT0HW4ZUW2np03mDreEYgoWDcuWGVBKsv3m1LZEylfi4O1O5kJA=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rFKyZU4hMEt_BCbk0A9mobCM8zepR_ZSZmAYCHGm4kT0HW4ZUW2np03mDreEYgoWDcuWGVBKsv3m1LZEylfi4O1O5kJA=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81opsx8ECxg-92E5meLGgi08kGE9gQVfNYOSRiXI77CBNJDxJUz4udZYUkw-BTLNJPqMgLZm5pmDmKceO7KXRhgGleHR=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81opsx8ECxg-92E5meLGgi08kGE9gQVfNYOSRiXI77CBNJDxJUz4udZYUkw-BTLNJPqMgLZm5pmDmKceO7KXRhgGleHR=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qVki5jDCiIh1fyv38ELnlITxRmnYJdxZtrQqhhHuEP1cYipmtQc3jEXu1gPl1ap6pWTB20N0w2LCK0EqFPcBRDDp-XAQ=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qVki5jDCiIh1fyv38ELnlITxRmnYJdxZtrQqhhHuEP1cYipmtQc3jEXu1gPl1ap6pWTB20N0w2LCK0EqFPcBRDDp-XAQ=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 <!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pCepG02AKjD3k1kpAGGWuiiMDeYuVk4SgHkRl37a8rYQPmmXXDN9jro-V17zKGPhz0MBe4LEt_E5coaWLBP_EWRGu4=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pCepG02AKjD3k1kpAGGWuiiMDeYuVk4SgHkRl37a8rYQPmmXXDN9jro-V17zKGPhz0MBe4LEt_E5coaWLBP_EWRGu4=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 <!--5--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rWVyyZUhkoXhK1rD0TjVyxCP9he4Jp3aP-eorH7wWAyZmrxuI1C7NB6jfQxmZwQrSRVXCNbyD6dWGvbxfwPBf42ogBLg=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rWVyyZUhkoXhK1rD0TjVyxCP9he4Jp3aP-eorH7wWAyZmrxuI1C7NB6jfQxmZwQrSRVXCNbyD6dWGvbxfwPBf42ogBLg=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 <!--6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oW303ZDs9D_9FbSjM2VjSYXnhvqwIpKiEURpmIJ-Spk5AIGT-2MtWhtw79P6rCkQQT29qpDEiw3tOUjsXqjaCiBWH1Dw=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oW303ZDs9D_9FbSjM2VjSYXnhvqwIpKiEURpmIJ-Spk5AIGT-2MtWhtw79P6rCkQQT29qpDEiw3tOUjsXqjaCiBWH1Dw=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
 
 ### Tabs {.tabset}
 #### През нощта
