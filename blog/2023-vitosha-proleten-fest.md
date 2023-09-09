@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-09T14:27:37.451Z
+date: 2023-09-09T14:31:32.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -26,6 +26,20 @@ dateCreated: 2023-05-13T21:41:04.483Z
 #### През деня
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DXTzNK3heXYOyT6pGAJVpBoQ0l926R8O" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=https://drive.google.com/uc?id=1DXTzNK3heXYOyT6pGAJVpBoQ0l926R8O" width="100%"></div></div>
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=https://drive.google.com/uc?id=1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" width="100%"></div></div>
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=https://drive.google.com/uc?id=1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" width="100%"></div></div>
+
+### Фотографии
+
+### Tabs {.tabset}
+#### Израбни кадри
+> Автор на фотографиите: Петър Мънъри
+{.is-info}
+
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" width="100%"></div></div>
 <!--2--> 
@@ -83,6 +97,12 @@ dateCreated: 2023-05-13T21:41:04.483Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" width="100%"></div></div>
 <!--3--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" width="100%"></div></div>
+
+
+
+
+
+
 
 #### Пътуване
 > Автор на фотографиите: Михаил Антониев
