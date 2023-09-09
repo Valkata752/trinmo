@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-09T14:10:42.535Z
+date: 2023-09-09T14:19:56.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -24,30 +24,25 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=110mkk0h5zJIKJ3pqkyrGSfDdQX3hLHNi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=110mkk0h5zJIKJ3pqkyrGSfDdQX3hLHNi" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
-<!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
-<!--5--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
-<!--6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption></figcaption></figure></button><div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption></figcaption></figure></button>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11KuTP0otVIt7UCFmHzXNJ8E-2l5brWwd" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11KuTP0otVIt7UCFmHzXNJ8E-2l5brWwd" width="100%"></div></div>
+
 
 ### Tabs {.tabset}
 #### През нощта
 > Автор на фотографиите: Мартин Тодоров
 {.is-info}
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rB4-ZX3_sS-rxFdZv_SOmGSpU-hlKHGnxlIJE3ig0P_ZVVqCEnNWMY_AXTwh-1lunCzRGwAHLUuI8TuRqq8mMbLPfm=w2560-h1261" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rB4-ZX3_sS-rxFdZv_SOmGSpU-hlKHGnxlIJE3ig0P_ZVVqCEnNWMY_AXTwh-1lunCzRGwAHLUuI8TuRqq8mMbLPfm=w2560-h1261" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11zX3kLo4lZI_d6tsWn-BiAa4h5QxayIW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11zX3kLo4lZI_d6tsWn-BiAa4h5QxayIW" width="100%"></div></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81q8Xn39iGBg0KUb-XKEiYJct6NiwOyv2uIz23U-27W5Ub2olrWlk9MmKZXQnKKWKJSjAsiH0pZr27CeM5J1zCPOYmJQ2Q=w2560-h1261" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81q8Xn39iGBg0KUb-XKEiYJct6NiwOyv2uIz23U-27W5Ub2olrWlk9MmKZXQnKKWKJSjAsiH0pZr27CeM5J1zCPOYmJQ2Q=w2560-h1261" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oDq-0g9Fu5VRQEcHrAMB0uHVfXlY2-8OE55fwxmhLz07a_WDHgbrS8MOh_ejwPNPiUdEvk2vWtcAlRnLKVZBQRW5QHMA=w2560-h1261" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oDq-0g9Fu5VRQEcHrAMB0uHVfXlY2-8OE55fwxmhLz07a_WDHgbrS8MOh_ejwPNPiUdEvk2vWtcAlRnLKVZBQRW5QHMA=w2560-h1261" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" width="100%"></div></div>
 <!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pe3x3kYn6O0NeJkltxyFuCziO1u8gHXOBoMgXwTuCiv_iJeIW_UPuTpZOod8tuk-Y9nqOO0XLSrVboWPlxYIQack4_EA=w2560-h1261" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pe3x3kYn6O0NeJkltxyFuCziO1u8gHXOBoMgXwTuCiv_iJeIW_UPuTpZOod8tuk-Y9nqOO0XLSrVboWPlxYIQack4_EA=w2560-h1261" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11uIYG6VMuRH29rklnfZG_SqtWzPbIjoU" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11uIYG6VMuRH29rklnfZG_SqtWzPbIjoU" width="100%"></div></div>
 
 
 # Превозните средства
@@ -113,7 +108,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > 🚎	1028	| ЗиУ-682В [В00] |	тролей |	СССР |	1987 |	Искър |
 {.is-info}
 
-<br><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pR0AFaL9k_etGC2U3KqzCltWgLz9Z3uEexQ73UIsbs731ynTJrqz_W_pa6mDlrvkT7TVGXR9rnPuAt2sm8h-T-L7eZzg=w1920-h854">
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" height="200px"><figcaption><b>ЗиУ</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### На път
