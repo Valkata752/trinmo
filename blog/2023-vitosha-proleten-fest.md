@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-09T14:42:16.283Z
+date: 2023-09-09T14:43:32.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -92,14 +92,12 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" width="100%"></div></div>
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" width="100%"></div></div>
 <!--3--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" width="100%"></div></div>
 <!--3--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" width="100%"></div></div>
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" width="100%"></div></div>
+<!--2--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" width="100%"></div></div>
 
 
 
