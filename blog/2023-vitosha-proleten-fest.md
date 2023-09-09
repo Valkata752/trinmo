@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-09T14:19:56.687Z
+date: 2023-09-09T14:27:37.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -14,6 +14,9 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 <br><img src="https://lh3.google.com/u/3/d/1ulPhc3e3-b3IVAY2FMVjfzrxKAEZlITf=w2560-h1190-iv1">
   
+  
+
+
 
 # Снимки
 
@@ -69,8 +72,17 @@ dateCreated: 2023-05-13T21:41:04.483Z
 #### Товарене
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
+
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rzCknmstNRFp7xP7KipdCTlyIcVUHaTSknK21hR9Vt5vAZxsFlpYucHvNJ6vTIPY_GNBf4IX0EpwLfbf0qVY0HGuPk=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rzCknmstNRFp7xP7KipdCTlyIcVUHaTSknK21hR9Vt5vAZxsFlpYucHvNJ6vTIPY_GNBf4IX0EpwLfbf0qVY0HGuPk=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qgliI1lW9_M0KuwTL5nq1iKri_o23Qa5eBLJentUUoc04DLFzbb6SS-TT6cC_bv7WXrNYhUsYJxiZOc7KkPdLYfLqMxg=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qgliI1lW9_M0KuwTL5nq1iKri_o23Qa5eBLJentUUoc04DLFzbb6SS-TT6cC_bv7WXrNYhUsYJxiZOc7KkPdLYfLqMxg=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oxFuVr9q54VygfeUxz-f-wyHpKp_N7DQnIAC1W5PhtR9sllUYkHmLGnUg38hNjwTWujaFECL67zovyeBFAb-9rU43OLQ=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oxFuVr9q54VygfeUxz-f-wyHpKp_N7DQnIAC1W5PhtR9sllUYkHmLGnUg38hNjwTWujaFECL67zovyeBFAb-9rU43OLQ=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pz_i6_f-2p8C5NBnRVdMDFbq0aXlB3nM2XDZN5b13n7VZPPw8OYoLAJhvnavD7eao3cCAX_lU5ZM5Vo2aaOjFNtWkZ=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pz_i6_f-2p8C5NBnRVdMDFbq0aXlB3nM2XDZN5b13n7VZPPw8OYoLAJhvnavD7eao3cCAX_lU5ZM5Vo2aaOjFNtWkZ=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qXlAe0VLn8EV_BP1naUSkALZFxPGrpSwu3ZY_TDDWv4IhPfksxJKK6FoOBFxLuF6jeTr9ETwCPcIb1ysN08vM09rzX=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qXlAe0VLn8EV_BP1naUSkALZFxPGrpSwu3ZY_TDDWv4IhPfksxJKK6FoOBFxLuF6jeTr9ETwCPcIb1ysN08vM09rzX=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pdbVnyP5xoTNqyz1jXdTeaTGl77cS_g45dvxyhwMaye-mpY21EQRL1C8BPx8E8XIP0IiiP83Zln9DXXAHZoJSJNiXTSQ=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81pdbVnyP5xoTNqyz1jXdTeaTGl77cS_g45dvxyhwMaye-mpY21EQRL1C8BPx8E8XIP0IiiP83Zln9DXXAHZoJSJNiXTSQ=w2560-h1190" width="100%"></div></div><div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rJEsu_eKWkfAVOOjsWsFAXXTT8X_bbDWYVYK-w-YxUBn0MDvcJNWN1cO41LePxU5ZIh9IUNkb9KELVvhMzoLjrNBNZ-Q=w2560-h1190" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rJEsu_eKWkfAVOOjsWsFAXXTT8X_bbDWYVYK-w-YxUBn0MDvcJNWN1cO41LePxU5ZIh9IUNkb9KELVvhMzoLjrNBNZ-Q=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" width="100%"></div></div>
+<!--2--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" width="100%"></div></div>
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" width="100%"></div></div>
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" width="100%"></div></div>
+<!--3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tm_kTEa3WNax-6Z5_5jEe3UUcUfR2sZi" width="100%"></div></div>
 
 #### Пътуване
 > Автор на фотографиите: Михаил Антониев
