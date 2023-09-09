@@ -2,7 +2,7 @@
 title: Метростанции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-18T11:53:54.836Z
+date: 2023-09-09T15:13:04.532Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T15:18:21.851Z
@@ -80,7 +80,7 @@ dateCreated: 2022-05-03T15:18:21.851Z
 - [:metro: Метростанция 205 *Княгиня Мария Луиза*](/bg/sofia-metro/stations/kn-maria-luiza)
 - [:metro: Метростанция 206 *Централна ж.п. гара*](/bg/sofia-metro/stations/central-railway-station)
 - [:metro: Метростанция 207 *Лъвов мост*](/bg/sofia-metro/stations/lavov-most)
-- [:metro: Метростанция 208 *Сердика II*](/bg/sofia-metro/stations/serdika-ii)
+- [:metro: Метростанция 208 *Сердика II*](/bg/sofia-metro/stations/serdica-ii)
 - [:metro: Метростанция 209 *НДК*](/bg/sofia-metro/stations/ndk)
 - [:metro: Метростанция 210 *Европейски съюз*](/bg/sofia-metro/stations/european-union)
 - [:metro: Метростанция 211 *Джеймс Баучер*](/bg/sofia-metro/stations/james-bourchier)
