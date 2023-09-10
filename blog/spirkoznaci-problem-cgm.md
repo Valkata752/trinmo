@@ -2,7 +2,7 @@
 title: Решаване на проблема на ЦГМ със спиркознаците
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-10T13:12:22.614Z
+date: 2023-09-10T13:20:24.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-10T12:28:14.713Z
@@ -53,20 +53,6 @@ dateCreated: 2023-09-10T12:28:14.713Z
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" height="200px"><figcaption><b>Квадратна</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" width="100%"></div></div>
 
-## Дизайн
-
-## Tabs {.tabset}
-
-
-
-## Неуспешен опит
-
-## Tabs {.tabset}
-
-
-## ℹ️ Информация
-
-
 ## Информация на тях
 ## Tabs {.tabset}
 
@@ -77,6 +63,26 @@ dateCreated: 2023-09-10T12:28:14.713Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dI2gLT_2vaHosRXCOkE6NWuHponIxE9X" height="200px"><figcaption><b>Вече само с интервали</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dI2gLT_2vaHosRXCOkE6NWuHponIxE9X" width="100%"></div></div>
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1upyLHbD47am1FpSmwv2L0OxIcePepHL9" height="200px"><figcaption><b>С разписание</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1upyLHbD47am1FpSmwv2L0OxIcePepHL9" width="100%"></div></div>
+
+
+
+
+
+## Нов дизайн - провал от 2018г.
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1jFu30vJUmdxlaOjr-4XA_SZNw-_78v5n"></td>
+<td>Указателните табели за спирките са с нов модерен дизайн и дават възможност на пътниците много по-лесно и бързо да се ориентират.  Съдържат графично разпознаваем знак дали спирката е трамвайна, тролейбусна или автобусна и кои са номерата на линиите, преминаващи през нея.  В горния край е обозначен номерът на всяка спирка. Показани са всички точки по маршрута, като съответната спирка е обозначена в червено, а следващите - в тъмно син цвят.</td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+  
+  
+## Tabs {.tabset}
+
+### ℹ️ Информация
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Gy1Uag6_hkW5GvPQVWlsNNhxUpgrjsCK" height="200px"><figcaption><b>Вече без нито едно от двете</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Gy1Uag6_hkW5GvPQVWlsNNhxUpgrjsCK" width="100%"></div></div>
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1exS8nB0JRNUgM8s5CjHN3iiYj2tv6WSR" height="200px"><figcaption><b>Вече без нито едно от двете</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1exS8nB0JRNUgM8s5CjHN3iiYj2tv6WSR" width="100%"></div></div>
+
 
 
 
