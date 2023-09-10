@@ -2,7 +2,7 @@
 title: Решаване на проблема на ЦГМ със спиркознаците
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-10T13:55:03.785Z
+date: 2023-09-10T14:09:22.492Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-10T12:28:14.713Z
@@ -14,9 +14,28 @@ dateCreated: 2023-09-10T12:28:14.713Z
 > :busstop: [Повече информация](/bg/identity/stop-signs) за различните видове през годините.
 {.is-info}
 
+- **Използването на фолио е проблем**, поради липсата на модулност и при промяна на една линия трябва да се смени цялото.
+- Електронните табла **не трябва да са оправдание** за липса на актуална информация по самите спиркознаци, като разписанието.
+- Наличието на **над 6 вида спиркознаци е непрактично** и затруднява много уеднаквяването и вкарването нанякакъв стандарт.
+
+> **Какво трябва да има един спиркознак?**
+> Спиркознакът трябва **да има модулна информация за линиите, които минават през дадената спирка**.
+> Разписанията да бъдат **А4 лист в кутия с възможност за лесна подмяна**, а не да се сменя всичко наведнъж.
+{.is-success}
+
+
+## Tabs {.tabset}
+
+### ℹ️ Пример от Милано
+
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xGeUWQ0JUtYv1De5zbmaQx3uKk5Y5N58" height="200px"><figcaption><b>Удобна кутия с място за 6 линии</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xGeUWQ0JUtYv1De5zbmaQx3uKk5Y5N58" width="100%"></div></div>
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xAsGIsnkPDImr5pZ_pAaNSGQo--h_kH8" height="200px"><figcaption><b>Разписанието е подробно</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xAsGIsnkPDImr5pZ_pAaNSGQo--h_kH8" width="100%"></div></div>
+
 
 ## Разнообразие?
-> Голямо разнообразие, което затруднява работата по подръжката им.
+> Много различни видове спиркознаци, които много затрудняват порцеса по обновяване на информацията.
 {.is-danger}
 
 
