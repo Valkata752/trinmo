@@ -2,7 +2,7 @@
 title: Решаване на проблема на ЦГМ със спиркознаците
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-10T13:39:38.713Z
+date: 2023-09-10T13:55:03.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-10T12:28:14.713Z
@@ -13,6 +13,7 @@ dateCreated: 2023-09-10T12:28:14.713Z
 
 > :busstop: [Повече информация](/bg/identity/stop-signs) за различните видове през годините.
 {.is-info}
+
 
 ## Разнообразие?
 > Голямо разнообразие, което затруднява работата по подръжката им.
@@ -38,14 +39,30 @@ dateCreated: 2023-09-10T12:28:14.713Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" height="200px"><figcaption><b>Квадратна</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" width="100%"></div></div>
 
 
+## Маршрутни промени
+> При маршрутни промени се слагат харитени листове, които изчезват още на следващия.
+{.is-danger}
+
+
+## Tabs {.tabset}
+### ℹ️ Информация
+
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rwdXF3CjIi-MXj_T3mEMxz5hKQkfSsep" height="200px"><figcaption><b>Листове с много тескт</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rwdXF3CjIi-MXj_T3mEMxz5hKQkfSsep" width="100%"></div></div>
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XhF4p29pWF-VKcf4BvoZAJ0qgdI6RSlg" height="200px"><figcaption><b>Листове с много тескт</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XhF4p29pWF-VKcf4BvoZAJ0qgdI6RSlg" width="100%"></div></div>  
+
 
 ## Дизайн
+> Откъм дизайн се е запазил с номерата в цветовете на вида превозно средство. Сменяно е логото на СКГТ/ЦГМ през годините.
+{.is-info}
+
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1OSWFdL_sKUWHQB2X1tu74BckQbwq9C0Y"></td>
-<td>Въведен е нов шрифт - Sofia Sans.</td></tr>
+<td>Въведен е нов шрифт - Sofia Sans. <br>Премахнати са и интервалите.</td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
-Откъм дизайн са претърпяни малко корекции.
+
 ## Tabs {.tabset}
 
 ### ℹ️ Информация
@@ -60,6 +77,9 @@ dateCreated: 2023-09-10T12:28:14.713Z
 
 
 ## Информация на тях
+> Преди е имало разписанията на линиите на спиркознаците. След това са премахнати и заменени с интервалите. Накрая и интервалите са премахнати.
+{.is-danger}
+
 ## Tabs {.tabset}
 
 ### ℹ️ Информация
@@ -72,9 +92,10 @@ dateCreated: 2023-09-10T12:28:14.713Z
 
 
 
-
-
 ## Нов дизайн - провал от 2018г.
+> Този дизайн се появява на лимитирани спирки в центъра, но бързо бързо бива спрян и вече не са оставени спирки с него.
+{.is-danger}
+
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1jFu30vJUmdxlaOjr-4XA_SZNw-_78v5n"></td>
 <td>Указателните табели за спирките са с нов модерен дизайн и дават възможност на пътниците много по-лесно и бързо да се ориентират.  Съдържат графично разпознаваем знак дали спирката е трамвайна, тролейбусна или автобусна и кои са номерата на линиите, преминаващи през нея.  В горния край е обозначен номерът на всяка спирка. Показани са всички точки по маршрута, като съответната спирка е обозначена в червено, а следващите - в тъмно син цвят.</td></tr>
