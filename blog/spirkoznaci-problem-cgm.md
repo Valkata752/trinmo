@@ -2,7 +2,7 @@
 title: Решаване на проблема на ЦГМ със спиркознаците
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-10T13:21:00.378Z
+date: 2023-09-10T13:39:38.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-10T12:28:14.713Z
@@ -40,14 +40,24 @@ dateCreated: 2023-09-10T12:28:14.713Z
 
 
 ## Дизайн
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1OSWFdL_sKUWHQB2X1tu74BckQbwq9C0Y"></td>
+<td>Въведен е нов шрифт - Sofia Sans.</td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+  
+Откъм дизайн са претърпяни малко корекции.
 ## Tabs {.tabset}
 
 ### ℹ️ Информация
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" height="200px"><figcaption><b>Квадратна</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12Vtqsyhr9s2deMsE_fe45-SnxMuUuLv-" height="200px"><figcaption><b>Sofia Sans</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12Vtqsyhr9s2deMsE_fe45-SnxMuUuLv-" width="100%"></div></div>
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" height="200px"><figcaption><b>Квадратна</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ewu0t_pmSXUBPjFrpnbGNrDFO3TrwGEN" height="200px"><figcaption><b>ЦГМ</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ewu0t_pmSXUBPjFrpnbGNrDFO3TrwGEN" width="100%"></div></div>
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xHtQzNiKlAD9AOmX2Z6qQ6AOOn6EcxF5" height="200px"><figcaption><b>СКГТ</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xHtQzNiKlAD9AOmX2Z6qQ6AOOn6EcxF5" width="100%"></div></div>
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JD38iRnvfkLXa7eIGYabwjlOSzZzkj0t" height="200px"><figcaption><b>СКГТ</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JD38iRnvfkLXa7eIGYabwjlOSzZzkj0t" width="100%"></div></div>
+
 
 ## Информация на тях
 ## Tabs {.tabset}
