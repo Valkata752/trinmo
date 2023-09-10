@@ -2,7 +2,7 @@
 title: Решаване на проблема на ЦГМ със спиркознаците
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-10T13:11:05.099Z
+date: 2023-09-10T13:12:22.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-10T12:28:14.713Z
@@ -18,7 +18,7 @@ dateCreated: 2023-09-10T12:28:14.713Z
 > :busstop: [Повече информация](/bg/identity/stop-signs) за различните видове през годините.
 {.is-info}
 
-### Разнообразие?
+## Разнообразие?
 > Голямо разнообразие, което затруднява работата по подръжката им.
 {.is-danger}
 
@@ -43,7 +43,8 @@ dateCreated: 2023-09-10T12:28:14.713Z
 
 
 
-### Дизайн
+## Дизайн
+
 ## Tabs {.tabset}
 
 ### ℹ️ Информация
@@ -52,11 +53,18 @@ dateCreated: 2023-09-10T12:28:14.713Z
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" height="200px"><figcaption><b>Квадратна</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ttLNzxdMs3A9vYodYg6jxqIkjBsNJZFa" width="100%"></div></div>
 
+## Дизайн
 
-### Неуспешен опит
 ## Tabs {.tabset}
 
-### ℹ️ Информация
+
+
+## Неуспешен опит
+
+## Tabs {.tabset}
+
+
+## ℹ️ Информация
 
 
 ## Информация на тях
