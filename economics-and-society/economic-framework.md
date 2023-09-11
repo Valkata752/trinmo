@@ -2,7 +2,7 @@
 title: Икономическа рамка на обществения транспорт в София
 description: Икономика
 published: true
-date: 2023-01-04T14:02:40.118Z
+date: 2023-09-11T05:11:53.747Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T09:44:17.577Z
@@ -22,6 +22,10 @@ dateCreated: 2022-04-25T09:44:17.577Z
 
 ## Икономически рамки през годините
 # Tabs {.tabset}
+
+## 2023
+- [:memo: 2023 *Решение № ??? на СОС от 14.09.2023*](/bg/economics-and-society/economic-framework/2023)
+{.links-list}
 
 ## 2022
 - [:memo: 2022 *Решение № 447 на СОС от 23.06.2022*](/bg/economics-and-society/economic-framework/2022)
