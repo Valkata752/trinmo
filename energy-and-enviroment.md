@@ -2,7 +2,7 @@
 title: Енергия и околна среда
 description: Кратко описание
 published: true
-date: 2023-07-17T14:49:29.723Z
+date: 2023-09-11T05:56:02.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:57:33.895Z
@@ -30,3 +30,21 @@ dateCreated: 2022-04-27T07:57:33.895Z
 ### 5. Шумът също е замърсяване
 
 Рядко се замисляме за шумовото замърсяване, когато става въпрос за автомобили, освен ако не живеете на оживена улица. По-малко шофиране ще направи квартала ви по-тих, което е от полза за всички.
+
+
+## Подвижен състав
+
+## Tabset {.tabset}
+
+### 2023
+<div class="table-responsive"><table style="width:100%"><tr>
+<td>Информация</td>
+<td><img src="https://drive.google.com/uc?id=1QO6PTJXJyvhVQLDbsDDhoIneYUNdu_Zv"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/economics-and-society/annual-financial-report"><b>Годишен доклад на дейността 2023</b></a></td></table></div>
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td>Информация</td>
+<td><img src="https://drive.google.com/uc?id=1_CDhbuqBzFA2nH8iGoUN8VYF8DMS6HVa"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/economics-and-society/annual-financial-report"><b>Годишен доклад на дейността 2023</b></a></td></table></div>
+  
+  
