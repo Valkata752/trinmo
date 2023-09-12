@@ -2,11 +2,13 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2023-07-14T07:39:17.753Z
+date: 2023-09-12T06:15:52.434Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
 ---
+
+| [:notebook_with_decorative_cover: Актуален](/bg/public-transport/fleet-list/actual) | [30.06.2023](/bg/public-transport/fleet-list/20230630) | 
 
 > Списъкът е актуален към 01.06.2023
 {.is-warning}
