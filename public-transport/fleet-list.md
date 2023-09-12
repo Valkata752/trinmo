@@ -2,14 +2,14 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-23T15:06:20.590Z
+date: 2023-09-12T11:26:26.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
 ---
 
-- [:notebook_with_decorative_cover: Актуален списък на подвижния състав *Последно обновяване: **01.06.2023***](/bg/public-transport/fleet-list/actual)
-{.links-list}
+| [**Актуален**](/bg/public-transport/fleet-list/actual) | [30.06.2023](/bg/public-transport/fleet-list/2023-06-30) | [31.12.2022](/bg/public-transport/fleet-list/2022-12-31) | [31.12.2021](/bg/public-transport/fleet-list/2021-12-31) | [31.12.2020](/bg/public-transport/fleet-list/2020-12-31) | [31.12.2019](/bg/public-transport/fleet-list/2019-12-31) | [31.12.2018](/bg/public-transport/fleet-list/2018-12-31) | [31.12.2017](/bg/public-transport/fleet-list/2017-12-31) | [31.12.2016](/bg/public-transport/fleet-list/2016-12-31) | [31.12.2015](/bg/public-transport/fleet-list/2015-12-31) | [31.12.2014](/bg/public-transport/fleet-list/2014-12-31) | [31.12.2013](/bg/public-transport/fleet-list/2013-12-31) | [31.12.2012](/bg/public-transport/fleet-list/2012-12-31) | [31.12.2011](/bg/public-transport/fleet-list/2011-12-31) | [31.12.2010](/bg/public-transport/fleet-list/2010-12-31) | [31.12.2009](/bg/public-transport/fleet-list/2009-12-31) | [31.12.2008](/bg/public-transport/fleet-list/2008-12-31) | [31.12.2007](/bg/public-transport/fleet-list/2007-12-31) | 
+
 ---
 
 # 🚋 Трамваен транспорт
