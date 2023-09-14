@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-14T21:11:17.136Z
+date: 2023-09-14T21:32:50.716Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -39,13 +39,24 @@ dateCreated: 2023-08-07T17:50:09.883Z
 |**Hitachi** |04.2023|06.2023|    |    | **3315**|
 {.dense}
 
+## Paw Patrol
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" height="200px"><figcaption><b>3322 </b> 📷 Радорслав Радославов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" width="100%"></div></div>
+
+
+## Wash & Go - Derma X
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" height="200px"><figcaption><b>3305 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" width="100%"></div></div>
+
 ## WizzAir Career
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53132140752_52944a1d4c_b.jpg" height="200px"><figcaption><b>3313 </b> 📷 Ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53132140752_52944a1d4c_b.jpg" width="100%"></div></div>
 
 ## Ferratum
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53185824830_411772ddba_h.jpg" height="200px"><figcaption><b>1115 </b> 📷 Калин Богданов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53185824830_411772ddba_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53093948809_d8744ce81f_b.jpg" height="200px"><figcaption><b>1126 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53093948809_d8744ce81f_b.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53180381807_0a13acfc26_h.jpg" height="200px"><figcaption><b>2161 </b> 📷 Ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53180381807_0a13acfc26_h.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53140570525_51a422510d_h.jpg" height="200px"><figcaption><b>2166 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53140570525_51a422510d_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53100547885_14a388e9aa_k.jpg" height="200px"><figcaption><b>2168 </b> 📷 Владимир Симов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53100547885_14a388e9aa_k.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53113287957_f09c1d1159_b.jpg" height="200px"><figcaption><b>2169 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53113287957_f09c1d1159_b.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53183778188_866a5c8ca9_h.jpg" height="200px"><figcaption><b>3314 </b> 📷 Калин Богданов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53183778188_866a5c8ca9_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53087360578_a1546e3da8_b.jpg" height="200px"><figcaption><b>3316 </b> 📷 Захари Захареив </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53087360578_a1546e3da8_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53118288304_2d636d4782_b.jpg" height="200px"><figcaption><b>3318 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53118288304_2d636d4782_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53119220134_90399491b9_b.jpg" height="200px"><figcaption><b>3321 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53119220134_90399491b9_b.jpg" width="100%"></div></div>
