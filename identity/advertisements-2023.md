@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-14T21:32:50.716Z
+date: 2023-09-14T21:35:16.353Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -70,8 +70,6 @@ dateCreated: 2023-08-07T17:50:09.883Z
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" height="200px"><figcaption><b>3319 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" width="100%"></div></div>
 
 ## HELL Classic (червено-сив)
-> През август 2023, 1135 се чупи (омешва масло с нафта).
-{.is-warning}
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53041046588_8648a95938_b.jpg" height="200px"><figcaption><b>1135 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53041046588_8648a95938_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53114373023_cc37b69226_b.jpg" height="200px"><figcaption><b>3309 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53114373023_cc37b69226_b.jpg" width="100%"></div></div>
 
@@ -86,9 +84,6 @@ dateCreated: 2023-08-07T17:50:09.883Z
 
 
 ## Daikin
-> През юли 2023г. 2164 чупи скорости.
-{.is-warning}
-
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52951072648_227256f6cf_k.jpg" height="200px"><figcaption><b>1121 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52951072648_227256f6cf_k.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52998987826_9fe708754a_b.jpg" height="200px"><figcaption><b>1128 </b> 📷 Вилиян Костадинов
 </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52998987826_9fe708754a_b.jpg" width="100%"></div></div>
