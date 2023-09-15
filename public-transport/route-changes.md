@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-08T08:22:58.240Z
+date: 2023-09-15T14:00:58.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -129,6 +129,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 - [:running: Щафетен маратон *На 6ти септември в центъра, от 2015г.*](/bg/public-transport/route-changes/shtafeten-maraton)
 - [:running: Студентски град рън / Run for Europe *Веднъж годишно в Студентски град, от 2017г.*](/bg/public-transport/route-changes/run-for-europe)
 - [:running: Други *Декатлон рън,...*](/bg/public-transport/route-changes/maratoni-razni)
+- [:bike: Велошествия *Велосъстезание София,...*](/bg/public-transport/route-changes/veloshestvia)
 - [:checkered_flag: Рали София *Писта София, Рали Виктори, ...*](/bg/public-transport/route-changes/auto-races)
 {.links-list}
 
