@@ -1,12 +1,15 @@
 ---
-title: Нови довеждащи линии Д2, Д3, Д4, Д5
+title: Нови довеждащи линии 802, 803, 804, 805
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-08T13:33:26.399Z
+date: 2023-09-15T13:02:47.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T12:37:06.968Z
 ---
+
+> Стара номерация беше Д2, Д3, Д4, Д5
+{.is-warning}
 
 
 # Линии
@@ -19,31 +22,25 @@ dateCreated: 2023-06-08T12:37:06.968Z
 
 
 
-## линия Д2
+## линия 802 (Д2)
 
-<img src="https://drive.google.com/uc?id=1DKjBbK2kNaKxJbWpQOtnP3Ex6D4Fefv2">
-
-
-## линия Д3
-
-<img src="https://drive.google.com/uc?id=1O98zKOE0r8-JBN5yGIHgQr-U_AjInLRD">
-
-## линия Д4
-
-<img src="https://drive.google.com/uc?id=1F-5d4PKskYW7LS6b0tt4TyrgZlBf9YXq">
+<img src="https://drive.google.com/uc?id=1xS3prnbbpwIdpbf7jNe8qxvW3VHa_Z02">
 
 
-## линия Д5
+## линия 803 (Д3)
+
+<img src="https://drive.google.com/uc?id=1kgQlspdpYYoFe5FPNwimdErxOu3d7cut">
+
+## линия 804 (Д4)
+
+<img src="https://drive.google.com/uc?id=1zi65mWtgB1UQlbhXpwUnHnY6d1zSZMxf">
+
+
+## линия 805 (Д5)
 
 <img src="https://drive.google.com/uc?id=1YN0RkxKnwNkwvq8uRYX0xDs413e6is2X">
 
 # Подвижен състав
 
-- [:bus: Karsan e-Jest *06.08.2023*](/bg/public-transport/fleet-list/2022-Karsan-e-Jest)
+- [:bus: Karsan e-Jest](/bg/public-transport/fleet-list/2022-Karsan-e-Jest)
 {.links-list}
-
-
-|     |     |
-| --- | --- |
-| ![](/идентичност/ливреи/karsan_3.jpg) | ![](/идентичност/ливреи/karsan_4.jpg) |
-| ![](/идентичност/ливреи/karsan_2.jpg) | ![](/идентичност/ливреи/karsan_5.jpg) |
