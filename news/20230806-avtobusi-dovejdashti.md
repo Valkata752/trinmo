@@ -2,7 +2,7 @@
 title: Нови довеждащи линии 802, 803, 804, 805
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-15T13:09:24.112Z
+date: 2023-09-15T13:10:04.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T12:37:06.968Z
@@ -46,7 +46,7 @@ dateCreated: 2023-06-08T12:37:06.968Z
 - [:eight::zero::five: *Подробна информация за линията*](/bg/public-transport/bus-routes-1968-sega/805)
 {.links-list}
 
-<img src="https://drive.google.com/uc?id=">
+<img src="https://drive.google.com/uc?id=1YN0RkxKnwNkwvq8uRYX0xDs413e6is2X">
 
 # Подвижен състав
 
