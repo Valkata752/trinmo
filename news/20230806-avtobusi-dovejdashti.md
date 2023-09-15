@@ -2,7 +2,7 @@
 title: Нови довеждащи линии 802, 803, 804, 805
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-15T13:02:47.081Z
+date: 2023-09-15T13:05:54.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T12:37:06.968Z
@@ -23,20 +23,28 @@ dateCreated: 2023-06-08T12:37:06.968Z
 
 
 ## линия 802 (Д2)
+- [:eight::zero::two: *Подробна информация за линията*](/bg/public-transport/bus-routes-1968-sega/802)
+{.links-list}
 
 <img src="https://drive.google.com/uc?id=1xS3prnbbpwIdpbf7jNe8qxvW3VHa_Z02">
 
 
 ## линия 803 (Д3)
+- [:eight::zero::three: *Подробна информация за линията*](/bg/public-transport/bus-routes-1968-sega/803)
+{.links-list}
 
 <img src="https://drive.google.com/uc?id=1kgQlspdpYYoFe5FPNwimdErxOu3d7cut">
 
 ## линия 804 (Д4)
+- [:eight::zero::four: *Подробна информация за линията*](/bg/public-transport/bus-routes-1968-sega/804)
+{.links-list}
 
 <img src="https://drive.google.com/uc?id=1zi65mWtgB1UQlbhXpwUnHnY6d1zSZMxf">
 
 
 ## линия 805 (Д5)
+- [:eight::zero::five: *Подробна информация за линията*](/bg/public-transport/bus-routes-1968-sega/805)
+{.links-list}
 
 <img src="https://drive.google.com/uc?id=1YN0RkxKnwNkwvq8uRYX0xDs413e6is2X">
 
