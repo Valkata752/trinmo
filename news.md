@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-15T13:43:45.694Z
+date: 2023-09-15T13:43:53.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -14,7 +14,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 > От 18.09.2023 г. се разкриват линии № [802](/bg/public-transport/bus-routes-1968-sega/802), [803](/bg/public-transport/bus-routes-1968-sega/803) и [804](/bg/public-transport/bus-routes-1968-sega/804), а линия № [Д1](/bg/public-transport/bus-routes-1968-sega/D1) се преномерира на [801](/bg/public-transport/bus-routes-1968-sega/801)  
 {.is-success}
 
-## 18.09.2023
+## 17.09.2023
 На заседанието на СОС на 17.09.2023 г. се взеха следните решения за транспорта в София:
 
 - Да се закупят 4 броя употребявани двуетажни автобуси на стойност до 240 000 лв без ДДС за линия 3.
