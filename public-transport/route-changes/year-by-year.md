@@ -2,7 +2,7 @@
 title: Маршрутни промени година по година
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-23T14:30:45.854Z
+date: 2023-09-15T13:51:19.167Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T08:26:01.877Z
@@ -13,13 +13,38 @@ dateCreated: 2022-05-06T08:26:01.877Z
 
 ## 2023
 
-<table style="width:100%"><tr><td><span style="color:#81C784">до 31.12.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/288">288</a> автост. Гео Милев - Зоопарка</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+### Предстоящи
+
+<table style="width:100%"><tr><td><span style="color:#81C784">най-късно 31.12.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/288">288</a> автост. Гео Милев - Зоопарка</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.10.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N1">N1</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.10.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N2">N2</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.12.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N3">N3</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.12.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+
+
+### Действащи
+<table style="width:100%"><tr><td><span style="color:#81C784">18.09.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/802">802</a> МС Горна баня - МС Горна баня (кръгова)</span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 453 от 15.06.2023 година</b></a></td></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784">18.09.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/803">803</a> МС Горна баня - МС Горна баня (кръгова)</span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 453 от 15.06.2023 година</b></a></td></table>
+
+<table style="width:100%"><tr><td><span style="color:#81C784">18.09.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/804">804</a> МС Горна баня - МС Горна баня (кръгова)</span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 453 от 15.06.2023 година</b></a></td></table>
+
+
+<table style="width:100%"><tr><td><span style="color:#64B5F6">18.09.2023 | Преномерира се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/D1">Д1</a> на <a href="/bg/public-transport/bus-routes-1968-sega/801">801</a></span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 453 от 15.06.2023 година</b></a></td></table>
+
+<table style="width:100%"><tr><td><span style="color:#64B5F6">01.09.2023 | Преномерира се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/109">109</a> на <a href="/bg/public-transport/bus-routes-1968-sega/X9">X9</a></span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 454 от 15.06.2023 година</b></a></td></table>
+
+<table style="width:100%"><tr><td><span style="color:#64B5F6">01.09.2023 | Преномерира се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/110">110</a> на <a href="/bg/public-transport/bus-routes-1968-sega/X10">X10</a></span></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"><b> Решение № 454 от 15.06.2023 година</b></a></td></table>
 
 <table style="width:100%"><tr><td><span style="color:#E57373">от 18.09.2023 | Закрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/45">45</a> Западен парк - МС Вардар</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
 <table style="width:100%"><tr><td><span style="color:#E57373">от 18.09.2023 | Закрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/122">122</a> Зоопарка - лифт Симеоново</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
-<table style="width:100%"><tr><td><span style="color:#E57373">от 18.09.2023 до 14.09.2023 | Временно се преустановява автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/294">294</a> Студ. град - МС. Г.М. Димитров</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
+<table style="width:100%"><tr><td><span style="color:#E57373">от 18.08.2023 до 14.09.2023 | Временно се преустановява автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/294">294</a> Студ. град - МС. Г.М. Димитров</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
 <table style="width:100%"><tr><td><span style="color:#E57373">от 05.08.2023 | Експериментално за 6 месеца се преустановява в празнични дни автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/75">75</a> автост. Гео Милев - Орлов мост</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
@@ -30,24 +55,9 @@ dateCreated: 2022-05-06T08:26:01.877Z
 
 <table style="width:100%"><tr><td><span style="color:#64B5F6"> до 30.09.2023 | Променя се маршрута на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/120">120</a> вместо по ул. Сребърна, по ул. Филип Кутев </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
-
-<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.10.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N1">N1</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
-<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.10.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N2">N2</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
-<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.12.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N3">N3</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
-<table style="width:100%"><tr><td><span style="color:#81C784"> най-късно до 30.12.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a> </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
 <table style="width:100%"><tr><td><span style="color:#64B5F6">24.08.2023 | Удължава се маршрута на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/58">58</a> до гара Владая </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
-
-<table style="width:100%"><tr><td><span style="color:#64B5F6">10.08.2023 | Преномерира се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/D1">Д1</a> на <a href="/bg/public-transport/bus-routes-1968-sega/801">801</a></span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-711-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 711 от 27.07.2023 година</a></b></td></tr></table>
-
-
-
 <table style="width:100%"><tr><td><span style="color:#64B5F6">09.08.2023 | Съкратен е маршрута на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/107">107</a> до кв. Карпузица </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-453-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 453 от 15.06.2023 година</a></b></td></tr></table>
-
 
 <table style="width:100%"><tr><td><span style="color:#64B5F6">26.07.2023 | Удължен е маршрута на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/73">73</a> до ж.к. Младост 1 </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-454-%D0%BE%D1%82-15062023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 454 от 15.06.2023 година</a></b></td></tr></table>
 
