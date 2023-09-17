@@ -2,7 +2,7 @@
 title: Летни и зимни разписания
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-17T20:14:26.795Z
+date: 2023-09-17T20:15:25.472Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-16T10:36:50.678Z
