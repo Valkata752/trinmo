@@ -2,7 +2,7 @@
 title: Нови довеждащи линии 802, 803, 804, 805
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-15T13:10:04.947Z
+date: 2023-09-18T12:10:51.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-08T12:37:06.968Z
@@ -10,6 +10,9 @@ dateCreated: 2023-06-08T12:37:06.968Z
 
 > Стара номерация беше Д2, Д3, Д4, Д5
 {.is-warning}
+
+
+<img src="https://drive.google.com/uc?id=13QROPPdaZGW5eOALdoi7NPVE0fN888vx">
 
 
 # Линии
