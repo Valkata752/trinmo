@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-20T20:30:52.776Z
+date: 2023-09-20T20:32:43.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -52,11 +52,11 @@ dateCreated: 2023-07-31T11:52:22.172Z
 | Произв. | Доставен | VIN  |  Стар <br> Рег № |  Стар <br> Рег № | Стар <br> Рег №| Рег № | Предишен собственик |
 |---------|----------|-------------------|------------|-----------|------------|-----------|------------|---------------------------------|
 |   2005  |   2023   | WMAA20ZZ06R002547 | HOL-RB 548 | GÖ-R 2511 | HOL-RB 527 | CO 7198 CP |          "Шанс 99 ООД"          |
-|   2005  |   2023   | WMAA20ZZ96R002546 |            |           |            | UE-RB 557 | CO 7199 CP |  Regionalbus Braunschweig GmbH  |
-|   2005  |   2023   | WMAA20ZZ76R002545 |            |           |            | UE-RB 556 | CO 7200 CP |  Regionalbus Braunschweig GmbH  |
-|   2005  |   2023   | WMAA20ZZ36R002610 |            |           |            | SB-RV 656 | CO 7201 CP |       Saar-Pfalz-Bus GmbH       |
-|   2005  |   2023   | WMAA20ZZ05R002434 |            |           |  S-RS 1504 | LU-ET 102 | CO 7203 CP |   Busverkehr Rhein-Neckar GmbH  |
-|   2005  |   2023   | WMAA20ZZ15R002443 |            |           |            | KA-SB 685 | CO 7204 CP | Regionalbusverkehr Südwest GmbH |
+|   2005  |   2023   | WMAA20ZZ96R002546 |            |                      | UE-RB 557 | CO 7199 CP |  Regionalbus Braunschweig GmbH  |
+|   2005  |   2023   | WMAA20ZZ76R002545 |            |                   | UE-RB 556 | CO 7200 CP |  Regionalbus Braunschweig GmbH  |
+|   2005  |   2023   | WMAA20ZZ36R002610 |            |                    | SB-RV 656 | CO 7201 CP |       Saar-Pfalz-Bus GmbH       |
+|   2005  |   2023   | WMAA20ZZ05R002434 |            |         S-RS 1504 | LU-ET 102 | CO 7203 CP |   Busverkehr Rhein-Neckar GmbH  |
+|   2005  |   2023   | WMAA20ZZ15R002443 |            |                | KA-SB 685 | CO 7204 CP | Regionalbusverkehr Südwest GmbH |
 {.dense}
 
 # Снимки
