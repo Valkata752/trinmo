@@ -2,7 +2,7 @@
 title: Зелени трамвайни релси
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-21T08:35:58.774Z
+date: 2023-09-21T08:36:28.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-21T08:26:40.558Z
@@ -28,7 +28,7 @@ dateCreated: 2023-09-21T08:26:40.558Z
 <td><img src="https://drive.google.com/uc?id=1xy5eWHisSdwSvSLeTxfaVpwF6OVC-ULK"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>Този участък е изграден през 2022 г.</td></table></div>
   
-
+### Видео на Екип Снимачи
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/cHXMqWQBSrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
