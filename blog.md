@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-22T15:38:07.383Z
+date: 2023-09-22T15:38:22.009Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -57,5 +57,5 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 ## Международен панаир Пловдив
 
-- [:bus: Mеждународен Технически Панаир *14-17.09.2023*](/bg/blog/2023-panair-plovdiv)
+- [:bus: Mеждународен Технически Панаир *14-17.09.2023*](/bg/blog/2023-plovdiv-fair)
 {.links-list}
