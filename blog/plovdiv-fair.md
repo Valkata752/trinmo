@@ -2,13 +2,11 @@
 title: Международен панаир Пловдив
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-22T16:25:37.095Z
+date: 2023-09-22T16:27:24.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-22T15:45:51.292Z
 ---
-
-
 
 
 # Международен Технически Панаир 2023
@@ -25,7 +23,7 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 
 Няма снимки
 
-## Международен Технически Панаир 2023
+# Truck expo 2023
 
 ## Isuzu Citivolt 12
 Електрически автобус на прозводителя: Anadolu Isuzu.
