@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-21T07:53:00.346Z
+date: 2023-09-22T15:36:16.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -55,3 +55,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 {.links-list}
 
 
+## Международен панаир Пловдив
+
+- [:bus: Mеждународен Технически Панаир *14-17.09.2023*](/bg/blog/2023-vitosha-proleten-fest)
+{.links-list}
