@@ -2,7 +2,7 @@
 title: Международен панаир Пловдив
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-22T16:27:24.162Z
+date: 2023-09-22T16:29:49.038Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-22T15:45:51.292Z
@@ -35,6 +35,15 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 
 ### Технически данни
 <img src="https://drive.google.com/uc?id=1lGOUYtpwtYbApljB2xv48VeS8GazB83k">
+
+# Truck expo 2022
+
+## Mercedes Intouro
+
+##  Tabs {.tabset}
+### Снимка
+<img src="https://drive.google.com/uc?id=1EehohJ2QNy68mVJELO8equjcNSy69q6v">
+
 
 # Truck expo 2019
 
