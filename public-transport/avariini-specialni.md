@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-23T22:05:11.300Z
+date: 2023-09-23T22:06:47.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -181,7 +181,7 @@ dateCreated: 2023-03-17T08:25:15.949Z
 ### 9861
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv"></td>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8"></td>
     <td>Текущи ремонти</td>
   </tr>
 </table>
@@ -189,6 +189,8 @@ dateCreated: 2023-03-17T08:25:15.949Z
 ##### Галерия
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8" height="200px"><figcaption> <b>СА0912АР</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8" width="100%"></div></div>
 
+  
+  
   
 ### 5001
 #### Tabs {.tabset}
