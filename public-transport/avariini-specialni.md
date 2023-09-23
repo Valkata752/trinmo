@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-23T21:34:22.452Z
+date: 2023-09-23T21:45:00.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -551,6 +551,22 @@ dateCreated: 2023-03-17T08:25:15.949Z
 ##### Галерия
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" height="200px"><figcaption> <b>СА5002АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" width="100%"></div></div>
+
+
+### 0913
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Is2aByacrg1RevV13MIY3EufgotfpTKi"></td>
+    <td>Кран</td>
+  </tr>
+</table>
+
+##### Галерия
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" height="200px"><figcaption> <b>СА0913АР</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" width="100%"></div></div>
 
 
 ## Автобуси
