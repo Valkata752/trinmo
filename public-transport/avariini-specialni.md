@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-04T06:14:28.852Z
+date: 2023-09-23T21:34:22.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -433,7 +433,7 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/50999172431_d48458c554_k.jpg"></td>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Hd_wsep2APqu80uYsQw3ZU5wTzBJ3NlF"></td>
     <td>Двете Шкоди 4993 и 0912 работят по поддръжка на РП и отстраняване на повреди по съоръженията, в т.ч. и аварийни ремонти.</td>
   </tr>
 </table>
@@ -441,6 +441,20 @@ dateCreated: 2023-03-17T08:25:15.949Z
 ##### Галерия
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50999172431_d48458c554_k.jpg" height="200px"><figcaption> <b>СА0912АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/50999172431_d48458c554_k.jpg" width="100%"></div></div>
 
+### 5977
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv"></td>
+    <td>Текущи ремонти</td>
+  </tr>
+</table>
+
+##### Галерия
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv" height="200px"><figcaption> <b>СА0912АР</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv" width="100%"></div></div>
 
 ### 0338
 #### Tabs {.tabset}
