@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-25T17:46:00.448Z
+date: 2023-09-25T17:55:50.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -47,6 +47,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 
 ## Wash & Go - Derma X
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" height="200px"><figcaption><b>3305 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53209921617_234f5b65d0_h.jpg" height="200px"><figcaption><b>3315 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53209921617_234f5b65d0_h.jpg" width="100%"></div></div>
 
 ## WizzAir Career
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53132140752_52944a1d4c_b.jpg" height="200px"><figcaption><b>3313 </b> 📷 Ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53132140752_52944a1d4c_b.jpg" width="100%"></div></div>
