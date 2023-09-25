@@ -2,7 +2,7 @@
 title: Фотогалерии
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-07T21:21:52.764Z
+date: 2023-09-25T15:07:00.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-09T11:18:41.435Z
@@ -82,9 +82,9 @@ dateCreated: 2022-11-09T11:18:41.435Z
 <center> <iframe style="position: relative; top: 0; left: 0; width: 100%; height: 600px;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=133974690@N04&sort=0&by=user&theme=tiles_justified&scale=fit&speed=5000&limit=12&skin=alexis&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p></iframe></center>
 
 
-## Николай Метев
+## Николай М.
 
-- [:camera: Niki1515 *Николай Метев*](https://www.flickr.com/photos/192801396@N06)
+- [:camera: Niki1515 *Николай М.*](https://www.flickr.com/photos/192801396@N06)
 {.links-list}
 <center> <iframe style="position: relative; top: 0; left: 0; width: 100%; height: 600px;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=192801396@N06&sort=0&by=user&theme=tiles_justified&scale=fit&speed=5000&limit=12&skin=alexis&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p></iframe></center>
 
