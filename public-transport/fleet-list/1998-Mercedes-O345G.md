@@ -2,7 +2,7 @@
 title: Mercedes O345G
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T11:46:54.434Z
+date: 2023-09-25T15:16:34.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:29:22.172Z
@@ -466,7 +466,7 @@ dateCreated: 2022-05-19T21:29:22.172Z
 
 ### 3283
 <!--3283--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51001729059_3e15b90171_b.jpg" height="200px"><figcaption> <b>A76</b> 📷 Николай Матеев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/51001729059/" target="_blank" title="3283"> <img src="https://live.staticflickr.com/65535/51001729059_3e15b90171_b.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51001729059_3e15b90171_b.jpg" height="200px"><figcaption> <b>A76</b> 📷 Николай М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/51001729059/" target="_blank" title="3283"> <img src="https://live.staticflickr.com/65535/51001729059_3e15b90171_b.jpg" width="100%"></a></div></div>
 
  <!--3283--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51359750381_c867e5c998_k.jpg" height="200px"><figcaption><b>А88</b> 📷 Вилиян Костадинов </figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193359852@N03/51359750381/" target="_blank" title="3283"> <img src="https://live.staticflickr.com/65535/51359750381_c867e5c998_k.jpg" width="100%"></a></div></div>
