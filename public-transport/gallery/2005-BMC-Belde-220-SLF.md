@@ -2,7 +2,7 @@
 title: BMC Belde 220-SLF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-10T09:07:53.153Z
+date: 2023-09-26T20:32:23.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-29T11:15:24.749Z
@@ -280,7 +280,7 @@ dateCreated: 2023-06-29T11:15:24.749Z
 <!--2723--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bluHS_6w3--soe4VnmS_FXVs34ZYvZua" height="200px"><figcaption><b>A27</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bluHS_6w3--soe4VnmS_FXVs34ZYvZua" width="100%"></div></div>
 <!--2723--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CBLIfBcbhIiFNyeSpn3yocke4iN_EDpe" height="200px"><figcaption><b>A28</b> 📷 Любомир Николов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CBLIfBcbhIiFNyeSpn3yocke4iN_EDpe" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53216141428_ce1d67d875_o.jpg" height="200px"><figcaption><b>A28</b> 📷 Любомир Николов </figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53216141428_ce1d67d875_o.jpg" width="100%"></div></div>
 <!--2723--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XuAFfY9Is9N3cp_zo_b5nCURQy56tLP_" height="200px"><figcaption><b>A72</b> 📷 Борис Драголов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XuAFfY9Is9N3cp_zo_b5nCURQy56tLP_" width="100%"></div></div>
 <!--2723--> 
