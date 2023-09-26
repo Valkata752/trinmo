@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-26T20:09:13.349Z
+date: 2023-09-26T20:09:55.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -99,7 +99,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52949701117_4c4996688c_k.jpg" height="200px"><figcaption><b>3321 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52949701117_4c4996688c_k.jpg" width="100%"></div></div>
 
 ## Kaufland
-<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52870713334_5ac80cf420_k.jpg" height="200px"><figcaption><b>1114 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52870713334_5ac80cf420_k.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53182528553_83bb377b41_o.jpg" height="200px"><figcaption><b>1114 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53182528553_83bb377b41_o.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52884883654_915fc4e513_b.jpg" height="200px"><figcaption><b>1130 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52884883654_915fc4e513_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52886864286_5d7065dc71_b.jpg" height="200px"><figcaption><b>3313 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52886864286_5d7065dc71_b.jpg" width="100%"></div></div>
 
