@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-25T18:43:24.939Z
+date: 2023-09-26T20:01:49.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -46,6 +46,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 
 
 ## Wash & Go - Derma X
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53208350163_1d5d84d2f7_o.jpg" height="200px"><figcaption><b>3302 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53208350163_1d5d84d2f7_o.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" height="200px"><figcaption><b>3305 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53159910118_c8f3d41aaa_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53209921617_234f5b65d0_h.jpg" height="200px"><figcaption><b>3315 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53209921617_234f5b65d0_h.jpg" width="100%"></div></div>
 
