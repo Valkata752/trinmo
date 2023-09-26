@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-26T20:06:44.472Z
+date: 2023-09-26T20:08:18.589Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -106,6 +106,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 ## Florina
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52966515246_abcfc5fcc3_b.jpg" height="200px"><figcaption><b>3302</b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52966515246_abcfc5fcc3_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52900534480_74d020401e_k.jpg" height="200px"><figcaption><b>3305</b> 📷 Владимир Симов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52900534480_74d020401e_k.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53216339175_8861f5e1b7_o.jpg" height="200px"><figcaption><b>3313</b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53216339175_8861f5e1b7_o.jpg" width="100%"></div></div>
 
 ## Бързи и яростни 10
 > През юни 2023г. 3304 е спрян от движение.
