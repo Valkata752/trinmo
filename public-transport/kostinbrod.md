@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-28T08:09:49.390Z
+date: 2023-09-28T08:12:34.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -85,6 +85,8 @@ dateCreated: 2023-07-31T11:52:22.172Z
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" height="200px"><figcaption> <b>7204</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" width="100%"></div></div>
 
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" height="200px"><figcaption> <b>5597</b> 📷 Емил Шиваров</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" width="100%"></div></div>
 
 ### Линия 3
 <!--1--> 
