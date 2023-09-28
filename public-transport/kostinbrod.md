@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-28T08:18:39.226Z
+date: 2023-09-28T08:19:51.875Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -96,11 +96,15 @@ dateCreated: 2023-07-31T11:52:22.172Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" height="200px"><figcaption> <b>7615</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" width="100%"></div></div>
 
 
+## Tabs {.tabset}
 
 
 ### Линия 3
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" width="100%"></div></div>
+
+## Tabs {.tabset}
+
 
 ### Линия 4
 <!--1--> 
