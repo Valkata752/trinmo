@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-28T08:12:34.387Z
+date: 2023-09-28T08:18:39.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -85,12 +85,22 @@ dateCreated: 2023-07-31T11:52:22.172Z
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" height="200px"><figcaption> <b>7204</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" width="100%"></div></div>
 
+#### Преди общински превозвач
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" height="200px"><figcaption> <b>5597</b> 📷 Емил Шиваров</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" width="100%"></div></div>
 
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" height="200px"><figcaption> <b></b> 📷 Ники 1515</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" width="100%"></div></div>
+
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" height="200px"><figcaption> <b>7615</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" width="100%"></div></div>
+
+
+
+
 ### Линия 3
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" width="100%"></div></div>
 
 ### Линия 4
 <!--1--> 
