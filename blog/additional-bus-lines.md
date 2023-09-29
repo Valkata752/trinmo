@@ -2,7 +2,7 @@
 title: Допълнителни автобусни линии и тяхното таксуване 
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T11:16:49.406Z
+date: 2023-09-29T11:17:40.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T10:58:33.825Z
@@ -24,7 +24,7 @@ dateCreated: 2023-09-29T10:58:33.825Z
  
  
 ## Решение на СОС
-<iframe src="https://drive.google.com/file/d/1MFP0VK2wKcieISxXDfkBhG-Rpzt41Goz" width="100%" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1MFP0VK2wKcieISxXDfkBhG-Rpzt41Goz/preview" width="100%" height="480"></iframe>
 
 
 > По такъв начин не става ясно на какво основание важат превозните документи с намаления по допълнителните линии на градския транспорт?
