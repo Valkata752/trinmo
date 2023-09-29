@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-23T22:06:47.347Z
+date: 2023-09-29T10:36:07.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -514,7 +514,7 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/49087152287_965adc9e8e_k.jpg"></td>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1FBXA4XatZFo8ikhnAVJBNU5DWRaIcSAJ"></td>
     <td>ЗиЛ 130 </td>
   </tr>
 </table>
