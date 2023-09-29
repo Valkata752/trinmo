@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-26T20:09:55.183Z
+date: 2023-09-29T18:54:39.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 ## 📜 Списък
 |реклама| от |  до |    :train:   |    :trolleybus:   |   :bus:  |
 |---|:---:|:---:|:---:|:---:|:---:|
-|**Logitech (по прозорци)**     |25.09.2023| |    |    | **3140**|
+|**Logitech (по прозорци)**     |25.09.2023| |    |    | **2300** **3140**|
 |**Сокове Florina (розов)**     |09.2023| |    |    | **3313**|
 |**Paw Patrol**     |09.2023|   |    |    | **3322**|
 |**Шампоани Wash&Go DermaX**     |08.2023|   |    |    | **3302, 3305, 3315**|
@@ -94,6 +94,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52966652869_f06336c366_b.jpg" height="200px"><figcaption><b>2164 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52966652869_f06336c366_b.jpg" width="100%"></div></div>
 
 ## Logitech
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53219308257_3610b6f017_o.jpg" height="200px"><figcaption><b>2300 </b> 📷 Калин Богданов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53219308257_3610b6f017_o.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53214957082_470a0f73b0_o.jpg" height="200px"><figcaption><b>3140 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53214957082_470a0f73b0_o.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52705147124_874cd77ce6_b.jpg" height="200px"><figcaption><b>3316 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52705147124_874cd77ce6_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52949701117_4c4996688c_k.jpg" height="200px"><figcaption><b>3321 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52949701117_4c4996688c_k.jpg" width="100%"></div></div>
