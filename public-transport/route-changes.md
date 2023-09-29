@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T09:19:22.156Z
+date: 2023-09-29T09:21:15.665Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -100,7 +100,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 - [:x: от алея “П. К. Яворов” до Руско посолство *Трасето е закрито!*](/bg/public-transport/route-changes/izvejdane-aleya-yavorov-rusko-posolstvo)
 - [:tram: по бул. „България“ от бул. „Витоша“ до бул. „Т. Каблешков“ *дължина 5000м*](/bg/public-transport/route-changes/izvejdane-bul-bulgaria)
 - [:tram: по бул. „Искърско шосе“ от бул. „Проф. Цветан Лазаров“ до депо „Искър“ *дължина 6400м*](/bg/public-transport/route-changes/izvejdane-iskarsko-shose)
-- [:tram: по бул. „Ботевградско шосе“ от площад „Подуене“ до автогара „Изток“ *дължина 5100м*](/bg/public-transport/route-changes/izvejdane-bul-sitniakovo-i-botevgradsko)
+- [:tram: по бул. „Ботевградско шосе“ от площад „Подуене“ до автогара „Изток“ *дължина 5100м*](/bg/public-transport/route-changes/izvejdane-bul-botevgradsko)
 - [:tram: по бул. „Ситняково“ от площад „Подуяне“ до ул. „Гео Милев“ *дължина 1300м*](/bg/public-transport/route-changes/izvejdane-bul-sitniakovo)
 - [:tram: от ж.п. гара „Искър“ до ул. „Обиколна“ *дължина 3300м*](/bg/public-transport/route-changes/izvejdane-gara-iskar-obikolna)
 {.links-list}
