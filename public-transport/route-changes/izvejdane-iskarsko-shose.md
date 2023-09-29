@@ -2,7 +2,7 @@
 title: Извеждане на релсов път по бул. Искърско шосе
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T09:06:38.243Z
+date: 2023-09-29T09:18:45.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-04T06:58:40.965Z
