@@ -2,7 +2,7 @@
 title: Škoda 26Tr Solaris
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-03-01T09:36:16.578Z
+date: 2023-09-30T09:07:25.840Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:25:21.812Z
@@ -70,13 +70,17 @@ dateCreated: 2022-05-19T22:25:21.812Z
 **Oчаквайте скоро…**
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/2010-Skoda-26Tr-Solaris)
+{.links-list}
+
+
 ## Tabs {.tabset}
 
-### 1603
+### Искър
  <!--1603--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52682885273/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" width="100%"></a></div></div>
 
+ <!--1607--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" height="200px"><figcaption><b>ТБ4</b>📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/26175023769/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" width="100%"></a></div></div>
 
-### 1608
- <!--1608--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51692018235_dea3c86a2c_k.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51692018235" target="_blank" title="1608"> <img src="https://live.staticflickr.com/65535/51692018235_dea3c86a2c_k.jpg" width="100%"></a></div></div>
