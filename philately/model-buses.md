@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-30T11:27:03.045Z
+date: 2023-09-30T11:27:39.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -17,4 +17,4 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 
 ## Брой 1
-<img src="https://drive.google.com/uc?id=1y_Xl_Bb-VqpHDebGL8o3hss0UlEUyDmu" height="200px">
+<img src="https://drive.google.com/uc?id=1y_Xl_Bb-VqpHDebGL8o3hss0UlEUyDmu">
