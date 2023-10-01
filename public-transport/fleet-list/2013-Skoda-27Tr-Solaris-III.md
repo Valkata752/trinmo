@@ -2,7 +2,7 @@
 title: Škoda 27Tr Solaris III
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-23T20:06:50.011Z
+date: 2023-10-01T13:50:41.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:24:49.074Z
@@ -99,10 +99,18 @@ dateCreated: 2022-05-19T22:24:49.074Z
 **Oчаквайте скоро…**
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/2013-Skoda-27Tr-Solaris-III)
+{.links-list}
+
 
 ## Tabs {.tabset}
 
-### 1650
+### Искър
+
+### Tabs {.tabset}
+
+#### 1650
 <!--1650--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51069091361_c00e726573_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192265573@N05/51069091361/" target="_blank" title="1650"> <img src="https://live.staticflickr.com/65535/51069091361_c00e726573_k.jpg" width="100%"></a></div></div>
 <!--1650--> 
