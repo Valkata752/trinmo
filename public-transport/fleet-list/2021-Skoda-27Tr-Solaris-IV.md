@@ -2,7 +2,7 @@
 title: Škoda 27Tr Solaris IV
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-16T11:51:04.450Z
+date: 2023-10-01T14:02:24.902Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:24:21.927Z
@@ -70,6 +70,10 @@ dateCreated: 2022-05-19T22:24:21.927Z
 **Oчаквайте скоро…**
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/2021-Skoda-27Tr-Solaris-IV)
+{.links-list}
+
   
 # Tabs {.tabset}
 
