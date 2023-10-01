@@ -2,7 +2,7 @@
 title: Решения на СОС/СНС/СГНС
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T06:36:09.436Z
+date: 2023-10-01T07:09:43.312Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T08:24:21.378Z
@@ -16,20 +16,34 @@ dateCreated: 2022-05-02T08:24:21.378Z
 
 За изменение на Решение № 712/27.07.2023 г. на Столичния общински съвет за подобряване транспортното обслужване чрез промяна на маршрутните разписания на автобусни линии №№ Х50, 58, 120, 304, 310 и оптимизиране на транспортната схема.
 
+Доклад: [СОА23-ВК66-6929-2/11.09.2023](https://drive.google.com/file/d/1hHT9op6c6XG4IwlEcdq_TpxOvE9rix5d/view?usp=sharing)  / [Решение № 921 от 14.09.2023 година](https://drive.google.com/file/d/1lDQ7nWzJEpXJHBAARro3pEOt6NCVjAsW/view?usp=sharing)  / `транспортна схема`
+
+
+
 
 ## Решение № 860 от 14.09.2023 година
 
 За разкриване на излетни и експресни автобусни линии на територията на Столична община.
 
+Доклад: [СОА23-ВК66-8328/07.09.2023](https://drive.google.com/file/d/1dKxoC5l5t6EgVoVAcrwUGX08GfxxLk8/view?usp=sharing)  / [Решение № 860 от 14.09.2023 година](https://drive.google.com/file/d/1cLiNaalurvwBcHyw2H_fSnldifOMCMti/view?usp=sharing)  / `транспортна схема`
+
+
+
 ## Решение № 859 от 14.09.2023 година
 
 За придобиване на автобуси за обезпечаване на транспортната задача, изпълнявана от „Столичен автотранспорт“ ЕАД.
+
+Доклад: [СОА23-ТД26-7251/19.07.2023](https://drive.google.com/file/d/1TfmbvkGSOZn6207UeY9uvxLm6fOU20ep/view?usp=sharing)  / [Решение № 859 от 14.09.2023 година](https://drive.google.com/file/d/1oYc9ddHKnV5bvm5Io7-IypbtU8izpH4m/view?usp=sharing)  / `транспортна схема`
+
+
 
 ## Решение № 858 от 14.09.2023 година
 
 За обновяване на подвижния състав на наземния обществен транспорт и развитие на инфраструктурата.
 
-Приложения
+[Приложение 1](https://drive.google.com/file/d/1-HA2oJa4y7skl_0hi2HDUfVLEJWPoAlX/view?usp=sharing)
+
+Доклад: [СОА23-ВК66-8354/07.09.2023](https://drive.google.com/file/d/1h_t7Y4pais0IBEBNbST2AUooZXNAWRfN/view?usp=sharing)  / [Решение № 858 от 14.09.2023 година](https://drive.google.com/file/d/1qtZ0wwWc82tvSMfXJ-5JnV5y3eB34to/view?usp=sharing)  / `транспортна схема`
 
 
 
