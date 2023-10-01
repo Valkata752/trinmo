@@ -2,7 +2,7 @@
 title: Škoda 27Tr Solaris III
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T13:59:26.765Z
+date: 2023-10-01T14:00:12.542Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:24:49.074Z
@@ -115,22 +115,13 @@ dateCreated: 2022-05-19T22:24:49.074Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51006774532_0beac23ca4_k.jpg" height="200px"><figcaption><b>ТБ4</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51006774532/" target="_blank" title="1669"> <img src="https://live.staticflickr.com/65535/51006774532_0beac23ca4_k.jpg" width="100%"></a></div></div>
 <!--1650--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50804444422_42e3f18809_k.jpg" height="200px"><figcaption><b>ТБ5 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/50804444422/" target="_blank" title="1656"> <img src="https://live.staticflickr.com/65535/50804444422_42e3f18809_k.jpg" width="100%"></a></div></div>
-
-
-
-
 <!--1651--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52522726631_f0fa4f2629_k.jpg" height="200px"><figcaption><b>ТБ11</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52522726631/" target="_blank" title="1651"> <img src="https://live.staticflickr.com/65535/52522726631_f0fa4f2629_k.jpg" width="100%"></a></div></div>
 
-### 1654
-<!--1654--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52564419863_d7e69e2cc4_k.jpg" height="200px"><figcaption><b>ТБ11</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196945517@N03/52564419863/" target="_blank" title="1654"> <img src="https://live.staticflickr.com/65535/52564419863_d7e69e2cc4_k.jpg" width="100%"></a></div></div>
-
-## Надежда
 
 ## Tabs {.tabset}
 
-### 2675
+### Надежда
 
 <!--2682--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50909499172_4c9ad44a89_k.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/50905774506/" target="_blank" title="2682"> <img src="https://live.staticflickr.com/65535/50909499172_4c9ad44a89_k.jpg" width="100%"></a></div></div>
