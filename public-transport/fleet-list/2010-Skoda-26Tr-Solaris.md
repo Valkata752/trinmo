@@ -2,7 +2,7 @@
 title: Škoda 26Tr Solaris
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-30T09:07:25.840Z
+date: 2023-10-01T13:48:38.011Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:25:21.812Z
@@ -84,3 +84,5 @@ dateCreated: 2022-05-19T22:25:21.812Z
  <!--1607--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" height="200px"><figcaption><b>ТБ4</b>📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/26175023769/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" width="100%"></a></div></div>
 
+<!--1603--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52762573864_a21351fb11_k.jpg" height="200px"><figcaption><b>ТБ11</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/196945517@N03/52558614022/in/album-72177720303732547/" target="_blank" title="1603 "> <img src=" https://live.staticflickr.com/65535/52762573864_a21351fb11_k.jpg" width="100%"></a></div></div>
