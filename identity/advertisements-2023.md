@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-02T20:14:36.659Z
+date: 2023-10-02T20:25:29.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -44,7 +44,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 
 ## FOX (Star Channel)
 ## Paw Patrol
-<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" height="200px"><figcaption><b>3322 </b> 📷 Радорслав Радославов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" height="200px"><figcaption><b>3322 </b> 📷 Радорслав Радоpславов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" width="100%"></div></div>
 
 
 ## Wash & Go - Derma X
