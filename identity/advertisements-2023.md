@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-02T19:55:06.467Z
+date: 2023-10-02T20:11:00.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -71,6 +71,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 
 
 ## HELL Ice (син)
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53220663138_423e293223_h.jpg" height="200px"><figcaption><b>1117 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53220663138_423e293223_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53064668155_cd047b7bdf_b.jpg" height="200px"><figcaption><b>1131 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53064668155_cd047b7bdf_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" height="200px"><figcaption><b>1136 </b> 📷 Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" height="200px"><figcaption><b>3319 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" width="100%"></div></div>
