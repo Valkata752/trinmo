@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T19:25:24.301Z
+date: 2023-10-02T14:24:52.053Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -13,6 +13,9 @@ dateCreated: 2022-04-25T15:43:04.754Z
 ## 02.10.2023
 > От 02.10.2023 г. се разкрива линия № [805](/bg/public-transport/bus-routes-1968-sega/805).
 {.is-success}
+
+- [:camera: Представяне на новата линия 02.10.2023 *805*](/bg/news/20231002-novi-linia-805)
+{.links-list}
 
 
 ## 18.09.2023
