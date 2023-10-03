@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-02T20:25:29.710Z
+date: 2023-10-03T18:38:13.765Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -43,6 +43,9 @@ dateCreated: 2023-08-07T17:50:09.883Z
 {.dense}
 
 ## FOX (Star Channel)
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" height="200px"><figcaption><b>3142 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923981_eed793f72e_o.jpg" height="200px"><figcaption><b>3143 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923981_eed793f72e_o.jpg" width="100%"></div></div>
+
 ## Paw Patrol
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" height="200px"><figcaption><b>3322 </b> 📷 Радорслав Радоpславов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53188080313_1bfef38ee1_h.jpg" width="100%"></div></div>
 
