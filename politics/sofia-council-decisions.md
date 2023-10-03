@@ -2,7 +2,7 @@
 title: Решения на СОС/СНС/СГНС
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T07:09:43.312Z
+date: 2023-10-03T17:13:29.031Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T08:24:21.378Z
@@ -266,7 +266,7 @@ dateCreated: 2022-05-02T08:24:21.378Z
 
 За приемане на Икономическата рамка на обществения градски транспорт в Столична община за 2021 година.
 
-Доклад: [_СОА21-ВК66-3734/16.04.2021_](https://drive.google.com/file/d/13O03Zg3pT0xF2JakMHJlpeZRG9aKce-U/view?usp=sharing) / [_Решение №241 на СОС от 22.04.2021_](https://council.sofia.bg/documents/20182/954112/R.241.pdf) / `икономическа рамка`
+Доклад: [_СОА21-ВК66-3734/16.04.2021_](https://drive.google.com/file/d/1WcarZ0ZVgiMRchiYBZHKF7jvQqGigdPV/view?usp=sharing) / [_Решение №241 на СОС от 22.04.2021_](https://council.sofia.bg/documents/20182/954112/R.241.pdf) / `икономическа рамка`
 
 ## Решение №142 на СОС от 18.03.2021
 
