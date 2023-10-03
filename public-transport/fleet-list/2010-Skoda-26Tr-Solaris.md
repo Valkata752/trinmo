@@ -2,7 +2,7 @@
 title: Škoda 26Tr Solaris
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T13:48:38.011Z
+date: 2023-10-03T15:05:36.414Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:25:21.812Z
@@ -78,11 +78,15 @@ dateCreated: 2022-05-19T22:25:21.812Z
 ## Tabs {.tabset}
 
 ### Искър
- <!--1603--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52682885273/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" width="100%"></a></div></div>
-
- <!--1607--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" height="200px"><figcaption><b>ТБ4</b>📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/26175023769/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" width="100%"></a></div></div>
-
+ <!--1604--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/950/41341696094_6280a62f06_k.jpg" height="200px"><figcaption><b>ТБ1</b> 📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/cometbg/41341696094/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/950/41341696094_6280a62f06_k.jpg" width="100%"></a></div></div>
+<!--1608--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50029557733_114f659dca_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/50029557733/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/50029557733_114f659dca_k.jpg" width="100%"></a></div></div>
+<!--1603--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52682885273/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" width="100%"></a></div></div>
+<!--1607--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" height="200px"><figcaption><b>ТБ4</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/26175023769/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/4465/26175023769_56afdfe48f_k.jpg" width="100%"></a></div></div>
+<!--1631--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51297574314_aa5b0ad7c3_k.jpg" height="200px"><figcaption><b>ТБ5</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51297574314/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/51297574314_aa5b0ad7c3_k.jpg" width="100%"></a></div></div>
 <!--1603--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52762573864_a21351fb11_k.jpg" height="200px"><figcaption><b>ТБ11</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/196945517@N03/52558614022/in/album-72177720303732547/" target="_blank" title="1603 "> <img src=" https://live.staticflickr.com/65535/52762573864_a21351fb11_k.jpg" width="100%"></a></div></div>
