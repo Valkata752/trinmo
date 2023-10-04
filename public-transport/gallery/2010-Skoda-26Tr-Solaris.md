@@ -2,7 +2,7 @@
 title: Škoda 26Tr Solaris - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-04T08:58:07.879Z
+date: 2023-10-04T22:18:42.304Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T09:10:53.398Z
@@ -18,6 +18,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1603
+<!--1603--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51069315187_2fcf78a439_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51069315187/" target="_blank" title="1603 "> <img src=" https://live.staticflickr.com/65535/51069315187_2fcf78a439_k.jpg" width="100%"></a></div></div>
+
  <!--1603--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52682885273/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/52682885273_67b40c694d_b.jpg" width="100%"></a></div></div>
 <!--1603--> 
@@ -34,6 +37,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1605
 <!--1605--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52094972909_4ed77d7bba_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52094972909/" target="_blank" title="1605 "> <img src=" https://live.staticflickr.com/65535/52094972909_4ed77d7bba_k.jpg" width="100%"></a></div></div>
+
+<!--1605--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52993936661_2b91a0b274_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/52993936661/" target="_blank" title="1605 "> <img src=" https://live.staticflickr.com/65535/52993936661_2b91a0b274_k.jpg" width="100%"></a></div></div>
 
 <!--1605--> 
@@ -41,6 +47,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1606
+<!--1606--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51425137099_7154f7d62e_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/192794926@N05/51425137099/" target="_blank" title="1606 "> <img src=" https://live.staticflickr.com/65535/51425137099_7154f7d62e_k.jpg" width="100%"></a></div></div>
+
 <!--1606--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52004522183_a29bc6e7f7_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://https://www.flickr.com/photos/137241490@N07/52004522183/" target="_blank" title="1606 "> <img src=" https://live.staticflickr.com/65535/52004522183_a29bc6e7f7_k.jpg" width="100%"></a></div></div>
 
@@ -62,6 +71,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1608
 <!--1608--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/50029557733_114f659dca_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/50029557733/" target="_blank" title="1608 "> <img src=" https://live.staticflickr.com/65535/50029557733_114f659dca_k.jpg" width="100%"></a></div></div>
+
+<!--1608--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51692018235_dea3c86a2c_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51692018235/" target="_blank" title="1608 "> <img src=" https://live.staticflickr.com/65535/51692018235_dea3c86a2c_k.jpg" width="100%"></a></div></div>
 
 <!--1608--> 
@@ -69,6 +81,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1609
+<!--1609--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52340883570_af481575af_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52340883570/" target="_blank" title="1609 "> <img src=" https://live.staticflickr.com/65535/52340883570_af481575af_b.jpg" width="100%"></a></div></div>
+
 <!--1609--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52063602136_11ba357763_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52063602136/" target="_blank" title="1609 "> <img src=" https://live.staticflickr.com/65535/52063602136_11ba357763_k.jpg" width="100%"></a></div></div>
 
@@ -87,6 +102,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1611
 <!--1611--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/48994404693_867cb2bb35_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/48994404693/" target="_blank" title="1611 "> <img src=" https://live.staticflickr.com/65535/48994404693_867cb2bb35_b.jpg" width="100%"></a></div></div>
+
+<!--1611--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53136553997_83a85b038d_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/196388478@N06/53136553997/" target="_blank" title="1611 "> <img src=" https://live.staticflickr.com/65535/53136553997_83a85b038d_k.jpg" width="100%"></a></div></div>
 
 <!--1611--> 
@@ -94,6 +112,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1612
+<!--1612--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51224625573_92776bcb0a_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51224625573/" target="_blank" title="1612 "> <img src=" https://live.staticflickr.com/65535/51224625573_92776bcb0a_b.jpg" width="100%"></a></div></div>
+
 <!--1612--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52327631123_ec825d9329_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52327631123/" target="_blank" title="1612 "> <img src=" https://live.staticflickr.com/65535/52327631123_ec825d9329_k.jpg" width="100%"></a></div></div>
 
@@ -103,6 +124,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1613
 <!--1613--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51190954042_8619d64cb4_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51190954042/" target="_blank" title="1613 "> <img src=" https://live.staticflickr.com/65535/51190954042_8619d64cb4_b.jpg" width="100%"></a></div></div>
+
+<!--1613--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53170768037_e9308cfd90_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/53170768037/" target="_blank" title="1613 "> <img src=" https://live.staticflickr.com/65535/53170768037_e9308cfd90_k.jpg" width="100%"></a></div></div>
 
 <!--1613--> 
@@ -111,6 +135,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1614
 <!--1614--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/48985321363_e8257fbaf7_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/48985321363/" target="_blank" title="1614 "> <img src=" https://live.staticflickr.com/65535/48985321363_e8257fbaf7_b.jpg" width="100%"></a></div></div>
+
+<!--1614--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52994401523_9fde6c61d0_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/52994401523/" target="_blank" title="1614 "> <img src=" https://live.staticflickr.com/65535/52994401523_9fde6c61d0_k.jpg" width="100%"></a></div></div>
 
 <!--1614--> 
@@ -118,6 +145,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1615
+<!--1615--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53190911079_0ef221a645_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/53190911079/" target="_blank" title="1615 "> <img src=" https://live.staticflickr.com/65535/53190911079_0ef221a645_b.jpg" width="100%"></a></div></div>
+
 <!--1615--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53137353794_7de0eaf044_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/196388478@N06/53137353794/" target="_blank" title="1615 "> <img src=" https://live.staticflickr.com/65535/53137353794_7de0eaf044_k.jpg" width="100%"></a></div></div>
 
@@ -144,6 +174,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1618
 <!--1618--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52685807872_94368bd955_b.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Александър Иванов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/197408781@N03/52685807872/" target="_blank" title="1618 "> <img src=" https://live.staticflickr.com/65535/52685807872_94368bd955_b.jpg" width="100%"></a></div></div>
+
+<!--1618--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51877345258_ca7476a58e_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51877345258/" target="_blank" title="1618 "> <img src=" https://live.staticflickr.com/65535/51877345258_ca7476a58e_k.jpg" width="100%"></a></div></div>
 
 <!--1618--> 
@@ -159,6 +192,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1620
+<!--1620--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/48919370863_a5d5262fd0_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/48919370863/" target="_blank" title="1620 "> <img src=" https://live.staticflickr.com/65535/48919370863_a5d5262fd0_k.jpg" width="100%"></a></div></div>
+
 <!--1620--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53198373950_4943e20ad6_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/53198373950/" target="_blank" title="1620 "> <img src=" https://live.staticflickr.com/65535/53198373950_4943e20ad6_k.jpg" width="100%"></a></div></div>
 
@@ -192,6 +228,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1624
 <!--1624--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52007965209_bb1336f933_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52007965209/" target="_blank" title="1624 "> <img src=" https://live.staticflickr.com/65535/52007965209_bb1336f933_k.jpg" width="100%"></a></div></div>
+
+<!--1624--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52994076284_26aad428bd_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/52994076284/" target="_blank" title="1624 "> <img src=" https://live.staticflickr.com/65535/52994076284_26aad428bd_k.jpg" width="100%"></a></div></div>
 
 <!--1624--> 
@@ -208,6 +247,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1626
 <!--1626--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51951812248_1bb0a9e9fa_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51951812248/" target="_blank" title="1626 "> <img src=" https://live.staticflickr.com/65535/51951812248_1bb0a9e9fa_k.jpg" width="100%"></a></div></div>
+
+<!--1626--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51691133226_99515b32a9_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51691133226/" target="_blank" title="1626 "> <img src=" https://live.staticflickr.com/65535/51691133226_99515b32a9_k.jpg" width="100%"></a></div></div>
 
 <!--1626--> 
@@ -215,6 +257,10 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1627
+<!--1627--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52015475690_20d2fe0def_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52015475690/" target="_blank" title="1627 ">
+<img src=" https://live.staticflickr.com/65535/52015475690_20d2fe0def_k.jpg" width="100%"></a></div></div>
+
 <!--1627--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/53198379660_518a628c3e_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/53198379660/" target="_blank" title="1627 ">
 <img src=" https://live.staticflickr.com/65535/53198379660_518a628c3e_k.jpg" width="100%"></a></div></div>
@@ -225,6 +271,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1628
+<!--1628--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52094755873_e4417abfcc_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52094755873/" target="_blank" title="1628 "> <img src=" https://live.staticflickr.com/65535/52094755873_e4417abfcc_k.jpg" width="100%"></a></div></div>
+
 <!--1628--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51926488111_2c82c3772d_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51926488111/" target="_blank" title="1628 "> <img src=" https://live.staticflickr.com/65535/51926488111_2c82c3772d_k.jpg" width="100%"></a></div></div>
 
@@ -242,6 +291,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 ## Tabs {.tabset}
 ### 1630
 <!--1630--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/51102034490_06b5705a32_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/192265573@N05/51102034490/" target="_blank" title="1630 "> <img src=" https://live.staticflickr.com/65535/51102034490_06b5705a32_k.jpg" width="100%"></a></div></div>
+
+<!--1630--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52480050157_704cbc21e5_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/196876073@N04/52480050157/" target="_blank" title="1630 "> <img src=" https://live.staticflickr.com/65535/52480050157_704cbc21e5_k.jpg" width="100%"></a></div></div>
 
 <!--1630--> 
@@ -249,6 +301,9 @@ dateCreated: 2023-09-30T09:10:53.398Z
 
 ## Tabs {.tabset}
 ### 1631
+<!--1631--> 
+<div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/4775/40155616194_88264519e6_k.jpg" height="200px"><figcaption><b>ТБ2</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/133968782@N06/40155616194/" target="_blank" title="1631 "> <img src=" https://live.staticflickr.com/4775/40155616194_88264519e6_k.jpg" width="100%"></a></div></div>
+
 <!--1631--> 
 <div class="dropdown"><button class="imgbtn"><figure> <img src="https://live.staticflickr.com/65535/52063823909_948f99ea91_k.jpg" height="200px"><figcaption><b>ТБ3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/52063823909/" target="_blank" title="1631 "> <img src=" https://live.staticflickr.com/65535/52063823909_948f99ea91_k.jpg" width="100%"></a></div></div>
 
