@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2023-10-04T21:34:13.427Z
+date: 2023-10-04T21:40:05.728Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -173,7 +173,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://drive.google.com/uc?id=1Eu6hOV8fwp3l6b1lfC8I1LQuwYxB9j0A"></td>
-    <td><b>Инвентарни номера:</b> 701, 707, 714, 716, 718, 806, 811, 815, 830, 802 (разнася пясък), 708 (учебен) <br><b>Линии на движение:</b> 6<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> няма</td>
+    <td><b>Инвентарни номера:</b> 802 (разнася пясък), 708 (учебен) <br><b>Линии на движение:</b> няма<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> няма</td>
   </tr>
   <td colspan=2 >ℹ️ <b>11 броя</b> - <a href="/bg/public-transport/fleet-list/1985-T6M-700">Повече информация...</a></td>
 </table>
