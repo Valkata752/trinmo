@@ -2,7 +2,7 @@
 title: BMC Procity CNG 2018 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T11:39:20.829Z
+date: 2023-10-06T20:21:38.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T14:46:51.750Z
@@ -17,8 +17,8 @@ dateCreated: 2023-08-08T14:46:51.750Z
 
 ## Tabs {.tabset}
 ### 1401
-<!--109--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Znqxeua_xwwMplqXYW4gca2wikdq_Qm0" height="200px"><figcaption><b>A109</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Znqxeua_xwwMplqXYW4gca2wikdq_Qm0" width="100%"></div></div>
+<!--1401-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52690711899_fc307424bb_b.jpg" height="200px"><figcaption> <b>A109</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52690711899" target="_blank" title="1401"> <img src="https://live.staticflickr.com/65535/52690711899_fc307424bb_b.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 1403
@@ -50,11 +50,13 @@ dateCreated: 2023-08-08T14:46:51.750Z
 <!--77--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ybIkP2gt91FdBK0XuiRE2ClFllPohCHr" height="200px"><figcaption><b>A77</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ybIkP2gt91FdBK0XuiRE2ClFllPohCHr" width="100%"></div></div>
 
-
 ## Tabs {.tabset}
 ### 1409
 <!--47--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bvwGrL7FR1CTj6UxHCtAO2hEZDWlGnki" height="200px"><figcaption><b>A47</b> 📷 Борис Драголов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bvwGrL7FR1CTj6UxHCtAO2hEZDWlGnki" width="100%"></div></div>
+ <!--1409-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52620002115_a6e0a5cb22_b.jpg" height="200px"><figcaption> <b>A109</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52620002115/" target="_blank" title="1409"> <img src="https://live.staticflickr.com/65535/52620002115_a6e0a5cb22_b.jpg" width="100%"></a></div></div>
+
 <!--111--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zf0d1X-HV7CQlugxo5yjAyMOa93glRh6" height="200px"><figcaption><b>A111</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zf0d1X-HV7CQlugxo5yjAyMOa93glRh6" width="100%"></div></div>
 <!--260--> 
@@ -105,6 +107,8 @@ dateCreated: 2023-08-08T14:46:51.750Z
 
 ## Tabs {.tabset}
 ### 1419
+ <!--1418-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52633584215_db6919c23d_b.jpg" height="200px"><figcaption> <b>A109</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52633584215/" target="_blank" title="1418"> <img src="https://live.staticflickr.com/65535/52633584215_db6919c23d_b.jpg" width="100%"></a></div></div>
 <!--5ТМ--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15jsmsjyhzMf_nxb_oHrzJ538VGM3HHF4" height="200px"><figcaption><b>A5ТМ</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15jsmsjyhzMf_nxb_oHrzJ538VGM3HHF4" width="100%"></div></div>
 
