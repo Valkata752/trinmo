@@ -2,7 +2,7 @@
 title: Метростанции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-09T15:13:04.532Z
+date: 2023-10-09T15:20:19.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T15:18:21.851Z
@@ -97,9 +97,9 @@ dateCreated: 2022-05-03T15:18:21.851Z
 
 ## В строеж от 2020г.
 - [:x: Метростанция 301 *Метростанцията е отпаднала*](/bg/sofia-metro/stations/301)
-- [:triangular_ruler: Метростанция 302 *Владимир Вазов*](/bg/sofia-metro/stations/vladimir-vazov)
-- [:triangular_ruler: Метростанция 303 *Тракия*](/bg/sofia-metro/stations/trakia)
-- [:triangular_ruler: Метростанция 304 *Стадион „Георги Аспарухов"*](/bg/sofia-metro/stations/georgi-asparuhov-stadium)
+- [:building_construction: Метростанция 302 *Владимир Вазов*](/bg/sofia-metro/stations/vladimir-vazov)
+- [:building_construction: Метростанция 303 *Тракия*](/bg/sofia-metro/stations/trakia)
+- [:building_construction: Метростанция 304 *Стадион „Георги Аспарухов"*](/bg/sofia-metro/stations/georgi-asparuhov-stadium)
 {.links-list}
 
 
@@ -122,3 +122,9 @@ dateCreated: 2022-05-03T15:18:21.851Z
 - [:metro: Метростанция 317 *Овча купел 2*](/bg/sofia-metro/stations/ovcha-kupel-2)
 - [:metro: Метростанция 318 *Горна баня*](/bg/sofia-metro/stations/gorna-banya)
 {.links-list}
+
+
+## 2023
+- [:building_construction: Метростанция ? *Модерно предградие*](/bg/sofia-metro/stations/moderno-predgradie)
+{.links-list}
+
