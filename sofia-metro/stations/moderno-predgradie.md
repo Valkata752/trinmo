@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T14:57:37.646Z
+date: 2023-10-09T14:57:53.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -34,7 +34,7 @@ dateCreated: 2023-10-09T13:20:16.523Z
 ### Tabs {.tabset}
 #### Захранване
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#FFB74D"> Захранване на метрото с влакове за М1 (червено) и М2 (синьо) при МС Сливница</span><br></td>
+<td><span style="color:#99999"> Захранване на метрото с влакове за М1 (червено) и М2 (синьо) при МС Сливница</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1RBjBZirGmde1A8ZRSk2F4Xi4leXgpTaE"></td></tr>
   <td colspan=2 >ℹ️ Гергин Борисов<a href=""><b></b></a></td></table></div>
   
@@ -46,7 +46,7 @@ dateCreated: 2023-10-09T13:20:16.523Z
 ## Tabs {.tabset}
 ### Етапност
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#FFB74D"> Етапи на строителството</span><br></td>
+<td><span style="color:#99999"> Етапи на строителството</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td></tr>
   <td colspan=2 >ℹ️ Гергин Борисов<a href=""><b></b></a></td></table></div>
   
