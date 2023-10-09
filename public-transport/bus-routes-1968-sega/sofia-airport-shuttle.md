@@ -2,7 +2,7 @@
 title: Автобусна линия Sofia Airport Shuttle
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T07:32:20.714Z
+date: 2023-10-09T07:32:52.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T07:08:50.201Z
@@ -64,6 +64,7 @@ dateCreated: 2023-10-09T07:08:50.201Z
 <!--1171--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" height="200px"><figcaption><b>9403 </b>📷 Мартин Чорбаджийски</figcaption></figure></button><div class="dropdown-content"><a href="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" target="_blank" title="1171"> <img src="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" width="100%"></a></div></div>
 
+# Tabs {.tabset}
 ## Стандартни
 <!--9069--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" height="200px"><figcaption><b>9069 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" width="100%"></a></div></div>
