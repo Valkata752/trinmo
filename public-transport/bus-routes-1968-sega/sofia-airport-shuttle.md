@@ -2,7 +2,7 @@
 title: Автобусна линия Sofia Airport Shuttle
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T07:29:33.687Z
+date: 2023-10-09T07:31:13.434Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T07:08:50.201Z
@@ -65,6 +65,8 @@ dateCreated: 2023-10-09T07:08:50.201Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" height="200px"><figcaption><b>9403 </b>📷 Мартин Чорбаджийски</figcaption></figure></button><div class="dropdown-content"><a href="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" target="_blank" title="1171"> <img src="https://forum.gtsofia.info/index.php?action=dlattach;topic=389.0;attach=134716" width="100%"></a></div></div>
 
 ## Стандартни
+<!--9069--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" height="200px"><figcaption><b>9069 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" width="100%"></a></div></div>
 <!--0253--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/18/31/49/1831495.jpg" height="200px"><figcaption><b>0253 </b>📷 Мартин Чорбаджийски</figcaption></figure></button><div class="dropdown-content"><a href="https://transphoto.org/photo/18/31/49/1831495.jpg" width="100%"></a></div></div>
 <!--2927--> 
