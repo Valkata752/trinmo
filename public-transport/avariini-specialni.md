@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T10:36:07.596Z
+date: 2023-10-09T18:36:53.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -566,7 +566,7 @@ dateCreated: 2023-03-17T08:25:15.949Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" height="200px"><figcaption> <b>СА5002АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" width="100%"></div></div>
 
 
-### 09091313
+### 0913
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
@@ -580,6 +580,24 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### Галерия
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" height="200px"><figcaption> <b>СА0913АР</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" width="100%"></div></div>
+
+
+
+
+### 0910
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q"></td>
+    <td>Товарен</td>
+  </tr>
+</table>
+
+##### Галерия
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q" height="200px"><figcaption> <b>СА0910АР</b> 📷 trinmo.org</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q" width="100%"></div></div>
 
 
 ## Автобуси
