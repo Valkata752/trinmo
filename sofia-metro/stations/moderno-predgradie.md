@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T14:39:22.042Z
+date: 2023-10-09T14:57:37.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -33,17 +33,11 @@ dateCreated: 2023-10-09T13:20:16.523Z
 
 ### Tabs {.tabset}
 #### Захранване
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1RBjBZirGmde1A8ZRSk2F4Xi4leXgpTaE"></td>
-    <td><b>Захранване на метрото с влакове за М1 (червено) и М2 (синьо) при МС Сливница</b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Гергин Борисов</td>
-</table>
-
-
-
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><span style="color:#FFB74D"> Захранване на метрото с влакове за М1 (червено) и М2 (синьо) при МС Сливница</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1RBjBZirGmde1A8ZRSk2F4Xi4leXgpTaE"></td></tr>
+  <td colspan=2 >ℹ️ Гергин Борисов<a href=""><b></b></a></td></table></div>
+  
 
 Текущият процес по извеждане и въвеждане на влакове на линия е с множество конфликтни ситуации и с много малък свободен прозорец между влаковете (около 2 минути). Именно нуждата М2 да има бърза и безконфликтна връзка с депото облуславя избраната конструкция на МС Модерно предградие. Тя е разположена северно от жп линията Сoфия-Вoлуяк, като изходите й ще са разположени от двете страни на жп линията, където непосредствено над нея се разполага жп спирка, правеща връзка с влаковете, обслужващи Волуяк, Сливница и Банкя. Изходите ѝ лежат съответно в ж.к. Обеля 1 и кв. Модерно предградие.
 
@@ -51,14 +45,11 @@ dateCreated: 2023-10-09T13:20:16.523Z
 
 ## Tabs {.tabset}
 ### Етапност
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td>
-    <td><b>Етапи на строителството</b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Гергин Борисов</td>
-</table>
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><span style="color:#FFB74D"> Етапи на строителството</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td></tr>
+  <td colspan=2 >ℹ️ Гергин Борисов<a href=""><b></b></a></td></table></div>
+  
 
 ## Прецедент
 
