@@ -2,7 +2,7 @@
 title: Автобусна линия Sofia Airport Shuttle
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T07:21:44.893Z
+date: 2023-10-09T07:25:18.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T07:08:50.201Z
@@ -65,5 +65,7 @@ dateCreated: 2023-10-09T07:08:50.201Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49110934316_9fd873dceb_k.jpg" height="200px"><figcaption><b>1171 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/185428551@N02/49110934316/" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/49110934316_9fd873dceb_k.jpg" width="100%"></a></div></div>
 
 ## Стандартни
+<!--0253--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/18/31/49/1831495.jpg" height="200px"><figcaption><b>0253 </b>📷 Мартин Чорбаджийски</figcaption></figure></button><div class="dropdown-content"><a href="https://transphoto.org/photo/18/31/49/1831495.jpg" width="100%"></a></div></div>
 <!--2927--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://imhd.sk/transport/media/gn/00255564/5E9-2927-Sofia-Airport-%D0%9B%D0%B5%D1%82%D0%B8%D1%89%D0%B5-%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg?272823714" height="200px"><figcaption><b>2927 </b>📷 imhd.sk</figcaption></figure></button><div class="dropdown-content"><a href="https://imhd.sk/transport/media/gn/00255564/5E9-2927-Sofia-Airport-%D0%9B%D0%B5%D1%82%D0%B8%D1%89%D0%B5-%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg?272823714" target="_blank" title="1171"> <img src="https://imhd.sk/transport/media/gn/00255564/5E9-2927-Sofia-Airport-%D0%9B%D0%B5%D1%82%D0%B8%D1%89%D0%B5-%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg?272823714" width="100%"></a></div></div>
