@@ -2,7 +2,7 @@
 title: Karsan e-Jest
 description: Транспорт, инфраструктрура и мобилност
 published: true
-date: 2023-08-26T14:15:10.123Z
+date: 2023-10-11T20:50:48.697Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-06T23:20:51.206Z
@@ -121,6 +121,11 @@ dateCreated: 2022-08-06T23:20:51.206Z
 <!--1034--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ddewx2XrnszQ0FBGXgcGAL4NAhHQvGA4" height="200px"><figcaption><b>A107</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ddewx2XrnszQ0FBGXgcGAL4NAhHQvGA4" width="100%"></div></div>
 
+
+## Tabs {.tabset}
+### У**
+<!--1027--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53252026985_390b54a3ce_o.jpg" height="200px"><figcaption><b>У2</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53252026985_390b54a3ce_o.jpg" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
