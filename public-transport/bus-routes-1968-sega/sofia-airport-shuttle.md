@@ -2,7 +2,7 @@
 title: Автобусна линия Sofia Airport Shuttle
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T07:32:52.718Z
+date: 2023-10-12T20:06:43.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T07:08:50.201Z
@@ -24,7 +24,7 @@ dateCreated: 2023-10-09T07:08:50.201Z
   <td colspan=2 >ℹ️ <a href="https://bntnews.bg/bg/a/nov-elektricheski-avtobus-prevozva-ptnitsite-mezhdu-terminalite-na-letishche-sofiya"><b>Репортаж на БНТ - 07.08.2017</b></a></td></table></div>
   
   
-  
+От 10.2023 линията се обслужва от електробус Ютонг.
 
 
 
@@ -66,8 +66,12 @@ dateCreated: 2023-10-09T07:08:50.201Z
 
 # Tabs {.tabset}
 ## Стандартни
+
+
 <!--9069--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" height="200px"><figcaption><b>9069 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DTIBRjvtnvE5kXweK1lm7_8VmeiVzdhI" height="200px"><figcaption><b>9069 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://drive.google.com/uc?id=1DTIBRjvtnvE5kXweK1lm7_8VmeiVzdhI" width="100%"></a></div></div>
+<!--9069--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" height="200px"><figcaption><b>6284 </b>📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/49258765923_222b2e628b_k.jpg" width="100%"></a></div></div>
 <!--0253--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/18/31/49/1831495.jpg" height="200px"><figcaption><b>0253 </b>📷 Мартин Чорбаджийски</figcaption></figure></button><div class="dropdown-content"><a href="https://transphoto.org/photo/18/31/49/1831495.jpg" width="100%"></a></div></div>
 <!--2927--> 
