@@ -2,7 +2,7 @@
 title: Автобусна линия Sofia Airport Shuttle
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-12T20:06:43.054Z
+date: 2023-10-12T20:07:09.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T07:08:50.201Z
@@ -54,7 +54,9 @@ dateCreated: 2023-10-09T07:08:50.201Z
 | PB 0253 HX | SOR NS 12 Electric |     1 |     2016 | ≤ 07.12.2022 | ≈ 10.03.2023 |
 
 
-По линията се движи Mercedes Conecto Lf
+По линията се движи Mercedes Conecto Lf.
+От 10.2023 линията се обслужва от електробус Ютонг.
+
 # Снимки
   
 # Tabs {.tabset}
