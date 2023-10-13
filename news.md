@@ -2,13 +2,20 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T15:28:14.122Z
+date: 2023-10-13T06:13:19.502Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
 ---
 
 <!--https://www.sofia.bg/transport-news--> 
+
+
+## 014.10.2023
+
+**Линия [X50](/bg/public-transport/bus-routes-1968-sega/X50) се удължава с една спирка от Орлов мост до Софийски Университет**
+
+
 
 ## 09.10.2023
 
