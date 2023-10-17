@@ -2,7 +2,7 @@
 title: Бюджет на Столична община - Капиталова програма
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-17T12:19:10.982Z
+date: 2023-10-17T12:36:44.373Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-26T07:34:07.813Z
@@ -13,42 +13,46 @@ dateCreated: 2022-07-26T07:34:07.813Z
 
 ## Капиталова програма за 2023г
 
-Капиталова програма: [**2023**](https://drive.google.com/file/d/1894DdbAhU5yS3-RH2CQPZTAcAsXcJdCk/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 814 от 14.09.2023 г. на Столичен общински съвет)`
+Капиталова програма: [**2023**](https://drive.google.com/file/d/1894DdbAhU5yS3-RH2CQPZTAcAsXcJdCk/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 814 от 14.09.2023)`
 
 
 ## Капиталова програма за 2022г
 
-Капиталова програма: [**2022**](https://drive.google.com/file/d/1894DdbAhU5yS3-RH2CQPZTAcAsXcJdCk/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 205 от 31.03.2022 г. на Столичен общински съвет)`
+Капиталова програма: [**2022**](https://drive.google.com/file/d/1894DdbAhU5yS3-RH2CQPZTAcAsXcJdCk/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 205 от 31.03.2022)`
 
 ## Капиталова програма за 2021г
 
-Капиталова програма: [**2021**](https://drive.google.com/file/d/1GTYCbh_AxRIyQsgdmEoaZaJcHbtHeFi5/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с )`
+Капиталова програма: [**2021**](https://drive.google.com/file/d/1GTYCbh_AxRIyQsgdmEoaZaJcHbtHeFi5/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 107 от 25.02.2021)`
 
 ## Капиталова програма за 2020г
 
-Капиталова програма: [**2020**](https://drive.google.com/file/d/1hugIEUqEeIWGzlxNP07pTAa28xzKMqKT/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с )`
+Капиталова програма: [**2020**](https://drive.google.com/file/d/1hugIEUqEeIWGzlxNP07pTAa28xzKMqKT/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 42 от 06.02.2020)`
 
 ## Капиталова програма за 2019г
 
-Капиталова програма: [**2019**](https://drive.google.com/file/d/169Z6z8BLRoe4buUN7t1vjNUeEs9kPcjB/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с )`
+Капиталова програма: [**2019**](https://drive.google.com/file/d/169Z6z8BLRoe4buUN7t1vjNUeEs9kPcjB/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 32 от 31.01.2019)`
 
 ## Капиталова програма за 2018г
 
-Капиталова програма: [**2018**](https://drive.google.com/file/d/12fRr-kD9Jd95j3g6Ltmw0axafeR_mVvm/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 4 от 25.01.2018 г.)`
+Капиталова програма: [**2018**](https://drive.google.com/file/d/12fRr-kD9Jd95j3g6Ltmw0axafeR_mVvm/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 4 от 25.01.2018)`
 
 ## Капиталова програма за 2017г
 
-Капиталова програма: [**2017**](https://drive.google.com/file/d/1TukiM9-wlBn4Do2jqzeVKDd1OVy9omhN/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 2 от 26.01.2017 г.)`
+Капиталова програма: [**2017**](https://drive.google.com/file/d/1TukiM9-wlBn4Do2jqzeVKDd1OVy9omhN/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 2 от 26.01.2017)`
 
 ## Капиталова програма за 2016г
 
-Капиталова програма: [**2016**](https://drive.google.com/file/d/17PwVkhHw6Z4D7PO7Y0bVX7DZB0pk5DWU/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 133/от 28.01.2016 година)`
+Капиталова програма: [**2016**](https://drive.google.com/file/d/17PwVkhHw6Z4D7PO7Y0bVX7DZB0pk5DWU/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 133 от 28.01.2016)`
 
 ## Капиталова програма за 2015г
 
-Капиталова програма: [**2015**](https://drive.google.com/file/d/1J2o_TDBkkuENFv0U8kUCPryf5KpLsrbN/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 48 от 12.02.2015 година)`
+Капиталова програма: [**2015**](https://drive.google.com/file/d/1J2o_TDBkkuENFv0U8kUCPryf5KpLsrbN/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 48 от 12.02.2015)`
 
 ## Капиталова програма за 2014г
 
-Капиталова програма: [**2014**](https://drive.google.com/file/d/12NOSiItmOpfFfwZq7aEKeLKwVl-JKcKa/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 51 от 06.02.2014 година)`
+Капиталова програма: [**2014**](https://drive.google.com/file/d/12NOSiItmOpfFfwZq7aEKeLKwVl-JKcKa/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 51 от 06.02.2014)`
 
+
+## Капиталова програма за 2011г
+
+Капиталова програма: [**2011**](https://drive.google.com/file/d/1rwXhrY6izap_YOm265eQDuH819rY8ON6/view?usp=sharing) / `(Бюджет на Столична община приет от Столичен общински съвет с Решение № 76 от 10.02.2011)`
