@@ -2,7 +2,7 @@
 title: Защо не бе приета икономическата рамка на транспорта за 2023 г.?
 description: Трансппорт, инфраструктура и мобилност
 published: true
-date: 2023-10-19T09:35:17.156Z
+date: 2023-10-19T09:39:51.337Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T09:22:14.793Z
@@ -32,8 +32,8 @@ dateCreated: 2023-10-19T09:22:14.793Z
   <td colspan=2 >ℹ️ <a href="/bg/economics-and-society/economic-framework"><b>Проект - 2023 | Приета - 2022 </b></a></td></table></div>
   
 
-# Tabs {.tabset}
-## 2023 - 2022
+## Tabs {.tabset}
+### 2023 - 2022
 | Показатели | Мярка |  2023 |  2022 |
 | --- | --- | --- | --- |
 | **В. Разходи на км пробег** |     |     |     |
