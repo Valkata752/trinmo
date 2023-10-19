@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T08:23:53.393Z
+date: 2023-10-19T09:07:46.437Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,6 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
+- [:euro: Защо не бе приета икономическата рамка на транспорта през 2023г.? *Петър Мънъри*](/bg/blog/pesa-trams-depot)
 - [:train: Защо новите трамваи Песа стоят в депото *Петър Мънъри*](/bg/blog/pesa-trams-depot)
 - [:bus: Допълнителни автобусни линии и тяхното таксуване *Петър Мънъри*](/bg/blog/additional-bus-lines)
 - [:herb::train: Зелени трамвайни релси *Петър Мънъри*](/bg/blog/green-tram-tracks)
