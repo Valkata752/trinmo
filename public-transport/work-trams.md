@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-27T10:41:18.337Z
+date: 2023-10-21T13:43:25.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -100,7 +100,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### 19??
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pQKZ_X6onxUMlVtBRtjZKzoX47SXJ1cKRiJk3l4Q5avdJpxYx5iW9x8QGtE2MvUi4rLbZH8bZOMY946aBs7yKNY4DztQ=w1920-h854"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1qo9GGvJXfep1A7tbZGASkJ-OQKvypMBc"></td>
     <td>тип трамвай: Siemens или Charleroi - черно<br> Преработван</td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
@@ -143,12 +143,11 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### 1914
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8NGfiDHnAglN8HvmDW0NlWJtddYrIm97BnjVYVeSU5kxlgZ5f3WpWhWUTql-EDViJdQo6eSTDYDApMiV1eBslMNW9KA=w1920-h854"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1wdyHs2eUAK-UDak303vCJ1oNHGnI6w_J"></td>
     <td>тип трамвай: Шарлероа<br> Работен</td>
   </tr>
   <td colspan=2 >ℹ️ Сдружение ГТИ</td>
 </table>
-
 
 
 ## 573
@@ -158,7 +157,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### 1924
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rsXFoAYSw70sHfRmSYPC0oGAmmE2N5vZ2TaktbqkjNJirNExTzrR5XShw4FxP3rSQbKvvs-tWqfcZwHVuSVTPeaMaC=w1920-h854"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1uzl73wJ87ucjYzwJjhKOf1LUMICYvr7m"></td>
     <td>тип трамвай: Siemens OSSB<br> Завод Красно село. Превозване на работници. Електрожен.</td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
@@ -189,11 +188,12 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### 1979
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ow3yowgkpBHkULeMNnzVWxF6fa1KeVqKexwU1uotWUfku9hUkuiulK7O1YUCQLwTabah99Bjz-V59WHAq9q1ghZhbHyA=w1920-h854"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1odK1HK57AssR5imX9UknMVWXJ7ipY8cU"></td>
     <td>Талигата, и част от кошът са от Цепелин. За ремонт на релсовия път и за аварийен трамвай при аварии и повреди. <br><br>Около 1912-1915г. е докаран първия работен вагон и е номериран 601. Добива популярност сред трамвайните работници като "Графинята". С голяма вероятност може да се твърди, че е белгийски и е построен заедно с Цепелините - рамата му е фиксирана върху талига, подобна на тези на Цепелините и на Nivelle. Има само един мотор 34kW и само ръчна спирачка. Кошът му прилича повече на барака, отколкото на вагон. Интересното е, че върху него пристига първият в България пантограф. Работи до 1975-76г., накрая като маневрена машина на депо "Красно село". Не е бракуван официално, а просто е зарязан.</td>
   </tr>
   <td colspan=2 >ℹ️ Източник</td>
 </table>
+
 
 ## 604
 
@@ -209,7 +209,6 @@ dateCreated: 2023-05-14T08:08:07.415Z
 </table>
 
 
-
 ## 608
 
 ## Tabs {.tabset}
@@ -217,7 +216,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### 1924
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ok65Vw4cei4IsZgz7v2_ZbXRrC3KYiyLcmK50FmzKE_czdN-dzTxtGLOLIhDgV_fbaWSrSdCSvZcW0I08suQsAfth6Bw=w1920-h854"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1TdrkB6gbO1dXUozr3alpbkX-wSVj0xCh"></td>
     <td>Преработен от Сименс за превозване на насипни товари.</td>
   </tr>
   <td colspan=2 >ℹ️ Предоставена от д-р Асен Стоянов</td>
