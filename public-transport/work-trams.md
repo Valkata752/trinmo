@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-21T13:43:25.240Z
+date: 2023-10-21T13:47:27.274Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -34,19 +34,19 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 ## Tabs {.tabset}
 
+
 ### 1938
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qOPUtPaT3Cbt23RRl7uFqC5WgtzrcYTwz6D55q5787yIfv7CG_O5RlrGrJPW3CVU9NuysX1VxDfSC-rGyYrVavRmHc9g=w1920-h854"></td>
+  <td style="width:400px"><img src="https://drive.google.com/uc?id=1wOWbpqCBVA4fGLWXzytrB13arzQUzOrL"></td>
     <td>тип трамвай: Breda<br> Работен трамвай с ремарке 583 собственост на депо Станьо Василев (Клокотница). В момента се намира в хале на Трамвайния завод.</td>
   </tr>
   <td colspan=2 >ℹ️ Източник</td>
 </table>
 
-
 ### Снимки
 <!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drivedrive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" width="100%"></div></div>
 <!--551--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1B7dCltAPnwFko_krwrru43sFc03fnuu9" height="200px"><figcaption><b>депо</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1B7dCltAPnwFko_krwrru43sFc03fnuu9" width="100%"></div></div>
 
