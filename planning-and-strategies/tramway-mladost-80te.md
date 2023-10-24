@@ -2,13 +2,15 @@
 title: Трамвай в Младост
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T15:02:50.199Z
+date: 2023-10-24T15:17:06.622Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
 ---
 
-Трамвай Младост
+# Трамвай Младост
+<img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl">
+
 
 ## Чертежи
 **1)** Улична регулация на трамвайно трасе от гара Искър до ж.к. Младост 
@@ -42,9 +44,9 @@ dateCreated: 2023-10-24T13:42:12.813Z
 ### Галерия
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" height="200px"><figcaption><b>18.06.2004</b><br>📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" width="100%"></div></div>
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 etnies</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" height="200px"><figcaption><b>19.03.2007</b><br>📷 etnies</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" width="100%"></div></div>
 
 
 
