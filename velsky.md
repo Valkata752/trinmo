@@ -2,7 +2,7 @@
 title: Вилиян Костадинов
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-24T20:01:08.388Z
+date: 2023-10-24T14:48:39.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-07T20:44:05.078Z
@@ -33,7 +33,7 @@ dateCreated: 2023-06-07T20:44:05.078Z
 | Flickr №20: | [Линк](https://www.flickr.com/photos/197908922@N02/) |  1000 снимки  | Снимки от 19.03.2023 до 13.05.2023 |
 | Flickr №21: | [Линк](https://www.flickr.com/photos/198225372@N02) |  1000 снимки  |        Снимки от 13.05.2023 до 17.07.2023 |
 | Flickr №22: | [Линк](https://www.flickr.com/photos/198839544@N08) |  1000 снимки  |        Снимки от 17.07.2023 до 08.09.2023 |
-| Flickr №22: | [Линк](https://www.flickr.com/photos/199209308@N04) | Използващ се. |        Снимки от 08.09.2023        |
+| Flickr №23: | [Линк](https://www.flickr.com/photos/199209308@N04) | Използващ се. |        Снимки от 08.09.2023        |
 {.dense}
 
 ## Портфолио снимки
