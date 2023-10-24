@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T14:24:51.714Z
+date: 2023-10-24T14:25:50.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -123,9 +123,6 @@ dateCreated: 2023-08-07T17:50:09.883Z
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53216339175_8861f5e1b7_o.jpg" height="200px"><figcaption><b>3313</b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53216339175_8861f5e1b7_o.jpg" width="100%"></div></div>
 
 ## Бързи и яростни 10
-> През юни 2023г. 3304 е спрян от движение.
-{.is-warning}
-
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/52886864316_151b91867c_b.jpg" height="200px"><figcaption><b>3304 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src=" https://live.staticflickr.com/65535/52865387129_576fcb586d_h.jpg " width="100%"></div></div>
 
 ## INTIMISIMI
