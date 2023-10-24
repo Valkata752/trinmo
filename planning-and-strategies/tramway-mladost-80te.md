@@ -2,7 +2,7 @@
 title: Трамвай в Младост
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T14:00:19.065Z
+date: 2023-10-24T14:16:56.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
@@ -35,8 +35,9 @@ dateCreated: 2023-10-24T13:42:12.813Z
 
 
 ### Галерия
-<!--1171--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49110934316_9fd873dceb_k.jpg" height="200px"><figcaption><b>1171 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/185428551@N02/49110934316/" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/49110934316_9fd873dceb_k.jpg" width="100%"></a></div></div>  
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" height="200px"><figcaption><b>18.06.2004</b><br>📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" width="100%"></div></div>
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 etnies</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
 
 
 
