@@ -2,7 +2,7 @@
 title: Трамвай в Младост
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T15:17:06.622Z
+date: 2023-10-24T17:30:52.781Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
@@ -50,7 +50,7 @@ dateCreated: 2023-10-24T13:42:12.813Z
 
 
 
-### Сегашно положение
+## Сегашно положение
 <img src="https://drive.google.com/uc?id=108m7wNSMpenYqACpDxou4gXlCGn-LK7z">
 
   
