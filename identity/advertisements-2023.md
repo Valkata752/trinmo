@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-16T19:22:31.168Z
+date: 2023-10-24T14:24:51.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 ## 📜 Списък
 |реклама| от |  до |    :train:   |    :trolleybus:   |   :bus:  |
 |---|:---:|:---:|:---:|:---:|:---:|
-|**N Play (по прозорци)**     |15.10.2023| |    |    | **1602, 3144, 3145**|
+|**nPloy (по прозорци)**     |15.10.2023| |    |    | **1602, 3144, 3145**|
 |**FOX (по прозорци)**     |02.10.2023| |    |    | **3142, 3143**|
 |**Logitech (по прозорци)**     |25.09/10.2023| |    |    | **2300**, **2500, 2501, 3140, 3650, 3651**|
 |**Сокове Florina (розов)**     |09.2023| |    |    | **3313**|
@@ -42,6 +42,9 @@ dateCreated: 2023-08-07T17:50:09.883Z
 |**Dungeon & Dragons (филм)** |03.2023|05.2023| || **3302**|
 |**Hitachi** |04.2023|06.2023|    |    | **3315**|
 {.dense}
+
+## nPloy
+<div class="dropdown"><button class="imgbtn"><img src="" height="200px"><figcaption><b>1601 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="" width="100%"></div></div>
 
 ## FOX (Star Channel)
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" height="200px"><figcaption><b>3142 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" width="100%"></div></div>
