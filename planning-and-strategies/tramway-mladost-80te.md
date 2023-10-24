@@ -2,7 +2,7 @@
 title: Трамвай в Младост
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T14:16:56.499Z
+date: 2023-10-24T14:20:22.739Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
@@ -38,6 +38,8 @@ dateCreated: 2023-10-24T13:42:12.813Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" height="200px"><figcaption><b>18.06.2004</b><br>📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" width="100%"></div></div>
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 etnies</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" height="200px"><figcaption><b>19.03.2007</b><br>📷 etnies</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" width="100%"></div></div>
 
 
 
