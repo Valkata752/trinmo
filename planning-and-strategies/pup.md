@@ -2,7 +2,7 @@
 title: Подробни устройствени планове
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-24T13:40:33.213Z
+date: 2023-10-26T21:05:07.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-04T17:59:20.094Z
