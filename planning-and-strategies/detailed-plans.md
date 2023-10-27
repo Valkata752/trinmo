@@ -2,7 +2,7 @@
 title: Подробни устройствени планове
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-27T05:28:01.814Z
+date: 2023-10-27T13:49:12.366Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-04T17:59:20.094Z
@@ -51,16 +51,46 @@ dateCreated: 2022-07-04T17:59:20.094Z
 ---
 
 ## Актуални
-| Наименование | Описание | ПКТП | ПРЗ | ОД | НАГ |
-| --- | --- | --- | --- | --- | --- |
-| Трамвайно трасе по бул. Копенхаген | м. „Младост 1А - разширение“ - м. „БАН - VII - VIII км“ - първи етап  <br>Първо обявяване в Държавен вестник и обществено обсъждане | [ПТКП](https://nag.sofia.bg/FileBrowser/File?path=esoft.portal%2FPUP%202022%2FMLADOST%20PRZ%20BAN%2FObqsnitelna%20zapiska%20PTKP_Redacted.pdf) | [ПРЗ](https://nag.sofia.bg/ServerFiles/Zoomify?url=esoft.portal%2FPUP%202022%2FMLADOST%20PRZ%20BAN%2FPRZ.zif) | [ОД](https://nag.sofia.bg/ServerFiles/Zoomify?url=esoft.portal%2FPUP%202022%2FMLADOST%20PRZ%20BAN%2FPOD.zif) | [312](https://nag.sofia.bg/SearchDevelopmentPlans/Info/312) |
-| Трамвайно трасе по бул. Монтевидео | [Подробен устройствен план - план за регулация и режим на застрояване за преструктуриране на жилищен комплекс "Овча купел 1 - 4, 5, 6 микрорайон", район "Овча купел"]()  <br>**Влезли в сила** | [ПТКП](https://nag.sofia.bg/FileBrowser/File?path=esoft.portal%2FPUP%202022%2FOVCHA%20KUPEL%201%20-%204%2C5%2C6%2FPKTP_ob_zapiska_Redacted.pdf) | [ПЗ](https://nag.sofia.bg/SearchDevelopmentPlans/ViewAttachment?filename=esoft.portal%2FPUP%202022%2FOVCHA%20KUPEL%201%20-%204%2C5%2C6%2F01_PZ.zif) | [ОД](https://nag.sofia.bg/ServerFiles/Zoomify?url=esoft.portal%2FPUP%202022%2FOVCHA%20KUPEL%201%20-%204%2C5%2C6%2F02_PKTP.zif) | [311](https://nag.sofia.bg/SearchDevelopmentPlans/Info/311) |
-| Трамвайно трасе по ул. Връх Манчо | бул. "Панчо Владигеров" от ул. "арх. Георги Ненов" до ул. "Черни Дрин"  <br>2010 г. - Трамвайно трасе от Люлин до Надежда (Връх Манчо), одобрен с Решение на СОС 509/23.09.2010 г.  <br>**Влезли в сила** |     |     |     | [163](https://nag.sofia.bg/SearchDevelopmentPlans/Info/163) |
-| Трамвайно трасе по ул. св. Климент Охридски | ПРЗ за М. ВЪРТОПО - ЮГ  <br>**В процедура - разглеждане от ОЕСУТ и корекции** |     | [ПРЗ](https://nag.sofia.bg/ServerFiles/Zoomify?url=esoft%2Fplanove%2Fpodrobni%2F2013%2FPRZ_m_Vyrtopa-iug_r-n_Studentski%2F) |     | [106](https://nag.sofia.bg/SearchDevelopmentPlans/Info/106) |
-| Трамвайно трасе по бул. Н. Габровски | ПР за ново трамвайно трасе от бул. "Пейо К. Яворов" до гара Пионер и изменение на улична регулация на м. "Борисова градина - Погребите" - част I от о. т. 247 до о. т. 19а  <br>**В процедура - обявяване на решения на Столичен Общински Съвет (СОС)** |     |     |     | [93](https://nag.sofia.bg/SearchDevelopmentPlans/Info/93) |
-| Трамвайно трасе бул. Вардар | ИПУР на бул. "Вардар", ИПР на контактните територии и ИПР и режими на застрояване  <br>**В процедура - обявяване на решения на Столичен Общински Съвет (СОС)** |     |     |     | [81](https://nag.sofia.bg/SearchDevelopmentPlans/Info/81) |
-{.dense}
 
+## Tabs {.tabset}
+### Копенхаген
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по бул. Копенхаген </b><br>м. „Младост 1А - разширение“ - м. „БАН - VII - VIII км“ - първи етап<br></td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/312"><b>НАГ - 312</b></a></td></table></div>
+  
+### Монтевидео
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по бул. Монтевидео </b><br>Подробен устройствен план - план за регулация и режим на застрояване за преструктуриране на жилищен комплекс "Овча купел 1 - 4, 5, 6 микрорайон", район "Овча купел<br></td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/311"><b>НАГ - 311</b></a></td></table></div>
+  
+  
+### Връх Манчо
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по ул. Връх Манчо </b><br>бул. "Панчо Владигеров" от ул. "арх. Георги Ненов" до ул. "Черни Дрин" - 2010 г.<br> Трамвайно трасе от Люлин до Надежда (Връх Манчо), одобрен с Решение на СОС 509/23.09.2010 г.  </td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/163"><b>НАГ - 163</b></a></td></table></div>  
+  
+### Връх Манчо
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по ул. св. Климент Охридски </b><br>ПРЗ за М. ВЪРТОПО - ЮГ<br> </td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/106"><b>НАГ - 106</b></a></td></table></div>  
+  
+  
+### Трамвайно трасе по бул. Н. Габровски / бул. Симеоновско шосе
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по ул. св. Климент Охридски </b><br>ПР за ново трамвайно трасе от бул. "Пейо К. Яворов" до гара Пионер и изменение на улична регулация на м. "Борисова градина - Погребите" - част I от о. т. 247 до о. т. 19а<br> </td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/93"><b>НАГ - 93</b></a></td></table></div>  
+  
+### Трамвайно трасе по бул. Вардар
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе по бул. Вардар </b><br>ИПУР на бул. "Вардар", ИПР на контактните територии и ИПР и режими на застрояване<br> </td>
+<td><img src="?"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies"><b>Повече информация...</b></a> | <a href="https://nag.sofia.bg/SearchDevelopmentPlans/Info/81"><b>НАГ - 81</b></a></td></table></div>  
+  
 ---
 
 ## Исторически
