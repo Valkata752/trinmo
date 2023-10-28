@@ -2,7 +2,7 @@
 title: Планиране и стратегии
 description: Кратко описание
 published: true
-date: 2023-10-28T16:11:50.200Z
+date: 2023-10-28T16:13:44.563Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:51:51.135Z
@@ -20,7 +20,7 @@ dateCreated: 2022-04-27T07:51:51.135Z
 
 <br>
 
-## Развитие на трамвайната мрежа и нереализирани планове
+## :train: Трамвайни архиви
 
 - [:memo: Планове за трамвай до ж.к. Младост 4 *1982, 1983 и 1986 г.*](/bg/planning-and-strategies/tram-archives/mladost-4)
 - [:train: Трамваи през Подуяне *19хх*](/bg/planning-and-strategies/tram-archives/poduiane)
