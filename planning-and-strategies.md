@@ -2,7 +2,7 @@
 title: Планиране и стратегии
 description: Кратко описание
 published: true
-date: 2023-10-28T16:07:52.409Z
+date: 2023-10-28T16:11:50.200Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:51:51.135Z
@@ -21,7 +21,7 @@ dateCreated: 2022-04-27T07:51:51.135Z
 <br>
 
 ## Развитие на трамвайната мрежа и нереализирани планове
-ПУП се използва като инструмент за конкретизиране на политиката за градско пространствено развитие и устройство на територията
+
 - [:memo: Планове за трамвай до ж.к. Младост 4 *1982, 1983 и 1986 г.*](/bg/planning-and-strategies/tram-archives/mladost-4)
 - [:train: Трамваи през Подуяне *19хх*](/bg/planning-and-strategies/tram-archives/poduiane)
 - [:memo: Трамвай 4 до гара Искър *19хх*](/bg/planning-and-strategies/tram-archives/tm4-gara-iskar)
@@ -34,7 +34,6 @@ dateCreated: 2022-04-27T07:51:51.135Z
 - [:train: Трамваите през Централна гара преди реконструкцията *19хх*](/bg/planning-and-strategies/tram-archives/central-railway-station)
 - [:train: Трамваите през Центъра - 1 част *пл. Възраждане, пл. Македония*](/bg/planning-and-strategies/tram-archives/pl-vazrajdane-and-macedonia)
 - [:train: Трамваите през Центъра - 2 част *пл. св. Неделя*](/bg/planning-and-strategies/tram-archives/pl-sv-nedelya)
-
 {.links-list}
 
 <br>
