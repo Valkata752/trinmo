@@ -1,15 +1,13 @@
 ---
-title: Планирано трамвайно трасе в ж.к. Младост
+title: Планове за трамвай до ж.к. Младост 4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-28T14:58:26.450Z
+date: 2023-10-28T14:59:36.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
 ---
 
-# Трамвай Младост
-<br>
 <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl">
 
 
