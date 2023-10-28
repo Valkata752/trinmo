@@ -2,7 +2,7 @@
 title: Планирано трамвайно трасе в ж.к. Младост
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-25T06:36:26.579Z
+date: 2023-10-28T14:58:26.450Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
@@ -51,7 +51,7 @@ dateCreated: 2023-10-24T13:42:12.813Z
 
 
 
-## Сегашно положение
+## Съществуващо положение
 <img src="https://drive.google.com/uc?id=108m7wNSMpenYqACpDxou4gXlCGn-LK7z">
 
   
