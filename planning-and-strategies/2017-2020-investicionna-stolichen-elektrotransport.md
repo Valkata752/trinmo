@@ -2,7 +2,7 @@
 title: Инвестиционна програма на Столичен електротранспорт - 2017-2020
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T11:59:42.331Z
+date: 2023-10-30T12:00:18.761Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T11:59:21.648Z
@@ -14,5 +14,5 @@ dateCreated: 2023-10-30T11:59:21.648Z
 
 
 ## Оригинален документ
-<iframe src="https://drive.google.com/file/d/1G6jOzy0qb_-z6ZukFZ7yl4iZ0jg_d9xK/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1G6jOzy0qb_-z6ZukFZ7yl4iZ0jg_d9xK/preview" width="100%" height="600px"></iframe>
 
