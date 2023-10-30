@@ -2,17 +2,26 @@
 title: Програма за развитие на велосипедния транспорт на територията на Столична община 2016-2019
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T12:04:58.574Z
+date: 2023-10-30T12:08:59.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T12:53:29.129Z
 ---
 
 ## Решение на СОС
-> Програмата е приета с решение №XXX на Столичния общински съвет от XX.XX.XXX година
+> Програмата е приета с решение № XXX на Столичния общински съвет от XX.XX.2016 година
 {.is-info}
 
 
 ## Оригинален документ
+- [:memo: Изтегли тук *Програма за развитие на велосипедния транспорт 2012 - 2015 г.*](https://drive.google.com/file/d/15oF9L7zvf15FXSq6X01ffC2Ht4vk-dIp/view?usp=share_link)
+{.links-list}
+
 <iframe src="https://drive.google.com/file/d/15oF9L7zvf15FXSq6X01ffC2Ht4vk-dIp/preview" width="100%" height="600"></iframe>
+
+
+
+
+
+
 
