@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T15:51:21.571Z
+date: 2023-10-30T15:52:08.786Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -19,11 +19,14 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ## Tabs {.tabset}
 
 ### 
+> Пресичането на ул. Ц. Елеонора (Орханийското шосе) с околовръстната железница и трамвая
+{.is-info}
+
 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1hZElL2iDuq0PK-wTCiaz72B2WydU2otZ"></td>
 <td><img src="https://drive.google.com/uc?id=1vRJ70A9KtH4-a_yEG07zFdc_sjguXoHH"></td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ https://stara-sofia.blogspot.com/</td></table></div>
 
   
   
