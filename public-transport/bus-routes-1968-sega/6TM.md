@@ -2,7 +2,7 @@
 title: Автобусна линия 6TM
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T08:59:00.279Z
+date: 2023-10-30T09:08:47.270Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T07:30:11.188Z
@@ -53,7 +53,7 @@ dateCreated: 2022-07-20T07:30:11.188Z
 
 ## 2023 ремонт
 
-|<mark>2022/4|   **СВ**   | **НВ** | **СлВ** |  **Н**  |
+| 2022/4 |   **СВ**   | **НВ** | **СлВ** |  **Н**  |
 |------------|:----------:|:------:|:-------:|:-------:|
 | брой коли  |          1 |      1 |       1 |       1 |
 |  интервал  |         25 |     30 |      25 |      30 |
@@ -65,72 +65,19 @@ dateCreated: 2022-07-20T07:30:11.188Z
 # Снимки
   
 # Tabs {.tabset}
-   
-## Mercedes Conecto Lf
-<!--1803-->
-<div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/189238895@N04/50676707787/" target="_blank" title="1803 - Любомир Николов">
- <img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" width="100%"></a></div></div>
-  
-  
-## Mercedes O345 Conecto
-<!--1901-->
-  <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52481160743_d4c59f0977_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52481160743" target="_blank" title="1901 - 6ТМ Александър Бахчевански">
- <img src="https://live.staticflickr.com/65535/52481160743_d4c59f0977_k.jpg" width="100%"></a></div></div>
-<!--1907-->
-  <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/51693265601_b504c4ff67_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://flickr.com/photos/192249656@N04/51693265601" target="_blank" title="1907 - 6ТМ Захари Захариев">
- <img src="https://live.staticflickr.com/65535/51693265601_b504c4ff67_k.jpg" width="100%"></a></div></div>
-  <!--1909-->
- <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/51716015237_691bb327a7_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/194471658@N06/51716015237" target="_blank" title="1909 - 6ТМ Вилиян Костадинов">
- <img src="https://live.staticflickr.com/65535/51716015237_691bb327a7_k.jpg" width="100%"></a></div></div>
-  <!--1921-->
- <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52481264778" target="_blank" title="1921 - 6ТМ Вилиян Костадинов">
- <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" width="100%"></a></div></div>
-  <!--1923-->
- <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52481085590_d2ff9d1f43_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52481085590" target="_blank" title="1923 - 6ТМ Александър Бахчевански">
- <img src="https://live.staticflickr.com/65535/52481085590_d2ff9d1f43_k.jpg" width="100%"></a></div></div>
-<!--1927-->
-  <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52481085475_e75ddef29d_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52481085475" target="_blank" title="1927 - 6ТМ Александър Бахчевански">
- <img src="https://live.staticflickr.com/65535/52481085475_e75ddef29d_k.jpg" width="100%"></a></div></div>
-<!--1931-->
-    <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52481177428_8492c6a870_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52481177428" target="_blank" title="1931 - 6ТМ Александър Бахчевански">
- <img src="https://live.staticflickr.com/65535/52481177428_8492c6a870_k.jpg" width="100%"></a></div></div> 
-<!--1953-->
-   <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/50676620706_5b5e8a6bb5_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://flickr.com/photos/189238895@N04/50676620706" target="_blank" title="1953 - 6ТМ Любомир Николов">
- <img src="https://live.staticflickr.com/65535/50676620706_5b5e8a6bb5_k.jpg" width="100%"></a></div></div>
-<!--1959-->
- <div class="dropdown"><button class="imgbtn">
-   <img src="https://live.staticflickr.com/65535/52481176708_f22d04e52e_k.jpg" height="200px"></button><div class="dropdown-content">
-   <a href="https://www.flickr.com/photos/196876073@N04/52481176708" target="_blank" title="1959 - 6ТМ Александър Бахчевански">
-  <img src="https://live.staticflickr.com/65535/52481176708_f22d04e52e_k.jpg" width="100%"></a></div></div>   
-  
-## Mercedes O345
-<!--1761-->
-<div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/196876073@N04/52480112812" target="_blank" title="1761 - Александър Бахчевански">
- <img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" width="100%"></a></div></div>
 
-  ## MAN SG262
-<!--2139-->
-<div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" height="200px"></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/147931689@N02/48257012937" target="_blank" title="2139 - Емил Шиваров">
- <img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" width="100%"></a></div></div>
+
+## Единични
+<!--1803--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" height="200px"><figcaption><b>Mercedes Conecto Lf</b><br>📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/189238895@N04/50676707787/" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" width="100%"></a></div></div>
+
+<!--1921--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" height="200px"><figcaption><b>Mercedes O345 Conecto</b><br>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52481264778" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" width="100%"></a></div></div>
+
+<!--1761--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" height="200px"><figcaption><b>Mercedes O345</b><br>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52480112812" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" width="100%"></a></div></div>
+
+## Съчленени
+<!--2139--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" height="200px"><figcaption><b>MAN SG262</b><br>📷 Емил Шиваров</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/147931689@N02/48257012937" target="_blank" title="2139"> <img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" width="100%"></a></div></div>
+
