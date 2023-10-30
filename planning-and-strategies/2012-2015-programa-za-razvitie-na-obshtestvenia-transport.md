@@ -2,7 +2,7 @@
 title: Програма за развитие на обществения транспорт в София 2012 - 2015
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T12:05:09.401Z
+date: 2023-10-30T12:13:13.390Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T12:28:45.602Z
@@ -14,23 +14,6 @@ dateCreated: 2022-05-03T12:28:45.602Z
 
 
 ## Оригинален документ
-<iframe src="https://drive.google.com/file/d/1UwutTlUNWUifsl_VtNjtmjjcom-gMEye/preview" width="100%" height="600"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-Програмата е приета на на 08.03.2012г.  с [_решение №116 на СОС_](http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no272-%D0%BD%D0%B0-%D1%81%D0%BE%D1%81-%D0%BE%D1%82-14042016).
-
----
-
-Очаквайте скоро…
-
-Пълен текст на [**„Програма за развитие на градския транспорт в София 2012 - 2015 г."**](https://council.sofia.bg/documents/20182/130540/2012-02-07+-+%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0+%D0%B7%D0%B0+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5+%D0%BD%D0%B0+%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%8F+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F+2012+-+2015+%D0%B3.pdf/569fbd30-5497-4a00-8a1e-67c84acdcfaf)
+- [:memo: Изтегли тук *Програма за развитие на велосипедния транспорт 2012 - 2015 г.*](https://drive.google.com/file/d/1AmAOCdMx4W2Mz7NeyUZig04YjG-TK5qC/view?usp=share_link)
+{.links-list}
+<iframe src="https://drive.google.com/file/d/1AmAOCdMx4W2Mz7NeyUZig04YjG-TK5qC/preview" width="100%" height="600"></iframe>
