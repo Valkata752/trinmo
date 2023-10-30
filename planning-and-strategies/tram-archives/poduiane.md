@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T15:31:11.738Z
+date: 2023-10-30T15:51:21.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -12,7 +12,37 @@ dateCreated: 2023-10-30T15:21:21.930Z
 {.links-list}
 ---
 
-## 1ви етап
+## ЖП трасе
+
+
+
+## Tabs {.tabset}
+
+### 
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1hZElL2iDuq0PK-wTCiaz72B2WydU2otZ"></td>
+<td><img src="https://drive.google.com/uc?id=1vRJ70A9KtH4-a_yEG07zFdc_sjguXoHH"></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+  
+  
+## Tabs {.tabset}
+
+### 
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj"></td>
+<td>Последна спирка - Подуяне, 1965-та. Mотрисата е Ансалдо-Бреда, № 129 по линия 3.
+Стълбовете на контактната мрежа от царско време са прекрасни!
+</td></tr>
+  <td colspan=2 >ℹ️ Любомир Лазаров</td></table></div>
+  
+  
+  
+
+
+## Трамвай 3
 
 ### 1929
 ❤
@@ -34,14 +64,8 @@ dateCreated: 2023-10-30T15:21:21.930Z
   <td colspan=2 >ℹ️ Любомир Лазаров</td></table></div>
   
   
-  
-  
-
-  
-  
-  
-  
-## 2ри етап
+ 
+## Трамвай 10
 
 ### Маршрут на трамвай 10
 
@@ -63,7 +87,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
   
   
   
-## 3ти етап
+## Трамвай 20
 
 
 
