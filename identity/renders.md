@@ -2,7 +2,7 @@
 title: Рендъри и скици
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-17T18:35:16.922Z
+date: 2023-10-30T16:21:21.193Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T10:00:20.913Z
@@ -17,7 +17,26 @@ dateCreated: 2023-07-17T10:00:20.913Z
 <td><span> Метростанция "Георги Аспарухов</span></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
-## 303. Тракия
+  ## 304. Георги Аспарухов
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://cache2.24chasa.bg/Images/Cache/392/IMAGE_16033392_40_0.jpg"></td>
+<td><span> Метростанция "Георги Аспарухов / вестибюл/</span></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+  
+  ## 306. Цариградско шосе /Св.Анна/
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://cache2.24chasa.bg/Images/Cache/404/Image_16033404_40_0.jpg"></td>
+<td><span> Метростанция "Цариградско шосе"/Св.Анна/</span></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+  
+  
+## 303. Георги Аспарухов
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://cache1.24chasa.bg/Images/Cache/407/IMAGE_16033407_40_0.jpg"></td>
+<td><span> Метростанция "Георги Аспарухов /вестбюл/</span></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+
+## 304. Тракия
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1xsS3pTQhcLENI2EEK2xDdSMZx8TM5kk0"></td>
 <td><span> Метростанция "Тракия"</span></td></tr>
