@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-13T06:13:19.502Z
+date: 2023-10-30T12:36:39.783Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -10,11 +10,16 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 <!--https://www.sofia.bg/transport-news--> 
 
+## 01.11.2023
 
-## 014.10.2023
+> Линии [N1](/bg/public-transport/bus-routes-1968-sega/N1) и [N2](/bg/public-transport/bus-routes-1968-sega/N2) се завръщат след тригодишно отсъствие от 01.11.2023!
+{.is-success}
 
-**Линия [X50](/bg/public-transport/bus-routes-1968-sega/X50) се удължава с една спирка от Орлов мост до Софийски Университет**
 
+## 14.10.2023
+
+> Линия [X50](/bg/public-transport/bus-routes-1968-sega/X50) се удължава с една спирка от Орлов мост до Софийски Университет
+{.is-info}
 
 
 ## 09.10.2023
