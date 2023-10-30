@@ -2,7 +2,7 @@
 title: Планиране и стратегии
 description: Кратко описание
 published: true
-date: 2023-10-28T16:17:15.834Z
+date: 2023-10-30T11:53:39.333Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:51:51.135Z
@@ -44,6 +44,7 @@ dateCreated: 2022-04-27T07:51:51.135Z
 - [:bus: 2012 - 2015 *Програма за развитие на обществения транспорт в София*](/bg/planning-and-strategies/2012-2015-programa-za-razvitie-na-obshtestvenia-transport)
 - [:bicyclist: 2012 - 2015 *Програма за развитие на велосипедния транспорт а територията на Столична община*](/bg/planning-and-strategies/2012-2015-programa-za-razvitie-na-velosipednia-transport)
 - [:bicyclist: 2012 - 2017 *План за развитие на велосипедния транспорт на територията на Столична община*](/bg/planning-and-strategies/2012-2017-plan-za-razvitie-na-velosipednia-transport)
+- [:train: 2017 - 2020 *Инвестиционна програма на Столичен електротранспорт*](/bg/planning-and-strategies/2012-2017-investicionna-stolichen-elektrotransport)
 {.links-list}
 
 ## Развитие на метрото
