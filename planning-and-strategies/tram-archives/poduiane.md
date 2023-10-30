@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T15:52:08.786Z
+date: 2023-10-30T15:52:41.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -29,19 +29,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
   <td colspan=2 >ℹ️ https://stara-sofia.blogspot.com/</td></table></div>
 
   
-  
-## Tabs {.tabset}
 
-### 
-
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj"></td>
-<td>Последна спирка - Подуяне, 1965-та. Mотрисата е Ансалдо-Бреда, № 129 по линия 3.
-Стълбовете на контактната мрежа от царско време са прекрасни!
-</td></tr>
-  <td colspan=2 >ℹ️ Любомир Лазаров</td></table></div>
-  
-  
   
 
 
