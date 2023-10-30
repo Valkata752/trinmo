@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T09:21:15.665Z
+date: 2023-10-30T12:30:48.693Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -28,7 +28,6 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 ## 2022
 - [:construction: Реконструкция на на трамваен релсов път по бул. Цар Борис III - етап 2  *08.12.2022 -*](/bg/public-transport/route-changes/2022-rekonstrukcia-tsar-boris_iii)
-- [:construction:  Ремонт на ул. Кукуш и ул. Щросмайер  *19.09.2022 -*](/bg/public-transport/route-changes/2022-remont-kukush-shtrosmaier)
 - [:construction: :m: Строителството на Метродиаметър 3 в Левски *21.03.2022 -*](/bg/public-transport/route-changes/2022-stroitelstvo-metro-levski)
 {.links-list}
 
@@ -43,6 +42,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 
 ## 2022
+- [:white_check_mark:  Ремонт на ул. Кукуш и ул. Щросмайер  *19.09.2022 - 01.11.2023*](/bg/public-transport/route-changes/2022-remont-kukush-shtrosmaier)
 - [:white_check_mark: Реконструкция на водопровод в кв. Бояна  *29.08.2022 - 11.09.2022*](/bg/public-transport/route-changes/2022-rekonstrukcia-vodoprovod-boyana)
 - [:white_check_mark: Ремонт и рехабилитация на транспортен тунел по бул. Царица Йоана  *21.07.2022 - 07.03.2023*](/bg/public-transport/route-changes/2022-rekonstrukcia-tunnel-lyulin)
 - [:white_check_mark: Реконструкция на бул. Самоковско шосе  *26.07.2022 - 18.11.2022*](/bg/public-transport/route-changes/2022-rekonstrukcia-samokovsko-shose)
