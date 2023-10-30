@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T17:06:06.705Z
+date: 2023-10-30T19:49:51.135Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
