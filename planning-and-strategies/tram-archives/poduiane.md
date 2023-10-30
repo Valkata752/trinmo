@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T15:21:21.930Z
+date: 2023-10-30T15:31:11.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -15,11 +15,32 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ## 1ви етап
 
 ### 1929
+❤
 
 ### Маршрут на трамвай 3
 <table style="width:100%"><tr><td><span style="color:#64B5F6">1929 | <b>кръстовище ул. Пиротска, бул. Константин Величков</b> (сменя посоката по бул. Димитър Петков, ул. Цар Симеон и бул. Константин Величков) \- ул. Пиротска - бул. Княгиня Мария Луиза - бул. Княз Александър Дондуков - пам. Васил Левски - бул. Янко Сакъзов - бул. Мадрид - <b>обръщателно колело при гара Подуяне</b></span></td></tr><tr><td>ℹ️ <b><a href=""></a></b></td></tr></table>
 
 
+
+## Tabs {.tabset}
+
+### 
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj"></td>
+<td>Последна спирка - Подуяне, 1965-та. Mотрисата е Ансалдо-Бреда, № 129 по линия 3.
+Стълбовете на контактната мрежа от царско време са прекрасни!
+</td></tr>
+  <td colspan=2 >ℹ️ Любомир Лазаров</td></table></div>
+  
+  
+  
+  
+
+  
+  
+  
+  
 ## 2ри етап
 
 ### Маршрут на трамвай 10
@@ -29,7 +50,19 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 <table style="width:100%"><tr><td><span style="color:#E57373">август 1949 |<b> линията е закрита** *(маршрутът се поема от автобусна, а впоследствие от тролейбусна линия Л</b></span></td></tr><tr><td>ℹ️ <b><a href=""></a></b></td></tr></table>
 
+## Tabs {.tabset}
 
+### 
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1D8RS0BqAN8ZsjVm4lUXyu0cKryoYW9qu"></td>
+<td>Последната спирка на трамвай 10 на Оранхийско шосе
+(Сегашен бул. "Ботевградско шосе")
+</td></tr>
+  <td colspan=2 >ℹ️ www.stara-sofia.com</td></table></div>
+  
+  
+  
 ## 3ти етап
 
 
