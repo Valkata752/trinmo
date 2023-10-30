@@ -2,7 +2,7 @@
 title: Рендъри и скици
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T16:21:21.193Z
+date: 2023-10-30T16:26:59.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T10:00:20.913Z
@@ -11,7 +11,20 @@ dateCreated: 2023-07-17T10:00:20.913Z
 # Метродиаметър 3
 <br>
 
-## 304. Георги Аспарухов
+  
+  ## 306. Цариградско шосе /Св.Анна/
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://cache2.24chasa.bg/Images/Cache/404/Image_16033404_40_0.jpg"></td>
+<td><span> Метростанция "Цариградско шосе"/Св.Анна/</span></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+
+  ## 306.  Арена София /София Тех парк/
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://scontent.fsof8-1.fna.fbcdn.net/v/t39.30808-6/314562924_5557689144299989_3463033404723421530_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6IVHUmu_OCgAX-6WYJh&_nc_ht=scontent.fsof8-1.fna&oh=00_AfDtp_bNwWg_y258SPwSMwj_PO1LNFykHyA_jSTImnCqxQ&oe=654487E6"></td>
+<td><span> Метростанция "Арена София' /София Тех парк/</span></td></tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
+  
+  ## 304. Георги Аспарухов
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1p9-w8mdF1HL4fnQLlxbNLy62VJN8Qzxm"></td>
 <td><span> Метростанция "Георги Аспарухов</span></td></tr>
@@ -23,20 +36,13 @@ dateCreated: 2023-07-17T10:00:20.913Z
 <td><span> Метростанция "Георги Аспарухов / вестибюл/</span></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
-  ## 306. Цариградско шосе /Св.Анна/
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://cache2.24chasa.bg/Images/Cache/404/Image_16033404_40_0.jpg"></td>
-<td><span> Метростанция "Цариградско шосе"/Св.Анна/</span></td></tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
-  
-  
-## 303. Георги Аспарухов
+## 304. Георги Аспарухов
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://cache1.24chasa.bg/Images/Cache/407/IMAGE_16033407_40_0.jpg"></td>
 <td><span> Метростанция "Георги Аспарухов /вестбюл/</span></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
 
-## 304. Тракия
+## 303. Тракия
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1xsS3pTQhcLENI2EEK2xDdSMZx8TM5kk0"></td>
 <td><span> Метростанция "Тракия"</span></td></tr>
