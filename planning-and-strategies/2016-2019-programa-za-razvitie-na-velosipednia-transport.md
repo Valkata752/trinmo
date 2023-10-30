@@ -2,7 +2,7 @@
 title: Програма за развитие на велосипедния транспорт на територията на Столична община 2016-2019
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T12:08:59.702Z
+date: 2023-10-30T12:15:17.700Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T12:53:29.129Z
@@ -14,10 +14,10 @@ dateCreated: 2022-05-03T12:53:29.129Z
 
 
 ## Оригинален документ
-- [:memo: Изтегли тук *Програма за развитие на велосипедния транспорт 2012 - 2015 г.*](https://drive.google.com/file/d/15oF9L7zvf15FXSq6X01ffC2Ht4vk-dIp/view?usp=share_link)
+- [:memo: Изтегли тук *Програма за развитие на велосипедния транспорт 2016 - 2019 г.*](https://drive.google.com/file/d/1UwutTlUNWUifsl_VtNjtmjjcom-gMEye/view?usp=share_link)
 {.links-list}
 
-<iframe src="https://drive.google.com/file/d/15oF9L7zvf15FXSq6X01ffC2Ht4vk-dIp/preview" width="100%" height="600"></iframe>
+<iframe src="https://drive.google.com/file/d/1UwutTlUNWUifsl_VtNjtmjjcom-gMEye/preview" width="100%" height="600"></iframe>
 
 
 
