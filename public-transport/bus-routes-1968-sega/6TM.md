@@ -2,7 +2,7 @@
 title: Автобусна линия 6TM
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T09:08:47.270Z
+date: 2023-10-31T08:37:47.832Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T07:30:11.188Z
@@ -72,7 +72,7 @@ dateCreated: 2022-07-20T07:30:11.188Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" height="200px"><figcaption><b>Mercedes Conecto Lf</b><br>📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/189238895@N04/50676707787/" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" width="100%"></a></div></div>
 
 <!--1921--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" height="200px"><figcaption><b>Mercedes O345 Conecto</b><br>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52481264778" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" height="200px"><figcaption><b>Mercedes O345 Conecto</b><br>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52481264778" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" width="100%"></a></div></div>
 
 <!--1761--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" height="200px"><figcaption><b>Mercedes O345</b><br>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52480112812" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" width="100%"></a></div></div>
