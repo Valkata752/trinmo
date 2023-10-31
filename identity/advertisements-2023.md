@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-31T08:51:22.273Z
+date: 2023-10-31T08:56:49.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -88,7 +88,7 @@ dateCreated: 2023-08-07T17:50:09.883Z
 ## HELL Ice (син)
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53220663138_423e293223_h.jpg" height="200px"><figcaption><b>1117 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53220663138_423e293223_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53064668155_cd047b7bdf_b.jpg" height="200px"><figcaption><b>1131 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53064668155_cd047b7bdf_b.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" height="200px"><figcaption><b>1136 </b> 📷 Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" height="200px"><figcaption><b>1136 </b> 📷 ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53094680961_802aaaec67_b.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53206002198_04b0f04d69_h.jpg" height="200px"><figcaption><b>1138 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53206002198_04b0f04d69_h.jpg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" height="200px"><figcaption><b>3319 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53114291845_5031d834bb_b.jpg" width="100%"></div></div>
 
