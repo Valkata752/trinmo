@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-31T08:44:54.042Z
+date: 2023-10-31T08:49:22.361Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -44,6 +44,12 @@ dateCreated: 2023-08-07T17:50:09.883Z
 |**Dungeon & Dragons (филм)** |03.2023|05.2023| || **3302**|
 |**Hitachi** |04.2023|06.2023|    |    | **3315**|
 {.dense}
+
+## Иргите на глада (филм)
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53298981865_67e13d44b2_o.jpg" height="200px"><figcaption><b>3316 </b> 📷 ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53298981865_67e13d44b2_o.jpg" width="100%"></div></div>
+
+## Информационна кампания за превенция на остеопороза
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" height="200px"><figcaption><b>3322 </b> 📷 ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" width="100%"></div></div>
 
 ## nPloy
 <div class="dropdown"><button class="imgbtn"><img src="" height="200px"><figcaption><b>1601 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="" width="100%"></div></div>
