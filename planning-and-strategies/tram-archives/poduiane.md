@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T19:49:51.135Z
+date: 2023-10-31T15:01:23.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -12,7 +12,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 {.links-list}
 ---
 
-<img src="https://drive.google.com/uc?id=1tlPl3nfB0TGvm4EDfhCa78Sf6hSD_aDe">
+<img src="https://drive.google.com/uc?id=1coe0bK9IzkxxpNQflL6IaWo5AOZKAcAz">
 
 
 ## 1922 г.
