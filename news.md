@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T12:36:39.783Z
+date: 2023-11-01T12:01:46.102Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -14,6 +14,9 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 > Линии [N1](/bg/public-transport/bus-routes-1968-sega/N1) и [N2](/bg/public-transport/bus-routes-1968-sega/N2) се завръщат след тригодишно отсъствие от 01.11.2023!
 {.is-success}
+
+<img src="https://drive.google.com/uc?id=1JeWHGX_tBTyfSzX0OBkKCEa_EhBdhsRA">
+
 
 
 ## 14.10.2023
