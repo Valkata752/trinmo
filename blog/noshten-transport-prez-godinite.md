@@ -2,17 +2,27 @@
 title: Нощен градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-08T11:10:19.294Z
+date: 2023-11-01T22:45:06.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T11:32:45.780Z
 ---
 
+## 01.11.2023
+> [**N1**](/bg/public-transport/bus-routes-1968-sega/N1) ж.к. Люлин 1,2 - ж.к. Младост 4 обслужвана от АП-2 Малашевци
+> 
+> [**N2**](/bg/public-transport/bus-routes-1968-sega/N2) ж.к. Обеля 2 - Студентски град обслужвана от АП-2 Малашевци
+{.is-info}
+
+<img src="https://drive.google.com/uc?id=1JeWHGX_tBTyfSzX0OBkKCEa_EhBdhsRA">
+
+
+
 
 ### От 07.04.2018г. до 13.03.2020г.
 
 > [**N1**](/bg/public-transport/bus-routes-1968-sega/N1) ж.к. Люлин 1,2 - ж.к. Младост 4 обслужвана от АП-2 Малашевци
-> 
+>
 > [**N2**](/bg/public-transport/bus-routes-1968-sega/N2) ж.к. Обеля 2 - Студентски град обслужвана от АП-2 Малашевци
 > 
 > [**N3**](/bg/public-transport/bus-routes-1968-sega/N3) ж.к. Овча купел 2 - Автост. Изток обслужвана от АП-1 Земляне
