@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-02-26T10:55:34.922Z
+date: 2023-11-02T18:28:57.296Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -130,6 +130,23 @@ dateCreated: 2022-05-03T08:22:21.095Z
 <figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://lh4.googleusercontent.com/Z38457b0oits4_CwcJnlB0adhOvy-RaGAF-pXc7GDmEJTFYUbXyuXWCXxylZBeshCFY=w2400">
   <img src="https://lh4.googleusercontent.com/Z38457b0oits4_CwcJnlB0adhOvy-RaGAF-pXc7GDmEJTFYUbXyuXWCXxylZBeshCFY=w2400"/>
 </figure>
+
+
+# Транспертна карта София
+
+## 2002 
+
+##  Tabs {.tabset}
+
+### Автобуси
+<img src="https://drive.google.com/uc?id=1M6CtvYvGajEAld9Wd6NGGY6UviYyDYN2">
+
+
+
+### Маршрутни таксита
+<img src="https://drive.google.com/uc?id=1mIYs-XzN_c_kuGcgqgSjbrqriysi7PaR">
+
+
 
 # Спирки на градския транспорт
 # Tabs {.tabset}
