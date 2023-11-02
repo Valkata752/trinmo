@@ -2,13 +2,22 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-01T12:01:46.102Z
+date: 2023-11-02T09:16:49.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
 ---
 
 <!--https://www.sofia.bg/transport-news--> 
+
+
+
+## 02.11.2023
+> Започнаха проби по ремонтираното трасе към Княжево!
+{.is-info}
+
+<img src="https://drive.google.com/uc?id=1JqS-HVUJeDkgwSwMHxpzXGT_qeIjI8dO">
+
 
 ## 01.11.2023
 
