@@ -2,7 +2,7 @@
 title: Реконструцкция бул. Рожен
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-03T16:24:48.106Z
+date: 2023-11-03T16:25:29.580Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T11:15:12.453Z
@@ -49,5 +49,5 @@ dateCreated: 2022-07-20T11:15:12.453Z
 
 <iframe src="https://drive.google.com/file/d/1vZLY10cV_hsYqj02CA7vEMjjukfcwJCL/preview" width="100%" ></iframe>
 
-<iframe src="https://drive.google.com/file/d/1GdATLfDumBGe-YZzsp2JwbkylFq6VTNK/preview" width="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1doDQvMe5GLDBSkrN9qfrOJo__zdN7ccZ/preview" width="100%"></iframe>
 
