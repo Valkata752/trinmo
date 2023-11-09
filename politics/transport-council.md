@@ -2,13 +2,13 @@
 title: Комисия по транспорт и пътна безопасност
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-09T09:38:43.260Z
+date: 2023-11-09T09:39:47.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T13:00:45.211Z
 ---
 
-- [:notebook_with_decorative_cover: Архив транспортна комисия *мандат 2019-2023*](/bg/politics/transport-council/2019-2023)
+- [:notebook_with_decorative_cover: Архив *мандат 2019-2023*](/bg/politics/transport-council/2019-2023)
 {.links-list}
 
 
