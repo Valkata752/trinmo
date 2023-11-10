@@ -2,7 +2,7 @@
 title: Улична и пътна мрежа
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-10T15:08:53.329Z
+date: 2023-11-10T15:42:03.814Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T14:54:09.438Z
@@ -15,7 +15,14 @@ dateCreated: 2023-11-10T14:54:09.438Z
 <div class="table-responsive"><table style="width:100%"><tr>
   <td><span><b> Предстоящо </b> | 🏗️ Изграждане на бул.”Тодор Каблешков” от ул.”Луи Айер”до бул.“Черни връх“.</span><br></td>
 <td><img src="https://drive.google.com/uc?id=12JZwmz2eg23sW8Mu0PNplbxaGCdg6hRd"></td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/infrastructure/infrastructure/streets-and-roads/2023-kableshkov">Към страницата на проекта...<b></b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/infrastructure/streets-and-roads/2023-kableshkov">Към страницата на проекта...<b></b></a></td></table></div>
+  
+### ул. Филип Кутев
+<div class="table-responsive"><table style="width:100%"><tr>
+  <td><span><b> Изградено ✅ </b> | Изграждане по регулация на ул.”Филип Кутев” от ул.”Сребърна”до бул.“Симеоновско шосе“, район Лозенец.</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1yQ5E9SwEyL1AFEd197KjO840URF9g18Z"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/infrastructure/streets-and-roads/2023-filip-kutev">Към страницата на проекта...<b></b></a></td></table></div>
+  
   
   
 ## ОУП
