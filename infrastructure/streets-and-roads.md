@@ -2,14 +2,14 @@
 title: Улична и пътна мрежа
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-10T14:54:09.438Z
+date: 2023-11-10T14:59:54.658Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T14:54:09.438Z
 ---
 
 ## Пътна и улична мрежа - основни трасета на първостепенната улична мрежа
-Име на агломерацията: **София**
+Име на агломерацията: **София** - https://www.regag.eu/info?id=1&spr=4
 Брой общо: 29
 
 | Наименование на участъка | Клас | Дължина | Ширина | Бр.ленти | Година |
@@ -45,5 +45,16 @@ dateCreated: 2023-11-10T14:54:09.438Z
 | бул. "Христо Ботев" | 5 клас | 2.000 | 0.0 | 4 | 2019 |
 {.dense}
 
+
+## ОУП
+### ПЛАН-СХЕМА НА ПЪРВОСТЕПЕННАТА УЛИЧНА МРЕЖА НА гр. СОФИЯ - КЛАСИФИКАЦИЯ 
+<iframe src="https://drive.google.com/file/d/1NllqilWJVELQ7nFHdjmXsvvk_ziCEbci/preview" width="100%" height="480"></iframe>
+
+
+### ПЛАН-СХЕМА НА ПЪРВОСТЕПЕННАТА УЛИЧНА МРЕЖА НА гр.СОФИЯ - БРОЙ НА ПЪТНИТЕ ЛЕНТИ 
+<iframe src="https://drive.google.com/file/d/1YDB6xBeE-1gbAvu6ev_NOrbuUOyACdvR/preview" width="100%" height="480"></iframe>
+
+### КАРТОГРАМА НА ПРОГНОЗНОТО НАТОВАРВАНЕ ОТ АВТОМОБИЛИ ПО ПЪРВОСТЕПЕННАТА УЛИЧНА МРЕЖА /ПУМ/ В ПРИВЕДЕНИ ЕДИНИЦИ /П.Е./ ЗА СУТРЕШЕН ВЪРХОВ ЧАС 8.00 - 9.00 
+<iframe src="https://drive.google.com/file/d/1vBhTMOj57dHsknAOGoKoZpInjmiw0xDF/preview" width="100%" height="480"></iframe>
 
 
