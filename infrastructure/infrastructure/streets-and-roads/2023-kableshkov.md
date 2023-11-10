@@ -2,7 +2,7 @@
 title: Изграждане на бул. Тодор Каблешков от ул. Луи Айер до бул. Черни връх.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-10T15:16:00.705Z
+date: 2023-11-10T15:17:27.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T15:16:00.705Z
@@ -25,13 +25,13 @@ dateCreated: 2023-11-10T15:16:00.705Z
 ## Кръстовища
 
 ### ул. Луй Айер
-<img src="https://drive.google.com/uc?id=168JyiZni6oE0h6Frg2BwGSPY3e61-8RV">
+<img src="https://drive.google.com/uc?id=168JyiZni6oE0h6Frg2BwGSPY3e61-8RV" width="400px">
 
 ### ул. Емилиян Станев
-<img src="https://drive.google.com/uc?id=1YG9AC5Hv5iOGnsHNMxmi8ncTNtOnwgjO">
+<img src="https://drive.google.com/uc?id=1YG9AC5Hv5iOGnsHNMxmi8ncTNtOnwgjO" width="400px">
 
 ### бул. Черни връх
-<img src="https://drive.google.com/uc?id=1shmQs3i0MZvIm8xNYteAIUQWfVQHquz3">
+<img src="https://drive.google.com/uc?id=1shmQs3i0MZvIm8xNYteAIUQWfVQHquz3" width="400px">
 
 
 
