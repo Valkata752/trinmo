@@ -2,7 +2,7 @@
 title: Инфраструктура
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-18T10:53:44.156Z
+date: 2023-11-10T14:49:34.532Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:49:02.546Z
@@ -18,7 +18,7 @@ dateCreated: 2022-04-27T07:49:02.546Z
 - [:tram: Обръщателни колела *Kарта и описание на всички обръщателни колела*](/infrastructure/tram-loops)
 - [:construction: Изграждане на Канализация *Банкя, Обеля, Драгалевци...*](/infrastructure/vik)
 - [:bus: BUS ленти *Kарта и описание на всички BUS ленти*](/infrastructure/bus-lanes)
-- [:motorway: Улична мрежа *Всичко за уличната мрежа*](/infrastructure)
+- [:motorway: Улична мрежа *Всичко за уличната мрежа*](/infrastructure/streets-and-roads)
 - [:bicyclist: Велосипедна мрежа *Карта и описание на всички велосипедни трасета*](/bicycle-transport)
 {.links-list}
 
