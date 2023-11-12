@@ -2,7 +2,7 @@
 title: Трамвайни стрелки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-04-27T13:25:42.619Z
+date: 2023-11-12T20:27:50.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T13:24:11.401Z
@@ -11,16 +11,18 @@ dateCreated: 2023-04-27T13:24:11.401Z
 # Схема стрелки
 <br>
 
-<img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81oWfVrVBS-pmlJHHu9Vy-s4NHB5RSeavsoUn4D7FJWR6mpxTGLeH_69315wrbEnr7G1p7TqbRnG4EULe6PatDNlXdQS3A=w2560-h1190">
+<img src="https://drive.google.com/uc?id=1lehk_7zv8BFHs7cg2ekRTFO8X_mWGvoH">
 
 # Списък стрелки
 
-Очаквайте скоро..
+> Очаквайте скоро..
+{.is-info}
+
 
 | №      | Вид | Местоположение |
 | ----------- | ----------- | ----------- |
 | 39   | дясна изходна        | триъгълника "Надежда"  |
-
+{.dense}
 	
 					
 
