@@ -1,8 +1,8 @@
 ---
-title: Фотоград - Focus1965
+title: Фотограф - Focus1965
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T11:15:17.091Z
+date: 2023-11-12T12:20:06.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:15:17.091Z
