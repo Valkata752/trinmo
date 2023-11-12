@@ -2,12 +2,20 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-21T09:59:53.783Z
+date: 2023-11-12T09:58:22.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:49:11.432Z
 ---
 
+# По автори
+## 1970те
+<!--1318--> 
+<div class="dropdown"><button class="imgbtn"><figure><a href="/bg/public-transport/gallery/gisberta-yakla" target="_blank"> <img src="https://drive.google.com/uc?id=1jvk5Qiee5e4Oe2mOB7iXl6L0KuWyBFHi" width="300px"></a><figcaption><b>Gisberta Yakla</b></figcaption></figure></button></div></div>
+
+
+
+# По модели
 ## 🚌 Автобусен транспорт
 
 ### Tabs {.tabset}
