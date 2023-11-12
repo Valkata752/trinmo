@@ -2,7 +2,7 @@
 title: Трамвайни стрелки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T20:52:40.288Z
+date: 2023-11-12T20:53:50.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T13:24:11.401Z
@@ -17,14 +17,7 @@ dateCreated: 2023-04-27T13:24:11.401Z
 <td>Трипътни трамвайни стрелки в депо "Клокотница"</td></tr>
   <td colspan=2 >ℹ️ Любомир Найденов</td></table></div>
   
-  
 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id
-=14Z7zH-9MMMYuC2NPnbvKdXioiWL0snUP"></td>
-<td>Показател за автоматични стрелки</td></tr>
-  <td colspan=2 >ℹ️ Петко Драгов</td></table></div>
-  
   
 ## Видове Стрелки
 
@@ -54,7 +47,18 @@ dateCreated: 2023-04-27T13:24:11.401Z
 <!--502-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rIh63IPbYofNFmoqwT92JxDNaCJKtMCS" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rIh63IPbYofNFmoqwT92JxDNaCJKtMCS" width="100%"></div></div>
 
+  
+  
+## Показател
 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id
+=14Z7zH-9MMMYuC2NPnbvKdXioiWL0snUP"></td>
+<td>Показател за автоматични стрелки</td></tr>
+  <td colspan=2 >ℹ️ Петко Драгов</td></table></div>
+  
+  
+  
 ## Схема стрелки
 <br>
 
