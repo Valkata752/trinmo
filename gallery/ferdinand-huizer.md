@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Focus1965
+title: Фотограф - Ferdinand Huizer
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T12:17:53.088Z
+date: 2023-11-12T12:18:17.753Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T12:17:53.088Z
