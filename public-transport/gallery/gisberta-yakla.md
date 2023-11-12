@@ -2,7 +2,7 @@
 title: Фотограф - Гисберта Якла
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T10:52:01.389Z
+date: 2023-11-12T10:59:07.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
@@ -13,18 +13,6 @@ dateCreated: 2023-11-12T10:18:41.924Z
 ##  1973
 <!--238--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" height="200px"><figcaption></figcaption>238</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" width="100%"></div></div>
-
-# Tabs {.tabset}
-##  1975
-<!--258--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" height="200px"><figcaption>258</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" width="100%"></div></div>
-
-<!--312--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption>312</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
-
-
-
-
 <!--37--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10QxNsSV7neBSMwYltcdVtb0MVRd5LBSq" height="200px"><figcaption>37</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10QxNsSV7neBSMwYltcdVtb0MVRd5LBSq" width="100%"></div></div>
 <!--40--> 
@@ -53,3 +41,21 @@ dateCreated: 2023-11-12T10:18:41.924Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E6A4UJlD0DRCFQZJQIDAVEHrQgSo-NEe" height="200px"><figcaption>837</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E6A4UJlD0DRCFQZJQIDAVEHrQgSo-NEe" width="100%"></div></div>
 <!--904--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" height="200px"><figcaption>904</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" width="100%"></div></div>
+
+# Tabs {.tabset}
+##  1975
+<!--258--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" height="200px"><figcaption>258</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" width="100%"></div></div>
+
+<!--312--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption>312</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
+
+
+
+
+
+
+
+
+
+
