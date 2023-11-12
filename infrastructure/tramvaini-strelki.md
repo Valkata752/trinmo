@@ -2,7 +2,7 @@
 title: Трамвайни стрелки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T20:45:39.154Z
+date: 2023-11-12T20:52:40.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T13:24:11.401Z
@@ -41,7 +41,20 @@ dateCreated: 2023-04-27T13:24:11.401Z
 <td>Трипътни трамвайни стрелки в депо "Клокотница"</td></tr>
   <td colspan=2 >ℹ️ Любомир Найденов</td></table></div>
   
-  
+
+### Калифорния
+
+Временна стрелка "S"
+<!--502-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1e3YeTId0Oos0uGcdWroWw1YkEH8i1Byc" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1e3YeTId0Oos0uGcdWroWw1YkEH8i1Byc" width="100%"></div></div>
+
+<!--502-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tyVLogaT4LjknMqNsiz-vUetDhClz5BJ" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tyVLogaT4LjknMqNsiz-vUetDhClz5BJ" width="100%"></div></div>
+
+<!--502-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rIh63IPbYofNFmoqwT92JxDNaCJKtMCS" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rIh63IPbYofNFmoqwT92JxDNaCJKtMCS" width="100%"></div></div>
+
+
 ## Схема стрелки
 <br>
 
