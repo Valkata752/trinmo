@@ -2,7 +2,7 @@
 title: Градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-10T07:42:06.654Z
+date: 2023-11-13T13:46:47.959Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T17:16:46.376Z
@@ -26,8 +26,8 @@ dateCreated: 2022-04-26T17:16:46.376Z
 - [:ticket: Карти, билети и таксуване *Актуални цени, исторически тарифи и билети*](/bg/public-transport/tickets)
 - [:clock1: Разписания и разстановки *Експлоатационни параметри на линиитe и техните разписания*](/bg/public-transport/schedules)
 - [:busts_in_silhouette: Преброявания и модално разпределение  *Статистика и анализи на разлчини данни за използваемостта на МГТ*](/bg/public-transport/passanger-counting)
-- [:world_map: Схеми на градския транспорт *Официални карти и схеми от СКГТ/ЦГМ*](/bg/public-transport/maps-and-schemes)
-- [:m: Схеми на метрото *Различни схеми през годините*](/bg/public-transport/metro-maps)
+- [:world_map: Схеми на градския транспорт *Официални карти и схеми от СКГТ/ЦГМ*](/bg/maps-and-schemes)
+- [:m: Схеми на метрото *Различни схеми през годините*](/bg/maps-and-schemes/sofia-metro)
 - [:star: Концесионирани линии *Информация за договорите за превоз на пътници, начални и крайни дати*](/bg/public-transport/privitised-lines)
 - [:pager: Информационни системи *Електронни табели, шрифтове, гласово оповестяване др.*](/bg/public-transport/information-systems-and-management)
 - [:notebook_with_decorative_cover: Месечен транспортен дневник *Информация за промени по подвижния състав*](/bg/public-transport/monthly-transport-journal)
