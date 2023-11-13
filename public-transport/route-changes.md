@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T12:30:48.693Z
+date: 2023-11-13T17:50:27.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -16,7 +16,6 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 ## 2023
    
-- [:construction: Аварийно затваряне на платното на бул. „Владимир Вазов“ *22.08.2023 -*](/bg/public-transport/route-changes/2023-avaria-levski)
 - [:construction: Доизграждане на канализационна мрежа за гр. Нови Искър, район Нови Искър *11.05.2023 -*](/bg/public-transport/route-changes/2023-kanalizacia-novi-iskar)
 - [:construction: Доизграждане на канализационна мрежа на гр. Банкя *20.04.2023 -*](/bg/public-transport/route-changes/2023-kanalizacia-bankya)
 - [:construction: Реконструкция на бул. Чепинско шосе *13.03.2023 -*](/bg/public-transport/route-changes/2023-rekonstrukcia-chepinsko-shose)
