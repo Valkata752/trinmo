@@ -2,7 +2,7 @@
 title: Реконструкция на бул. Чепинско шосе
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-11T12:31:45.975Z
+date: 2023-11-13T21:09:39.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-11T08:51:08.493Z
@@ -15,7 +15,7 @@ dateCreated: 2023-08-11T08:51:08.493Z
 
 На спирката ще спират и автобусите от автобусна линия № 20.
 
-<img src="https://drive.google.com/uc?id=1MEWxA4jhpdfT1bxx5hBHnfU3pvoit-4m">
+<img src="https://drive.google.com/uc?id=1Uo1HUOXiErLh8zcuOcemXDr6H-w7zpQ1">
 
 ### 20.04.2023 - удължаване (ЦГМ-2313)
 
@@ -48,7 +48,7 @@ dateCreated: 2023-08-11T08:51:08.493Z
 
 
 
-<img src="https://drive.google.com/uc?id=1wxwhYFgVL9_yY_3N87zMXfvfrvhnPAbP">
+<img src="https://drive.google.com/uc?id=1v3gsxVIiXwGjsPGSWsRfq4tNqFM-CvRd">
 
 
 
@@ -83,7 +83,7 @@ dateCreated: 2023-08-11T08:51:08.493Z
 връщането от кв. Малашевци ще става изцяло по маршрута на закритата автобусна № 18 с достигане до спирка „Автостанция Орландовци“.
 
 
-<img src="https://drive.google.com/uc?id=1JzC2L4UgjnjsyZxk1cvl1JC7yALlcEma">
+<img src="https://drive.google.com/uc?id=1J0YX5PwV7Nn9G0ZtEoqogPw1nSZSwO1t">
 
 ### 15.08.2023 - удължаване (ЦГМ-2430)
 От 04:30 часа на 15.08.2023 г. до 12.09.2023 г. включително се запазва действащата временна организация на движение на обществения транспорт.
