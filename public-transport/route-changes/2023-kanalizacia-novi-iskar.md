@@ -2,7 +2,7 @@
 title: Изграждане на канализацията в Нови Искър
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-13T13:52:10.062Z
+date: 2023-11-13T20:52:05.602Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-11T08:25:34.589Z
@@ -27,7 +27,7 @@ dateCreated: 2023-08-11T08:25:34.589Z
 двупосочна  с кодове 6685 и 6686 „Ул. васил Левски-временна“ на кръстовището с ул. „Васил Левски“.
 За автобусна линия № 27– двупосочна с кодове 6687 и 6688 „Ул. Равнец-временна“ на кръстовището с ул. „Искърско дефиле“.
 
-<img src="https://drive.google.com/uc?id=1FWKbVJoH2TWoGBprkSrGAuqkd7V0gQaT">
+<img src="https://drive.google.com/uc?id=1-Q6kbLuMy2R2G7s7MuH2H8jVgqwMG02o">
 
 
 
@@ -43,7 +43,7 @@ dateCreated: 2023-08-11T08:25:34.589Z
 
 За линията се закрива двупосочната временна спирка с кодове 6687 и 6688 „Ул. Равнец - временна“ на кръстовището на ул. „Липите“ и ул. „Искъско дефиле“.
 
-<img src="https://drive.google.com/uc?id=1IGPtS1Htybm3Js_ekZLaiRbzJmf4Pc7i">
+<img src="https://drive.google.com/uc?id=1wTC3yOH_rQy6kG6VafR5-yFgbJo7zI_1">
 
 
 ## (1) 15.10.2023 - промяна (ЦГМ-2496)
@@ -63,4 +63,5 @@ dateCreated: 2023-08-11T08:25:34.589Z
 двупосочна с кодове 6683 и 6684 „Ул. Победа-временна“ на кръстовището с ул. „Победа“;
 двупосочна  с кодове 6685 и 6686 „Ул. Васил Левски-временна“ на кръстовището с ул. „Васил Левски“.
 - За автобусна линия № 27– двупосочна с кодове 6687 и 6688 „Ул. Равнец-временна“ на кръстовището с ул. „Искърско дефиле“.
-<img src="https://drive.google.com/uc?id=1hCAMbW6ZPULXR4UkyqMitjYoiT-JIjX_">
+
+<img src="https://drive.google.com/uc?id=1wPfeBGG7TDvAyTlgD9dOpVwea3JXJN4o">
