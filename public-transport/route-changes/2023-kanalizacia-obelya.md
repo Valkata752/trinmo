@@ -2,7 +2,7 @@
 title: Доизграждане на канализация в Обеля
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-20T08:56:00.071Z
+date: 2023-11-13T21:19:35.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-06T08:30:12.266Z
@@ -67,7 +67,7 @@ dateCreated: 2023-01-06T08:30:12.266Z
 с код 6649 „Ул. 7 – временна“на ул. 12 след кръстовището с ул. 7 в посока ж.к. Обеля 1.
 
 
-<img src="https://drive.google.com/uc?id=18BBsR-PWALWhYDqIygTcuyesFVLkrE8e">
+<img src="https://drive.google.com/uc?id=1SGtyKaYPRlrMfXqieceQNtPLHL7UXuw9">
 
 
 ### 2023.02.14 (ЦГМ-2263)
@@ -95,4 +95,4 @@ dateCreated: 2023-01-06T08:30:12.266Z
 
 По маршрута на автобусна линия № 81 се закриват спирки: В посока Северна промишлена зона -  спирка с код: 0461 „гара Обеля“; В посока кв. Иваняне: спирка с код: 0460 „гара Обеля“.
 
-<img src="https://drive.google.com/uc?id=1yMSBVL8rc-fcSD2-Ycs96BU303iNQq8Y">
+<img src="https://drive.google.com/uc?id=19w3Sx3NXfPkEAc4200mJYS_XRYO6mEmI">
