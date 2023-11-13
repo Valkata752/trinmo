@@ -2,7 +2,7 @@
 title: Доизграждане на канализация в Суходол
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-04-07T13:09:30.648Z
+date: 2023-11-13T21:22:22.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T08:48:59.947Z
@@ -35,7 +35,10 @@ dateCreated: 2023-02-24T08:48:59.947Z
 A56 -  36-3-2-3-1-01-23 РЕМ / - 2-2-2-1-01-23 РЕМ
 A107 - 52-6-5-6-3-01-23 РЕМ / 53-3-3-3-2-01-23 РЕМ 
 
-<img src="https://lh3.googleusercontent.com/OE6Kizvvlt_8gpI8XKUD8cwFFF00wmybvJwg2jfPoZuV1PH6SFBGW88P1Wet3qCNZhs=w2400" alt="схема" width="100%"/>
+<br><img src="https://drive.google.com/uc?id=1FlsRxY_6PQz5R5yRfI_CNFcN7CUvbFyW">
+
+
+
 
 ### 15.03.2023 удължаване (ЦГМ-2284)
  
