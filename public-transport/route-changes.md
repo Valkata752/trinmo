@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-13T17:50:27.386Z
+date: 2023-11-13T21:16:28.543Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -18,7 +18,6 @@ dateCreated: 2022-05-05T22:27:52.554Z
    
 - [:construction: Доизграждане на канализационна мрежа за гр. Нови Искър, район Нови Искър *11.05.2023 -*](/bg/public-transport/route-changes/2023-kanalizacia-novi-iskar)
 - [:construction: Доизграждане на канализационна мрежа на гр. Банкя *20.04.2023 -*](/bg/public-transport/route-changes/2023-kanalizacia-bankya)
-- [:construction: Реконструкция на бул. Чепинско шосе *13.03.2023 -*](/bg/public-transport/route-changes/2023-rekonstrukcia-chepinsko-shose)
 - [:construction: Доизграждане на канализационна мрежа на кв. Драгалевци, район Витоша *07.03.2023 -*](/bg/public-transport/route-changes/2023-kanalizacia-dragalevtsi)
 - [:construction: Доизграждане на канализационна мрежа за кв. Суходол, район Овча купел *18.01.2023 - 12.04.2023*](/bg/public-transport/route-changes/2023-kanalizacia-suhodol)
 - [:construction: Доизграждане на канализационна мрежа на кв. Обеля, район Връбница *06.01.2023 - 07.08.2023*](/bg/public-transport/route-changes/2023-kanalizacia-obelya)
@@ -35,8 +34,10 @@ dateCreated: 2022-05-05T22:27:52.554Z
 # Tabs {.tabset}
 
 ## 2023
+
 - [:white_check_mark: Реконструкция на основни коловози от бул. Рожен до сп. Заг. Динамик *05.08.2023 - 20.08.2023*](/bg/public-transport/route-changes/2023-kolovozi-iliansko-shose)   
 - [:white_check_mark: Реконструкция на уличен канал по ул. Проф. Фритьоф Нансен *03.07.2023 -18.08.2023*](/bg/public-transport/route-changes/2023-kanal-nansen)
+- [:white_check_mark: Реконструкция на бул. Чепинско шосе *13.03.2023 -13.09.2023*](/bg/public-transport/route-changes/2023-rekonstrukcia-chepinsko-shose)
 {.links-list}
 
 
