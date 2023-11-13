@@ -2,7 +2,7 @@
 title: Реконструкция на на трамваен релсов път по бул. Цар Борис III - етап 2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-01T11:55:08.692Z
+date: 2023-11-13T20:25:28.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T10:26:05.265Z
@@ -56,7 +56,7 @@ dateCreated: 2022-12-08T10:26:05.265Z
 -   с код 6097 „Ж.к. Лагера“ в посока бул. „Македония“ – автобусна линия № 260.
 -   с код 6098 „УМБАЛСМ Пирогов“ на перона на трамвайната спирка – автобусна линия № 260.
  
-<br><img src="https://drive.google.com/uc?id=121wfsdobxA25UmSqwaoc1AqfYKj_rMLp">
+<br><img src="https://drive.google.com/uc?id=1NeVv9Ku0LHH77vvaKtl0mduQO9cGFuxT">
 
 
 ## [2] 07.02.2023 - нова организация (ЦГМ-2258)
@@ -81,7 +81,7 @@ dateCreated: 2022-12-08T10:26:05.265Z
 на 20.00 метра преди светофара на ул. „Райска градина“ в посока бул. „Братя Бъкстон“;
 на пероните на трамвайната спирка „Ул. Планинец“ в посока бул. „Братя Бъкстон“.
  
-<br><img src="https://drive.google.com/uc?id=1kCUJPhugHHjC7s9MKPsKeIO4x9tkFFBC">
+<br><img src="https://drive.google.com/uc?id=1VPQN-ewDb8ZDda37O0V-HXd80SxFzWGN">
 
 
 
@@ -112,7 +112,7 @@ dateCreated: 2022-12-08T10:26:05.265Z
 с код  6129 „Ул. Райска градина-временна“;
 с код  6125 „Ул. Планинец – временна.“
 
-<br><img src="https://drive.google.com/uc?id=12BY7sIDUPyzngdsy__Xx8J9A8L4kM546">
+<br><img src="https://drive.google.com/uc?id=1AJJGyT05m-d-pOCuaQKxP67qfBvSCE0F">
 
 
 ## [4] 22.07.2023 - промяна (ЦГМ-2409)
@@ -131,7 +131,7 @@ dateCreated: 2022-12-08T10:26:05.265Z
 с код 6128 „Ул. Райска градина“
 Променя са маршрутът на автобусна линия № 59, като в посока с. Мърчаево автобусите се движат по бул. „Цар Борис III“. Автобусите не влизат в автостанция Княжево и не изпълняват спирка с код 0853 „Автостанция Княжево“. За линията се разкрива временна спирка на бул. „Цар Борис III“ срещу автостанция Княжево.
 
-<br><img src="https://drive.google.com/uc?id=1fDSeiwp1k3ZJKSVQUgIqCnhFQeYyhtJv">
+<br><img src="https://drive.google.com/uc?id=1018wpJ0otzVKOQ-sxaHA51-7mAWz60JF">
 
 
 
@@ -152,7 +152,7 @@ dateCreated: 2022-12-08T10:26:05.265Z
 
 Временна спирка с код 6129 ул. „Райска градина“ на бул. „Цар Борис III“ в посока център се измества напред - на перона на трамвайната спирка „Ул. Райска градина“.
 
-<br><img src="https://drive.google.com/uc?id=1fB_EYZBGK83SqSYlEEDbVNrQt7Td20Am">
+<br><img src="https://drive.google.com/uc?id=1wZr5giizs3xYx95nTXUJGgIwMQrYEqUY">
 
 ### [2c] 05.09.2023 - 4/5/11 удължаване (ЦГМ-2453)
 До 24:00 часа на 30.09.2023 г. остава в сила въведената временна организация на движение на обществения транспорт както следва:
