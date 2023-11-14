@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T16:01:18.010Z
+date: 2023-11-14T16:13:24.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -83,25 +83,44 @@ dateCreated: 2023-10-09T13:20:16.523Z
 Парапетите са с метални обли ръкохватки. От едната страна на всяко стълбищно рамо парапетът е с двойна ръкохватка, съобразно изискванията на Наредба 4 от 2009 г. за проектиране, изпълнение и поддържане на строежите в съответствие с изискванията за достъпна среда за населението, включително за хората с увреждания.Окачените тавани ще бъдат смесен тип – комбинация от алуминиеви ламели и пана от композитен материал. Осветителните тела на перона ще бъдат с LED-лампи и ще се вградят в окачения таван.
 
 ## Оформление таван
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10RZcVjNOiURJbE5MmCY-_IojQ1mbAfAU" height="200px"><figcaption><b>Оформление таван /софит/</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10RZcVjNOiURJbE5MmCY-_IojQ1mbAfAU" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=10RZcVjNOiURJbE5MmCY-_IojQ1mbAfAU"></td>
+<td>Оформление таван /софит/</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен" ЕАД </td></table></div>
+  
 
 ## Oформление перон
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18gdFwBxNmSOkFq9xUWa2KN03b1D-mG33" height="200px"><figcaption><b>Оформление перон</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18gdFwBxNmSOkFq9xUWa2KN03b1D-mG33" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=18gdFwBxNmSOkFq9xUWa2KN03b1D-mG33"></td>
+<td>Оформление перон</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен" ЕАД </td></table></div>
+  
+  
 
 ## Стени
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1V-NZEotOSXGPg2Rip_GQ8mYzHmBgo4PB" height="200px"><figcaption><b>Стени</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1V-NZEotOSXGPg2Rip_GQ8mYzHmBgo4PB" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1V-NZEotOSXGPg2Rip_GQ8mYzHmBgo4PB"></td>
+<td>Оформление стени</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен" ЕАД </td></table></div>
+  
+  
 
 ## Напречен разрез
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147hASph-ewztoPTabqkVpUF3H_iy4_j-" height="200px"><figcaption><b>Напречен разрез</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147hASph-ewztoPTabqkVpUF3H_iy4_j-" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=147hASph-ewztoPTabqkVpUF3H_iy4_j-"></td>
+<td>Напречен разрез</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен" ЕАД </td></table></div>
+  
+  
 
 ## Връзка с жп гарата
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TNnnO4vtEETrPTVNyFxpQWQ5cemZv88W" height="200px"><figcaption><b>Връзка с жп гара</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TNnnO4vtEETrPTVNyFxpQWQ5cemZv88W" width="100%"></div></div>
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1TNnnO4vtEETrPTVNyFxpQWQ5cemZv88W"></td>
+<td>Връзка с жп гара</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен" ЕАД </td></table></div>
+  
+ 
 # Връзки с градския транспорт
 Очаква се изграждане и на автогара в близост до бъдещата жп гара, като се предполага, че крайградските автобуси, които в момента тръгват от кв.Обеля да започват своите маршрути от новата автогара.
 Крайната спирка на линии като 26, 30, 31 и 150 може би ще бъде преместена при новата автогара.
