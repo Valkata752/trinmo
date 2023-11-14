@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T12:26:59.368Z
+date: 2023-11-14T12:27:41.852Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -15,9 +15,11 @@ dateCreated: 2022-04-25T15:43:04.754Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1_n69yN722DxIXdPUxJPxa9fumtx-EbqY"></td>
 <td>Нова пешеходна зона около храм "Александър Невски"</td></tr>
-  <td colspan=2 >ℹ️ Повече информация...</td></table></div>
+  <td colspan=2 >ℹ️ <a href="http://trinmo.org/bg/news/20231114-nova-peshehodna-zona">Повече информация...</a></td></table></div>
   
   
+
+
 
 
 ## 02.11.2023
