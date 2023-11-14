@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-30T16:03:22.047Z
+date: 2023-11-14T15:05:02.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -53,17 +53,25 @@ dateCreated: 2023-10-09T13:20:16.523Z
 ## Tabs {.tabset}
 ### Етапи на изграждане
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#99999"> Етапи на строителството</span><br></td>
+<td><span style="color:#99999"> Етапи на строителство - анимирана визуализация</span><br></td>
 <td><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td></tr>
   <td colspan=2 >визуализация - Гергин Борисов<a href=""><b></b></a></td></table></div>
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><span style="color:#99999"> Етапи на строителство - напречен разрез от работен проект.</span><br></td>
+<td><img src="https://drive.google.com/uc?id=1qwxK5c_HUH2N1yY8DPdIa1akkCNIITfv"></td></tr>
+  <td colspan=2 ><a href="Метрополитен ЕАД"><b></b></a></td></table></div>
+  
   
 
 # Местоположение и изходи
 
 Метростанцията е разположена от в близост до жп линията София-Костинброд от страната на жк. Обеля-1. Изходи ще има при новата жп гара, жк. Обеля-1 и от страната на индустриална зона "Модерно предградие".
 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" height="200px"><figcaption><b>Разположение на метростанцията спрямо градската среда</br> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" width="100%"></div></div>
+
 # Архитектурно оформление
-<img src="https://drive.google.com/uc?id=1aXdwpXYIblMsii5l0dVmeIfUc-_Q0vw2">
+<img src="https://drive.google.com/uc?id=">
 
 # Връзки с градския транспорт
 Очаквайте скоро...
