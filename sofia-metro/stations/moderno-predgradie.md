@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T15:17:07.230Z
+date: 2023-11-14T15:24:06.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -105,18 +105,22 @@ dateCreated: 2023-10-09T13:20:16.523Z
 
 ## Oформление перон
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Оформление перон</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18gdFwBxNmSOkFq9xUWa2KN03b1D-mG33" height="200px"><figcaption><b>Оформление перон</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18gdFwBxNmSOkFq9xUWa2KN03b1D-mG33" width="100%"></div></div>
 
 ## Стени
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Стени</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1V-NZEotOSXGPg2Rip_GQ8mYzHmBgo4PB" height="200px"><figcaption><b>Стени</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1V-NZEotOSXGPg2Rip_GQ8mYzHmBgo4PB" width="100%"></div></div>
 
 ## Напречен разрез
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Напречен разрез/</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147hASph-ewztoPTabqkVpUF3H_iy4_j-" height="200px"><figcaption><b>Напречен разрез</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147hASph-ewztoPTabqkVpUF3H_iy4_j-" width="100%"></div></div>
+
+## Връзка с жп гарата
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TNnnO4vtEETrPTVNyFxpQWQ5cemZv88W" height="200px"><figcaption><b>Връзка с жп гара</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TNnnO4vtEETrPTVNyFxpQWQ5cemZv88W" width="100%"></div></div>
 
 # Връзки с градския транспорт
-Очаквайте скоро...
+Очаква се изграждане и на автогара в близост до бъдещата жп гара, като се предполага, че крайградските автобуси, които в момента тръгват от кв.Обеля да започват своите маршрути от новата автогара.
 
 # Снимки
   
