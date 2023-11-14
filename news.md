@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T12:28:47.187Z
+date: 2023-11-14T14:43:21.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -31,11 +31,14 @@ dateCreated: 2022-04-25T15:43:04.754Z
  
 
 ## 01.11.2023
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG"></td>
+<td>Считано от от 01.11.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N1">N1</a> и <a href="/bg/public-transport/bus-routes-1968-sega/N2">N2</a> се завръщат след тригодишно отсъствие.</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
+  
+  
+  
 
-> Линии [N1](/bg/public-transport/bus-routes-1968-sega/N1) и [N2](/bg/public-transport/bus-routes-1968-sega/N2) се завръщат след тригодишно отсъствие от 01.11.2023!
-{.is-success}
-
-<img src="https://drive.google.com/uc?id=1JeWHGX_tBTyfSzX0OBkKCEa_EhBdhsRA">
 
 
 
