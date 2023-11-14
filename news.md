@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T12:27:41.852Z
+date: 2023-11-14T12:28:47.187Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -15,7 +15,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1_n69yN722DxIXdPUxJPxa9fumtx-EbqY"></td>
 <td>Нова пешеходна зона около храм "Александър Невски"</td></tr>
-  <td colspan=2 >ℹ️ <a href="http://trinmo.org/bg/news/20231114-nova-peshehodna-zona">Повече информация...</a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/news/20231114-nova-peshehodna-zona">Повече информация...</a></td></table></div>
   
   
 
@@ -23,11 +23,12 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 
 ## 02.11.2023
-> Започнаха проби по ремонтираното трасе към Княжево!
-{.is-info}
-
-<img src="https://drive.google.com/uc?id=1JqS-HVUJeDkgwSwMHxpzXGT_qeIjI8dO">
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1JqS-HVUJeDkgwSwMHxpzXGT_qeIjI8dO"></td>
+<td>Започнаха проби по ремонтираното трасе към Княжево!</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/public-transport/route-changes/2022-rekonstrukcia-tsar-boris_iii">Повече информация...</a></td></table></div>
+  
+ 
 
 ## 01.11.2023
 
