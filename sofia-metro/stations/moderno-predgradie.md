@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T15:44:15.255Z
+date: 2023-11-14T15:47:34.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -134,7 +134,11 @@ dateCreated: 2023-10-09T13:20:16.523Z
 
 След тунелния участък, трасето навлиза в рампа, която го извежда на нивото на терена, където се намира един от служебните входове на депото. Там е планиран жп прелез за служителите, за безпроблемно пресичане на новата връзка с депото. Рампата до прелеза ще бъде покрита с поликарбонатни прозрачни панели монтирани върху метални арки, подобно на останалите открити участъци на метрото. 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Връзка с метродепото - рампа</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10f9U4hdzLI4V1t81AY4L6bxkuRgIm2iw" height="200px"><figcaption><b>Връзка с метродепото - рампа</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10f9U4hdzLI4V1t81AY4L6bxkuRgIm2iw" width="100%"></div></div>
+
+<br><br>
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BRt3qkUQvXH7lAwqwE29gM-A9Nz9m_9y" height="200px"><figcaption><b>Връзка с метродепото - планировка в градската среда и жп прелез</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BRt3qkUQvXH7lAwqwE29gM-A9Nz9m_9y" width="100%"></div></div>
 
 
 # Снимки
