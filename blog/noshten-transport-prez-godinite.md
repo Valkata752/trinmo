@@ -2,7 +2,7 @@
 title: Нощен градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-01T22:45:06.219Z
+date: 2023-11-14T14:41:08.815Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T11:32:45.780Z
@@ -14,7 +14,7 @@ dateCreated: 2023-07-24T11:32:45.780Z
 > [**N2**](/bg/public-transport/bus-routes-1968-sega/N2) ж.к. Обеля 2 - Студентски град обслужвана от АП-2 Малашевци
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1JeWHGX_tBTyfSzX0OBkKCEa_EhBdhsRA">
+<img src="https://drive.google.com/uc?id=1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG">
 
 
 
