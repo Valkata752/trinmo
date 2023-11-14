@@ -2,7 +2,7 @@
 title: Нощен градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T14:41:08.815Z
+date: 2023-11-14T14:52:37.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T11:32:45.780Z
@@ -30,7 +30,7 @@ dateCreated: 2023-07-24T11:32:45.780Z
 > [**N4**](/bg/public-transport/bus-routes-1968-sega/N4) ж.к. Гоце Делчев - ж.к. Дружба 2  обслужвана от АП-3 Дружба
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1q4D_8Pi5po79Q2wWzidtSLb5Wr47SajW" width="100%">
+<img src="https://drive.google.com/uc?id=1VXjMjJVSOfFhDuUdIXI30uSsaiDBDGEv" width="100%">
 
 До 31.12.2018 год., се организира транспортно обслужване на Столицата за времето от 00:00 до 04:00 часа (нощно движение) по 4 автобусни маршрута със следните параметри:
 
