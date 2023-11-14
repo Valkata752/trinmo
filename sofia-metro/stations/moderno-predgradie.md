@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T16:13:24.406Z
+date: 2023-11-14T16:15:48.983Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -32,9 +32,11 @@ dateCreated: 2023-10-09T13:20:16.523Z
 ### Tabs {.tabset}
 #### Включване на влакове по М1 и М2
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#99999"> Влакове, които се включват на линия от депо "Обеля". Със синьо са отбелязани влаковете по втората линия /М2/, а с червено влаковете по М1. Проблемът сега е, че влаковете по М2 се включват на линия чрез маневра и навлизане в неправилен път (в насрещното) при мс "Сливница".</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1RBjBZirGmde1A8ZRSk2F4Xi4leXgpTaE"></td></tr>
-  <td colspan=2 >визуализация - Гергин Борисов<a href=""><b></b></a></td></table></div>
+<td><img src="https://drive.google.com/uc?id=1RBjBZirGmde1A8ZRSk2F4Xi4leXgpTaE"></td>
+<td>Влакове, които се включват на линия от депо "Обеля". Със синьо са отбелязани влаковете по втората линия /М2/, а с червено влаковете по М1. Проблемът сега е, че влаковете по М2 се включват на линия чрез маневра и навлизане в неправилен път (в насрещното) при мс "Сливница".</td></tr>
+  <td colspan=2 >ℹ️ визуализация - Гергин Борисов </td></table></div>
+  
+ 
   
  
 # Етапи на изграждане
@@ -53,14 +55,14 @@ dateCreated: 2023-10-09T13:20:16.523Z
 ## Tabs {.tabset}
 ### Етапи на изграждане
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#99999"> Етапи на строителство - анимирана визуализация</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td></tr>
-  <td colspan=2 >визуализация - Гергин Борисов<a href=""><b></b></a></td></table></div>
-
+<td><img src="https://drive.google.com/uc?id=1EGfGvdC6qTj-MBAwOx8qfN4lHlUyIqiR"></td>
+<td>Етапи на строителство - анимирана визуализация</td></tr>
+  <td colspan=2 >ℹ️ визуализация - Гергин Борисов </td></table></div>
+  
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><span style="color:#99999"> Етапи на строителство - напречен разрез от работен проект.</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1qwxK5c_HUH2N1yY8DPdIa1akkCNIITfv"></td></tr>
-  <td colspan=2 ><a href="Метрополитен ЕАД"><b></b></a></td></table></div>
+<td><img src="https://drive.google.com/uc?id=1qwxK5c_HUH2N1yY8DPdIa1akkCNIITfv"></td>
+<td>Етапи на строителство - анимирана визуализация</td></tr>
+  <td colspan=2 >ℹ️ Метрополитен ЕАД </td></table></div>
   
   
 
