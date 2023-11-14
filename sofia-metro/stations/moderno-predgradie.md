@@ -2,7 +2,7 @@
 title: метростанция Модерно предградие
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T15:08:19.765Z
+date: 2023-11-14T15:17:07.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-09T13:20:16.523Z
@@ -68,7 +68,7 @@ dateCreated: 2023-10-09T13:20:16.523Z
 
 Метростанцията е разположена от в близост до жп линията София-Костинброд от страната на жк. Обеля-1. Изходи ще има при новата жп гара, жк. Обеля-1 и от страната на индустриална зона "Модерно предградие".
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" height="200px"><figcaption><b>Разположение на метростанцията спрямо градската среда</br> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" height="200px"><figcaption><b>Разположение на метростанцията спрямо градската среда</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XPl2NPXz3uSCeGasUMoJr_uHfn96aE6M" width="100%"></div></div>
 
 # Архитектурно оформление
 
@@ -98,7 +98,22 @@ dateCreated: 2023-10-09T13:20:16.523Z
 и пана от композитен материал. 
 Осветителните тела на перона ще бъдат с LED-лампи и ще се вградят в 
 окачения таван.
-<img src="https://drive.google.com/uc?id=">
+
+## Оформление таван
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10RZcVjNOiURJbE5MmCY-_IojQ1mbAfAU" height="200px"><figcaption><b>Оформление таван /софит/</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10RZcVjNOiURJbE5MmCY-_IojQ1mbAfAU" width="100%"></div></div>
+
+## Oформление перон
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Оформление перон</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+
+## Стени
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Стени</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
+
+## Напречен разрез
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Напречен разрез/</b> 📷 "Метрополитен" ЕАД </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=" width="100%"></div></div>
 
 # Връзки с градския транспорт
 Очаквайте скоро...
