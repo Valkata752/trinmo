@@ -2,11 +2,17 @@
 title: Ремонт на трамвайни стрелки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-14T15:30:26.354Z
+date: 2023-11-15T08:12:58.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T10:12:06.384Z
 ---
+
+
+- [:railway_track: Трамвайни стрелки в София *Повече информация и списък*](/bg/infrastructure/tramvaini-strelki)
+{.links-list}
+
+
 
 # 2023
 
