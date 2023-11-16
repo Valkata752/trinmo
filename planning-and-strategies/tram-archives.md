@@ -2,7 +2,7 @@
 title: Трамвайни архиви
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-16T13:01:54.693Z
+date: 2023-11-16T13:03:13.622Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-28T16:12:41.055Z
@@ -14,40 +14,14 @@ dateCreated: 2023-10-28T16:12:41.055Z
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
+    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" >
   </div>
   <div class="column">
-    <img src="https://drive.google.com/uc?id=1coe0bK9IzkxxpNQflL6IaWo5AOZKAcAz" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
+    <img src="https://drive.google.com/uc?id=1coe0bK9IzkxxpNQflL6IaWo5AOZKAcAz" >
   </div>  
   <div class="column">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
-    <img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl" style="width:100%">
   </div>
 </div>
 
