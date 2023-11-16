@@ -2,7 +2,7 @@
 title: Софийско метро
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-06T20:18:16.233Z
+date: 2023-11-16T08:39:26.724Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T18:12:55.542Z
@@ -30,7 +30,7 @@ dateCreated: 2023-08-17T18:12:55.542Z
 Подобна структура има например метрото в Стокхолм, където подобно на София, има три метродиаметъра, но чрез отклоненията им са формирани 7 линии.
 
 # Схема
-- [:m: Схеми на метрото *Различни схеми през годините*](/bg/public-transport/metro-maps)
+- [:m: Схеми на метрото *Различни схеми през годините*](/bg/maps-and-schemes/sofia-metro)
 {.links-list}
 
 <br><img src="https://www.metropolitan.bg/assets/resourceimages/843/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D1%82%D0%BE.jpg">
