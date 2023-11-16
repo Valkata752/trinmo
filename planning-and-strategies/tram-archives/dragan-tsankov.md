@@ -2,7 +2,7 @@
 title: Трамвайни архиви | Трамвай по бул. Драган Цанков
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-16T15:07:27.504Z
+date: 2023-11-16T15:17:22.289Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T12:57:34.137Z
@@ -28,13 +28,6 @@ dateCreated: 2023-11-16T12:57:34.137Z
   <img src="https://drive.google.com/uc?id=1TRkoQEIsdfbTXfAPwjwYDUrKl1Vf3-h_">
    
   
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1yGClll4DfQxlv_q1S63B8HF-Mia_lYX6"></td>
-<td>Новата линия до Дървеница. Тестовият трамвай.
- </tr>
-  <td colspan=2 >ℹ️ 1971, Вес. Чапанов, за ДП " Българска фотография" / ДА "Архиви".<a href=""><b></b></a></td></table></div>
-  
-  
 - Изграждане на тунела
 
 
@@ -43,6 +36,15 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 - Закриване на трасето
 
+### От вестниците
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1v4J23JseJO5nql03kPui_W10MBENSBO6"></td>
+<td><img src="https://drive.google.com/uc?id=1t7xyG5LdMM7yysMkk9N_N4IlG3Hn11YT">
+ </tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/vecherni-novini-1985"><b>Вечерни новини брой 259 - 1985.11.05</b></a></td></table></div>
+  
+  
+  
 ## Какво не се е реализирало
 
 - Изход на тунела при Строителния техникум
