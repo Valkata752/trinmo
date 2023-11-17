@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:30:36.022Z
+date: 2023-11-17T20:35:45.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -15,7 +15,9 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 ###
 <!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj0kB9CoWHag3YGXiU4YE2aJnCfaLsyX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1987">1987</a></b></figcaption></figure></button></div> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj0kB9CoWHag3YGXiU4YE2aJnCfaLsyX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1987">1987</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QZtM73zWNbb3fpkt98Q5GoN7C8W5bunp" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1986">1986</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15_2fyFlFEa39oo_Bh4CCfoIyLrzShbTm" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1985">1985</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bqLxQ2H0YlNsmszWXmBNeEpqia64pd83" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1984</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dTyCLZts6KGzloCh4s7BtFRCy0VHRw2u" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1983">1983</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xWPd-NYTc6j3OSp0VL8p-NDIonZELIAt" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1982">1982</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17fmkil14kgDcRbu1VP6i2aWKUgCuGIoT" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1981">1981</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhO8I8lvfT9hPcZfYr5WT9L-E66cJSWn" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1980">1980</a></b></figcaption></figure></button></div> 
+
+
 
 
 
