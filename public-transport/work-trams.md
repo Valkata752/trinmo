@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T13:27:38.268Z
+date: 2023-11-17T13:52:38.724Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -48,7 +48,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### Снимки
 <!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drivedrive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" width="100%"></div></div>
 <!--551--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" height="200px"><figcaption><b>депо</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" width="100%"></div></div>
 
