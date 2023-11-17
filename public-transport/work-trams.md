@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T13:52:38.724Z
+date: 2023-11-17T14:13:12.761Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -188,41 +188,37 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### Tabs {.tabset}
 
 #### 1979
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1odK1HK57AssR5imX9UknMVWXJ7ipY8cU"></td>
-    <td>Талигата, и част от кошът са от Цепелин. За ремонт на релсовия път и за аварийен трамвай при аварии и повреди. <br><br>Около 1912-1915г. е докаран първия работен вагон и е номериран 601. Добива популярност сред трамвайните работници като "Графинята". С голяма вероятност може да се твърди, че е белгийски и е построен заедно с Цепелините - рамата му е фиксирана върху талига, подобна на тези на Цепелините и на Nivelle. Има само един мотор 34kW и само ръчна спирачка. Кошът му прилича повече на барака, отколкото на вагон. Интересното е, че върху него пристига първият в България пантограф. Работи до 1975-76г., накрая като маневрена машина на депо "Красно село". Не е бракуван официално, а просто е зарязан.</td>
-  </tr>
-  <td colspan=2 >ℹ️ Източник</td>
-</table>
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1PuA6Uaf1Hhk5HQhfM_UJzZYjtYa9G-Xy"></td>
+<td>Около 1912-1915г. е докаран първия работен вагон и е номериран 601. Добива популярност сред трамвайните работници като "Графинята". С голяма вероятност може да се твърди, че е белгийски и е построен заедно с Цепелините - рамата му е фиксирана върху талига, подобна на тези на Цепелините и на Nivelle. Има само един мотор 34kW и само ръчна спирачка. Интересното е, че върху него пристига първият в България пантограф. Работи до 1975-76г., накрая като маневрена машина на депо "Красно село". Не е бракуван официално, а просто е зарязан.</td></tr>
+  <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
+  
+  
 
 ### 604
 
 ### Tabs {.tabset}
 
 #### 19??
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://4.bp.blogspot.com/-oHVbZR08Bbo/UUWNtawI7GI/AAAAAAAAJho/kQcgxROjaz0/s400/fig23.jpg"></td>
-    <td>Мотриса за шлифоване набраздени трамвайни релси.</td>
-  </tr>
-  <td colspan=2 >ℹ️ stara-sofia.bg</td>
-</table>
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1T5dWGyU0llXocpMjaK2LVq3P57UllDN7"></td>
+<td>Мотриса за шлифоване набраздени трамвайни релси.</td></tr>
+  <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
+  
+  
 
 ### 608
 
 ### Tabs {.tabset}
 
 #### 1924
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1TdrkB6gbO1dXUozr3alpbkX-wSVj0xCh"></td>
-    <td>Преработен от Сименс за превозване на насипни товари.</td>
-  </tr>
-  <td colspan=2 >ℹ️ Предоставена от д-р Асен Стоянов</td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1kizxuf-RWwt5hEI1Sz4zNxEoNZKU6GtM"></td>
+<td>Преработен от Сименс за превозване на насипни товари.</td></tr>
+  <td colspan=2 >ℹ️ Предоставена от д-р Асен Стоянов</td></table></div>
+  
+  
+
 
 
 ### 621
@@ -230,15 +226,12 @@ dateCreated: 2023-05-14T08:08:07.415Z
 ### Tabs {.tabset}
 
 #### 19??
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://3.bp.blogspot.com/-nxV2IbS-JLI/UUWNt8Yf6sI/AAAAAAAAJiA/_UxbvfDQIG8/s400/fig24.jpg"></td>
-    <td>Реморке-стълба за поддържане на въздушната трамвайна мрежа.</td>
-  </tr>
-  <td colspan=2 >ℹ️ stara-sofia.bg</td>
-</table>
-
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1EpYUWV4RRAP2uLakIvPjSXARlVirVZPD"></td>
+<td>Реморке-стълба за поддържане на въздушната трамвайна мрежа.</td></tr>
+  <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
+  
+  
 
 
 ## Разпознаване на разлики
