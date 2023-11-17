@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T21:17:13.718Z
+date: 2023-11-17T21:18:25.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -12,9 +12,10 @@ dateCreated: 2022-05-03T08:22:21.095Z
 # Tabs {.tabset}
 
 
+
 ## 06.2022
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://lh6.googleusercontent.com/40ToFmT1dbO5eFii19Mj4VxRPFDdRV5gt-ofnAGIJCI3BSEs9Y4PjjFJR7P6v5ZOyUE=w2400)">
-  <img src="https://lh6.googleusercontent.com/40ToFmT1dbO5eFii19Mj4VxRPFDdRV5gt-ofnAGIJCI3BSEs9Y4PjjFJR7P6v5ZOyUE=w2400"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1uOv28EoSqSFreN5O5-WmWGkB9KS5rOnW)">
+  <img src="https://drive.google.com/uc?id=1uOv28EoSqSFreN5O5-WmWGkB9KS5rOnW"/>
 </figure>
 
 ## 03.2021
