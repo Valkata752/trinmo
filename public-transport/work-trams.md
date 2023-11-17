@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T13:13:13.134Z
+date: 2023-11-17T13:20:40.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -244,5 +244,3 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 ## Разпознаване на разлики
 Разпознаване на MAN AEG и MAN Siemens - първият е с 5 отвора на допълнителната рамка за окачване на мотор компресорната група. (возилка) Вторият е с 6 отвора. 
-
-<img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pbmh0Yyo3_It_dGd1UczACta58Rys2ZEd2JqvPHrfMGguQQtEbzLYJ-Oi9XCCi9Yhv3TteoTv-XubGPzEMCF5CSy_8=w1920-h854">
