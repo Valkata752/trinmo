@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:26:28.134Z
+date: 2023-11-17T20:30:36.022Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -15,7 +15,7 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 ###
 <!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj0kB9CoWHag3YGXiU4YE2aJnCfaLsyX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1987">1987</a></b></figcaption></figure></button></div> 
 
 
 
