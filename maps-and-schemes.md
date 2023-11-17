@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:51:55.008Z
+date: 2023-11-17T20:58:09.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -26,6 +26,21 @@ dateCreated: 2022-05-03T08:22:21.095Z
 <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yf45-SvJ8iyKQPKB9tnM17KAzsiNfqlL" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1979">1979</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GbsZP1HgG0DVQIP7cUxzn5tgxNkBTyx1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1978">1978</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aPoVQjfpRFXRUmg9UVCqK7KOaPZop1Za" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1977">1977</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EXSvGSQ2EsP_Pd29jOvcv0tNH8BDjRDi" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1974</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=154e9kDh-zsZtHaqUnEidLlrQiJxmvw-G" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1973">1973</a></b></figcaption></figure></button></div>   <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1972">1972</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ywG8Zc2rzi32cZDXL1JZJySUg_254zp3" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1971">1971</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AI4op7j7WZYc9NOr0kQzTgQ82dTt7sOa" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1970">1970</a></b></figcaption></figure></button></div> 
 
 
+## 1960-1969 (60те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Y7u2mjKp1qQGY8XedXJtJCA4_Taoo8TX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1969">1969</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nhaVvYDIuIpDjOY-g0tnPfYA53y0W0_a" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1966">1966</a></b></figcaption></figure></button> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15Zp9n3TUrixb0gbtj8zFP0ALTr4NkoQ9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1965">1965</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1964">1964</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1961">1961</a></b></figcaption></figure></button></div> 
+
+
+## 1950-1959 (50те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1959">1959</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1957">1957</a></b></figcaption></figure></button></div> 
 
 
 
