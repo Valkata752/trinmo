@@ -2,12 +2,31 @@
 title: Карти
 description: 
 published: true
-date: 2023-11-17T16:55:32.981Z
+date: 2023-11-17T18:22:42.624Z
 tags: 
 editor: code
 dateCreated: 2023-11-17T16:55:32.981Z
 -->
 
-<h1>Title</h1>
+<html>
+    <head>
+        <meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="/map/l.control.zoominfo.css"/>
+		<link rel="stylesheet" type="text/css" href="/map/leaflet.css"/>
+        <link rel="stylesheet" href="/map/basic.ruler-src.css" />
+		<style>body { padding: 0; margin: 0; } html, body, #map { height: 1000px; }</style>
+</head>
+<body>
+	<div id='map'></div>
+	<script src="/map/leaflet.js"></script>
+	<script src="/map/fallback.js"></script>
+	<script src="/map/basic.ruler-src.js"></script>
+	<script src="/map/l.control.zoominfo.js"></script>
+	<script src="/map/bing.js"></script>
+    <script src="/map/l.control.opacity.js"></script>
+    <link href="/map/l.control.opacity.css" rel="stylesheet" />
+    
+	<script src="http://extern.roads-bg.eu/map_trinmo.js"></script>
 
-<p>Some text here</p>
+</body>
+</html>
