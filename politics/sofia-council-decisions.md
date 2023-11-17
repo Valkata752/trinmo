@@ -2,7 +2,7 @@
 title: Решения на СОС/СНС/СГНС
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-03T17:16:39.398Z
+date: 2023-11-17T14:15:08.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T08:24:21.378Z
@@ -23,7 +23,7 @@ dateCreated: 2022-05-02T08:24:21.378Z
 
 ## Решение № 860 от 14.09.2023 година
 
-За разкриване на излетни и експресни автобусни линии на територията на Столична община.
+За разкриване на излетни и експресни автобусни линии на територията на Столична община. (X40, X43, X84)
 
 Доклад: [СОА23-ВК66-8328/07.09.2023](https://drive.google.com/file/d/1dKxoC5l5t6EgVoVAcrwUGX08GfxxLk8/view?usp=sharing)  / [Решение № 860 от 14.09.2023 година](https://drive.google.com/file/d/1cLiNaalurvwBcHyw2H_fSnldifOMCMti/view?usp=sharing)  / `транспортна схема`
 
