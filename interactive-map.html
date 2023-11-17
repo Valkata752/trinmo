@@ -2,45 +2,110 @@
 title: Интерактивна карта
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-15T22:08:56.755Z
+date: 2023-11-17T16:50:37.250Z
 tags: 
 editor: code
 dateCreated: 2022-06-20T08:44:57.398Z
 -->
 
-## Добре дошли
-
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
-		<link rel="stylesheet" type="text/css" href="/map/l.control.zoominfo.css"/>
-		<link rel="stylesheet" type="text/css" href="/map/leaflet.css"/>
-        <link rel="stylesheet" href="/map/basic.ruler-src.css" />
-		<style>body { padding: 0; margin: 0; } html, body, #map { height: 100px; }</style>
+        <title>Избор на карта</title>
+
+
+		<style>body { padding: 0; margin: 0; } html, body}</style>
+		    <style>
+			.col-sm-6 {
+				flex: 0 0 auto;
+				width: 50%;    
+			}
+			
+			.row {
+				display: flex;
+				flex-wrap: wrap;
+				margin-right: calc(-.5 * 1.5rem);
+				margin-left: calc(-.5 * 1.5rem);
+			}
+			.container-fluid{
+				padding-right: calc(1.5rem * .5);
+				padding-left: calc(1.5rem * .5);
+			}
+
+			.rounded {
+				border-radius: 0.375rem;
+			}
+			
+			.bg-light {
+				opacity: 1;
+				background-color: rgba(248,249,250,1);
+			}
+			
+			.border {
+				border: 1px solid #dee2e6;
+			}
+			
+			a {
+				color: #00AAFF;
+				text-decoration: none
+			}
+			a :not(:first-child) {
+				color: #333333;
+			}
+			.example {
+				display: block;
+				padding: 0.65rem;
+				height: 70px;
+				margin: 0.65rem 0.65rem 0.65rem 0.65rem;
+				overflow: auto;
+			}
+			.example p.description {
+				font-size: smaller;
+				margin: 5px 0;
+			}
+			a.example:hover :first-child {
+				text-decoration: underline;
+			}
+
+			body {
+				font-family: 'Quattrocento Sans', sans-serif;
+				font-size: 16px;
+				color: #333333);
+			}
+    </style>
 </head>
 <body>
-    <script>
-      var form = document.getElementById("myForm");
-      form.addEventListener("submit", function(){
-        localStorage.setItem("submitted", "true");
-      });
+<div class="container-fluid">
+<div id="examples">
+	<div class="row">
+		<div class="col-sm-6">
+            <a class="example  bg-light border rounded" href="box-selection.html">
+              <strong>Исторически чертежи</strong><br>
+              <p class="description">.</p>
+            </a>
+          </div>
+		  <div class="col-sm-6">
+            <a class="example  bg-light border rounded" href="box-selection.html">
+              <strong>Проекти</strong><br>
+              <p class="description">Бъдещи планове и чертежи от обществени поръчки.</p>
+            </a>
+          </div>
+		  		  <div class="col-sm-6">
+            <a class="example  bg-light border rounded" href="box-selection.html">
+              <strong>Карти</strong><br>
+              <p class="description">.</p>
+            </a>
+          </div>
+		  		  <div class="col-sm-6">
+            <a class="example  bg-light border rounded" href="box-selection.html">
+              <strong>Ортофото</strong><br>
+              <p class="description">.</p>
+            </a>
+          </div>
+		  </div></div></div>
 
-      if(localStorage.getItem("submitted")){
-        var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?foo=bar';
-        window.history.pushState({path:newurl},'',newurl);
-        localStorage.removeItem("submitted");
-      }
-    </script>
-	<div id='map'></div>
-	<script src="/map/leaflet.js"></script>
-	<script src="/map/fallback.js"></script>
-	<script src="/map/basic.ruler-src.js"></script>
-	<script src="/map/l.control.zoominfo.js"></script>
-	<script src="/map/bing.js"></script>
-    <script src="/map/l.control.opacity.js"></script>
-    <link href="/map/l.control.opacity.css" rel="stylesheet" />
-    
-	<script src="http://extern.roads-bg.eu/map_trinmo.js"></script>
 
 </body>
 </html>
+
