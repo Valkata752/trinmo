@@ -2,18 +2,14 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T13:12:14.697Z
+date: 2023-11-17T13:13:13.134Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
 ---
 
 ## Работни трамваи
-<br>
-
-
-
-
+  **ЗТС** - специални | [**Т4М-50**](/bg/public-transport/fleet-list/1980-T4M-50) | [Т4М-801](/bg/public-transport/fleet-list/1989-T4M-801) | [**Т4М-900**](/bg/public-transport/fleet-list/1980-T4M-900) |
 
 ## Преправяни
 <br>
