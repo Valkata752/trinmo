@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:20:25.150Z
+date: 2023-11-17T20:22:57.359Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -12,10 +12,23 @@ dateCreated: 2022-05-03T08:22:21.095Z
 # Tabs {.tabset}
 
 ## 1990
-> 1990 ПЛАН-УКАЗАТЕЛ СОФИЯ
+> [1990 ПЛАН-УКАЗАТЕЛ СОФИЯ](/bg/maps-and-schemes/1990) 
 {.is-info}
 
 <img src="https://drive.google.com/uc?id=1OpVPv2Svsh3Foln_tDLyeRxp9yz4D8G9">
+
+## 1989
+> [1989 ПЛАН-УКАЗАТЕЛ СОФИЯ](/bg/maps-and-schemes/1989) 
+{.is-info}
+
+<img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05">
+
+## 1988
+> [1988 ПЛАН-УКАЗАТЕЛ СОФИЯ](/bg/maps-and-schemes/1988) 
+{.is-info}
+
+<img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w">
+
 
 
 
