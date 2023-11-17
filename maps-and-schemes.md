@@ -2,13 +2,21 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T21:07:40.162Z
+date: 2023-11-17T21:16:28.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
 ---
 
 # Исторически схеми
+
+## 2000-2010
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EsMf28E69EimEUC6NHbRneqJH_9z_R3f" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2010">2010</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12GVyGf898470qNm1Utlqo8By30u_WHoN" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2009">2009</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_it9qd6mqBpcmb2ICar7iTCayBzAVtJb" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2007">2007</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16aw5iiBpo0HXYeEANGaMam_7SXcm246H" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2003">2003</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rgLt2_R9LLiFeRugE9AIoLOBKZnatKX1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R-RSR5Mr3C67MBjVu1cs8N2pjRYI6mvX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2000">2000</a></b></figcaption></figure></button></div>
+
 
 ## 1990-1999 (90те)
 ## Tabs {.tabset}
