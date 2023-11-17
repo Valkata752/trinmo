@@ -2,79 +2,11 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T21:16:28.531Z
+date: 2023-11-17T21:17:13.718Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
 ---
-
-# Исторически схеми
-
-## 2000-2010
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EsMf28E69EimEUC6NHbRneqJH_9z_R3f" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2010">2010</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12GVyGf898470qNm1Utlqo8By30u_WHoN" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2009">2009</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_it9qd6mqBpcmb2ICar7iTCayBzAVtJb" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2007">2007</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16aw5iiBpo0HXYeEANGaMam_7SXcm246H" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2003">2003</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rgLt2_R9LLiFeRugE9AIoLOBKZnatKX1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R-RSR5Mr3C67MBjVu1cs8N2pjRYI6mvX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2000">2000</a></b></figcaption></figure></button></div>
-
-
-## 1990-1999 (90те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1e0xVZNO-s_lYEl2TwSVOuyJO4kAI-3Aj" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b>Datamap - <a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wKL2iaUrrNN3wPzFFXdP8QpPiI-cxK2o" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ld-doEKdwTU7LqLSFbVee_dCEsLvNS1b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1997">1997</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13g5UG0h1jDsny8EDXkUGSZGbZ9_iSw9b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1996">1996</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=181SCzoBEF5odm6UqNSmTwBb5I0DHNp1Y" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1995">1995</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zKzle2ptt3B-e8MBN8R_eK8ZDEmy61cI" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1993">1993</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OpVPv2Svsh3Foln_tDLyeRxp9yz4D8G9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1990">1990</a></b></figcaption></figure></button></div> 
-
-
-## 1980-1989 (80те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj0kB9CoWHag3YGXiU4YE2aJnCfaLsyX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1987">1987</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QZtM73zWNbb3fpkt98Q5GoN7C8W5bunp" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1986">1986</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15_2fyFlFEa39oo_Bh4CCfoIyLrzShbTm" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1985">1985</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bqLxQ2H0YlNsmszWXmBNeEpqia64pd83" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1984</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dTyCLZts6KGzloCh4s7BtFRCy0VHRw2u" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1983">1983</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xWPd-NYTc6j3OSp0VL8p-NDIonZELIAt" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1982">1982</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17fmkil14kgDcRbu1VP6i2aWKUgCuGIoT" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1981">1981</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhO8I8lvfT9hPcZfYr5WT9L-E66cJSWn" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1980">1980</a></b></figcaption></figure></button></div> 
-
-
-## 1970-1979 (70те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yf45-SvJ8iyKQPKB9tnM17KAzsiNfqlL" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1979">1979</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GbsZP1HgG0DVQIP7cUxzn5tgxNkBTyx1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1978">1978</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aPoVQjfpRFXRUmg9UVCqK7KOaPZop1Za" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1977">1977</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EXSvGSQ2EsP_Pd29jOvcv0tNH8BDjRDi" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1974</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=154e9kDh-zsZtHaqUnEidLlrQiJxmvw-G" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1973">1973</a></b></figcaption></figure></button></div>   <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1972">1972</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ywG8Zc2rzi32cZDXL1JZJySUg_254zp3" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1971">1971</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AI4op7j7WZYc9NOr0kQzTgQ82dTt7sOa" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1970">1970</a></b></figcaption></figure></button></div> 
-
-
-## 1960-1969 (60те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Y7u2mjKp1qQGY8XedXJtJCA4_Taoo8TX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1969">1969</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nhaVvYDIuIpDjOY-g0tnPfYA53y0W0_a" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1966">1966</a></b></figcaption></figure></button> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15Zp9n3TUrixb0gbtj8zFP0ALTr4NkoQ9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1965">1965</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1964">1964</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1961">1961</a></b></figcaption></figure></button></div> 
-
-
-## 1950-1959 (50те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1959">1959</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1957">1957</a></b></figcaption></figure></button></div> 
-
-
-## 1940-1949 (40те)
-## Tabs {.tabset}
-
-###
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1947">1947</a></b></figcaption></figure></button></div> 
-
-
-
-# Исторически схеми
-**По години** | [2023](/bg/maps-and-schemes/2023) | [2022](/bg/maps-and-schemes/2022) | [2021](/bg/maps-and-schemes/2021) | [2020](/bg/maps-and-schemes/2020) | [2019](/bg/maps-and-schemes/2019) | [2018](/bg/maps-and-schemes/2018) | [2017](/bg/maps-and-schemes/2017) | [2016](/bg/maps-and-schemes/2016) | [2015](/bg/maps-and-schemes/2015) | [2014](/bg/maps-and-schemes/2014) | [2013](/bg/maps-and-schemes/2013) | [2012](/bg/maps-and-schemes/2012) | [2011](/bg/maps-and-schemes/2011) | [2010](/bg/maps-and-schemes/2010) | [2009](/bg/maps-and-schemes/2009) | [2008](/bg/maps-and-schemes/2008) | [2007](/bg/maps-and-schemes/2007) | [2006](/bg/maps-and-schemes/2006) | [2005](/bg/maps-and-schemes/2005) | [2004](/bg/maps-and-schemes/2004) | [2003](/bg/maps-and-schemes/2003) | [2002](/bg/maps-and-schemes/2002) | [2001](/bg/maps-and-schemes/2001) | [2000](/bg/maps-and-schemes/2000) | [1999](/bg/maps-and-schemes/1999) | [1998](/bg/maps-and-schemes/1998) | [1997](/bg/maps-and-schemes/1997) | [1996](/bg/maps-and-schemes/1996) | [1995](/bg/maps-and-schemes/1995) | [1994](/bg/maps-and-schemes/1994) | [1993](/bg/maps-and-schemes/1993) | [1992](/bg/maps-and-schemes/1992) | [1991](/bg/maps-and-schemes/1991) | [1990](/bg/maps-and-schemes/1990) | [1989](/bg/maps-and-schemes/1989) | [1988](/bg/maps-and-schemes/1988) | [1987](/bg/maps-and-schemes/1987) | [1986](/bg/maps-and-schemes/1986) | [1985](/bg/maps-and-schemes/1985) | [1984](/bg/maps-and-schemes/1984) | [1983](/bg/maps-and-schemes/1983) | [1982](/bg/maps-and-schemes/1982) | [1981](/bg/maps-and-schemes/1981) | [1980](/bg/maps-and-schemes/1980) | [1979](/bg/maps-and-schemes/1979) | [1978](/bg/maps-and-schemes/1978) | [1977](/bg/maps-and-schemes/1977) | [1976](/bg/maps-and-schemes/1976) | [1975](/bg/maps-and-schemes/1975) | [1974](/bg/maps-and-schemes/1974) | [1973](/bg/maps-and-schemes/1973) | [1972](/bg/maps-and-schemes/1972) | [1971](/bg/maps-and-schemes/1971) | [1970](/bg/maps-and-schemes/1970) | [1969](/bg/maps-and-schemes/1969) | [1968](/bg/maps-and-schemes/1968) | [1967](/bg/maps-and-schemes/1967) | [1966](/bg/maps-and-schemes/1966) | [1965](/bg/maps-and-schemes/1965) | [1964](/bg/maps-and-schemes/1964) | [1963](/bg/maps-and-schemes/1963) | [1962](/bg/maps-and-schemes/1962) | [1961](/bg/maps-and-schemes/1961) | [1960](/bg/maps-and-schemes/1960) | [1959](/bg/maps-and-schemes/1959) | [1958](/bg/maps-and-schemes/1958) | [1957](/bg/maps-and-schemes/1957) | [1956](/bg/maps-and-schemes/1956) | [1955](/bg/maps-and-schemes/1955) | [1954](/bg/maps-and-schemes/1954) | [1953](/bg/maps-and-schemes/1953) | [1952](/bg/maps-and-schemes/1952) | [1951](/bg/maps-and-schemes/1951) | [1950](/bg/maps-and-schemes/1950) | [1949](/bg/maps-and-schemes/1949) | [1948](/bg/maps-and-schemes/1948) | [1947](/bg/maps-and-schemes/1947) | [1946](/bg/maps-and-schemes/1946) | [1945](/bg/maps-and-schemes/1945) | [1944](/bg/maps-and-schemes/1944) | [1943](/bg/maps-and-schemes/1943) | [1942](/bg/maps-and-schemes/1942) | [1941](/bg/maps-and-schemes/1941) | [1940](/bg/maps-and-schemes/1940) | [1939](/bg/maps-and-schemes/1939) | [1938](/bg/maps-and-schemes/1938) | [1937](/bg/maps-and-schemes/1937) | [1936](/bg/maps-and-schemes/1936) | [1935](/bg/maps-and-schemes/1935) | [1934](/bg/maps-and-schemes/1934) | [1933](/bg/maps-and-schemes/1933) | [1932](/bg/maps-and-schemes/1932) | [1931](/bg/maps-and-schemes/1931) | [1930](/bg/maps-and-schemes/1930) | [1929](/bg/maps-and-schemes/1929) | [1928](/bg/maps-and-schemes/1928) | [1927](/bg/maps-and-schemes/1927) | [1926](/bg/maps-and-schemes/1926) | [1925](/bg/maps-and-schemes/1925) | [1924](/bg/maps-and-schemes/1924) | [1923](/bg/maps-and-schemes/1923) | [1922](/bg/maps-and-schemes/1922) | [1921](/bg/maps-and-schemes/1921) | [1920](/bg/maps-and-schemes/1920) | [1919](/bg/maps-and-schemes/1919) | [1918](/bg/maps-and-schemes/1918) | [1917](/bg/maps-and-schemes/1917) | [1916](/bg/maps-and-schemes/1916) | [1915](/bg/maps-and-schemes/1915) | [1914](/bg/maps-and-schemes/1914) | [1913](/bg/maps-and-schemes/1913) | [1912](/bg/maps-and-schemes/1912) | [1911](/bg/maps-and-schemes/1911) | [1910](/bg/maps-and-schemes/1910) | [1909](/bg/maps-and-schemes/1909) | [1908](/bg/maps-and-schemes/1908) | [1907](/bg/maps-and-schemes/1907) | [1906](/bg/maps-and-schemes/1906) | [1905](/bg/maps-and-schemes/1905) | [1904](/bg/maps-and-schemes/1904) | [1903](/bg/maps-and-schemes/1903) | [1902](/bg/maps-and-schemes/1902) | [1901](/bg/maps-and-schemes/1901) | 
-
-
-
-
-
 
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
@@ -201,37 +133,62 @@ dateCreated: 2022-05-03T08:22:21.095Z
 </figure>
 
 
-# Транспортна карта София
 
-## 2002 
+# Исторически схеми
 
-##  Tabs {.tabset}
+## 2000-2010
+## Tabs {.tabset}
 
-### Автобуси
-<img src="https://drive.google.com/uc?id=1M6CtvYvGajEAld9Wd6NGGY6UviYyDYN2">
-
-
-
-### Маршрутни таксита
-<img src="https://drive.google.com/uc?id=1mIYs-XzN_c_kuGcgqgSjbrqriysi7PaR">
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EsMf28E69EimEUC6NHbRneqJH_9z_R3f" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2010">2010</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12GVyGf898470qNm1Utlqo8By30u_WHoN" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2009">2009</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_it9qd6mqBpcmb2ICar7iTCayBzAVtJb" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2007">2007</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16aw5iiBpo0HXYeEANGaMam_7SXcm246H" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2003">2003</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rgLt2_R9LLiFeRugE9AIoLOBKZnatKX1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R-RSR5Mr3C67MBjVu1cs8N2pjRYI6mvX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2000">2000</a></b></figcaption></figure></button></div>
 
 
+## 1990-1999 (90те)
+## Tabs {.tabset}
 
-# Спирки на градския транспорт
-# Tabs {.tabset}
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1e0xVZNO-s_lYEl2TwSVOuyJO4kAI-3Aj" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b>Datamap - <a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wKL2iaUrrNN3wPzFFXdP8QpPiI-cxK2o" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ld-doEKdwTU7LqLSFbVee_dCEsLvNS1b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1997">1997</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13g5UG0h1jDsny8EDXkUGSZGbZ9_iSw9b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1996">1996</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=181SCzoBEF5odm6UqNSmTwBb5I0DHNp1Y" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1995">1995</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zKzle2ptt3B-e8MBN8R_eK8ZDEmy61cI" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1993">1993</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OpVPv2Svsh3Foln_tDLyeRxp9yz4D8G9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1990">1990</a></b></figcaption></figure></button></div> 
 
 
-## Централна гара
-<img src="https://lh6.googleusercontent.com/d1XUk7Rsu5v2AKPb8LiwccwmMNnBRsM3EtPm_G674Io3Gdf7QIGjmX-9h-Wv-ENzVdg=w2400">
+## 1980-1989 (80те)
+## Tabs {.tabset}
 
-## Паметника Левски
-<img src="https://lh4.googleusercontent.com/oDGN6Tnp7SCmlcJuB1a3MmiZ9mlaivIgHWICHTGzZ5We1nMCF-3RvgnjuyE4f_-OLCw=w2400">
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=107La0C7ii6QWPJr3BJXpE_YYLyp_lx05" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1989">1989</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pGii0nwdwr4lc-akDvl-rZWo6D_EdD0w" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1988">1988</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj0kB9CoWHag3YGXiU4YE2aJnCfaLsyX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1987">1987</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QZtM73zWNbb3fpkt98Q5GoN7C8W5bunp" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1986">1986</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15_2fyFlFEa39oo_Bh4CCfoIyLrzShbTm" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1985">1985</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bqLxQ2H0YlNsmszWXmBNeEpqia64pd83" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1984</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dTyCLZts6KGzloCh4s7BtFRCy0VHRw2u" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1983">1983</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xWPd-NYTc6j3OSp0VL8p-NDIonZELIAt" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1982">1982</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17fmkil14kgDcRbu1VP6i2aWKUgCuGIoT" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1981">1981</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhO8I8lvfT9hPcZfYr5WT9L-E66cJSWn" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1980">1980</a></b></figcaption></figure></button></div> 
 
-## гара Подуяне
-<img src="https://lh4.googleusercontent.com/WfiCU8oqj6R19ZYtZedpQmksVNOY5bBq1HTvawuuD7w2COK_qaK4uRhz6mDe2rb4EaA=w2400">
 
-## пл. Македония
-<img src="https://lh6.googleusercontent.com/ywTbR49zu1ReOYMUmqQT35pU4kF3wGVlPoiP6SKZqWVAn6lZ24ddYm3Cu_xQueNcDW4=w2400">
+## 1970-1979 (70те)
+## Tabs {.tabset}
 
-## гара Захарна фабрика
-<img src="https://lh6.googleusercontent.com/2n8hkjHqQ29YlynnRcbRwz7wnjS3mIPaqTS6mIMXpB8ZQSO11FjssOfwbzy6bY4DnsI=w2400">
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yf45-SvJ8iyKQPKB9tnM17KAzsiNfqlL" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1979">1979</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GbsZP1HgG0DVQIP7cUxzn5tgxNkBTyx1" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1978">1978</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aPoVQjfpRFXRUmg9UVCqK7KOaPZop1Za" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1977">1977</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EXSvGSQ2EsP_Pd29jOvcv0tNH8BDjRDi" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1984">1974</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=154e9kDh-zsZtHaqUnEidLlrQiJxmvw-G" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1973">1973</a></b></figcaption></figure></button></div>   <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1972">1972</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ywG8Zc2rzi32cZDXL1JZJySUg_254zp3" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1971">1971</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AI4op7j7WZYc9NOr0kQzTgQ82dTt7sOa" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1970">1970</a></b></figcaption></figure></button></div> 
+
+
+## 1960-1969 (60те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Y7u2mjKp1qQGY8XedXJtJCA4_Taoo8TX" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1969">1969</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nhaVvYDIuIpDjOY-g0tnPfYA53y0W0_a" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1966">1966</a></b></figcaption></figure></button> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15Zp9n3TUrixb0gbtj8zFP0ALTr4NkoQ9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1965">1965</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1964">1964</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1961">1961</a></b></figcaption></figure></button></div> 
+
+
+## 1950-1959 (50те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1959">1959</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1957">1957</a></b></figcaption></figure></button></div> 
+
+
+## 1940-1949 (40те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1947">1947</a></b></figcaption></figure></button></div> 
+
