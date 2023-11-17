@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T13:20:40.114Z
+date: 2023-11-17T13:27:38.268Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -39,19 +39,18 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 
 #### 1938
-<table style="width:100%">
-  <tr>
-  <td style="width:400px"><img src="https://drive.google.com/uc?id=1wOWbpqCBVA4fGLWXzytrB13arzQUzOrL"></td>
-    <td>тип трамвай: Breda<br> Работен трамвай с ремарке 583 собственост на депо Станьо Василев (Клокотница). В момента се намира в хале на Трамвайния завод.</td>
-  </tr>
-  <td colspan=2 >ℹ️ Източник</td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1L-pWhV80AbXNHSxn993wNdJhfOXl2y8m"></td>
+<td>тип трамвай: Breda<br> Работен трамвай с ремарке 583 собственост на депо Станьо Василев (Клокотница). В момента се намира в хале на Трамвайния завод.</td></tr>
+  <td colspan=2 >ℹ️ Peter Haseldine</td></table></div>
+  
+  
 
 #### Снимки
 <!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drivedrive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drivedrive.google.com/uc?id=1rQvK4K9d-n6HJ_jZejrOlJMUj8qCQf-E" width="100%"></div></div>
 <!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1B7dCltAPnwFko_krwrru43sFc03fnuu9" height="200px"><figcaption><b>депо</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1B7dCltAPnwFko_krwrru43sFc03fnuu9" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" height="200px"><figcaption><b>депо</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" width="100%"></div></div>
 
 
 ### 553-582
@@ -61,7 +60,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 19??
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1lX67jdEEX-iryW99Da_QcLiIqk3huoz6"></td>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1sVudSuwA-xdspX8DIYD3HZ9wkI6rxWuK"></td>
     <td>тип трамвай: <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">1935-MAN-Siemens</a><br> Работен трамвай на Красна поляна. В момента се намира в хале на Трамвайния завод.</td>
   </tr>
   <td colspan=2 >ℹ️ joka-video.de ⭐</td>
