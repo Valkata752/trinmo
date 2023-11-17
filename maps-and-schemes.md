@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:58:09.340Z
+date: 2023-11-17T20:58:35.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -41,6 +41,14 @@ dateCreated: 2022-05-03T08:22:21.095Z
 ###
 <!--1--> 
 <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1959">1959</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1957">1957</a></b></figcaption></figure></button></div> 
+
+
+## 1940-1949 (40те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10OXggNizHUTiJHLQFNDthRa--r7yc6E7" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1947">1947</a></b></figcaption></figure></button></div> 
 
 
 
