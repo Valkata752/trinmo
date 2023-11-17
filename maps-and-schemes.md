@@ -2,13 +2,21 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T20:58:35.760Z
+date: 2023-11-17T21:07:40.162Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
 ---
 
 # Исторически схеми
+
+## 1990-1999 (90те)
+## Tabs {.tabset}
+
+###
+<!--1--> 
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1e0xVZNO-s_lYEl2TwSVOuyJO4kAI-3Aj" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b>Datamap - <a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wKL2iaUrrNN3wPzFFXdP8QpPiI-cxK2o" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ld-doEKdwTU7LqLSFbVee_dCEsLvNS1b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1997">1997</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13g5UG0h1jDsny8EDXkUGSZGbZ9_iSw9b" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1996">1996</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=181SCzoBEF5odm6UqNSmTwBb5I0DHNp1Y" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1995">1995</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zKzle2ptt3B-e8MBN8R_eK8ZDEmy61cI" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1993">1993</a></b></figcaption></figure></button></div> </div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OpVPv2Svsh3Foln_tDLyeRxp9yz4D8G9" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1990">1990</a></b></figcaption></figure></button></div> 
+
 
 ## 1980-1989 (80те)
 ## Tabs {.tabset}
