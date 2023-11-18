@@ -2,16 +2,22 @@
 title: Маршрутки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-18T10:17:03.074Z
+date: 2023-11-18T10:19:08.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-18T09:50:32.477Z
 ---
 
 <img src="https://drive.google.com/uc?id=1kZfO1LluaszDUmB-zE7eoN8o3QcL8AjI">
-<img src="https://drive.google.com/uc?id=1qi2J0z0SBpoYNLzwJhTJMSQseYgXE_1l">
 
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1rPxR5sOFpEA8DMXSgahwE94Ctuk7nWgE"></td>
+<td>"Отново маршрутни таксита по улиците на столицата" - статия от в-к "Транспортна искра"</td></tr>
+  <td colspan=2 >ℹ️ в-к "Транспортна искра", бр.12/19.8.1986г.</td></table></div>
+  
+ <img src="https://drive.google.com/uc?id=1qi2J0z0SBpoYNLzwJhTJMSQseYgXE_1l">
+ 
 ## Маршрути
 ## Tabs {.tabset}
 ### 2010
