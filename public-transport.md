@@ -2,7 +2,7 @@
 title: Градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-13T13:46:47.959Z
+date: 2023-11-18T09:45:30.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T17:16:46.376Z
@@ -29,6 +29,7 @@ dateCreated: 2022-04-26T17:16:46.376Z
 - [:world_map: Схеми на градския транспорт *Официални карти и схеми от СКГТ/ЦГМ*](/bg/maps-and-schemes)
 - [:m: Схеми на метрото *Различни схеми през годините*](/bg/maps-and-schemes/sofia-metro)
 - [:star: Концесионирани линии *Информация за договорите за превоз на пътници, начални и крайни дати*](/bg/public-transport/privitised-lines)
+- [:minibus: Маршрутки *Допълнителни маршрутни линии*](/bg/public-transport/marshrutki)
 - [:pager: Информационни системи *Електронни табели, шрифтове, гласово оповестяване др.*](/bg/public-transport/information-systems-and-management)
 - [:notebook_with_decorative_cover: Месечен транспортен дневник *Информация за промени по подвижния състав*](/bg/public-transport/monthly-transport-journal)
 {.links-list}
