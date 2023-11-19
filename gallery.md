@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T16:04:20.833Z
+date: 2023-11-19T16:12:30.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -15,7 +15,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 90те
-- [Focus1965*1996*](/gallery/focus-1965)
+- [Focus1965*1996*<br><img src="https://drive.google.com/uc?id=1qB3wG-pUytIWQ_2dsuADqiR5mxWU6Uym" height="100px"> <img src="https://drive.google.com/uc?id=1qB3wG-pUytIWQ_2dsuADqiR5mxWU6Uym" height="100px"> <img src="https://drive.google.com/uc?id=1qB3wG-pUytIWQ_2dsuADqiR5mxWU6Uym" height="100px"> ](/gallery/focus-1965)
 - [Luc Koenot*1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 {.links-list}
