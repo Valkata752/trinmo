@@ -2,15 +2,15 @@
 title: Фотограф - Гисберта Якла
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T11:08:51.663Z
+date: 2023-11-19T15:33:05.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
 ---
 
-
-# Tabs {.tabset}
-##  1973
+## 1973
+## Tabs {.tabset}
+### 
 <!--238--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" height="200px"><figcaption></figcaption>238</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" width="100%"></div></div>
 <!--37--> 
@@ -42,8 +42,9 @@ dateCreated: 2023-11-12T10:18:41.924Z
 <!--904--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" height="200px"><figcaption>904</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" width="100%"></div></div>
 
-# Tabs {.tabset}
-##  1975
+## 1975
+## Tabs {.tabset}
+### 
 <!--258--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" height="200px"><figcaption>258</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" width="100%"></div></div>
 
