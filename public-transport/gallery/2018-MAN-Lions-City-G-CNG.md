@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2018 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T09:22:49.221Z
+date: 2023-11-19T09:26:41.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T08:45:58.133Z
@@ -20,6 +20,8 @@ dateCreated: 2023-08-10T08:45:58.133Z
 ### 1601
   <!--1601--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" height="200px"><figcaption><b>A5TM</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193870743@N03/51595255174/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" width="100%"></a></div></div>
+  <!--1601--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53289151983_d078b92670_k.jpg" height="200px"><figcaption><b>A111 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/53289151983/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53289151983_d078b92670_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 1602
