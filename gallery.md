@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T16:03:35.470Z
+date: 2023-11-19T16:04:20.833Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -25,6 +25,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 70те
 - [Kurt Rasmussen*1977*](/gallery/kurt-rasmussen)
 - [Peter Haseldine*1976*](/gallery/peter-haseldine)
+- [Ole Iskov*1976*](/gallery/ole-iskov)
 - [Olaf Guettler*1975*](/gallery/olaf-guettler)
 - [Gisberta Yakla*1973, 1975*](/gallery/gisberta-yakla)
 {.links-list}
