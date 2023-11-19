@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T08:45:46.807Z
+date: 2023-11-19T09:18:38.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -51,10 +51,17 @@ dateCreated: 2023-08-07T17:50:09.883Z
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53298981865_67e13d44b2_o.jpg" height="200px"><figcaption><b>3316 </b> 📷 ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53298981865_67e13d44b2_o.jpg" width="100%"></div></div>
 
 ## Информационна кампания за превенция на остеопороза
-<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" height="200px"><figcaption><b>3322 </b> 📷 ооо Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" height="200px"><figcaption><b>3322 </b> 📷 Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" width="100%"></div></div>
 
 ## nPloy
-<div class="dropdown"><button class="imgbtn"><img src="" height="200px"><figcaption><b>1601 </b> 📷 Вилиян Костадинов </figcaption></button><div class="dropdown-content"><img src="" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" height="200px"><figcaption><b>1602 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" width="100%"></a></div></div>
+
+
+
+
+
+
+
 
 ## FOX (Star Channel)
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" height="200px"><figcaption><b>3142 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" width="100%"></div></div>
