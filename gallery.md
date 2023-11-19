@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T16:13:56.820Z
+date: 2023-11-19T16:20:52.144Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -15,6 +15,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 90те
+- [Theo Stolz*1996, 1997*](/gallery/theo-stolz)
 - [Focus1965*1996*](/gallery/focus-1965)
 - [Luc Koenot*1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
