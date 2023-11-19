@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2018 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-10T08:49:50.487Z
+date: 2023-11-19T09:22:49.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T08:45:58.133Z
@@ -17,10 +17,23 @@ dateCreated: 2023-08-10T08:45:58.133Z
 ## Земляне (1601-1620)
 
 ## Tabs {.tabset}
-## Tabs {.tabset}
 ### 1601
   <!--1601--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" height="200px"><figcaption><b>A5TM</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193870743@N03/51595255174/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" width="100%"></a></div></div>
+
+## Tabs {.tabset}
+### 1602
+<!--1602--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51927454795_5c1e9dc387_k.jpg" height="200px"><figcaption><b>A11 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51927454795/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/51927454795_5c1e9dc387_k.jpg" width="100%"></a></div></div>
+
+
+<!--1602--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" height="200px"><figcaption><b>A83 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" width="100%"></a></div></div>
+<!--1602--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52989539863_308f20bd9e_k.jpg" height="200px"><figcaption><b>A108 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52989539863/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/52989539863_308f20bd9e_k.jpg" width="100%"></a></div></div>
+<!--1602--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52423904338_20e92d2b2b_k.jpg" height="200px"><figcaption><b>A111 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52423904338/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/52423904338_20e92d2b2b_k.jpg" width="100%"></a></div></div>
+
 
 ## Tabs {.tabset}
 ### 1606
