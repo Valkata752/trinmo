@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T15:16:24.897Z
+date: 2023-11-19T15:22:13.234Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -12,6 +12,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Jara / prazketramvaje.cz*2006*](/gallery/jara-prazsketramvaje)
 - [J. Slehofer*2004, 2021*](/gallery/j-slehofer)
 - [Focus1965*1996*](/gallery/focus-1965)
+- [Luc Koenot*1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 - [Kurt Rasmussen*1977*](/gallery/kurt-rasmussen)
 - [Gisberta Yakla*1973, 1975*](/gallery/gisberta-yakla)
