@@ -2,15 +2,16 @@
 title: Фотограф: Luc Koenot
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T15:29:07.002Z
+date: 2023-11-19T15:30:59.041Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T15:29:07.002Z
 ---
 
 
-# Tabs {.tabset}
-##  1996
+## 1996
+## Tabs {.tabset}
+### 
 <!--82--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vNaDAFlLIchoQ3gDNjIKX8EHk-tV_bPG" height="200px"><figcaption></figcaption>82</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vNaDAFlLIchoQ3gDNjIKX8EHk-tV_bPG" width="100%"></div></div>
 
@@ -19,7 +20,7 @@ dateCreated: 2023-11-19T15:29:07.002Z
 
 
 <!--440--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=LfV3H9CHseq5W5T4IWIYU1smmw2v" height="200px"><figcaption></figcaption>440</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=LfV3H9CHseq5W5T4IWIYU1smmw2v" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QeF-LfV3H9CHseq5W5T4IWIYU1smmw2v" height="200px"><figcaption></figcaption>440</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QeF-LfV3H9CHseq5W5T4IWIYU1smmw2v" width="100%"></div></div>
 
 
 <!--466--> 
@@ -36,8 +37,9 @@ dateCreated: 2023-11-19T15:29:07.002Z
 <!--4203--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CZhGr4Q4VJ-0DNxrfmspcXNnYpX4yer0" height="200px"><figcaption></figcaption>4203</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CZhGr4Q4VJ-0DNxrfmspcXNnYpX4yer0" width="100%"></div></div>
 
-# Tabs {.tabset}
-##  1993
+## 1993
+## Tabs {.tabset}
+### 
 <!--101--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12WD5S9jAi73-OYf7goiZQhi2FezWiH7G" height="200px"><figcaption></figcaption>101</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12WD5S9jAi73-OYf7goiZQhi2FezWiH7G" width="100%"></div></div>
 
