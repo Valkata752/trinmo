@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-03-16T08:31:03.254Z
+date: 2023-11-19T09:42:35.687Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -854,6 +854,8 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/v9YowRGqYCMJsQrtU3snkG2UJq2r4GwbvF3IrNPpXIXqu07n-hOtTpmJww20zzSVe5k=w2400" height="150px"><figcaption> <b>1 лв.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rcVnLn1gZmAu0KpM6wIz4yquvAzTObr_" height="150px"><figcaption> <b>12ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Вариант 3
 <!--20--> 
