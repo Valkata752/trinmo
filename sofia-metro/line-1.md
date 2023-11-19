@@ -2,7 +2,7 @@
 title: Метролиния 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-18T07:44:32.934Z
+date: 2023-11-19T15:07:32.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:25:37.771Z
@@ -280,12 +280,7 @@ dateCreated: 2023-08-18T07:25:37.771Z
 # Експлоатационни параметри
 | :new: Ново разписание | :leftwards_arrow_with_hook: Нов маршрут |
 
-# Tabs {.tabset}
-## 2021
-> Западен парк - Младежки Театър (АП-Земляне)
-{.is-info}
-
--  Празник | **брой коли** ?-?-?-? | **интервал** ?-?-?-?
+- **Очаквайте скоро…**
 {.grid-list}
 
 
@@ -294,8 +289,13 @@ dateCreated: 2023-08-18T07:25:37.771Z
   
 # Tabs {.tabset}
 
+## МВМ 81-740/741 (Русич)
+<!--А55--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" height="200px"><figcaption><b>А55</b>📷 Столична община</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" width="100%"></a></div></div>
 
-## Модел
-<!--номер--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="" height="200px"><figcaption><b>номер </b>📷 автор</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
+## МВМ 81-717/714.4
+<!--А2--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" height="200px"><figcaption><b>А2</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/187385079@N02/49913537396/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" width="100%"></a></div></div>
+<!--А6--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" height="200px"><figcaption><b>А6</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/164919865@N03/48513905057/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" width="100%"></a></div></div>
 
