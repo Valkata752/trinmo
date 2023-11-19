@@ -2,15 +2,15 @@
 title: Фотограф - Focus1965
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T12:20:06.515Z
+date: 2023-11-19T16:00:46.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:15:17.091Z
 ---
 
-
-# Tabs {.tabset}
 ##  1996
+## Tabs {.tabset}
+###
 <!--2618--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" height="200px"><figcaption></figcaption>2618</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" width="100%"></div></div>
 <!--124--> 
