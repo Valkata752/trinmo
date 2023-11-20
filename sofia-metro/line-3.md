@@ -2,7 +2,7 @@
 title: Метролиния 3
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-18T08:07:31.055Z
+date: 2023-11-20T10:02:59.850Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:56:14.647Z
@@ -109,22 +109,20 @@ dateCreated: 2023-08-18T07:56:14.647Z
 # Експлоатационни параметри
 | :new: Ново разписание | :leftwards_arrow_with_hook: Нов маршрут |
 
-# Tabs {.tabset}
-## 2021
-> Западен парк - Младежки Театър (АП-Земляне)
-{.is-info}
-
--  Празник | **брой коли** ?-?-?-? | **интервал** ?-?-?-?
+- **Очаквайте скоро…**
 {.grid-list}
 
 
 
 # Снимки
-  
 # Tabs {.tabset}
 
-
-## Модел
-<!--номер--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="" height="200px"><figcaption><b>номер </b>📷 автор</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="" width="100%"></a></div></div>
-
+## Siemens Inspiro SF
+<!--B009--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/15/35/23/1535237.jpg" height="200px"><figcaption> <b>B009</b> 📷 Столична община</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/15/35/23/1535237.jpg" width="100%"></div></div>
+<!--B008--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://assets.new.siemens.com/siemens/assets/api/uuid:cefb6b97-efa7-4d8d-847b-a3dd619a01cd/width:640/quality:high/cefb6b97-efa7-4d8d-847b-a3dd619a01cd.jpg" height="200px"><figcaption> <b>B008</b> 📷 Siemens Mobility</figcaption></figure></button><div class="dropdown-content"><img src="https://assets.new.siemens.com/siemens/assets/api/uuid:cefb6b97-efa7-4d8d-847b-a3dd619a01cd/width:640/quality:high/cefb6b97-efa7-4d8d-847b-a3dd619a01cd.jpg" width="100%"></div></div>
+<!--B020--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://static.bnr.bg/gallery/cr/07889663d60f80a45f3fe63825a167c6.jpg" height="200px"><figcaption> <b>B020</b> 📷 Sketches Of Sofia</figcaption></figure></button><div class="dropdown-content"><img src="https://static.bnr.bg/gallery/cr/07889663d60f80a45f3fe63825a167c6.jpg" width="100%"></div></div>
+<!--B028--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/15/50/75/1550759.jpg" height="200px"><figcaption> <b>B028</b> 📷 Столична община</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/15/50/75/1550759.jpg" width="100%"></div></div>
