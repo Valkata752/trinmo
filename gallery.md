@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T16:20:52.144Z
+date: 2023-11-20T09:41:35.964Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -24,6 +24,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 80те
 
 ## 70те
+- [Olle S. Nevius*1978*](/gallery/olle-s-nevius-1978)
 - [Kurt Rasmussen*1977*](/gallery/kurt-rasmussen)
 - [Peter Haseldine*1976*](/gallery/peter-haseldine)
 - [Ole Iskov*1976*](/gallery/ole-iskov)
