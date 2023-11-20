@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevius
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T11:28:14.703Z
+date: 2023-11-20T11:31:33.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
@@ -57,3 +57,22 @@ dateCreated: 2023-11-20T10:50:05.669Z
 
 <!--882--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-WAihgpqt77IegdTxk4jb_mKvlp85idI" height="200px"><figcaption></figcaption>882</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-WAihgpqt77IegdTxk4jb_mKvlp85idI" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### 9TR
+<!--XXX--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mgVfok3jwCrnBlea9fa25iPS5cstpMcO" height="200px"><figcaption></figcaption>XXX</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mgVfok3jwCrnBlea9fa25iPS5cstpMcO" width="100%"></div></div>
+
+<!--219--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eMcV4Dzw6LMKvgzC5_DaXgRx7o6FOJ1u" height="200px"><figcaption></figcaption>219</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eMcV4Dzw6LMKvgzC5_DaXgRx7o6FOJ1u" width="100%"></div></div>
+
+<!--234--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FkkmtC79NyJwYHPF5mAJ_P6uqM8FYuqC" height="200px"><figcaption></figcaption>234</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FkkmtC79NyJwYHPF5mAJ_P6uqM8FYuqC" width="100%"></div></div>
+
+
+<!--283--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1g-IszeZZ90N9URVLInWSoClqNC2sW21K" height="200px"><figcaption></figcaption>283</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1g-IszeZZ90N9URVLInWSoClqNC2sW21K" width="100%"></div></div>
+
+<!--340--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ub-P1JqI0kdZ74SQ2rY3t2xeUd_sfvID" height="200px"><figcaption></figcaption>340</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ub-P1JqI0kdZ74SQ2rY3t2xeUd_sfvID" width="100%"></div></div>
