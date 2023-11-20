@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T14:05:17.584Z
+date: 2023-11-20T14:32:54.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -24,7 +24,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 80те
-- [joka-video.de*1981*](/gallery/joka-video-de)
+- [joka-video.de (📷 24 снимки)*1981*](/gallery/joka-video-de)
 - [H. Luff*1984/86*](/gallery/h-luff)
 {.links-list}
 
