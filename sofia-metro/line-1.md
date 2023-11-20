@@ -2,7 +2,7 @@
 title: Метролиния 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T15:17:05.841Z
+date: 2023-11-20T09:29:57.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:25:37.771Z
@@ -290,12 +290,16 @@ dateCreated: 2023-08-18T07:25:37.771Z
 # Tabs {.tabset}
 
 ## МВМ 81-740/741 (Русич)
+<!--А54--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/7734/17578195266_39e846b1e6_b.jpg" height="200px"><figcaption><b>А54</b> 📷 Иво Радоев</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="https://live.staticflickr.com/7734/17578195266_39e846b1e6_b.jpg" width="100%"></a></div></div>
 <!--А55--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" height="200px"><figcaption><b>А55</b>📷 Столична община</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" width="100%"></a></div></div>
-
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" height="200px"><figcaption><b>А55</b> 📷 Столична община</figcaption></figure></button><div class="dropdown-content"><a href="" target="_blank" title="номер"> <img src="https://www.sofia.bg/documents/20121/479094/2018-01-26+-+20+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%BE+%D0%B2+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.jpg/e0dadfa7-37c9-434f-98e9-ee1b7cd85e11?t=1516983703472" width="100%"></a></div></div>
+  
 ## МВМ 81-717/714.4
 <!--А2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" height="200px"><figcaption><b>А2</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/187385079@N02/49913537396/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" height="200px"><figcaption><b>А2</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/187385079@N02/49913537396/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/49913537396_1f3fdeccfe_k.jpg" width="100%"></a></div></div>
 <!--А6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" height="200px"><figcaption><b>А6</b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/164919865@N03/48513905057/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" height="200px"><figcaption><b>А6</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/164919865@N03/48513905057/in/photolist-2gV1rLV-XfCRsc-2j3FVGY-2j3HsqF-2j3Di8w-2mrNndj-2m8VJsD" target="_blank" title="номер"> <img src="https://live.staticflickr.com/65535/48513905057_67c96fe96c_k.jpg" width="100%"></a></div></div>
+<!--А6--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/5335/17604523791_4fb1613638_b.jpg" height="200px"><figcaption><b>А6</b> 📷 Иво Радоев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/rivo23/17604523791/in/photolist-sPDMAg-2iSSmSP-rEJxE8-pxB5DE-2kXcpJG-2m56MJM-2jAEQkw-Fmnt7u-wvj6QZ-8Mgm9i-sPDM4i-2mcxtN1-2mcBwwm-2kXgr5c-efPJAE-JxmTRx-afHEQv-dWwvDU-AxdTW7-nzX2GM-28KRvqD-2hHpcJt-Bns2WP-2mcwqtF-2mcA8BQ-2mcsErE-2mcsEwz-2mcxtLc-2mcBwp2-2mcwpXL-2mcBwCJ-2iCzj9V-2mcA8Cg-2mcsExg-2mcxteL-duFq96-2mcwpXF-HoAvvf-2mcA8L7-HP3i3P-2mcBwpx-2mcsEfY-7H3XDH-227TgPa-Fmnp25-avcTVf-7un2st-afLpwJ-afLpfb-afLpKw" title="Sofia Subway - station &quot;Aleksandar Malinov&quot;" target="_blank" title="номер"> <img src="https://live.staticflickr.com/5335/17604523791_4fb1613638_b.jpg" width="100%"></a></div></div>
 
