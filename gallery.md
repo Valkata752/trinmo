@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T13:01:06.384Z
+date: 2023-11-20T13:40:10.787Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -38,4 +38,5 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 60те
 - [FPD7*1969*](/gallery/fpd7)
+- [H E C Percy*1950/60*](/gallery/hec-percy)
 {.links-list}
