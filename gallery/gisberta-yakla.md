@@ -2,7 +2,7 @@
 title: Фотограф - Гисберта Якла
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T15:33:05.664Z
+date: 2023-11-20T12:25:16.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
