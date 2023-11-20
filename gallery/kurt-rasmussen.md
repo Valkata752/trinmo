@@ -2,14 +2,15 @@
 title: Фотограф - Kurt Rasmussen
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T15:20:03.543Z
+date: 2023-11-20T09:42:24.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T15:20:03.543Z
 ---
 
-# Tabs {.tabset}
 ## 06.1977
+## Tabs {.tabset}
+###
 <!--106--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1k9FOU0CVY00Xgl4BjnPybtGY2f2NEM2V" height="200px"><figcaption></figcaption>106</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1k9FOU0CVY00Xgl4BjnPybtGY2f2NEM2V" width="100%"></div></div>
 
