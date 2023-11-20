@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:14:55.505Z
+date: 2023-11-20T10:38:45.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:calendar: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
+- [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
 - [:euro: Защо не бе приета икономическата рамка на транспорта през 2023г.? *Петър Мънъри*](/bg/blog/ikonomicheska-ramka-2023)
 - [:train: Защо новите трамваи Песа стоят в депото *Петър Мънъри*](/bg/blog/pesa-trams-depot)
 - [:bus: Допълнителни автобусни линии и тяхното таксуване *Петър Мънъри*](/bg/blog/additional-bus-lines)
