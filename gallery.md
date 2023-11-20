@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T17:56:59.234Z
+date: 2023-11-20T20:36:04.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -19,7 +19,8 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Theo Stolz*1996, 1997*](/gallery/theo-stolz)
 - [Klaus Mundt*1996, 1997*](/gallery/klaus-mundt)
 - [Focus1965*1996*](/gallery/focus-1965)
-- [joka-video.de *1981*](/gallery/joka-video-de-1996)
+- [joka-video.de *1996*](/gallery/joka-video-de-1996)
+- [Rob Crandall *1995*](/gallery/rob-crandall)
 - [Luc Koenot*1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 - [Champlin*1990*](/gallery/champlin)
