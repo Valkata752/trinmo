@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Мс 302А ("Гео Милев")
 description: 
 published: true
-date: 2023-11-20T19:39:05.468Z
+date: 2023-11-20T19:39:46.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:39:05.468Z
