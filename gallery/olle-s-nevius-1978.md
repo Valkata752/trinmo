@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevius
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T11:27:11.290Z
+date: 2023-11-20T11:28:14.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
@@ -21,6 +21,19 @@ dateCreated: 2023-11-20T10:50:05.669Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GFM4fRWnES6QRtQuAnUE_K2bxtmdCYnn" height="200px"><figcaption></figcaption>187</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GFM4fRWnES6QRtQuAnUE_K2bxtmdCYnn" width="100%"></div></div>
 
 
+<!--730, 736--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lCGHsfmepB2K2l_5Q4Zfo7Je66glCzsx" height="200px"><figcaption></figcaption>730, 736</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lCGHsfmepB2K2l_5Q4Zfo7Je66glCzsx" width="100%"></div></div>
+
+
+<!--731--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" height="200px"><figcaption></figcaption>731, 782, 779</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" width="100%"></div></div>
+
+<!--757--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" height="200px"><figcaption></figcaption>757</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### Т6М-801 (София)
 <!--604--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ZknWImrgcOjllkkLoMPLp1rgwTijEU_I" height="200px"><figcaption></figcaption>604</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ZknWImrgcOjllkkLoMPLp1rgwTijEU_I" width="100%"></div></div>
 
@@ -34,18 +47,6 @@ dateCreated: 2023-11-20T10:50:05.669Z
 
 <!--638--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qrNUt32IHEO1YDiGjRIMnAHsmr_X61gR" height="200px"><figcaption></figcaption>638</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qrNUt32IHEO1YDiGjRIMnAHsmr_X61gR" width="100%"></div></div>
-
-
-<!--730, 736--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lCGHsfmepB2K2l_5Q4Zfo7Je66glCzsx" height="200px"><figcaption></figcaption>730, 736</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lCGHsfmepB2K2l_5Q4Zfo7Je66glCzsx" width="100%"></div></div>
-
-
-<!--731--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" height="200px"><figcaption></figcaption>731, 782, 779</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" width="100%"></div></div>
-
-<!--757--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" height="200px"><figcaption></figcaption>757</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" width="100%"></div></div>
-
 
 <!--814,849--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KaYY4_8bKpuQBbpmPujhgC6TSMI8PULI" height="200px"><figcaption></figcaption>814, 849</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KaYY4_8bKpuQBbpmPujhgC6TSMI8PULI" width="100%"></div></div>
