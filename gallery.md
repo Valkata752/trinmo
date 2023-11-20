@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T09:41:35.964Z
+date: 2023-11-20T10:36:47.383Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -11,6 +11,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 00те
 - [Hilsner-Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz*2006*](/gallery/jara-prazsketramvaje)
+- [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
 - [J. Slehofer*2004, 2021*](/gallery/j-slehofer)
 {.links-list}
 
