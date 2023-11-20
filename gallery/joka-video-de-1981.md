@@ -1,8 +1,8 @@
 ---
-title: Фотограф - joka-video.de
+title: Фотограф - joka-video.de 
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T14:35:43.023Z
+date: 2023-11-20T14:40:14.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:29:53.590Z
