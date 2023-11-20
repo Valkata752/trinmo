@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T20:36:04.981Z
+date: 2023-11-20T21:48:35.671Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -16,6 +16,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 90те
+- [Wilfried Wolf*1998*](/gallery/wilfried-wolf)
 - [Theo Stolz*1996, 1997*](/gallery/theo-stolz)
 - [Klaus Mundt*1996, 1997*](/gallery/klaus-mundt)
 - [Focus1965*1996*](/gallery/focus-1965)
