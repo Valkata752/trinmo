@@ -2,7 +2,7 @@
 title: Фотограф - Champlin
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T13:26:09.399Z
+date: 2023-11-20T13:27:27.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:26:09.399Z
@@ -12,9 +12,9 @@ dateCreated: 2023-11-20T13:26:09.399Z
 {.is-info}
 
 
-## 02.2008
+## 1990
 ## Tabs {.tabset}
-###
+### Т8М-730 (София-70)
 <!--127--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP" height="200px"><figcaption></figcaption>127</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP" width="100%"></div></div>
 
@@ -24,7 +24,8 @@ dateCreated: 2023-11-20T13:26:09.399Z
 <!--785--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd" height="200px"><figcaption></figcaption>785</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd" width="100%"></div></div>
 
-
+## Tabs {.tabset}
+### Т6М-700/М
 <!--816--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl" height="200px"><figcaption></figcaption>816</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl" width="100%"></div></div>
 
