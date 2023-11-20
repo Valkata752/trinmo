@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T09:31:16.862Z
+date: 2023-11-20T09:33:18.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
@@ -212,11 +212,11 @@ dateCreated: 2023-11-19T16:24:27.252Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" height="200px"><figcaption></figcaption>4412</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" width="100%"></div></div>
 
 <!--4413--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" height="200px"><figcaption></figcaption>4413</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ZwG7YkK3lMay-1SUDBNJ69bKHF9BbZin" height="200px"><figcaption></figcaption>4413</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ZwG7YkK3lMay-1SUDBNJ69bKHF9BbZin" width="100%"></div></div>
 
 
 <!--4415--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" height="200px"><figcaption></figcaption>4415</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ynKQncuf-_RXoszyWn6gDU1XalXcF--0" height="200px"><figcaption></figcaption>4415</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ynKQncuf-_RXoszyWn6gDU1XalXcF--0" width="100%"></div></div>
 
 
 
