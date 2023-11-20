@@ -2,7 +2,7 @@
 title: Фотограф: H E C Piercy
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T13:47:00.001Z
+date: 2023-11-20T13:48:39.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:47:00.001Z
@@ -15,6 +15,7 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 ## 1950-60
 ## Tabs {.tabset}
+###
 <!--34--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jg-P2vuuXMRw9QLKfT_HzmcHFGDBztMM" height="200px"><figcaption></figcaption>34</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jg-P2vuuXMRw9QLKfT_HzmcHFGDBztMM" width="100%"></div></div>
 
