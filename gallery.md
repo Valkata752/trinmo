@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:36:47.383Z
+date: 2023-11-20T12:24:31.880Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -31,6 +31,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Ole Iskov*1976*](/gallery/ole-iskov)
 - [Olaf Guettler*1975*](/gallery/olaf-guettler)
 - [Gisberta Yakla*1973, 1975*](/gallery/gisberta-yakla)
+- [Bohdan Turzanski*1971, 1975*](/gallery/bohdan-turzanski)
 {.links-list}
 
 ## 60те
