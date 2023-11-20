@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T09:14:37.830Z
+date: 2023-11-20T09:15:09.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
@@ -101,15 +101,12 @@ dateCreated: 2023-11-19T16:24:27.252Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xP_BJY1VuD2KtiZjQunOsXBt0xj9oniX" height="200px"><figcaption></figcaption>448</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xP_BJY1VuD2KtiZjQunOsXBt0xj9oniX" width="100%"></div></div>
 
 
+## Tabs {.tabset}
+### Т6М-700
+
 <!--725--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wwvNMF3CPr6pDObh_SZuIU5l8mIU1r_4" height="200px"><figcaption></figcaption>725</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wwvNMF3CPr6pDObh_SZuIU5l8mIU1r_4" width="100%"></div></div>
 
-
-
-
-
-## Tabs {.tabset}
-### Т6М-700
 
 <!--804--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16VHK_JAeLXDDsZZwkjStb25Ejl47A10i" height="200px"><figcaption></figcaption>804</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16VHK_JAeLXDDsZZwkjStb25Ejl47A10i" width="100%"></div></div>
