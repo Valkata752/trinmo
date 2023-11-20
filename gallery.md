@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T13:40:23.739Z
+date: 2023-11-20T13:59:27.012Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -24,6 +24,9 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 80те
+- [H. Luff*1984/86*](/gallery/h-luff)
+{.links-list}
+
 
 ## 70те
 - [Olle S. Nevius*1978*](/gallery/olle-s-nevius-1978)
