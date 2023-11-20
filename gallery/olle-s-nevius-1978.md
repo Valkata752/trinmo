@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevius
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:50:05.669Z
+date: 2023-11-20T11:27:11.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
@@ -41,5 +41,18 @@ dateCreated: 2023-11-20T10:50:05.669Z
 
 
 <!--731--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" height="200px"><figcaption></figcaption>731</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" height="200px"><figcaption></figcaption>731, 782, 779</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_15kMSrFRPA4rHs3nBkJ367Kqps31gvD" width="100%"></div></div>
 
+<!--757--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" height="200px"><figcaption></figcaption>757</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aq9386H3iHaeHY8rZWhiwDS-ytl_T7xb" width="100%"></div></div>
+
+
+<!--814,849--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KaYY4_8bKpuQBbpmPujhgC6TSMI8PULI" height="200px"><figcaption></figcaption>814, 849</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KaYY4_8bKpuQBbpmPujhgC6TSMI8PULI" width="100%"></div></div>
+
+
+<!--842--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cy9stg4riWrHQ18jQKhuw568B_VNyeLm" height="200px"><figcaption></figcaption>842</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cy9stg4riWrHQ18jQKhuw568B_VNyeLm" width="100%"></div></div>
+
+<!--882--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-WAihgpqt77IegdTxk4jb_mKvlp85idI" height="200px"><figcaption></figcaption>882</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-WAihgpqt77IegdTxk4jb_mKvlp85idI" width="100%"></div></div>
