@@ -2,7 +2,7 @@
 title: Мс 301А ("Ситняково")
 description: 
 published: true
-date: 2023-11-20T19:40:27.671Z
+date: 2023-11-21T06:21:53.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:28:55.365Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-20T19:28:55.365Z
 
 ## В строеж
 ## Tabs {.tabset}
-### 🔵 Ситняково
+### 🟢 Ситняково
 <table style="width:100%">
   <tr>
     <td style="width:400px"><img src=""></td>
