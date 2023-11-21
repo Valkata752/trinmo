@@ -2,7 +2,7 @@
 title: Мс 305А ("Арена София")
 description: 
 published: true
-date: 2023-11-21T17:03:38.390Z
+date: 2023-11-21T17:06:35.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:46:55.530Z
@@ -44,7 +44,9 @@ dateCreated: 2023-11-20T19:46:55.530Z
       <br>
     <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UyPJDOmKShhMSo8vHI5zT6qaThOPvR2g" height="200px"><figcaption><b>Архитектурна визуализация - 2019г.</b> 📷 SWECO "Енергопроект" АД
       <br>
-    <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=" height="200px"><figcaption><b>Архитектурна визуализация - перон, 2023г.</b> 📷 "Метрополитен" ЕАД
+    <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lr6MwvYJB4I9IdXIlwLWGA9HjhbmFUgj" height="200px"><figcaption><b>Архитектурна визуализация - перон, 2023г.</b> 📷 "Метрополитен" ЕАД
+      <br>
+    <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wKUyE-sCoENg5F_vVPrvHNaYJLOkZ9s8" height="200px"><figcaption><b>Архитектурна визуализация - вестибюл, 2023г.</b> 📷 "Метрополитен" ЕАД
 
 # Връзки с градския транспорт
 Автобусни линии: 1, 3, 5
