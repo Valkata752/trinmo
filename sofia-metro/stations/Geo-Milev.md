@@ -2,7 +2,7 @@
 title: Мс 302А ("Гео Милев")
 description: 
 published: true
-date: 2023-11-21T06:20:36.353Z
+date: 2023-11-21T06:20:57.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:39:05.468Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-20T19:39:05.468Z
 
 ## В строеж
 ## Tabs {.tabset}
-### 🔵 Гео Милев
+### 🟢 Гео Милев
 <table style="width:100%">
   <tr>
     <td style="width:400px"><img src=""></td>
