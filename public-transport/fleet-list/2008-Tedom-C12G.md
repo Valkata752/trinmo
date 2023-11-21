@@ -2,7 +2,7 @@
 title: Tedom C12G
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-10T20:24:10.367Z
+date: 2023-11-21T08:09:30.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:17:55.939Z
@@ -51,60 +51,101 @@ dateCreated: 2022-05-19T21:17:55.939Z
 <img src="https://lh5.googleusercontent.com/MgZrIFDpWV1H43AqlBHwK0oVUQU8bdiDZuy8Yq1zowGV3XRtU3zJuklU8EdV2v9KeG4=w2400" height="400px">
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/2008-Tedom-C12G)
+{.links-list}
 
-## Tabs {.tabset}
 
-### 3901
+# Tabs {.tabset}
+
+## 1 - 9
+<!--3903-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" height="200px"><figcaption> <b>A6</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" width="100%"></div></div>
 <!--3901-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18kOiziQ8rg7ItgUkhfjkaUTtHWeEndgL" height="200px"><figcaption> <b>A9</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18kOiziQ8rg7ItgUkhfjkaUTtHWeEndgL" width="100%"></div></div>
-<!--3901-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TCDO352P42X5ZUe6dwJWU4la-Folm_vI" height="200px"><figcaption> <b>A306</b> 📷 Kim Løvenskjold ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TCDO352P42X5ZUe6dwJWU4la-Folm_vI" width="100%"></div></div>
-<!--3901-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Rk01qJpEoKFfR_KeRdIbrdMGXknfHS9R" height="200px"><figcaption> <b>A313</b> 📷 Иво Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Rk01qJpEoKFfR_KeRdIbrdMGXknfHS9R" width="100%"></div></div>
-<!--3901-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VVP2bofopjflgBwsyWuWhUGV8FGNwxr1" height="200px"><figcaption> <b>🔥</b> 📷 Евгени Крусев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VVP2bofopjflgBwsyWuWhUGV8FGNwxr1" width="100%"></div></div>
-<!--3901-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1go8oIiHkLljMuZCUp2nMi04PeEJ66tkI" height="200px"><figcaption> <b>🔥</b> 📷 Евгени Крусев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1go8oIiHkLljMuZCUp2nMi04PeEJ66tkI" width="100%"></div></div>
 
-### 3902
-<!--3902-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1623G0fojsx8ULDj69bS047ColmlICDHp" height="200px"><figcaption> <b>A9</b> 📷 Константин Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1623G0fojsx8ULDj69bS047ColmlICDHp" width="100%"></div></div>
+
+
+
+
+# Tabs {.tabset}
+## 6*
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SiyKNR9lFp7YniuXHsMzJ6nrTMo6Sjqc" height="200px"><figcaption> <b>A67</b> 📷 Руси Карарусинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SiyKNR9lFp7YniuXHsMzJ6nrTMo6Sjqc" width="100%"></div></div>
+<!--3904-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W2OTnLiu6m4zJSKPxC-saW_IZZP0h0E3" height="200px"><figcaption> <b>A69A</b> 📷 Иво Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1W2OTnLiu6m4zJSKPxC-saW_IZZP0h0E3" width="100%"></div></div>
+
+
+# Tabs {.tabset}
+## 7*
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18cqwwIjVY3WZHhuTdt8jcOIW1Lbb2Kyc" height="200px"><figcaption> <b>A75</b> 📷 Захари Захариев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18cqwwIjVY3WZHhuTdt8jcOIW1Lbb2Kyc" width="100%"></div></div>
+
+# Tabs {.tabset}
+## 8*
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LrwkxWUfqGZDiCsW8RbmcnwCn63WRqsP" height="200px"><figcaption> <b>A84</b> 📷 Захари Захариев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LrwkxWUfqGZDiCsW8RbmcnwCn63WRqsP" width="100%"></div></div>
+
+
+# Tabs {.tabset}
+## 1**
+
+<!--3904-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tYb6NtLwdkdbCQH7OBM5p4PfZhE_r2Hu" height="200px"><figcaption> <b>A113</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tYb6NtLwdkdbCQH7OBM5p4PfZhE_r2Hu" width="100%"></div></div>
+
+
+# Tabs {.tabset}
+## 2**
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GIqmEAhHoic15ZhBJa4Q6HJhGSbDPkll" height="200px"><figcaption> <b>A213</b> 📷 Димитър Игнатов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GIqmEAhHoic15ZhBJa4Q6HJhGSbDPkll" width="100%"></div></div>
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dACaZBbHVPg3t06nM7XtDORWTkXZtlWY" height="200px"><figcaption> <b>A384</b> 📷 Захари Захариев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dACaZBbHVPg3t06nM7XtDORWTkXZtlWY" width="100%"></div></div>
+<!--3904-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iNViTxXQTyTmnprBPni5zARP1Cg_h2Pg" height="200px"><figcaption> <b>A284</b> 📷 Даниел Анев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iNViTxXQTyTmnprBPni5zARP1Cg_h2Pg" width="100%"></div></div>
+
+
+
+
+# Tabs {.tabset}
+## 3**
+
+<!--3901-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TCDO352P42X5ZUe6dwJWU4la-Folm_vI" height="200px"><figcaption> <b>A306</b> 📷 Kim Løvenskjold ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TCDO352P42X5ZUe6dwJWU4la-Folm_vI" width="100%"></div></div>
+<!--3901-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Rk01qJpEoKFfR_KeRdIbrdMGXknfHS9R" height="200px"><figcaption> <b>A313</b> 📷 Иво Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Rk01qJpEoKFfR_KeRdIbrdMGXknfHS9R" width="100%"></div></div>
+<!--3906-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cniZsikMxDNxT65DwvXmre_SNIIiP6yT" height="200px"><figcaption> <b>A314</b> 📷 Васил Георгиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cniZsikMxDNxT65DwvXmre_SNIIiP6yT" width="100%"></div></div>
+<!--3906-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10dHl7-Ps2oZomh7eY5KuvLhCE9D8i0cv" height="200px"><figcaption> <b>A384</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10dHl7-Ps2oZomh7eY5KuvLhCE9D8i0cv" width="100%"></div></div>
+
+
+
+# Tabs {.tabset}
+## 4**, 6**
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oqgExBLAd7bB0dvyI9qbHQaZsJshdEl7" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oqgExBLAd7bB0dvyI9qbHQaZsJshdEl7" width="100%"></div></div>
 
+
+
+
 ### 3903
-<!--3903-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" height="200px"><figcaption> <b>A6</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" width="100%"></div></div>
+
 <!--3903-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OkA2rLyuv1qLP26cCqWkcDOE_1Aiw9ks" height="200px"><figcaption> <b>A9</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OkA2rLyuv1qLP26cCqWkcDOE_1Aiw9ks" width="100%"></div></div>
 <!--3903-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UakCEPJMFVjSv2vDNNzWRLUxUCUr8rZA" height="200px"><figcaption> <b>A75</b> 📷 Дилиян Машмов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UakCEPJMFVjSv2vDNNzWRLUxUCUr8rZA" width="100%"></div></div>
-<!--3903-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rwCe1k4i5laNwh0BitW6jCoi830YXXbJ" height="200px"><figcaption> <b>A88</b> 📷 Емил Шиваров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rwCe1k4i5laNwh0BitW6jCoi830YXXbJ" width="100%"></div></div>
+
 <!--3903-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1k86KHCEwaysXWGdcd6tqiJNgtmdSZ1xM" height="200px"><figcaption> <b>A384</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1k86KHCEwaysXWGdcd6tqiJNgtmdSZ1xM" width="100%"></div></div>
 
 ### 3904
 <!--3904-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RJP1zbJdT8X7M7iMY17HfM-wLJXQN2Ik" height="200px"><figcaption> <b>A9</b> 📷 Апостол Чуканов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RJP1zbJdT8X7M7iMY17HfM-wLJXQN2Ik" width="100%"></div></div>
-<!--3904-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W2OTnLiu6m4zJSKPxC-saW_IZZP0h0E3" height="200px"><figcaption> <b>A69A</b> 📷 Иво Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1W2OTnLiu6m4zJSKPxC-saW_IZZP0h0E3" width="100%"></div></div>
+
 <!--3904-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pikIir1IXBXIIxQNjuEp2xjhbMJdRE-O" height="200px"><figcaption> <b>A75</b> 📷 Апостол Чуканов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pikIir1IXBXIIxQNjuEp2xjhbMJdRE-O" width="100%"></div></div>
-<!--3904-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tYb6NtLwdkdbCQH7OBM5p4PfZhE_r2Hu" height="200px"><figcaption> <b>A113</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tYb6NtLwdkdbCQH7OBM5p4PfZhE_r2Hu" width="100%"></div></div>
-<!--3904-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iNViTxXQTyTmnprBPni5zARP1Cg_h2Pg" height="200px"><figcaption> <b>A284</b> 📷 Даниел Анев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iNViTxXQTyTmnprBPni5zARP1Cg_h2Pg" width="100%"></div></div>
+
+
 <!--3904-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16_MaVTwzSKkbHfvTF5MAPbYbSUU5m6lU" height="200px"><figcaption> <b>A306</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16_MaVTwzSKkbHfvTF5MAPbYbSUU5m6lU" width="100%"></div></div>
 <!--3904-->
@@ -134,10 +175,7 @@ dateCreated: 2022-05-19T21:17:55.939Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bxjQaVPD1l0RWD6Pan-WXT9OZxp39gIf" height="200px"><figcaption> <b>A84</b> 📷 Апостол Чуканов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bxjQaVPD1l0RWD6Pan-WXT9OZxp39gIf" width="100%"></div></div>
 <!--3906-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DW3N7qksKu-Fq-jSWFzrewqG2N8UJzc6" height="200px"><figcaption> <b>A284</b> 📷 Емил Шиваров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DW3N7qksKu-Fq-jSWFzrewqG2N8UJzc6" width="100%"></div></div>
-<!--3906-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cniZsikMxDNxT65DwvXmre_SNIIiP6yT" height="200px"><figcaption> <b>A314</b> 📷 Васил Георгиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cniZsikMxDNxT65DwvXmre_SNIIiP6yT" width="100%"></div></div>
-<!--3906-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10dHl7-Ps2oZomh7eY5KuvLhCE9D8i0cv" height="200px"><figcaption> <b>A384</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10dHl7-Ps2oZomh7eY5KuvLhCE9D8i0cv" width="100%"></div></div>
+
 <!--3906-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1v3IM4fqlVmICsk-osnYTI5XfulB1iVFE" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1v3IM4fqlVmICsk-osnYTI5XfulB1iVFE" width="100%"></div></div>
 
