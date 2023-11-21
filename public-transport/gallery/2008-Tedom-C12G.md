@@ -2,7 +2,7 @@
 title: Tedom C12G 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-21T08:03:18.031Z
+date: 2023-11-21T08:47:12.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-21T08:03:18.031Z
@@ -28,6 +28,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3901-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1go8oIiHkLljMuZCUp2nMi04PeEJ66tkI" height="200px"><figcaption> <b>🔥</b> 📷 Евгени Крусев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1go8oIiHkLljMuZCUp2nMi04PeEJ66tkI" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3902
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1623G0fojsx8ULDj69bS047ColmlICDHp" height="200px"><figcaption> <b>A9</b> 📷 Константин Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1623G0fojsx8ULDj69bS047ColmlICDHp" width="100%"></div></div>
@@ -44,6 +45,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3902-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oqgExBLAd7bB0dvyI9qbHQaZsJshdEl7" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oqgExBLAd7bB0dvyI9qbHQaZsJshdEl7" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3903
 <!--3903-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" height="200px"><figcaption> <b>A6</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yhvpiyh5wVm5abAboIl-OAaNCxIH6E-H" width="100%"></div></div>
@@ -56,6 +58,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3903-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1k86KHCEwaysXWGdcd6tqiJNgtmdSZ1xM" height="200px"><figcaption> <b>A384</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1k86KHCEwaysXWGdcd6tqiJNgtmdSZ1xM" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3904
 <!--3904-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RJP1zbJdT8X7M7iMY17HfM-wLJXQN2Ik" height="200px"><figcaption> <b>A9</b> 📷 Апостол Чуканов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RJP1zbJdT8X7M7iMY17HfM-wLJXQN2Ik" width="100%"></div></div>
@@ -78,7 +81,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3904-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15DxD7GpXWAZe5q_YHr1Wku7wxULO6JD3" height="200px"><figcaption> <b>A604</b> 📷 Апостол Чуканов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15DxD7GpXWAZe5q_YHr1Wku7wxULO6JD3" width="100%"></div></div>
 
-
+## Tabs {.tabset}
 ### 3905
 <!--3905-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ug3VomX4DaT9alFHC-TI-QmnhHTVyyaP" height="200px"><figcaption> <b>A9</b> 📷 Емил Шиваров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ug3VomX4DaT9alFHC-TI-QmnhHTVyyaP" width="100%"></div></div>
@@ -89,6 +92,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3905-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16MzEKsgrF197Gxf1-2Y7cMoJxt4xdTur" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16MzEKsgrF197Gxf1-2Y7cMoJxt4xdTur" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3906
 <!--3906-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10sPMtki_nHBBkXU7df8OsQA9Usm6eluX" height="200px"><figcaption> <b>A9</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10sPMtki_nHBBkXU7df8OsQA9Usm6eluX" width="100%"></div></div>
@@ -103,6 +107,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3906-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1v3IM4fqlVmICsk-osnYTI5XfulB1iVFE" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1v3IM4fqlVmICsk-osnYTI5XfulB1iVFE" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3907
 <!--3907-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gBv9ZwZT6gDxOE9F3gQBUKzH_vrO_sM0" height="200px"><figcaption> <b>A9</b> 📷 Емил Шиваров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gBv9ZwZT6gDxOE9F3gQBUKzH_vrO_sM0" width="100%"></div></div>
@@ -113,6 +118,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3907-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s9etMNyT_oJUNpVWzpEAz9HHLnKtUa7M" height="200px"><figcaption> <b>A313</b> 📷 Даниел Анев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s9etMNyT_oJUNpVWzpEAz9HHLnKtUa7M" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3908
 <!--3908-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NJxEGwpXZ8x5NUFC2tjMUptoblOw3G_B" height="200px"><figcaption> <b>A9</b> 📷 Николай Петракиев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NJxEGwpXZ8x5NUFC2tjMUptoblOw3G_B" width="100%"></div></div>
@@ -129,6 +135,7 @@ dateCreated: 2023-11-21T08:03:18.031Z
 <!--3908-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14AwTQph3B2kkA_8UspSkyqJkOvpph9EP" height="200px"><figcaption> <b>A604</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14AwTQph3B2kkA_8UspSkyqJkOvpph9EP" width="100%"></div></div>
 
+## Tabs {.tabset}
 ### 3909
 <!--3909-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gFBuj6EzfL67nRH0Edal7BIltNhN_8eH" height="200px"><figcaption> <b>A6</b> 📷 kamim.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gFBuj6EzfL67nRH0Edal7BIltNhN_8eH" width="100%"></div></div>
