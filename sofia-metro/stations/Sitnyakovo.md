@@ -2,7 +2,7 @@
 title: Мс 301А ("Ситняково")
 description: 
 published: true
-date: 2023-11-21T16:42:55.995Z
+date: 2023-11-21T16:44:04.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:28:55.365Z
@@ -94,7 +94,7 @@ dateCreated: 2023-11-20T19:28:55.365Z
 преодоляваната височина, съгласно приложената към проекта количествена сметка. 
 
   <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1q8HvTMmDjkg3bTe6oz5JvFz3CVBDmyjd" height="200px"><figcaption><b>Надлъжен разрез на метростанцията и архитектурно оформление</b> 📷 "Метрополитен" ЕАД
-    
+    <br>
     <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zFK-dJNzWPWujS8U5UpnZbdYeWrQSwtH" height="200px"><figcaption><b>Напречен разрез и разположение на метростанцията спрямо градската среда</b> 📷 "Метрополитен" ЕАД
   
 # Връзки с градския транспорт
