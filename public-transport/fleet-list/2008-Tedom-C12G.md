@@ -2,7 +2,7 @@
 title: Tedom C12G
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-21T08:20:39.280Z
+date: 2023-11-21T08:22:59.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:17:55.939Z
@@ -10,15 +10,13 @@ dateCreated: 2022-05-19T21:17:55.939Z
 
 # Кратка история
 
-
-
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1DhBjAw3MVEFcTIys5d3fHoVT3TeFQi63"></td>
-    <td><b>Tedom C12G</b><br>Девет такива са закупени през 2008 г. заедно с Мерцедес CONECTO за 111, за обновяване на концесионираната линия 9, която преминава от „Малашевци“ в „Дружба“.  </td>
-  </tr>
-  <td colspan=2 >ℹ️ Цанко Симеонов ⭐</td>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1DhBjAw3MVEFcTIys5d3fHoVT3TeFQi63"></td>
+<td><b>Tedom C12G</b><br>Девет такива са закупени през 2008 г. заедно с Мерцедес CONECTO за 111, за обновяване на концесионираната линия 9, която преминава от „Малашевци“ в „Дружба“. </td></tr>
+  <td colspan=2 >ℹ️ Цанко Симеонов</td></table></div>
+  
+  
 <!--3901-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pcg0aZJk6sxJERpsBlDrTS91Go-_KGSt" height="200px"><figcaption> <b>представяне</b> 📷 Евгени Крусев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pcg0aZJk6sxJERpsBlDrTS91Go-_KGSt" width="100%"></div></div>
 <!--3901-->
