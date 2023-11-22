@@ -2,7 +2,7 @@
 title: Мс 302А ("Гео Милев")
 description: 
 published: true
-date: 2023-11-22T10:10:47.014Z
+date: 2023-11-22T10:11:10.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:39:05.468Z
