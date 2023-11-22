@@ -2,7 +2,7 @@
 title: Софийско метро
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-16T08:39:26.724Z
+date: 2023-11-22T09:57:44.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T18:12:55.542Z
@@ -134,15 +134,7 @@ dateCreated: 2023-08-17T18:12:55.542Z
 | „Константин Величков“ – „Опълченска“ | ![Sofia-metro-lines-01.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sofia-metro-lines-01.svg/60px-Sofia-metro-lines-01.svg.png) | 1   | 17 септември 1999 г. |
 | „Сливница“ – „Константин Величков“ | ![Sofia-metro-lines-01.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sofia-metro-lines-01.svg/60px-Sofia-metro-lines-01.svg.png) | 5   | 28 януари 1998 г. |
 
-
-## Метродиаметър 3
-
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><span>Представяме ви идейните проекти за станциите от Трети метродиаметър, разработени от “Метропроект – Прага”. Проектите, до които поучихме достъп са на един вече неактуален вариант на проекта, но разликите са незначителни и позволяват да се добие обща представа за основните положения на станциите.</span><br></td>
-<td><img src="https://spasimetroto.org/wp-content/uploads/2014/07/MS-1_III.png"></td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/sofia-metro/conceptual-design-metrostations-m3"><b>Повече информация...</b></a></td></table></div>
-  
-  # Методи на строителство
+# Методи на строителство
 
 Строителството на метрото е дълъг и сложен процес с който можете да се запознаете накратко във видеото:
 
