@@ -1,8 +1,8 @@
 ---
-title: Мс 302А ("Гео Милев")
+title: метростанция Гео Милев
 description: 
 published: true
-date: 2023-11-22T10:11:10.406Z
+date: 2023-11-22T10:12:56.540Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T19:39:05.468Z
