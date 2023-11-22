@@ -2,7 +2,7 @@
 title: Метростанции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T19:21:35.226Z
+date: 2023-11-22T10:09:48.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T15:18:21.851Z
@@ -126,12 +126,12 @@ dateCreated: 2022-05-03T15:18:21.851Z
 
 ## 2023
 - [:building_construction: Метростанция ? *Модерно предградие*](/bg/sofia-metro/stations/moderno-predgradie)
-- [:building_construction: Метростанция 301А *Ситняково*](/bg/sofia-metro/stations/Sitnyakovo)
-- [:building_construction: Метростанция 302А *Гео Милев*](/bg/sofia-metro/stations/Geo-Milev )
-- [:building_construction: Метростанция 303А *Слатина*](/bg/sofia-metro/stations/Slatina )
-- [:building_construction: Метростанция 304А *Асен Йорданов*](/bg/sofia-metro/stations/Asen-Yordanov )
-- [:building_construction: Метростанция 305A *Арена София*](/bg/sofia-metro/stations/Arena-Sofia)
-- [:building_construction: Метростанция 306A *Окръжна болница*](/bg/sofia-metro/stations/Okryzhna-bolnitsa)
+- [:building_construction: Метростанция 301А *Ситняково*](/bg/sofia-metro/stations/sitnyakovo)
+- [:building_construction: Метростанция 302А *Гео Милев*](/bg/sofia-metro/stations/geo-milev)
+- [:building_construction: Метростанция 303А *Слатина*](/bg/sofia-metro/stations/slatina)
+- [:building_construction: Метростанция 304А *Асен Йорданов*](/bg/sofia-metro/stations/asen-yordanov)
+- [:building_construction: Метростанция 305A *Арена София*](/bg/sofia-metro/stations/arena-sofia)
+- [:building_construction: Метростанция 306A *Окръжна болница*](/bg/sofia-metro/stations/okryzhna-bolnitsa)
 
 {.links-list}
 
