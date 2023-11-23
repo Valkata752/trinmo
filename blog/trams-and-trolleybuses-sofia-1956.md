@@ -2,7 +2,7 @@
 title: Движението на трамваите и тролеите през 1956г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:42:06.331Z
+date: 2023-11-23T07:56:20.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:18:13.836Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-20T10:18:13.836Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1nv-1fj567H-kIRS1ezx52O__G5w-2rU9"></td>
+<td><img src="https://drive.google.com/uc?id=1rVCiuWY6U9vacJ_6pXY_NnC4KiV590lD"></td>
 <td><b>ОФИЦИАЛЕН ПЪТЕВОДИТЕЛ</b><br>ЗА ЖЕЛЕЗОПЪТНИТЕ, ВОДНИТЕ, АВТОМОБИЛНИТЕ, ВЪЗДУШНИТЕ И ДРУГИ ПЪТНИШКИ СЪОБЩЕНИЯ<br><br> В СИЛА ОТ 03.06.1956</td></tr>
   <td colspan=2 >ℹ️ От доклад на ЦРУ</td></table></div>
 
@@ -21,8 +21,8 @@ dateCreated: 2023-11-20T10:18:13.836Z
 
 
 ## А) Трамваи
-<img src="https://drive.google.com/uc?id=1jR49Hf0RO2HPaTTMLfDnAFvM18andXzi">
+<img src="https://drive.google.com/uc?id=1es7sdQQIjLkSA5kmec7HMotkXxVNHvv4">
 
 ## Б) Тролейбуси
-<img src="https://drive.google.com/uc?id=1e21zuurkKLgk9J-QwQvaGlfqWjF235HA">
+<img src="https://drive.google.com/uc?id=1sRGQ_wtBWeQS3D3V_B6gTsjdmYDbhDjo">
 
