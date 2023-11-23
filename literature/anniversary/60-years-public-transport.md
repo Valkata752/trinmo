@@ -2,14 +2,14 @@
 title: 60 години градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-23T13:47:43.708Z
+date: 2023-11-23T13:58:53.399Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T17:41:23.340Z
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1tlaSaxwh8dSABS-04YhGggW3M8lONiQA/preview"
+<iframe src="https://drive.google.com/file/d/1A0Dp2M1ZTztB4VICeAAejOCqCeoxnIVX/preview"
     frameBorder="0"
     scrolling="auto"
     width="100%"
