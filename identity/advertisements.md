@@ -2,7 +2,7 @@
 title: Рекламите по возилата
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-16T12:11:37.191Z
+date: 2023-11-25T18:25:00.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T19:15:27.904Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-24T19:15:27.904Z
 <table style="width:100%">
   <tr>
     <td><span>Фератум,HELL (червено-сив), HELL (син), Cinema City, Мисията Невъзможна (филм), Индиана Джоунс (филм), Daikin, Logitech 2022, Logitech 2023, Сокове Florina, iBank, Бързи и яростни 10, Kaufland, INTIMISIMI, InvestSofia, Melexis,Супер Марио (филм), Dungeon & Dragons (филм), Hitachi, Sephora 2022; </span><br></td>
-    <td><img src="https://live.staticflickr.com/65535/53093948809_d8744ce81f_b.jpg"></td>
+    <td><img src="https://live.staticflickr.com/65535/53345903405_14f7638c2a_k.jpg"></td>
   </tr>
   <td colspan=2 >📷 <a href="/bg/identity/advertisements-2023"><b> Рекламите по возилата - 2023 г.</b></a></td>
 </table>
