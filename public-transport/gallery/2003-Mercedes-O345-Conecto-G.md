@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:21:42.294Z
+date: 2023-11-25T18:29:01.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -65,6 +65,19 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--1127--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345778264_0fa541ff87_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53345778264/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53345778264_0fa541ff87_k.jpg" width="100%"></a></div></div>
 
+
+## Tabs {.tabset}
+### 1128
+ <!--1128--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53314286038_0ccb2b50fb_k.jpg" height="200px"><figcaption><b>А102 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53314286038/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53314286038_0ccb2b50fb_k.jpg" width="100%"></a></div></div>
+
+## Tabs {.tabset}
+### 1131
+ <!--1131--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53330216663_0fba4e88be_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53330216663/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53330216663_0fba4e88be_k.jpg" width="100%"></a></div></div>
+
+<!--1131--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345687443_5b5a0c6f84_k.jpg" height="200px"><figcaption><b>A83 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53345687443/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53345687443_5b5a0c6f84_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 1137
