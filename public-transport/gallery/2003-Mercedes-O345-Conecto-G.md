@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T11:33:37.312Z
+date: 2023-11-25T18:16:50.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -47,7 +47,10 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--1115--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48809360913_f3e5200648_h.jpg" height="200px"><figcaption><b>A83A </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48809360913/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/48809360913_f3e5200648_h.jpg" width="100%"></a></div></div>
 
-
+## Tabs {.tabset}
+### 1117
+ <!--1117--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" height="200px"><figcaption><b>AX10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53354744676/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" width="100%"></a></div></div>
 
 ## Земляне (1125-1140) нечетни
 
