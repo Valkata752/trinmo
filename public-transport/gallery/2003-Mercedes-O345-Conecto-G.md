@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:35:09.334Z
+date: 2023-11-25T18:38:52.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -96,6 +96,20 @@ dateCreated: 2023-08-08T13:28:48.391Z
 
  <!--1137--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51524299811_df75922098_k.jpg" height="200px"><figcaption><b>A42 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/194108954@N08/51524299811/" target="_blank" title="1137"> <img src="https://live.staticflickr.com/65535/51524299811_df75922098_k.jpg" width="100%"></a></div></div>
+
+## Tabs {.tabset}
+### 1138
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53345847430/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.jpg" width="100%"></a></div></div>
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53330332319_b35d8949ad_k.jpg" height="200px"><figcaption><b>A11 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53330332319/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53330332319_b35d8949ad_k.jpg" width="100%"></a></div></div>
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53253630155_0a609e02a6_k.jpg" height="200px"><figcaption><b>A54 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53253630155/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53253630155_0a609e02a6_k.jpg" width="100%"></a></div></div>
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.https://live.staticflickr.com/65535/53329057602_e3b4c75003_k.jpg" height="200px"><figcaption><b>A56 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53329057602/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53329057602_e3b4c75003_k.jpg" width="100%"></a></div></div>
 
 
 ## Малашевци (2161-2170)
