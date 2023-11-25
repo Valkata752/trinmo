@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:16:50.069Z
+date: 2023-11-25T18:17:57.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -50,9 +50,14 @@ dateCreated: 2023-08-08T13:28:48.391Z
 ## Tabs {.tabset}
 ### 1117
  <!--1117--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" height="200px"><figcaption><b>AX10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53354744676/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53354744676/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg" width="100%"></a></div></div>
 
 ## Земляне (1125-1140) нечетни
+
+## Tabs {.tabset}
+### 1126
+ <!--1126--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53329088137_17c39e34d9_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53329088137/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53329088137_17c39e34d9_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 1137
