@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:32:32.441Z
+date: 2023-11-25T18:33:25.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
@@ -59,16 +59,12 @@ dateCreated: 2023-08-07T17:50:09.883Z
   <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" height="200px"><figcaption><b>3322 </b> 📷 Петър Петров </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53297642697_08fb8670b0_o.jpg" width="100%"></div></div>
 
 ## nPloy
-  <!--реклама--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53289151983_d078b92670_k.jpg" height="200px"><figcaption><b>1601 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/53289151983/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53289151983_d078b92670_k.jpg" width="100%"></a></div></div>
-<!--реклама--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" height="200px"><figcaption><b>1602 </b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53282752225_0061bf65b2_k.jpg" width="100%"></a></div></div>
 
 
 ## FOX (Star Channel)
-<!--реклама--> 
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" height="200px"><figcaption><b>3142 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923831_e06ff09e04_o.jpg" width="100%"></div></div>
-<!--реклама--> 
 <div class="dropdown"><button class="imgbtn"><img src="https://live.staticflickr.com/65535/53231923981_eed793f72e_o.jpg" height="200px"><figcaption><b>3143 </b> 📷 Любомир Николов </figcaption></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53231923981_eed793f72e_o.jpg" width="100%"></div></div>
 
 ## Paw Patrol
