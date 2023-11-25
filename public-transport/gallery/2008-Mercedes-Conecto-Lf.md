@@ -2,7 +2,7 @@
 title: Mercedes Conecto Lf 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-06T20:41:19.617Z
+date: 2023-11-25T18:14:52.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T07:21:33.152Z
@@ -49,6 +49,8 @@ dateCreated: 2023-08-10T07:21:33.152Z
 
 ## Tabs {.tabset}
 ### 1825
+<!--1825--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53353884982_4101763bd1_k.jpg" height="200px"><figcaption><b>А49 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/23698470888/" target="_blank" title="1301"> <img src="https://live.staticflickr.com/65535/53353884982_4101763bd1_k.jpg" width="100%"></a></div></div>
   <!--1825-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52512802181_6f270be66e_h.jpg" height="200px"><figcaption> <b>A109</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196945517@N03/52564419743" target="_blank" title="1825"> <img src="https://live.staticflickr.com/65535/52512802181_6f270be66e_h.jpg" width="100%"></a></div></div>
 
