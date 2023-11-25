@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:40:28.017Z
+date: 2023-11-25T18:44:11.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -99,6 +99,10 @@ dateCreated: 2023-08-08T13:28:48.391Z
 
 ## Tabs {.tabset}
 ### 1138
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51353801689_d3ea6cbef2_k.jpg" height="200px"><figcaption><b>A5ТМ </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51353801689/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/51353801689_d3ea6cbef2_k.jpg" width="100%"></a></div></div>
+
 <!--1138--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53345847430/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.jpg" width="100%"></a></div></div>
 
@@ -111,6 +115,9 @@ dateCreated: 2023-08-08T13:28:48.391Z
 <!--1138--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53329057602_e3b4c75003_k.jpg" height="200px"><figcaption><b>A56 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53329057602/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53329057602_e3b4c75003_k.jpg" width="100%"></a></div></div>
 
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49304353432_1a550f04f5_k.jpg" height="200px"><figcaption><b>A304 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/49304353432/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/49304353432_1a550f04f5_k.jpg" width="100%"></a></div></div>
 
 ## Малашевци (2161-2170)
 
