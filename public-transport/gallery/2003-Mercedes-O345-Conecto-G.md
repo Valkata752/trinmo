@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:17:57.531Z
+date: 2023-11-25T18:21:42.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -58,6 +58,13 @@ dateCreated: 2023-08-08T13:28:48.391Z
 ### 1126
  <!--1126--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53329088137_17c39e34d9_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53329088137/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53329088137_17c39e34d9_k.jpg" width="100%"></a></div></div>
+
+
+## Tabs {.tabset}
+### 1127
+ <!--1127--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53345778264_0fa541ff87_k.jpg" height="200px"><figcaption><b>X10 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53345778264/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53345778264_0fa541ff87_k.jpg" width="100%"></a></div></div>
+
 
 ## Tabs {.tabset}
 ### 1137
