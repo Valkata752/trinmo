@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-25T18:48:24.781Z
+date: 2023-11-25T18:50:02.975Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -110,7 +110,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53330332319_b35d8949ad_k.jpg" height="200px"><figcaption><b>A11 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53330332319/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53330332319_b35d8949ad_k.jpg" width="100%"></a></div></div>
 
 <!--1138--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4269/34805812775_60cbf77a2f_k.jpg" height="200px"><figcaption><b>A44Б </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/130606715@N06/34805812775/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/4269/34805812775_60cbf77a2f_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4269/34805812775_60cbf77a2f_k.jpg" height="200px"><figcaption><b>A44Б </b>📷 Васил Георгиев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/130606715@N06/34805812775/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/4269/34805812775_60cbf77a2f_k.jpg" width="100%"></a></div></div>
 
 <!--1138--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53253630155_0a609e02a6_k.jpg" height="200px"><figcaption><b>A54 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53253630155/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53253630155_0a609e02a6_k.jpg" width="100%"></a></div></div>
@@ -120,6 +120,9 @@ dateCreated: 2023-08-08T13:28:48.391Z
 
 <!--1138--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53015822508_5c0649fe66_k.jpg" height="200px"><figcaption><b>A77 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198225372@N02/53015822508/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53015822508_5c0649fe66_k.jpg" width="100%"></a></div></div>
+
+<!--1138--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53186711579_5d21db9533_k.jpg" height="200px"><figcaption><b>A108 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/53186711579/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/53186711579_5d21db9533_k.jpg" width="100%"></a></div></div>
 
 <!--1138--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49304353432_1a550f04f5_k.jpg" height="200px"><figcaption><b>A304 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/49304353432/" target="_blank" title="1115"> <img src="https://live.staticflickr.com/65535/49304353432_1a550f04f5_k.jpg" width="100%"></a></div></div>
