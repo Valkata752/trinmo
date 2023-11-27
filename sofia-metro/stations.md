@@ -2,13 +2,14 @@
 title: Метростанции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-22T10:09:48.541Z
+date: 2023-11-27T22:55:09.862Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T15:18:21.851Z
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1AS4TDFp8L0Wk26nXB2nYHFBR9KM&ehbc=2E312F" width="100%" height="800"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1m3jkVm0gXhsZMsEi-a1UCBy9_q_dfGQ&ehbc=2E312F" width="100%" height="800"></iframe>
+
 
 
 # Първи метродиаметър
