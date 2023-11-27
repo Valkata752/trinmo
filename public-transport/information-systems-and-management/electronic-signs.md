@@ -2,7 +2,7 @@
 title: Електронни табели
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-10T05:25:18.666Z
+date: 2023-11-27T20:23:07.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T14:57:14.679Z
@@ -92,6 +92,8 @@ dateCreated: 2023-02-18T14:57:14.679Z
 ## Т8М-700 IT
 <img src="https://drive.google.com/uc?id=12oZdfAJKAbm0Fxz1yDLdXR8HAdc9XbLV" alt="3" height = 50%>
 
+## MAN Lion' City 2014
+<iframe src="https://drive.google.com/file/d/1enFz4aZFeSfzaDFoYWro72alqcMJnqn5/preview" width="100%" height="480"></iframe>
 
 # Как работят
 
