@@ -2,7 +2,7 @@
 title: Електронни табели
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-27T20:23:07.479Z
+date: 2023-11-27T20:25:39.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T14:57:14.679Z
@@ -94,6 +94,12 @@ dateCreated: 2023-02-18T14:57:14.679Z
 
 ## MAN Lion' City 2014
 <iframe src="https://drive.google.com/file/d/1enFz4aZFeSfzaDFoYWro72alqcMJnqn5/preview" width="100%" height="480"></iframe>
+
+## Conecto Lf, BMC Procity - Земляне
+<img src="https://drive.google.com/uc?id=1DuhFrTBzKDVbUyP7XWdPvlD7Nez9LrFG" alt="3" height = 50%>
+
+## Conecto Lf, BMC Procity - Малашевци
+<img src="https://drive.google.com/uc?id=1Do22OspN_B26NxpIBt8uSmQweuDYhRZH" alt="3" height = 50%>
 
 # Как работят
 
