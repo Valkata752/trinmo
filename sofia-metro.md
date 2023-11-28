@@ -2,11 +2,13 @@
 title: Софийско метро
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-22T09:57:44.025Z
+date: 2023-11-28T12:18:35.363Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T18:12:55.542Z
 ---
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1m3jkVm0gXhsZMsEi-a1UCBy9_q_dfGQ&ehbc=2E312F" width="100%" height="800"></iframe>
 
 
 Софийското метро е единственото метро в България. Въведено е в експлоатация на 28 януари 1998 г.
