@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T08:42:03.742Z
+date: 2023-11-29T08:50:44.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -56,6 +56,15 @@ dateCreated: 2022-04-30T08:36:00.239Z
 
 Първоначално визуалната връзка между горната и долната станция се е осъществявала посредством междинна наблюдателна кула, която може да се види в местността Градище. Линията е дълга 1775 м, пътуването трае 17 мин., а капацитетът й е 300 души на час, при проектна скорост 1,75 м/сек. По трасето са поставени 28 стълба и е опънато транспортното въже с дебелина 26 мм с 85 броя постоянно закачени седалки
     -   _Втората част_ свързва местността Бай Кръстю с Голи връх. Построена е през 1968 г., дължината й е 1700 м и преодолява разлика във височината 448 м. Долната лифтова станция е разположена непосредствено до горната на първата част, а горната лифтова станция е на 1818 м н. в. Пътува се 15 мин., като капацитетът на линията е 600 души на час. По трасето са поставени 18 стълба
+
+### Указацния към пътнциите
+### Tabs {.tabset}
+
+####
+<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_2.JPG" width="400px">
+
+####
+<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_1.JPG" width="400px">
 
 
 ### Станции
@@ -149,59 +158,50 @@ dateCreated: 2022-04-30T08:36:00.239Z
 
 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Izgled.jpg"></td>
+<td><b>Княжевски лифт</b> - общ изглед <br><b>Други имена:</b> Кабинкова въжена линия (КВЛ) "Княжево - Копитото" <br><b>Лифтова система:</b> четириместен кабинков двувъжен лифт с обиколно движение и откачващи се кабинки <br><b>Посока на движение:</b> дясна</td></tr>
+  <td colspan=2 >ℹ️ planinite.info</td></table></div>
+  
+***Технически характеристики:*** построен е през 1962 г. и е първият кабинков лифт в България. Произведен е от австрийската фирма "Братя Гирак/Brüder Girak" (основана през 1920 г.), която през 1996 г. се обединява с швейцарската фирма "Garaventa" ("Гаравента") в австрийско-швейцарска фирма "Girak-Garaventa".  През 2002 г. e създадена австрийско-швейцарската група "Doppelmayr-Garaventa" ("Допелмайер-Гаравента", [**Web-сайт**](https://www.doppelmayr.com/en/)).
 
-![Княжевски лифт - общ изглед](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Izgled.jpg)
 
-***Княжевски лифт - общ изглед***
+| 1 | 2 | 3 | 
+| --- | --- | --- |
+| <img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Girak.jpg"> | <img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Girak_Garaventa.jpg"> | <img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Doppelmayr_Garaventa.jpg"> |
 
--   ***Друго име:*** Кабинкова въжена линия (КВЛ) "Княжево - Копитото"
--   ***Лифтова система:*** четириместен кабинков двувъжен лифт с обиколно движение и откачващи се кабинки
--   ***Посока на движение на първа част:*** дясна
--   ***Технически характеристики:*** построен е през 1962 г. и е първият кабинков лифт в България. Произведен е от австрийската фирма "Братя Гирак/Brüder Girak" (основана през 1920 г.), която през 1996 г. се обединява с швейцарската фирма "Garaventa" ("Гаравента") в австрийско-швейцарска фирма "Girak-Garaventa":
 
-![Лого на фирма Girak (Гирак)](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Girak.jpg)
+Лифтът е от типа с две въжета - носещо и теглещо. Началната му лифтова станция е в квартал "Княжево" на 744 м н. в., а крайната - на връх Копитото на 1348 м н. в., непосредствено до 160-метровата телевизионна кула, като преодолява денивелация от 604 м. В двете станции се намираха гаражи за 54-те кабинки, произведени от австрийската фирма "Swoboda" ("Свобода"). Дължината на линията е 1900 м, капацитетът й - 600 души на час и се пътуваше 11 мин. По трасето са поставени 8 стълба, а проектната скорост на лифта е била 3 м/сек. През 1992 г. става авария и оттогава не работи. Станциите на лифта са разграбени и не е възможно неговото възстановяване в първоначалния му вид.
 
-![Лого на фирма Grak-Garaventa (Гирак-Гаравента)](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Girak_Garaventa.jpg)
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><iframe width="100%" height="400px" src="https://www.youtube.com/embed/WkoHKXgFeGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+<td><b> Лифтът в експлоатация може да се види в откъс от сериала "Синята лампа" (1969 г.)</b> </td></tr>
+  <td colspan=2 >ℹ️ planinite.info</td></table></div>
+  
+  
+  
+### Станции
 
- През 2002 г. e създадена австрийско-швейцарската група "Doppelmayr-Garaventa" ("Допелмайер-Гаравента", [**Web-сайт**](https://www.doppelmayr.com/en/)).
+#### Долна
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Dolna_St.jpg"></td>
+<td><b>Княжевски лифт - долната лифтова станция</b> <br><b>GPS координати:</b> 42 39 09.6N 023 14 21.9E <br><b>Надморска височина:</b>744 м <br><b>Градски транспорт:</b> трамвайни линии 5 и 11 до спирка кв. Княжево. Линия 59 до спирка Автостанция Княжево.</td></tr>
+  <td colspan=2 >ℹ️ planinite.info</td></table></div>
+  
+  
+#### Горна
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Gorna_St.jpg"></td>
+<td><b>Горна лифтова станция (връх Копитото)</b> <br><b>GPS координати:</b> 42 38 12.5N 023 14 36.5E <br><b>Надморска височина:</b>1348 м <br><b>Градски транспорт:</b> няма</td></tr>
+  <td colspan=2 >ℹ️ planinite.info</td></table></div>
+  
+  
 
-![Лого на фирма Doppelmayr-Garaventa (Допелмайер-Гаравента)](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Doppelmayr_Garaventa.jpg)
 
-Лифтът е от типа с две въжета - носещо и теглещо. Началната му лифтова станция е в квартал "Княжево" на 744 м н. в., а крайната - на връх Копитото на 1348 м н. в., непосредствено до 160-метровата телевизионна кула, като преодолява денивелация от 604 м. В двете станции се намираха гаражи за 54-те кабинки, произведени от австрийската фирма "Swoboda" ("Свобода"). Дължината на линията е 1900 м, капацитетът й - 600 души на час и се пътуваше 11 мин. По трасето са поставени 8 стълба, а проектната скорост на лифта е била 3 м/сек. През 1992 г. става авария и оттогава не работи. Станциите на лифта са разграбени и не е възможно неговото възстановяване в първоначалния му вид. Лифтът в експлоатация може да се види в откъс от сериала "Синята лампа" (1969 г.) - [**YouTube**](https://www.youtube.com/watch?v=WkoHKXgFeGk)
-
--   [**Правила**](https://www.vitoshaski.com/about/rules), [**Забрани**](https://www.vitoshaski.com/about/ban), [**Планинска застраховка**](https://www.vitoshaski.com/about/insurance), [**Съвети за безопасност**](https://www.vitoshaski.com/about/advices)
--   ***Връзки:*** -
--   ***Работно време:*** **НЕ РАБОТИ**
--   ***Долна лифтова станция (квартал "Княжево"):***
-
-![Княжевски лифт -
-долната лифтова станция](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Dolna_St.jpg)
-
-***Княжевски лифт - долната лифтова станция***
-
--   ***GPS координати:*** 42 39 09.6N 023 14 21.9E
--   ***Надморска височина:*** 744 м
--   [***Сателитна снимка от Wikimapia***](http://wikimapia.org/#lang=en&lat=42.652619&lon=23.239251&z=18&m=b)
--   ***Изходен пункт до долната лифтова станция:***
-    -   квартал "Княжево" - 800 м от последната спирка "кв. Княжево" (№ 0851) на трамваи №№ 5 и 11
--   ***Горна лифтова станция (връх Копитото):***
-
-![Княжевски лифт -
-горната лифтова станция](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Gorna_St.jpg)
-
-***Княжевски лифт - горната лифтова станция***
-
--   ***GPS координати:*** 42 38 12.5N 023 14 36.5E
--   ***Надморска височина:*** 1348 м
--   [***Сателитна снимка от Wikimapia***](http://wikimapia.org/#lang=en&lat=42.636537&lon=23.244188&z=17&m=b)
--   ***Изходен пункт от горната лифтова станция:***
-    -   хижа "Момина скала" - 1,840 км
-    -   център Златни мостове - 3,330 км (0,45 ч)
--   ***Стопанин:*** "Витоша ски" АД, София 1142, ул. "Любен Каравелов" № 4, телефон: 02 / 980-64-94, факс: 02 / 980-91-58, [**Е-mail**](mailto:vitoshaski@vitoshaski.com), [**Web-сайт**](https://www.vitoshaski.com/), [**Facebook**](https://www.facebook.com/vitoshaski)
-
-# Ски зона - Витоша
-
-## **ЛИФТ "РОМАНСКИ"**
+# **ЛИФТ "РОМАНСКИ"**
 
 ![Лифт Романски - общ изглед](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Romanski_Obsht-Izgled.jpg)
 
@@ -260,7 +260,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
     -   писти от ски център "Алеко"
 -   ***Стопанин:*** "Витоша ски" АД, София 1142, ул. "Любен Каравелов" № 4, телефон: 02 / 980-64-94, факс: 02 / 980-91-58, [**Е-mail**](mailto:vitoshaski@vitoshaski.com), [**Web-сайт**](https://www.vitoshaski.com/), [**Facebook**](https://www.facebook.com/vitoshaski)
 
-## **ЛИФТ "АКАДЕМИКА"**
+# **ЛИФТ "АКАДЕМИКА"**
 
 ![Лифт Академика - общ изглед](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Akademika-Obsht_Izgled.jpg)
 
