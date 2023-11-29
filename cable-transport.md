@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T08:53:06.894Z
+date: 2023-11-29T08:56:21.104Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -66,10 +66,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
 ####
 <img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_1.JPG" width="400px">
 
-
-### Станции
-
-#### Долна
+## Долна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Dolna_St.jpg"></td>
@@ -77,14 +74,14 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
 
-#### Междинна  
+## Междинна станция 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevtsi_MLS.jpg"></td>
 <td><b>Междиннна лифтова станция (местност Бай Кръстю)</b> <br><b>GPS координати:</b> 42 36 20.5N 023 17 58.9E <br><b>Надморска височина:</b> 1370 м <br><b>Градски транспорт:</b> линия 66 до спирка Заслон Бай Кръстьо.</td></tr>
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
-#### Горна  
+## Горна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Gorna_St.jpg"></td>
@@ -105,9 +102,8 @@ dateCreated: 2022-04-30T08:36:00.239Z
  
 -   ***Технически характеристики:*** това е най-дългата пътническа въжена линия в България - 6270 м. Преодолява разлика във височината 1085 м, пътува се 30 мин., а капацитетът й е 1500 души на час (по проект). Построена е за световните студентски зимни игри "Универсиада '83" и е официално открита на 4 април 1983 г. Произведена е от австрийската фирма "Doppelmayr", която през  2002 г. става част от австрийско-швейцарската група "Doppelmayr-Garaventa" ("Допелмайер-Гаравента", [**Web-сайт**](https://www.doppelmayr.com/en/)). Долната лифтова станция (І-ва) се намира в землището на квартал "Симеоново" на 718 м н. в. В първата междинна лифтова станция (ІІ-ра и ІІІ-та в една сграда), намираща се на 1370 м н. в., завършва първата отсечка на въжената линия. В междинната станция кабинките се поемат от второ въже, без да се налага пътниците да слизат и да се прехвърлят. Тук вратите се отварят автоматично, за да могат желаещите да се качат или слязат. През втората междинна лифтова станция (ІV-та), намираща се на 1531 м н. в., минават само кабинките отиващи нагоре. Тук през ски-сезона слизат скиорите, за да се прехвърлят на [**триседалковата въжена линия "Академика"**](http://www.planinite.info/V_pomosht_na_turista/Liftove/Liftove_Vitosha.htm#%D0%9B%D0%98%D0%A4%D0%A2_%D0%90%D0%9A%D0%90%D0%94%D0%95%D0%9C%D0%98%D0%9A%D0%90), обслужваща пистата "Витошко лале". Горната лифтова станция (V-та) е непосредствено до хижа "Алеко" - на 1803 м н. в. и през ски-сезона обслужва ски център "Алеко". В І-ва и V-та лифтови станции се намират просторни гаражи за 250-те кабинки, произведени от австрийската фирма "Swoboda" ("Свобода"). Дължината/денивелацията от долната до първата междинна станция е 3708/652 м, а от първата междинна станция до горната - 2562/433 м (общо: 6270/1085 м). Времето за пътуване от долната до първата междинна станция е 18 мин., а от първата междинна станция до горната - 12 мин. (общо: 30 мин.). По трасето са поставени общо 60 стълба, като между долната до първата междинна станция те са 36, а между първата междинна станция и горната - 24. Проектната скорост на лифта е 4 м/сек.
 
-### Станции
 
-#### Долна
+## Долна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Simeonovski_Dolna_L_S-2010.jpg"></td>
@@ -115,7 +111,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
   
-#### Първа междинна
+## Първа междинна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Simeonovski_Mezhdinna_L_S.jpg"></td>
@@ -123,7 +119,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
   
-#### Втора междинна
+## Втора междинна станция
  ***Изходен пункт от Втора междинна лифтова станция:***
     -   долната станция на лифт "Академика" - в непосредствена близост
     
@@ -136,7 +132,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
 
     
     
-#### Горна
+## Горна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Simeonovski_GLS.jpg"></td>
@@ -144,7 +140,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
   
-## Княжево - Копитото
+# Княжево - Копитото
 
 > Кабинкова въжена линия "Княжево - Копитото" Лифт Княжево е четириместен кабинков двувъжен лифт с обиколно движение и откачващи се кабинки и е първият кабинков лифт в България. Построен е през 1962 г. Общата дължина е 1900 м. Капацитетът е 600 души на час и се пътува за 11 мин със скорост на движение 3 м/сек. От първата до последната станция преодоляната денивелация е 604 м. През 1992 г. след авария e спрян без изгледи да тръгне повече. Достъпът до долната станция с МГОТ е много ограничен. Най-близката спирка в кв. Княжево за автобусни линии 58, 59 и трамвайни линии 5 и 11 е на 1 км разстояние. До крайната спирка на копитото се е стигало с автобусна линия 62, която е изминавала I\_Териториален обхват и анализ на състоянието | 26 участъка от Автогара Овча купел до Копитото за около 35-40 мин. Линията е закрита през 2000 г.
 
@@ -179,11 +175,8 @@ dateCreated: 2022-04-30T08:36:00.239Z
 <td><b> Лифтът в експлоатация може да се види в откъс от сериала "Синята лампа" (1969 г.)</b> </td></tr>
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
-  
-  
-### Станции
 
-#### Долна
+## Долна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Dolna_St.jpg"></td>
@@ -191,7 +184,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
   
-#### Горна
+## Горна станция
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Knyazhevski-Gorna_St.jpg"></td>
