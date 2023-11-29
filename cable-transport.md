@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T08:51:11.014Z
+date: 2023-11-29T08:53:06.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -201,7 +201,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
   
 
 
-# **ЛИФТ "РОМАНСКИ"**
+# Романски
 
 ![Лифт Романски - общ изглед](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Romanski_Obsht-Izgled.jpg)
 
@@ -260,7 +260,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
     -   писти от ски център "Алеко"
 -   ***Стопанин:*** "Витоша ски" АД, София 1142, ул. "Любен Каравелов" № 4, телефон: 02 / 980-64-94, факс: 02 / 980-91-58, [**Е-mail**](mailto:vitoshaski@vitoshaski.com), [**Web-сайт**](https://www.vitoshaski.com/), [**Facebook**](https://www.facebook.com/vitoshaski)
 
-# **ЛИФТ "АКАДЕМИКА"**
+# Академика
 
 ![Лифт Академика - общ изглед](http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Akademika-Obsht_Izgled.jpg)
 
