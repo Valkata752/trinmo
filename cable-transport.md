@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T08:40:26.152Z
+date: 2023-11-29T08:41:23.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -48,7 +48,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
     
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><iframe width="100%" height="100%" src="https://www.youtube.com/embed/ToVeK4NrWew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+<td><iframe width="100%" height="400px" src="https://www.youtube.com/embed/ToVeK4NrWew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
 <td><b>Откриване на Драгалевския лифт през 1956 г.</b><br> Лифтът е построен по проект на български фирми. Състои се от две части с обща дължина 3475 м и свързва Драгалевци с местността Голи връх. Във видеото долу може да видите уникални кадри от откриването му през 1956г. </td></tr>
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
