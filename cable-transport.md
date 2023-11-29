@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T08:32:55.987Z
+date: 2023-11-29T08:35:07.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -55,10 +55,10 @@ dateCreated: 2022-04-30T08:36:00.239Z
 ### Tabs {.tabset}
 
 ####
-<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_2.JPG">
+<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_2.JPG" width="400px">
 
 ####
-<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_1.JPG">
+<img src="http://www.planinite.info/V_pomosht_na_turista/Liftove/Snimki_Liftove/Vitosha/Web/Dragalevski-Ukazaniya_1.JPG" width="400px">
 
 
 ### Станции
