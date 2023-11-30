@@ -2,7 +2,7 @@
 title: Mercedes O560 Intouro M / ME
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-30T17:26:06.146Z
+date: 2023-11-30T17:26:30.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:10:08.527Z
@@ -217,12 +217,13 @@ dateCreated: 2022-05-19T21:10:08.527Z
 
 
 ## Tabs {.tabset}
-### TM & У
+### TM
 <!--1301--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ZlBjgXzk8WoIeF8_jjuBMqJshocJ_V_6" height="200px"><figcaption> <b>A5TM</b> 📷 Александър Бахчевански ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ZlBjgXzk8WoIeF8_jjuBMqJshocJ_V_6" width="100%"></div></div>
 
  <!--1319--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53360580641_9ac28fb921_h.jpg" height="200px"><figcaption><b>A10TM </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/199209308@N04/53360580641" target="_blank" title="1319"> <img src="https://live.staticflickr.com/65535/53360580641_9ac28fb921_h.jpg" width="100%"></a></div></div>
+
 ## Tabs {.tabset}
 ### У
 
