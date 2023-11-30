@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-13T21:17:49.961Z
+date: 2023-11-30T08:49:58.429Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -76,6 +76,10 @@ dateCreated: 2022-05-05T22:27:52.554Z
 - [:white_check_mark: Рехабилитация на ул. Козлодуй  *16.07.2016 - 20.10.2016*](/bg/public-transport/route-changes/2016-rekonstrukcia-kozlodui)
 - [:white_check_mark: Ремонт на бул. Черни връх  *06.07.2016 - 26.11.2016*](/bg/public-transport/route-changes/2016-remont-cherni-vrah)
 - [:white_check_mark: Строителството на метрото от ул. Житница до бул. България *09.03.2016 - 28.10.2019*](/bg/public-transport/route-changes/2016-stroitelstvo-metro-ul-zhitnitsa-bul-bulgaria)
+{.links-list}
+
+## 2015
+- [:white_check_mark: Реконструкция на пл. Руски паметник  *10.06.2015 - 08.08.2015*](/bg/public-transport/route-changes/2015-rekonstrukcia-ruski-pametnik)
 {.links-list}
 
 ## 2014
