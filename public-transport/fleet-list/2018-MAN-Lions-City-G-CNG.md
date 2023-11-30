@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2018
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-30T17:37:03.708Z
+date: 2023-11-30T23:51:35.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T22:42:17.406Z
@@ -159,7 +159,9 @@ dateCreated: 2023-02-28T22:42:17.406Z
 ### 1-9
 
 ## Tabs {.tabset}
-### 10*
+### 1*
+  <!--1616--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52464713275_797ed4c8d3_k.jpg" height="200px"><figcaption><b>A11</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/195870684@N06/52464713275/" target="_blank" title="1616"> <img src="https://live.staticflickr.com/65535/52464713275_797ed4c8d3_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 2*
@@ -169,39 +171,137 @@ dateCreated: 2023-02-28T22:42:17.406Z
 
 ## Tabs {.tabset}
 ### 4*
+  <!--1620--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48937457653_91e72adb2a_k.jpg" height="200px"><figcaption><b>A42</b> 📷 Васил Георгиев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/181933987@N03/48937457653/" target="_blank" title="1620"> <img src="https://live.staticflickr.com/65535/48937457653_91e72adb2a_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 5*
+  <!--1620--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48074829913_dd2f683cb6_k.jpg" height="200px"><figcaption><b>A54</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48074829913/" target="_blank" title="1620"> <img src="https://live.staticflickr.com/65535/48074829913_dd2f683cb6_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 6*
 
 ## Tabs {.tabset}
 ### 7*
+<!--3147--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53361753637_974e5dccc7_k.jpg" height="200px"><figcaption><b>A75</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53361753637/" target="_blank" title="3147"> <img src="https://live.staticflickr.com/65535/53361753637_974e5dccc7_k.jpg" width="100%"></a></div></div>
+
+<!--3154--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52532588155_f111b51381_k.jpg" height="200px"><figcaption><b>A76</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52532588155/" target="_blank" title="3154"> <img src="https://live.staticflickr.com/65535/52532588155_f111b51381_k.jpg" width="100%"></a></div></div>
+
+<!--1610--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52865586079_b062c6e04b_k.jpg" height="200px"><figcaption><b>A77</b> 📷 Александър Иванов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197408781@N03/52865586079/" target="_blank" title="1610"> <img src="https://live.staticflickr.com/65535/52865586079_b062c6e04b_k.jpg" width="100%"></a></div></div>
+
+<!--2317--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52958170004_d4683e108e_k.jpg" height="200px"><figcaption><b>A78</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52958170004/" target="_blank" title="2317"> <img src="https://live.staticflickr.com/65535/52958170004_d4683e108e_k.jpg" width="100%"></a></div></div>
+
+<!--2315--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53139281756_43391c7d3b_k.jpg" height="200px"><figcaption><b>A79</b> 📷 Сашо Брусев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196313629@N03/53139281756/" target="_blank" title="2315"> <img src="https://live.staticflickr.com/65535/53139281756_43391c7d3b_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 8*
+<!--2309--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52932193561_05baa10d0d_k.jpg" height="200px"><figcaption><b>A82</b> 📷 Сашо Брусев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196313629@N03/52932193561/" target="_blank" title="2309"> <img src="https://live.staticflickr.com/65535/52932193561_05baa10d0d_k.jpg" width="100%"></a></div></div>
+
+<!--1603--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52680358324_f0bded679e_k.jpg" height="200px"><figcaption><b>A83</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52680358324/" target="_blank" title="1603"> <img src="https://live.staticflickr.com/65535/52680358324_f0bded679e_k.jpg" width="100%"></a></div></div>
+
+<!--2309--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52783284446_c0d8afce95_k.jpg" height="200px"><figcaption><b>A85</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197037943@N04/52783284446/" target="_blank" title="2309"> <img src="https://live.staticflickr.com/65535/52783284446_c0d8afce95_k.jpg" width="100%"></a></div></div>
+
+<!--3146--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52356640661_83ac130099_k.jpg" height="200px"><figcaption><b>A88</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52356640661/" target="_blank" title="3146"> <img src="https://live.staticflickr.com/65535/52356640661_83ac130099_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 9*
+<!--2311--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51399380152_31bd051c17_k.jpg" height="200px"><figcaption><b>A94</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193688689@N06/51399380152/" target="_blank" title="2311"> <img src="https://live.staticflickr.com/65535/51399380152_31bd051c17_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 1**
+<!--1617--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51636156701_e6809eddf0_k.jpg" height="200px"><figcaption><b>A102</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/194144055@N04/51636156701/" target="_blank" title="1617"> <img src="https://live.staticflickr.com/65535/51636156701_e6809eddf0_k.jpg" width="100%"></a></div></div>
+
+<!--1609--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53129534429_45bd5bcbe3_k.jpg" height="200px"><figcaption><b>A108</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198839544@N08/53129534429/" target="_blank" title="1609"> <img src="https://live.staticflickr.com/65535/53129534429_45bd5bcbe3_k.jpg" width="100%"></a></div></div>
+
+<!--1616--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53185605914_666ef3bdfb_k.jpg" height="200px"><figcaption><b>A110</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53185605914/" target="_blank" title="1616"> <img src="https://live.staticflickr.com/65535/53185605914_666ef3bdfb_k.jpg" width="100%"></a></div></div>
+
+<!--1601--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53307677816_eb08b03dfa_k.jpg" height="200px"><figcaption><b>A111</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53307677816/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/53307677816_eb08b03dfa_k.jpg" width="100%"></a></div></div>
+
+<!--3158--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50330244546_77de7a864d_k.jpg" height="200px"><figcaption><b>A113</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/189462462@N04/50330244546/" target="_blank" title="3158"> <img src="https://live.staticflickr.com/65535/50330244546_77de7a864d_k.jpg" width="100%"></a></div></div>
+
+<!--2306--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48569736472_4b20cd940a_k.jpg" height="200px"><figcaption><b>A120</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48569736472/" target="_blank" title="2306"> <img src="https://live.staticflickr.com/65535/48569736472_4b20cd940a_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 2**
+<!--3158--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53184851222_2d8a460644_k.jpg" height="200px"><figcaption><b>A204</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53184851222/" target="_blank" title="3158"> <img src="https://live.staticflickr.com/65535/53184851222_2d8a460644_k.jpg" width="100%"></a></div></div>
+
+<!--3141--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53136080974_d759e5b6fa_k.jpg" height="200px"><figcaption><b>A213</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/53136080974/" target="_blank" title="3141"> <img src="https://live.staticflickr.com/65535/53136080974_d759e5b6fa_k.jpg" width="100%"></a></div></div>
+
+<!--2317--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51386750715_6d537dbed2_k.jpg" height="200px"><figcaption><b>A280</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/51386750715/" target="_blank" title="2317"> <img src="https://live.staticflickr.com/65535/51386750715_6d537dbed2_k.jpg" width="100%"></a></div></div>
+
+<!--2317--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51180928620_225a33b6c7_k.jpg" height="200px"><figcaption><b>A285</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/51180928620/" target="_blank" title="2317"> <img src="https://live.staticflickr.com/65535/51180928620_225a33b6c7_k.jpg" width="100%"></a></div></div>
+
+<!--2309--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52747150825_0fdb6c7588_k.jpg" height="200px"><figcaption><b>A294</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197037943@N04/52747150825/" target="_blank" title="2309"> <img src="https://live.staticflickr.com/65535/52747150825_0fdb6c7588_k.jpg" width="100%"></a></div></div>
+
+<!--3147--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48324375707_83a4e39deb_k.jpg" height="200px"><figcaption><b>A294</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48324375707/" target="_blank" title="3147"> <img src="https://live.staticflickr.com/65535/48324375707_83a4e39deb_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 3**,4**,6**
+<!--1612--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50858063628_42d3c1933d_k.jpg" height="200px"><figcaption><b>A304</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/50858063628/" target="_blank" title="1612"> <img src="https://live.staticflickr.com/65535/50858063628_42d3c1933d_k.jpg" width="100%"></a></div></div>
+
+<!--2305--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52504755570_e072e64154_k.jpg" height="200px"><figcaption><b>A304</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196945517@N03/52504755570/" target="_blank" title="2305"> <img src="https://live.staticflickr.com/65535/52504755570_e072e64154_k.jpg" width="100%"></a></div></div>
+
+<!--3141--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52293056704_cde55955d4_k.jpg" height="200px"><figcaption><b>A304</b> 📷 Никола Георгиев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/148353181@N08/52293056704/" target="_blank" title="3141"> <img src="https://live.staticflickr.com/65535/52293056704_cde55955d4_k.jpg" width="100%"></a></div></div>
+
+<!--3149--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48332192622_f3b634319b_k.jpg" height="200px"><figcaption><b>A305</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48332192622/" target="_blank" title="3149"> <img src="https://live.staticflickr.com/65535/48332192622_f3b634319b_k.jpg" width="100%"></a></div></div>
+
+<!--2318--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53189742504_33c7e9377f_k.jpg" height="200px"><figcaption><b>A309</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53189742504/" target="_blank" title="2318"> <img src="https://live.staticflickr.com/65535/53189742504_33c7e9377f_k.jpg" width="100%"></a></div></div>
+
+<!--2306--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53013885845_146a6751b0_k.jpg" height="200px"><figcaption><b>A310</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53013885845/" target="_blank" title="2306"> <img src="https://live.staticflickr.com/65535/53013885845_146a6751b0_k.jpg" width="100%"></a></div></div>
+
+<!--3153--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53185557191_2faab05709_k.jpg" height="200px"><figcaption><b>A404</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53185557191/" target="_blank" title="3153"> <img src="https://live.staticflickr.com/65535/53185557191_2faab05709_k.jpg" width="100%"></a></div></div>
+
+<!--3152--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48733170832_54435bd0c5_k.jpg" height="200px"><figcaption><b>A413</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48733170832/" target="_blank" title="3152"> <img src="https://live.staticflickr.com/65535/48733170832_54435bd0c5_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### TM
+<!--2315--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48482766056_0288c8df4e_k.jpg" height="200px"><figcaption> <b>A4TM</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48482766056/" target="_blank" title="1605"> <img src="https://live.staticflickr.com/65535/48482766056_0288c8df4e_k.jpg" width="100%"></a></div></div>
+
   <!--1601--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" height="200px"><figcaption><b>A5TM</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193870743@N03/51595255174/" target="_blank" title="1601"> <img src="https://live.staticflickr.com/65535/51595255174_4610f38c10_b.jpg" width="100%"></a></div></div>
+
 <!--1612--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52439042629_602afc5c39_c.jpg" height="200px"><figcaption> <b>A8TM</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196406210@N08/" target="_blank" title="2323"> <img src="https://live.staticflickr.com/65535/52439042629_602afc5c39_c.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52439042629_602afc5c39_c.jpg" height="200px"><figcaption> <b>A8TM</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196406210@N08/" target="_blank" title="1612"> <img src="https://live.staticflickr.com/65535/52439042629_602afc5c39_c.jpg" width="100%"></a></div></div>
 
+<!--1604--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53364968921_a72582bb28_k.jpg" height="200px"><figcaption> <b>A10TM</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53364968921/" target="_blank" title="1604"> <img src="https://live.staticflickr.com/65535/53364968921_a72582bb28_k.jpg" width="100%"></a></div></div>
 
+<!--1605--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48608621286_9f1e64cedf_k.jpg" height="200px"><figcaption> <b>A11TM</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48608621286/" target="_blank" title="1605"> <img src="https://live.staticflickr.com/65535/48608621286_9f1e64cedf_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### M
+<!--1605--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50722983573_d2ecf4d6d8_k.jpg" height="200px"><figcaption> <b>AМ3</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50722983573/" target="_blank" title="1605"> <img src="https://live.staticflickr.com/65535/50722983573_d2ecf4d6d8_k.jpg" width="100%"></a></div></div>
