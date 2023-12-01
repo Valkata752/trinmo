@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2018
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-30T23:51:35.491Z
+date: 2023-12-01T00:03:50.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T22:42:17.406Z
@@ -164,12 +164,6 @@ dateCreated: 2023-02-28T22:42:17.406Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52464713275_797ed4c8d3_k.jpg" height="200px"><figcaption><b>A11</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/195870684@N06/52464713275/" target="_blank" title="1616"> <img src="https://live.staticflickr.com/65535/52464713275_797ed4c8d3_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
-### 2*
-
-## Tabs {.tabset}
-### 3*
-
-## Tabs {.tabset}
 ### 4*
   <!--1620--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48937457653_91e72adb2a_k.jpg" height="200px"><figcaption><b>A42</b> 📷 Васил Георгиев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/181933987@N03/48937457653/" target="_blank" title="1620"> <img src="https://live.staticflickr.com/65535/48937457653_91e72adb2a_k.jpg" width="100%"></a></div></div>
@@ -178,9 +172,6 @@ dateCreated: 2023-02-28T22:42:17.406Z
 ### 5*
   <!--1620--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48074829913_dd2f683cb6_k.jpg" height="200px"><figcaption><b>A54</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48074829913/" target="_blank" title="1620"> <img src="https://live.staticflickr.com/65535/48074829913_dd2f683cb6_k.jpg" width="100%"></a></div></div>
-
-## Tabs {.tabset}
-### 6*
 
 ## Tabs {.tabset}
 ### 7*
@@ -259,7 +250,7 @@ dateCreated: 2023-02-28T22:42:17.406Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48324375707_83a4e39deb_k.jpg" height="200px"><figcaption><b>A294</b> 📷 Ивайло Стоенчев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/142216281@N05/48324375707/" target="_blank" title="3147"> <img src="https://live.staticflickr.com/65535/48324375707_83a4e39deb_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
-### 3**,4**,6**
+### 3**,4**
 <!--1612--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50858063628_42d3c1933d_k.jpg" height="200px"><figcaption><b>A304</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/50858063628/" target="_blank" title="1612"> <img src="https://live.staticflickr.com/65535/50858063628_42d3c1933d_k.jpg" width="100%"></a></div></div>
 
