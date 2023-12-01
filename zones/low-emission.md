@@ -2,11 +2,20 @@
 title: Нискомисионна зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-01T07:22:16.592Z
+date: 2023-12-01T08:45:00.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:00:31.179Z
 ---
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><iframe src="https://www.google.com/maps/d/u/1/embed?mid=1jpUWCDWKWitS0B4SUeu___edoA5j094&amp;ehbc=2E312F" width="100%" height="100%"></iframe></td>
+<td>В сила от: 01.12.2023 <br></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/zones/low-emission"><b>Повече информация...</b></a></td></table></div>
+  
+  
+  
 
 ## Карта
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1jpUWCDWKWitS0B4SUeu___edoA5j094&amp;ehbc=2E312F" width="100%" height="600"></iframe>
