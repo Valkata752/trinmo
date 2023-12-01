@@ -2,7 +2,7 @@
 title: Нискомисионна зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-01T09:47:04.027Z
+date: 2023-12-01T09:47:23.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:00:31.179Z
@@ -15,7 +15,7 @@ dateCreated: 2023-12-01T07:00:31.179Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><iframe src="https://www.google.com/maps/d/u/1/embed?mid=1jpUWCDWKWitS0B4SUeu___edoA5j094&amp;ehbc=2E312F" width="100%" height="600px"></iframe></td>
-  <td><font color="#F3C34C"> <b>Зона "Малък ринг"</b></font> - В сила от: 01.12.2023 <br><br><font color="Blue"> <b>Зона "Голям ринг"</b></font> -  В сила от: 01.12.2025 <br> </td></tr>
+  <td><font color="#F3C34C"> <b>Зона "Малък ринг"</b></font> - В сила от: 01.12.2023 <br><br><font color="purple"> <b>Зона "Голям ринг"</b></font> -  В сила от: 01.12.2025 <br> </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/zones/low-emission"><b>Повече информация...</b></a></td></table></div>
   
   
