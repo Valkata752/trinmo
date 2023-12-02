@@ -2,7 +2,7 @@
 title: фотограф - Patrick Fitting
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T15:45:11.083Z
+date: 2023-12-02T15:48:54.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T15:45:11.083Z
@@ -10,9 +10,8 @@ dateCreated: 2023-12-02T15:45:11.083Z
 
 ## 1983
 ## Tabs {.tabset}
-###
-<!--50--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IO_Ff2eE5XXaLDGyqhUUc_sx5iSMx68Y" height="200px"><figcaption></figcaption>50</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IO_Ff2eE5XXaLDGyqhUUc_sx5iSMx68Y" width="100%"></div></div>
+### Т8М-730 (София 70)
+
 
 <!--117--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HFKMF4En6csfzmtWFVaZGgMJ2MMuCeGD" height="200px"><figcaption></figcaption>117</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HFKMF4En6csfzmtWFVaZGgMJ2MMuCeGD" width="100%"></div></div>
@@ -20,15 +19,6 @@ dateCreated: 2023-12-02T15:45:11.083Z
 
 <!--179, 208--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ssb9r_dDvxMoHkE7MyTmAih-qM1nexfI" height="200px"><figcaption></figcaption>179, 208</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ssb9r_dDvxMoHkE7MyTmAih-qM1nexfI" width="100%"></div></div>
-
-
-
-<!--625--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1p_Y-PcIdbuXQK1c3GsDsK4uBsKsg9lFj" height="200px"><figcaption></figcaption>625</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1p_Y-PcIdbuXQK1c3GsDsK4uBsKsg9lFj" width="100%"></div></div>
-
-<!--670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KVrw-slNbTDMeKqP3xC-XaXG0VgOYNYY" height="200px"><figcaption></figcaption>670</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KVrw-slNbTDMeKqP3xC-XaXG0VgOYNYY" width="100%"></div></div>
-
 
 <!--732--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1K-8IoihstVdu2x5DVZcDlxyBza11KQ5K" height="200px"><figcaption></figcaption>732</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1K-8IoihstVdu2x5DVZcDlxyBza11KQ5K" width="100%"></div></div>
@@ -40,11 +30,19 @@ dateCreated: 2023-12-02T15:45:11.083Z
 <!--795--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yIMfrIu-RNOAcTDkm9Wdt2SANALXbKnQ" height="200px"><figcaption></figcaption>795</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yIMfrIu-RNOAcTDkm9Wdt2SANALXbKnQ" width="100%"></div></div>
 
+## Tabs {.tabset}
+### Т6М-801 (София)
+<!--50, 551, 609--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IO_Ff2eE5XXaLDGyqhUUc_sx5iSMx68Y" height="200px"><figcaption></figcaption>50, 551, 609</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IO_Ff2eE5XXaLDGyqhUUc_sx5iSMx68Y" width="100%"></div></div>
+
+<!--625--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1p_Y-PcIdbuXQK1c3GsDsK4uBsKsg9lFj" height="200px"><figcaption></figcaption>625</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1p_Y-PcIdbuXQK1c3GsDsK4uBsKsg9lFj" width="100%"></div></div>
+
+<!--670--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KVrw-slNbTDMeKqP3xC-XaXG0VgOYNYY" height="200px"><figcaption></figcaption>670</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KVrw-slNbTDMeKqP3xC-XaXG0VgOYNYY" width="100%"></div></div>
 
 <!--829, 844--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EUNucblnspE7DAQrGQYcIBGYjikh7v2z" height="200px"><figcaption></figcaption>829, 844</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1EUNucblnspE7DAQrGQYcIBGYjikh7v2z" width="100%"></div></div>
-
-
 
 <!--832--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pAJLKoJ1EPGj2CRZ-5jfAVP5ExBm2sSV" height="200px"><figcaption></figcaption>832</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pAJLKoJ1EPGj2CRZ-5jfAVP5ExBm2sSV" width="100%"></div></div>
