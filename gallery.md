@@ -2,41 +2,68 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T14:39:32.213Z
+date: 2023-12-02T14:49:23.420Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
 ---
 
-<h1>UL timeline cards</h1>
-<ul>
-    <li style="--accent-color:#41516C">
-        <div class="date">2002</div>
-        <div class="title">Title 1</div>
-        <div class="descr">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas itaque hic quibusdam fugiat est numquam harum, accusamus suscipit consequatur laboriosam!</div>
-    </li>
-    <li style="--accent-color:#FBCA3E">
-        <div class="date">2007</div>
-        <div class="title">Title 2</div>
-        <div class="descr">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos adipisci nobis nostrum vero nihil veniam.</div>
-    </li>
-    <li style="--accent-color:#E24A68">
-        <div class="date">2012</div>
-        <div class="title">Title 3</div>
-        <div class="descr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga minima consequuntur soluta placeat iure totam commodi repellendus ea delectus, libero fugit quod reprehenderit, sequi quo, et dolorum saepe nulla hic.</div>
-    </li>
-    <li style="--accent-color:#1B5F8C">
-        <div class="date">2017</div>
-        <div class="title">Title 4</div>
-        <div class="descr">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit, cumque.</div>
-    </li>
-    <li style="--accent-color:#4CADAD">
-        <div class="date">2022</div>
-        <div class="title">Title 5</div>
-        <div class="descr">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit, non.</div>
-    </li>
-</ul>
-<div class="credits"><a target="_blank" href="https://www.freepik.com/free-vector/infographic-template-with-yearly-info_1252895.htm">inspired by</a></div>
+<h1>Notable inventions, <span>1910–2000</span></h1>
+<div class="flex-parent">
+	<div class="input-flex-container">
+		<div class="input">
+			<span data-year="1910" data-info="headset"></span>
+		</div>
+		<div class="input">
+			<span data-year="1920" data-info="jungle gym"></span>
+		</div>
+		<div class="input active">
+			<span data-year="1930" data-info="chocolate chip cookie"></span>
+		</div>
+		<div class="input">
+			<span data-year="1940" data-info="Jeep"></span>
+		</div>
+		<div class="input">
+			<span data-year="1950" data-info="leaf blower"></span>
+		</div>
+		<div class="input">
+			<span data-year="1960" data-info="magnetic stripe card"></span>
+		</div>
+		<div class="input">
+			<span data-year="1970" data-info="wireless LAN"></span>
+		</div>
+		<div class="input">
+			<span data-year="1980" data-info="flash memory"></span>
+		</div>
+		<div class="input">
+			<span data-year="1990" data-info="World Wide Web"></span>
+		</div>
+		<div class="input">
+			<span data-year="2000" data-info="Google AdWords"></span>
+		</div>
+	</div>
+	<div class="description-flex-container">
+		<p>And future Call of Duty players would thank them.</p>
+		<p>Because every kid should get to be Tarzan for a day.</p>
+		<p class="active">And the world rejoiced.</p>
+		<p>Because building roads is inconvenient.</p>
+		<p>Ain’t nobody got time to rake.</p>
+		<p>Because paper currency is for noobs.</p>
+		<p>Nobody likes cords. Nobody.</p>
+		<p>Brighter than glow memory.</p>
+		<p>To capitalize on an as-yet nascent market for cat photos.</p>
+		<p>Because organic search rankings take work.</p>
+	</div>
+</div>
+
+
+
+<div style="position: absolute; bottom: 40px; right: 10px; font-size: 12px">
+	<a href="https://codepen.io/cjl750/pen/XMyRoB" target="_blank">original version with slinky mobile menu</a></div>
+<div style="position: absolute; bottom: 15px; right: 10px; font-size: 12px">
+	<a href="https://codepen.io/cjl750/pen/wdVxzV" target="_blank">alternate version with custom range input</a></div>
+<div style="position: absolute; bottom: 15px; left: 10px; font-size: 18px; font-weight: bold">
+	<a href="https://codepen.io/cjl750/pen/MXvYmg" target="_blank">version 4: pure CSS!</a></div>
 
 
 ## 00те
