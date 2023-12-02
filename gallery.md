@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T15:17:45.257Z
+date: 2023-12-02T15:52:05.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -49,5 +49,6 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 60те
 - [FPD7*1969*](/gallery/fpd7)
+- [Mike Cornwall*1969*](/gallery/mike-cornwall)
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
 {.links-list}
