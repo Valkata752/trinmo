@@ -2,7 +2,7 @@
 title: Higer KLQ6125GEV3
 description: Транспорт, инфраструктрура и мобилност
 published: true
-date: 2023-08-14T08:13:38.887Z
+date: 2023-12-02T11:33:09.016Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T07:52:53.872Z
@@ -222,6 +222,8 @@ dateCreated: 2022-05-02T07:52:53.872Z
 
 ## 5031-5045
 ## Tabs {.tabset}
+
+###
 <!--5038-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://live.staticflickr.com/65535/51789023587_59965862b1_b.jpg" height="200px"></button><div class="dropdown-content">
@@ -232,8 +234,9 @@ dateCreated: 2022-05-02T07:52:53.872Z
 
 ## 5046-5060
 
-
 ## Tabs {.tabset} 
+###
+
 <!--5048-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://live.staticflickr.com/65535/51675079831_f4e99c50c1_b.jpg" height="200px"></button><div class="dropdown-content">
