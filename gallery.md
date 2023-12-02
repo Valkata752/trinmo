@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T15:04:40.344Z
+date: 2023-12-02T15:10:25.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -25,6 +25,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Luc Koenot*1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 - [Champlin*1990*](/gallery/champlin)
+- [Martin Haman*1990*](/gallery/martin-haman)
 {.links-list}
 
 ## 80те
