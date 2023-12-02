@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T14:50:02.667Z
+date: 2023-12-02T15:04:40.344Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -42,6 +42,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Gisberta Yakla*1973, 1975*](/gallery/gisberta-yakla)
 - [Bohdan Turzanski*1971, 1975*](/gallery/bohdan-turzanski)
 - [BZMOTMAN*1970*](/gallery/bzmotman)
+- [Ohoboho*197Х*](/gallery/ohoboho)
 {.links-list}
 
 ## 60те
