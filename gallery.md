@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T15:10:25.023Z
+date: 2023-12-02T15:17:45.257Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -30,6 +30,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 80те
 - [joka-video.de *1981*](/gallery/joka-video-de-1981)
+- [Patrick Fitting *1983*](/gallery/patrick-fitting)
 - [H. Luff*1984/86*](/gallery/h-luff)
 {.links-list}
 
