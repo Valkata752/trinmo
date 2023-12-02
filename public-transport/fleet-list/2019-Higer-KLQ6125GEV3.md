@@ -2,7 +2,7 @@
 title: Higer KLQ6125GEV3
 description: Транспорт, инфраструктрура и мобилност
 published: true
-date: 2023-12-02T11:33:09.016Z
+date: 2023-12-02T11:52:16.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T07:52:53.872Z
@@ -194,13 +194,22 @@ dateCreated: 2022-05-02T07:52:53.872Z
 ## Tabs {.tabset}
 ###
 <!--1702--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52617570872_2b09d2374f_k.jpg" height="200px"><figcaption><b>E123 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197356739@N05/52617570872" target="_blank" title="1702"> <img src="https://live.staticflickr.com/65535/52617570872_2b09d2374f_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53057156158_8c28d74e67_k.jpg" height="200px"><figcaption><b>E6 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198225372@N02/53057156158/" target="_blank" title="1702"> <img src="https://live.staticflickr.com/65535/53057156158_8c28d74e67_k.jpg" width="100%"></a></div></div>
+
+<!--1702--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52617570872_2b09d2374f_k.jpg" height="200px"><figcaption><b>E123 </b>📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197356739@N05/52617570872" target="_blank" title="1702"> <img src="https://live.staticflickr.com/65535/52617570872_2b09d2374f_k.jpg" width="100%"></a></div></div>
+
  <!--1703-->
  <div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52814846393_e96026703d_z.jpg" height="200px"></button><div class="dropdown-content">
+  <img src="https://live.staticflickr.com/65535/52814846393_e96026703d_z.jpg" height="200px"><figcaption><b>Е6 </b>📷 Александър Иванов</figcaption></figure></button><div class="dropdown-content">
   <a href="https://www.flickr.com/photos/197408781@N03/52814846393/in/dateposted-public/" target="_blank" title="1703 - Александър Иванов">
  <img src="https://live.staticflickr.com/65535/52814846393_e96026703d_z.jpg" width="100%"></a></div></div> 
  
+ <!--1703--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53369753249_2001d49ba2_k.jpg" height="200px"><figcaption><b>E73 </b>📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197618131@N08/" target="_blank" title="1703"> <img src="https://live.staticflickr.com/65535/53369753249_2001d49ba2_k.jpg" width="100%"></a></div></div>
+
+<!--1703--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53057374652_026498b1e5_k.jpg" height="200px"><figcaption><b>E123 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198721403@N07/53057374652/" target="_blank" title="1703"> <img src="https://live.staticflickr.com/65535/53057374652_026498b1e5_k.jpg" width="100%"></a></div></div>
 
 ## 5001-5015
 > 6, 60, 74, 84, 123, 184, 3TM, 12TM, 20TM
