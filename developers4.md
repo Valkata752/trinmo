@@ -2,7 +2,7 @@
 title: Developers4
 description: 
 published: true
-date: 2023-12-02T14:52:51.209Z
+date: 2023-12-02T14:54:41.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T14:52:51.209Z
@@ -84,6 +84,3 @@ dateCreated: 2023-12-02T14:52:51.209Z
 	</div>
 </div>
 
-
-<div style="position: absolute; bottom: 15px; right: 10px; font-size: 12px">
-	<a href="https://codepen.io/cjl750/pen/mXbMyo" target="_blank">based off of version 3</a></div>
