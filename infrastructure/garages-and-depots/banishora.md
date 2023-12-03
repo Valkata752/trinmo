@@ -2,20 +2,18 @@
 title: депо Банишора
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-28T11:41:30.740Z
+date: 2023-12-03T20:28:10.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T11:18:21.706Z
 ---
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1izWYhLpSZHRYpw2Yo5er2upWZcoT5Wd8"></td>
-    <td><b>депо Банишора </b><br> Гаражът е разкрит на ... <br>Обслужва линии... </td> 
-  </tr>
-      <td colspan=2 >ℹ️ бул. "Княгиня Мария Луиза" № 193
-</td>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1aVS3fDePOxOpVnEDGn0YsW2vXQdf0E9N"></td>
+<td><b>депо Банишора </b><br> Депото е разкрито на ... <br>Обслужва линии ТМ6, ТМ8, ТМ10, ТМ11, ТМ12</td></tr>
+  <td colspan=2 >ℹ️ бул. "Княгиня Мария Луиза" № 193</td></table></div>
+  
 
 
 # История
