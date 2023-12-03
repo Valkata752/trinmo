@@ -2,22 +2,19 @@
 title: депо Красна поляна
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T10:35:30.688Z
+date: 2023-12-03T20:27:15.161Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T11:42:49.703Z
 ---
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1aVS3fDePOxOpVnEDGn0YsW2vXQdf0E9N"></td>
-    <td><b>депо Красна поляна </b><br> Депото е разкрито на ... <br>Обслужва линии ТМ1, ТМ3 ,ТМ4, ТМ5, ТМ7, ТМ18 и ТМ27.</td> 
-  </tr>
-      <td colspan=2 >ℹ️ бул. "Никола Мушанов" № 149
-</td>
-</table>
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1aVS3fDePOxOpVnEDGn0YsW2vXQdf0E9N"></td>
+<td><b>депо Красна поляна </b><br> Депото е разкрито на ... <br>Обслужва линии ТМ1, ТМ3 ,ТМ4, ТМ5, ТМ7, ТМ18 и ТМ27.</td></tr>
+  <td colspan=2 >ℹ️ бул. "Никола Мушанов" № 149</td></table></div>
+  
+  
 
 # История
 
