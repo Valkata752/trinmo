@@ -2,7 +2,7 @@
 title: депо Красна поляна
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-28T11:41:40.794Z
+date: 2023-12-03T10:35:30.688Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T11:42:49.703Z
@@ -11,7 +11,7 @@ dateCreated: 2022-08-11T11:42:49.703Z
 <table style="width:100%">
   <tr>
     <td style="width:400px"><img src="https://drive.google.com/uc?id=1aVS3fDePOxOpVnEDGn0YsW2vXQdf0E9N"></td>
-    <td><b>депо Красна поляна </b><br> Депото е разкрито на ... <br>Обслужва линии... </td> 
+    <td><b>депо Красна поляна </b><br> Депото е разкрито на ... <br>Обслужва линии ТМ1, ТМ3 ,ТМ4, ТМ5, ТМ7, ТМ18 и ТМ27.</td> 
   </tr>
       <td colspan=2 >ℹ️ бул. "Никола Мушанов" № 149
 </td>
@@ -30,15 +30,14 @@ dateCreated: 2022-08-11T11:42:49.703Z
 
 | **Тримесечие** | **брой**  <br>**линии** | **Обслужвани линии** | **брой трамваи / на линия** | **Подвижен състав** |
 | --- | --- | --- | --- | --- |
-| 2022/4 |     |     |     |     |
-| 2022/3 |     |     |     |     |
-| 2022/2 |     |     |     |     |
-| 2022/1 |     |     |     |     |
+| 2023/4 |     |     |     |     |
+| 2023/3 |     |     |     |     |
+| 2023/2 |     |     |     |     |
+| 2023/1 |     |     |     |     |
 
 # Стрелки
 
-<figure><img src="https://lh6.googleusercontent.com/TxhLKAMZphOiwA1cYV-x04mdvHErDLD2RDjzbTSdha7uTnahH9h4APPsrv6W1G6thdw=w2400" height="600px"><figcaption> Столичен електротранспорт</figcaption></figure></button></div>
+<img src="https://drive.google.com/uc?id=1T9I6w6ZRR0gH_ExaohejU0xanrtPhdoX">
+
 
 # Структурни промени
-
-
