@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:32:00.076Z
+date: 2023-12-03T23:33:23.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -45,7 +45,6 @@ dateCreated: 2023-02-12T15:35:39.100Z
 
 **Oчаквайте скоро…**
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" height="400px"><figcaption><b>📷 Autobusy první republiky a protektorátu: 1918-1945</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" width="100%"></div></div>
 
 ## Обслужвани линии
 
