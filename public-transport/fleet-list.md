@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-06T16:16:41.999Z
+date: 2023-12-03T23:03:31.077Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -67,7 +67,7 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **Gräf & Stift** | [GE152 M18](/bg/public-transport/fleet-list/1988-Graf-Stift-GE152-M18) | [BBC GEO](/bg/public-transport/fleet-list/1962-Graf-Stift-BBC-GEO) |
 -   **DAC Чавдар** | [317 ETR](/bg/public-transport/fleet-list/1986-DAC-Chavdar-317-ETR) |
 -   **Ikarus** | [**280.92T**](/bg/public-transport/fleet-list/1985-Ikarus-280-92T) | [280.04T](/bg/public-transport/fleet-list/1974-Ikarus-280-04T) |
--   **MAN** | [610 FEC1](/bg/public-transport/fleet-list/1958-MAN-610-FEC1) | [MPE 4500](/bg/public-transport/fleet-list/1940-MAN-MPE-4500) |
+-   **MAN** | [610 FEC1](/bg/public-transport/fleet-list/1958-MAN-610-FEC1) | [MPE 1](/bg/public-transport/fleet-list/1940-MAN-MPE-1) |
 -   **Завод "6-ти септември"** | [ТБ-51-55](/bg/public-transport/fleet-list/1950-TB-51-55) |
 -   **Завод №82 - Тушино** | [MTB-82](/bg/public-transport/fleet-list/1948-MTB-82) |
 
