@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:30:16.611Z
+date: 2023-12-03T23:32:00.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -21,8 +21,8 @@ dateCreated: 2023-02-12T15:35:39.100Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7"></td>
-<td> готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.</td></tr>
-  <td colspan=2 >ℹ Autobusy první republiky a protektorátu: 1918-1945</td></table></div>
+<td> Готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.</td></tr>
+  <td colspan=2 >ℹ️ Autobusy první republiky a protektorátu: 1918-1945</td></table></div>
   
   
 Всичките 10 автобуса са гарирали в депо Красно Село.
