@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:26:28.798Z
+date: 2023-12-03T23:32:07.252Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
