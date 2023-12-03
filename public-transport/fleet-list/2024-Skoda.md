@@ -2,7 +2,7 @@
 title: Škoda
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-22T09:12:55.502Z
+date: 2023-12-03T12:24:25.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T10:28:48.127Z
@@ -14,7 +14,7 @@ dateCreated: 2023-07-13T10:28:48.127Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src=https://linksharing.samsungcloud.com/ayquXQKWpxyG></td>
+    <td style="width:400px"><img src=https://scontent.fsof8-1.fna.fbcdn.net/v/t39.30808-6/342384468_765075825148101_4361282822612212256_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c42490&_nc_ohc=hU4pycn94bEAX-6MH8h&_nc_ht=scontent.fsof8-1.fna&oh=00_AfCICjAFZlphGzkqC6Bg01EPsgT5wd5BUcSxfGHxGb3tcQ&oe=6571F589></td>
     <td><b>Примерна визуализация</b><br>на влак Шкода на мс "Западен парк"</td>
   </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td>
