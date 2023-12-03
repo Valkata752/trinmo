@@ -2,7 +2,7 @@
 title: депо Красна поляна
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T20:34:07.846Z
+date: 2023-12-03T20:40:21.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T11:42:49.703Z
