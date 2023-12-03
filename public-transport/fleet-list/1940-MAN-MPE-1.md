@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:26:18.793Z
+date: 2023-12-03T23:26:28.798Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -56,7 +56,7 @@ dateCreated: 2022-05-19T22:32:25.404Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=10mjNMFnGWhWGg58crOWwv-CbnyCqAf6u"></td>
 <td> Страхотна снимка на тролейбус MAN MPE 1 по линия Т до автобус <a href="/bg/public-transport/fleet-list/1935-praga-tn">Praga TN</a>.</td></tr>
-  <td colspan=2 >ℹ От велосипеда до метрото (1988)</td></table></div>
+  <td colspan=2 >ℹ От велосипеда до метрото</td></table></div>
   
   
 # Технически характеристики
