@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:27:55.713Z
+date: 2023-12-03T23:30:16.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -14,21 +14,17 @@ dateCreated: 2023-02-12T15:35:39.100Z
 Автобусите получават инвентарни номера от 1 до 10.
 В първите години автобусите, освен за редовни линии, често са използвани за поръчкови извънградски пътувания, включително на официални лица и делегации до определени места и събития.
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=10mjNMFnGWhWGg58crOWwv-CbnyCqAf6u"></td>
-<td> Страхотна снимка на автобус Praga Nt до тролейбус <a href="/bg/public-transport/fleet-list/1940-MAN-MPE-1">MAN MPE 1</a> по линия Т.</td></tr>
-  <td colspan=2 >ℹ От велосипеда до метрото</td></table></div>
-  
+
   
 След 1940 г. четири от автобусите "Praga" са преустроени като дизелови, като двигателят им е сменен с нов дизелов двигател "Mercedes".
 
-Долната снимка показва готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" height="400px"><figcaption><b>📷 Autobusy první republiky a protektorátu: 1918-1945</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" width="100%"></div></div>
-
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7"></td>
+<td> готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.</td></tr>
+  <td colspan=2 >ℹ Autobusy první republiky a protektorátu: 1918-1945</td></table></div>
+  
+  
 Всичките 10 автобуса са гарирали в депо Красно Село.
 
 
@@ -48,6 +44,8 @@ dateCreated: 2023-02-12T15:35:39.100Z
 # Обща информация
 
 **Oчаквайте скоро…**
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" height="400px"><figcaption><b>📷 Autobusy první republiky a protektorátu: 1918-1945</b></figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7" width="100%"></div></div>
 
 ## Обслужвани линии
 
