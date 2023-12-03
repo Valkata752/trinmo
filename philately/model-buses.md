@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T23:58:20.169Z
+date: 2023-12-02T23:59:58.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -16,8 +16,10 @@ dateCreated: 2023-09-30T11:25:42.499Z
 Полска колекция:  https://retromachina.jimdofree.com/polskie-gazet%C3%B3wki/kultowe-autobusy-prl-u/
 
 
-# Tabs {.tabset}
+## Българска колекция
 
-
-## Брой 1
-<img src="https://drive.google.com/uc?id=1y_Xl_Bb-VqpHDebGL8o3hss0UlEUyDmu">
+### Брой 1: Ikarus 30
+### Брой 2: Škoda 706 RTO
+### Брой 3: Ikarus 55
+### Брой 4: ZIS 155
+### Брой 5: Büssing D2U от 1951 г.
