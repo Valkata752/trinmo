@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T10:24:04.725Z
+date: 2023-12-04T16:04:35.490Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -554,6 +554,66 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## **Списание Сердика** (1937-1952)
 
 ## Tabs {.tabset}
+
+### 1952
+- [➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika-1952)
+{.links-list}
+
+Oчаквайте скоро...
+
+### 1951
+- [➡️*Списание Сердика - 1951*](/bg/literature/spisanie-serdika-1951)
+{.links-list}
+
+Oчаквайте скоро...
+
+
+### 1950
+- [➡️*Списание Сердика - 1950*](/bg/literature/spisanie-serdika-1950)
+{.links-list}
+
+Oчаквайте скоро...
+
+### 1949
+- [➡️*Списание Сердика - 1949*](/bg/literature/spisanie-serdika-1949)
+{.links-list}
+
+Oчаквайте скоро...
+
+
+### 1948
+- [➡️*Списание Сердика - 1948*](/bg/literature/spisanie-serdika-1948)
+{.links-list}
+
+Oчаквайте скоро...
+
+
+### 1947
+- [➡️*Списание Сердика - 1947*](/bg/literature/spisanie-serdika-1947)
+{.links-list}
+
+Oчаквайте скоро...
+
+### 1946
+- [➡️*Списание Сердика - 1946*](/bg/literature/spisanie-serdika-1946)
+{.links-list}
+
+Oчаквайте скоро...
+
+### 1945
+- [➡️*Списание Сердика - 1945*](/bg/literature/spisanie-serdika-1945)
+{.links-list}
+
+Oчаквайте скоро...
+
+
+### 1943
+- [➡️*Списание Сердика - 1943*](/bg/literature/spisanie-serdika-1943)
+{.links-list}
+
+### 1942
+- [➡️*Списание Сердика - 1941*](/bg/literature/spisanie-serdika-1942)
+{.links-list}
 
 
 ### 1941
