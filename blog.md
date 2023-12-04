@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:38:45.866Z
+date: 2023-12-04T00:02:09.849Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,6 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
 - [:euro: Защо не бе приета икономическата рамка на транспорта през 2023г.? *Петър Мънъри*](/bg/blog/ikonomicheska-ramka-2023)
 - [:train: Защо новите трамваи Песа стоят в депото *Петър Мънъри*](/bg/blog/pesa-trams-depot)
 - [:bus: Допълнителни автобусни линии и тяхното таксуване *Петър Мънъри*](/bg/blog/additional-bus-lines)
@@ -33,13 +32,17 @@ dateCreated: 2022-04-25T10:24:49.382Z
 - [:a: Линии номерирани с буквен индекс или  суфикс *Петър Мънъри*](/bg/blog/linii-s-bukvi)
 - [:train:+:train: Пенделно движение на трамваи *Петър Мънъри*](/bg/blog/pendelno-dvijenie-na-tramvai)
 - [:busstop: Как да направим спирките по-безопасни *urban.bg*](/bg/blog/kak-da-napravim-spirkite-po-bezopasni)
-- [:bell: Трамваи по време на международна детска асамблея  *Петър Мънъри*](/bg/blog/detska-asambleya)
-- [:train: Малкото трамвайче *Иван Тодоров*](/bg/blog/malkoto-tramvaiche)
 - [:envelope: Пощенските кутии на софийските трамваи *Любомир Найденов*](/bg/blog/e-mail-vs-tram-mail)
 - [:memo: Транспорт пред колапс *Любомир Найденов*](/bg/blog/transport-pred-kolaps)
+{.links-list}
+
+## История
+- [:trolleybus: Първият тролей в България *Д. Александров*](/bg/blog/parviat-trolei-v-bulgaria)
+- [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
+- [:bell: Трамваи по време на международна детска асамблея  *Петър Мънъри*](/bg/blog/detska-asambleya)
+- [:train: Малкото трамвайче *Иван Тодоров*](/bg/blog/malkoto-tramvaiche)
 - [:two::zero: Фотогалерия: 20 години, откакто метрото тръгна под София *Дневник*](/bg/blog/20-godini-metro)
 {.links-list}
----
 
 
 ## Предложения за промени и нови линии
