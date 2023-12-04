@@ -1,0 +1,40 @@
+---
+title: Списание Сердика - 1941 год.
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-12-04T05:29:23.921Z
+tags: 
+editor: markdown
+dateCreated: 2023-12-04T05:29:23.921Z
+---
+
+## кн. 1, с. 28 - **Снимка**
+## кн. 1, с. 84 - **Статистически данни** - общински трамваи и автобуси
+
+## кн. 2-3, с. 86 - **Трамвай безъ релси**
+
+<img src="https://drive.google.com/uc?id=1NDAZfDKvlHHBk5jZLnByDY81jlZPKcNr">
+<img src="https://drive.google.com/uc?id=1cszylFAmXemr8SvBFHbj8JqXj8PaEsAG">
+<img src="https://drive.google.com/uc?id=1m0CJvTh5CCRHR7wQAYVwct6YzrYSmfZz">
+<img src="https://drive.google.com/uc?id=1QnX_GBW74jQf3ATtT-rOEXxhbqaShphJ">
+
+## кн. 2-3, с. 127 - **Статистически данни** - общински трамваи и автобуси
+<img src="https://drive.google.com/uc?id=1c0Vm3nCVgPeyKkLoHQKwv-TKpoa46DYo">
+
+
+## кн. 4, с. 84 - **Статистически данни** - общински трамваи и автобуси
+
+
+## кн. 5, с. 7 - **Снимка** - пл. Славейков
+## кн. 5, с. 9 - **Снимка** - 84 - тм3 и 361 тм4
+## кн. 5, с. 10 - **Снимка** - Пред БНБ
+## кн. 5, с. 51-54 - **Трамваен влакъ 144**
+
+<img src="https://drive.google.com/uc?id=1zXus3NWHH_HLO34_TEK4f0JcgxEblmmb">
+<img src="https://drive.google.com/uc?id=1DjFzauoTR_nQRA2ubprOBZjJYUMFn9W2">
+<img src="https://drive.google.com/uc?id=1_nK2T5TV8YHqt-HPjfZ3pm-pVzMX343m">
+<img src="https://drive.google.com/uc?id=1A98LFOjoCmLyfoXtI4BNBehDZW3tXT-K">
+
+## кн. 5, с. 107 - **Статистически данни** - общински трамваи и автобуси
+
+<img src="https://drive.google.com/uc?id=1rdQq1RuG6nH7ynl7hx54JcDavI4CTFY3">
