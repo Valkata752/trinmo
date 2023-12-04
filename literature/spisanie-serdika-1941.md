@@ -2,14 +2,18 @@
 title: Списание Сердика - 1941 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T05:29:23.921Z
+date: 2023-12-04T05:52:09.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T05:29:23.921Z
 ---
 
 ## кн. 1, с. 28 - **Снимка**
+<img src="https://drive.google.com/uc?id=1CcwG1tMuRembgPU5CZ4XOZWEBh8XiZGi">
+
 ## кн. 1, с. 84 - **Статистически данни** - общински трамваи и автобуси
+
+<img src="https://drive.google.com/uc?id=1oRQbTVOFZ9xIKMluReIHuyMp4aMTkHh8">
 
 ## кн. 2-3, с. 86 - **Трамвай безъ релси**
 
@@ -38,3 +42,13 @@ dateCreated: 2023-12-04T05:29:23.921Z
 ## кн. 5, с. 107 - **Статистически данни** - общински трамваи и автобуси
 
 <img src="https://drive.google.com/uc?id=1rdQq1RuG6nH7ynl7hx54JcDavI4CTFY3">
+
+
+## кн. 6, с. 15 - **Снимка на тм141**
+<img src="https://drive.google.com/uc?id=1bV6pjG0QGuaI4Yzf7H_QMwlSoppmUsBB">
+
+## кн. 6, с. 46 - **Снимка** - 84 - тм3 и 361 тм4
+<img src="https://drive.google.com/uc?id=19xLUsLdkJfBth2K2pCmj22H7fhW1xiFh">
+
+## кн. 6, с. 99 - **Статистически данни** - общински трамваи и автобуси
+<img src="https://drive.google.com/uc?id=1_PVR_-wHJuvOyY_MstaCKaW9rZyX4R_G">
