@@ -2,7 +2,7 @@
 title: Списание Сердика - 1941 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T06:04:22.315Z
+date: 2023-12-04T06:09:35.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T05:29:23.921Z
@@ -69,3 +69,12 @@ dateCreated: 2023-12-04T05:29:23.921Z
 ## кн. 8, с. 75 - **Статистически данни** - общински трамваи и автобуси
 
 <img src="https://drive.google.com/uc?id=1luQpaWEKdASjfgnbZpgUAQmHZLT1eA3N">
+
+
+## кн. 9-10, с. 5 - **Снимка** 
+
+<img src="https://drive.google.com/uc?id=1g4UQhx8TuAyHU_YaKiveMqMbgS9-ir64">
+
+## кн. 9-10, с. 91 - **Статистически данни** - общински трамваи и автобуси
+
+<img src="https://drive.google.com/uc?id=1dvu_NHpaVziOQp79i8USWHCpt5YYcf0P">
