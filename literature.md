@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T16:04:35.490Z
+date: 2023-12-04T16:06:01.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -612,7 +612,7 @@ Oчаквайте скоро...
 {.links-list}
 
 ### 1942
-- [➡️*Списание Сердика - 1941*](/bg/literature/spisanie-serdika-1942)
+- [➡️*Списание Сердика - 1942*](/bg/literature/spisanie-serdika-1942)
 {.links-list}
 
 
