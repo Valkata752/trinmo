@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T16:47:45.089Z
+date: 2023-12-04T16:49:05.943Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -135,7 +135,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
   <img src="https://lh5.googleusercontent.com/Zb6_MAkiG2l4X2uk9qJln1prtYUKwBV4puUcQC0ppACWdURK4n8yDpIBvY7UwujITUA=w2400" height="200px"><figcaption><b>218</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/Zb6_MAkiG2l4X2uk9qJln1prtYUKwBV4puUcQC0ppACWdURK4n8yDpIBvY7UwujITUA=w2400" width="100%"></div></div>
      <!--2216-->
 <div class="dropdown"><button class="imgbtn">
-  <img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b>218</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
+  <img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b>2218</b> 📷 spirka.org</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
  
  
 ## 2216
