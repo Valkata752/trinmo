@@ -2,7 +2,7 @@
 title: Списание Сердика - 1940 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T06:44:33.440Z
+date: 2023-12-04T06:46:26.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T06:44:33.440Z
@@ -18,5 +18,5 @@ dateCreated: 2023-12-04T06:44:33.440Z
 <img src="https://drive.google.com/uc?id=1m0ylpwx7IdwnSWmtYBjRHYP1X42yl9Aq">
 
 
-кн. 8, с. 62 - **Статистически данни** - общински трамваи и автобуси
+## кн. 8, с. 62 - **Статистически данни** - общински трамваи и автобуси
 
