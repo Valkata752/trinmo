@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T13:45:51.846Z
+date: 2023-12-04T16:08:36.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -68,7 +68,8 @@ dateCreated: 2022-05-19T22:32:25.404Z
 **Oчаквайте скоро…**
 
 # Галерия
-
+# Tabs {.tabset}
+##
 <!--ТБ--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" height="200px"><figcaption><b>Официално представяне</b> <br> 📷 Sofia History Museum</figcaption></figure></button><div class="dropdown-content"><a href="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" target="_blank" title="MAN"> <img src="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" width="100%"></a></div></div>
   
