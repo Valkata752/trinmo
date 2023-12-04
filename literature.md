@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-26T11:21:30.301Z
+date: 2023-12-04T05:14:54.630Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -551,24 +551,29 @@ dateCreated: 2022-04-26T09:14:34.111Z
 бр. 1, с. 25 - **Софийският градски транспорт**
 
 
-
-
-## Списание Архитектура
-
-1977 - [Проектът на Софийския метрополитен](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
-
-
 ## **Списание Сердика** (1937-1952)
 
 ## Tabs {.tabset}
 
-### 1952
-- [➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika-1952)
-{.links-list}
 
 ### 1941
 - [➡️*Списание Сердика - 1941*](/bg/literature/spisanie-serdika-1941)
 {.links-list}
+
+кн. 1, с. 28 - **Снимка**
+кн. 1, с. 84 - **Статистически данни** - общински трамваи и автобуси
+
+кн. 2-3, с. 86 - **Трамвай безъ релси**
+кн. 2-3, с. 127 - **Статистически данни** - общински трамваи и автобуси
+
+
+кн. 4, с. 84 - **Статистически данни** - общински трамваи и автобуси
+
+
+кн. 5, с. 7 - **Снимка** - пл. Славейков
+кн. 5, с. 9 - **Снимка** - 84 - тм3 и 361 тм4
+
+
 
 ### 1940
 - [➡️*Списание Сердика - 1940*](/bg/literature/spisanie-serdika-1940)
@@ -590,6 +595,10 @@ dateCreated: 2022-04-26T09:14:34.111Z
 {.links-list}
 
 
+
+## Списание Архитектура
+
+1977 - [Проектът на Софийския метрополитен](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
 
 ## Modern Tramway
 <a href="/literature/modern-tramway-305"><img src="https://lh5.googleusercontent.com/PfUB1NoQjQSr3JOuh0LPTkkLSl1jGFmKGicK4RLVWOlDoCnbxkRDmPWcpnJWFnYpF4I=w2400" height=200px></a> <a href="/literature/modern-tramway-407"><img src="https://lh3.googleusercontent.com/_ti2E1Wjx6tzQ9OXgkBnFot1rNuK27xux9huNjw2ZGVHpK-4Axf7z_iWpE_RSB7K6_g=w2400" height=200px></a> <a href="/literature/modern-tramway-450"><img src="https://lh3.googleusercontent.com/H1YW_r8-8afHoV6jkZp9NPLqRYfILy78XWWph7hnWetJK6HkNBHjc0BHHP_3Sa3XFeo=w2400" height=200px></a>
