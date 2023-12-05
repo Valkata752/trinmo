@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T12:10:25.485Z
+date: 2023-12-05T12:44:46.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -103,6 +103,11 @@ dateCreated: 2022-05-19T22:32:25.404Z
 <td>На фона на крепост Хоензалцбург</td></tr>
   <td colspan=2 >ℹ https://www.krone.at/2252617 </td></table></div>
   
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1pF3sNsfTD_lPJb-g9nX1MhW_29YtiLG7"></td>
+<td>Първата радиална тролейбусна линия А от Зигмудсплац до Обергнил.  </td></tr>
+  <td colspan=2 >ℹ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -110,7 +115,17 @@ dateCreated: 2022-05-19T22:32:25.404Z
 <td> Това е и единственият град, в който е документирано използването на тролей за превоз на товари - извън контактната мрежа, тролеят използва агрегат и може да тегли цели четири ремаркета.</td></tr>
   <td colspan=2 >ℹ </td></table></div>
   
+ ### Дрезден
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1lYOkZfaOTtiAEy7g6YHXqQWRW3M6mfQ0"></td>
+<td>Откриване на тролейбусния транспорт в Дрезден (08 ноември 1947 г.) </td></tr>
+  <td colspan=2 >ℹ снимка: Erich Höhne | <a href="https://www.deutschefotothek.de/documents/obj/70601640/df_hp_0009997_004">www.deutschefotothek.de</a></td></table></div>
   
+  
+
+
 # Списък
 
 | **инв. №** | **Година произв.** | Доставен | VIN | ДКН | Спрян | Информация |
