@@ -2,7 +2,7 @@
 title: Столичната трамвайна мрежа - 1939
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:29:51.279Z
+date: 2023-12-05T13:30:59.931Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-20T08:29:02.176Z
