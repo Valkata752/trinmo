@@ -2,7 +2,7 @@
 title: Списание Сердика - 1939 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:25:51.246Z
+date: 2023-12-05T13:31:21.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T12:51:25.336Z
@@ -30,7 +30,7 @@ dateCreated: 2023-12-05T12:51:25.336Z
 ## кн. 8, с. 49 - Статистически данни - общински трамваи и автобуси
 
 ## кн. 9, с. 13 - Столична трамвайна мрежа
-- [:train: Столичната трамвайна мрежа - 1939г. *Инж. Р. Михайлов, списание Сердика, книга 9, 1939 г.*](/bg/literature/stolichnata-tramvaina-mreja-1939)
+- [:train: Столичната трамвайна мрежа - 1939г. *Инж. Р. Михайлов, списание Сердика, книга 9, 1939 г.*](/bg/blog/stolichnata-tramvaina-mreja-1939)
 {.links-list}  
 
 <br><img src="https://drive.google.com/uc?id=1VgxRo99P55BJ1b8aPk0Hnc2KSwyZoMrU">
