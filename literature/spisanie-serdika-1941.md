@@ -2,7 +2,7 @@
 title: Списание Сердика - 1941 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:35:45.652Z
+date: 2023-12-05T13:38:51.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T05:29:23.921Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-04T05:29:23.921Z
 <img src="https://drive.google.com/uc?id=1oRQbTVOFZ9xIKMluReIHuyMp4aMTkHh8">
 
 ## кн. 2-3, с. 86 - **Трамвай безъ релси**
-- [:trolleybus: Първият тролейбус в България - 1939г. *списание Сердика, книга 2-3, 1941 г.*](/bg/blog/parviat-trolei-v-bulgaria)
+- [:trolleybus: Първият тролейбус в България - 1939г. *списание Сердика, книга 2-3, 1941 г.*](/bg/blog/tramvai-bez-relsi)
 {.links-list}  
 
 <br><img src="https://drive.google.com/uc?id=1NDAZfDKvlHHBk5jZLnByDY81jlZPKcNr">
