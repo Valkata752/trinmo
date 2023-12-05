@@ -2,13 +2,13 @@
 title: Трамвай безъ релси
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:46:04.002Z
+date: 2023-12-05T13:49:45.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T00:09:26.179Z
 ---
 
-- [:page_facing_up: Факсимиле на статия *списание "Сердика", книга 9, 1941 г.*](/bg/literature/spisanie-serdika-1941)
+- [:page_facing_up: Факсимиле на статия *списание "Сердика", книга 9, 1941 г.*](/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8)
 {.links-list}
 ---
 
