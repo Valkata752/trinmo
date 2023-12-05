@@ -2,13 +2,13 @@
 title: Столичната трамвайна мрежа - 1939
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:30:59.931Z
+date: 2023-12-05T13:35:25.961Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-20T08:29:02.176Z
 ---
 
-- [:page_facing_up: Факсимиле на статия *Инж. Р. Михайлов, списание "Сердика", книга 9, 1939 г.*](/bg/literature/spisanie-serdika-1939)
+- [:page_facing_up: Факсимиле на статия *списание "Сердика", книга 9, 1939 г.*](/bg/literature/spisanie-serdika-1939)
 {.links-list}
 ---
 
