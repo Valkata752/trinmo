@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-04T00:10:11.967Z
+date: 2023-12-05T13:35:08.357Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -37,7 +37,8 @@ dateCreated: 2022-04-25T10:24:49.382Z
 {.links-list}
 
 ## История
-- [:trolleybus: Първият тролей в България *списание Сердика - книга 2/3 - 1941*](/bg/blog/parviat-trolei-v-bulgaria)
+- [:trolleybus: Трамвай безъ релси *списание Сердика - книга 2/3 - 1941 г.*](/bg/blog/tramvai-bez-relsi)
+- [:train: Столичната трамвайна мрежа - 1939г. *списание Сердика, книга 9, 1939 г.*](/bg/blog/stolichnata-tramvaina-mreja-1939)
 - [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
 - [:bell: Трамваи по време на международна детска асамблея  *Петър Мънъри*](/bg/blog/detska-asambleya)
 - [:train: Малкото трамвайче *Иван Тодоров*](/bg/blog/malkoto-tramvaiche)
