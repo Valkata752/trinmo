@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T20:26:59.048Z
+date: 2023-12-06T20:29:36.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -13,7 +13,21 @@ dateCreated: 2023-09-30T11:25:42.499Z
 > https://www.deagostini.com/bg/legendary-buses
 {.is-info}
 
-# Полско/Българска
+
+# :bulgaria: Българска
+
+1 IKARUS 30 27.09.2023 г.
+2 SKODA RTO 706 11.10.2023 г.
+3 IKARUS 55 25.10.2023 г.
+4 ZIS 155 8.11.2023 г.
+5 BUSSING D2U 22.11.2023 г.
+6 Tatra 500 HB 6.12.2023 г.
+7 SKODA SM 11 20.12.2023 г.
+8 JELCZ BERLIETT PR100 3.01.2024 г.
+
+
+
+# :poland: Полска
 ## 1-9
 
 |:oncoming_bus:  | :poland: | :bulgaria: | Дата на <br>излизане |
