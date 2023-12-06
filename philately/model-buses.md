@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T17:26:42.487Z
+date: 2023-12-06T17:45:41.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -21,11 +21,13 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
 | <img src="https://drive.google.com/uc?id=15FljU-_n8gkGsAgErqLUorOcOOqNPZYf" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=19Chq9ZRqegwbhtQFwR2Rp3CxSNgX-vM3" width="200px">|---|---|
 
 ## 10-19
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
+| <img src="https://drive.google.com/uc?id=1D3Wkmk4cQdFj484xnpT1QGvGzIW9XuTx" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=15FxioMUKEUlWejdOmRTrX8owLEKl7utj" width="200px">|---|---|
 
 
@@ -33,37 +35,54 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
-
+| <img src="https://drive.google.com/uc?id=18xF8vPfqqg3RgA4dqzCCCP6DpxjgjiYX" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=18OaIRXt2TU2p1UmXvjb0fZy2IxqxYZBi" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=19xqH-eYkLHMsvImPHBruL4o7ewqGtrXb" width="200px">|---|---|
 
 ## 30-39
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
+| <img src="https://drive.google.com/uc?id=1FXa66R_3QmW0TxqfLpEb7KPu2stTQa_b" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=1Be3npsDQXvzCc_b3JtuSrsyyVMNTS6vR" width="200px">|---|---|
+
 
 ## 40-49
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
+| <img src="https://drive.google.com/uc?id=1B31R06Q0fYU3L8sMfQRlNoonzCriY_hQ" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=10vfBWTmxRGxhpE3w3k_kOblWDNptukVV" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=198Pf944_bpgLSk6Nxfz7mkHsiTEvE5Xz" width="200px">|---|---| 
 
 ## 50-59
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
 | <img src="https://drive.google.com/uc?id=11QdhlZ1tUjfENXmQMvLfdy3y4C9fK6MB" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=1A2qpYtKzh79wduMXFGVFdTPSBmee1c8k" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=16drg7o4uMwJw-qQso5BAvYdhNdBTwRKw" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=13UOMLYu2s1CCOwcSuPMB4SCe61qzMIn3" width="200px">|---|---|
 
 ## 60-69
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
+| <img src="https://drive.google.com/uc?id=1FvIPZqe6_kj5dCK21H8AuexAXfI66MDU" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=1HxL3Ky7iHmwEW0DWx1Z40DGco5SyOvmY" width="200px">|---|---| 
+| <img src="https://drive.google.com/uc?id=18kGDzPTx2A86rI3128I9OXOp4yBtaF4L" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=18k5n2Y5lmIiYGwvc93du9zsHS5KspqA-" width="200px">|---|---|
+
 
 ## 70-79
 
 |номер | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
+| <img src="https://drive.google.com/uc?id=1DXsQoFUSP7rfyE0VTM9eqEeLPkjs5mIC" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=1E9LAyF-bOInG-KoDd32KBKRpkZvps3sf" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=19GPJVgJ0_jzZRn9KApTCEK77-O_PXFHF" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=1-5lOskBlOSW1-vl1Pb74Ys6bSdhG672z" width="200px">|---|---|
-
+| <img src="https://drive.google.com/uc?id=1BuumIwWEQghLGaUG5F3cdMPq-1QSKRxA" width="200px">|---|---|
 
 
 
@@ -72,25 +91,14 @@ dateCreated: 2023-09-30T11:25:42.499Z
 {.is-info}
 
 
-| <img src="https://drive.google.com/uc?id=16drg7o4uMwJw-qQso5BAvYdhNdBTwRKw" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=18OaIRXt2TU2p1UmXvjb0fZy2IxqxYZBi" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=18k5n2Y5lmIiYGwvc93du9zsHS5KspqA-" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=18kGDzPTx2A86rI3128I9OXOp4yBtaF4L" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=18xF8vPfqqg3RgA4dqzCCCP6DpxjgjiYX" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=198Pf944_bpgLSk6Nxfz7mkHsiTEvE5Xz" width="200px">|---|---| 
-| <img src="https://drive.google.com/uc?id=19Chq9ZRqegwbhtQFwR2Rp3CxSNgX-vM3" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=19GPJVgJ0_jzZRn9KApTCEK77-O_PXFHF" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=19xqH-eYkLHMsvImPHBruL4o7ewqGtrXb" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1A2qpYtKzh79wduMXFGVFdTPSBmee1c8k" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1B31R06Q0fYU3L8sMfQRlNoonzCriY_hQ" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1Be3npsDQXvzCc_b3JtuSrsyyVMNTS6vR" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1BuumIwWEQghLGaUG5F3cdMPq-1QSKRxA" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1D3Wkmk4cQdFj484xnpT1QGvGzIW9XuTx" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1DXsQoFUSP7rfyE0VTM9eqEeLPkjs5mIC" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1E9LAyF-bOInG-KoDd32KBKRpkZvps3sf" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1FXa66R_3QmW0TxqfLpEb7KPu2stTQa_b" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1FvIPZqe6_kj5dCK21H8AuexAXfI66MDU" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1HxL3Ky7iHmwEW0DWx1Z40DGco5SyOvmY" width="200px">|---|---| 
+
+
+
+
+
+
+
+
 | <img src="https://drive.google.com/uc?id=1IazoESV_03zs6rzrrTFYeSKohM--WRDt" width="200px">|---|---| 
 | <img src="https://drive.google.com/uc?id=1IsDx_IPHJaESzKTnOFk5n5ct8gx_mejw" width="200px">|---|---| 
 | <img src="https://drive.google.com/uc?id=1J3jJNcjUNdYuyHFAu5kwWjtjig-2wjow" width="200px">|---|---| 
