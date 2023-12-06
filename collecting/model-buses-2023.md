@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T20:19:26.920Z
+date: 2023-12-06T20:26:59.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -167,7 +167,70 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |         Neoplan NH 9L Hamburg Coach         |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc31_1.jpg" width="200px">|   |      |
 
 
-# Полска
+# :czech_republic: Чешка
+V kolekci KULTOVNÍ AUTOBUSY MINULÉ ÉRY vyšly od 25.02.2019 tyto modely autobusů:
+1) KAROSA ŠL 11 1965 - Československo
+2) AUTOSAN H9 - 03 1973 - Polsko
+3) ŠKODA 706 RTO 1963 - Československo
+4) KAROSA T 500 HB 1954 - Československo
+5) LEYLAND RTW 75 1951 - Velká Británie
+6) IKARUS 66 1955 - Maďarsko
+7) MERCEDES BENZ O 3500 1949 - Německo
+8) IKARUS 311 1959 - Maďarsko
+9) KASSBOHRER SETRA S8 1951 - Německo
+10) VOLVO B616 1953 - Švédsko
+11) ROBUR GARANT 1950 - Německo
+12) BUSSING D2U 1951 - Německo
+13) ZIS - 155 1949 - SSSR
+14) IFA H6B 1958 - Německo
+15) STAR N52 1953 - Polsko
+16) HENSCHEL HS 100 N 1953 - Německo
+17) JELCZ - BERLIET PR 110U 1976 - Polsko
+18) FIAT 306/3 1972 - Itálie
+19) OPEL - BLITZ Panoramabus 1954 - Německo
+20) BORGWARD BO 4000 1952 - Německo
+21) LEYLAND - VERHEUL HOLLAND COACH 1955 - Nizozemsko
+22) AUTOSAN H10 1984 - Polsko
+23) MERCEDES-BENZ LoP 3500 1935 - Německo
+24) PAZ-672M 1968 - SSSR
+25) SAN H27 1964 - Polsko
+26) SCANIA VABIS CF76 D11 1964 - Švédsko
+27) AUTOSAN H9-35 1964 - Polsko
+28) RENAULT S45 R4210 1949 - Francie
+29) IKARUS 260 1972 - Maďarsko
+30) NEOPLAN NH 9 L 1964 - Německo
+31) JELCZ MAT Olawka 1964 - Polsko
+32) JELCZ-MIELEC WR 002 TWT 1964 - Polsko
+33) IKARUS 556 1964 - Maďarsko
+34) CHAUSSON APH 520 1954 - Francie
+35) SAURER L4C 1959 - Švýcarsko
+36) (TROLEJBUS) VETRA VBRH 1949 - Francie
+37) JELCZ 043 Cabriolet 1974 - Polsko
+38) MAGIRUS-DEUTZ  Saturn II. 1957 - Německo
+39) (TROLEJBUS) SAURER 4T 1957 - Švýcarsko
+40) GMC SCHOOL BUS 1979 - USA
+41) BUSSING Senator 1964 - Německo
+42) VAN HOOL 306 1958 - Belgie
+43) REO Speedwagon 1947 - USA
+44) BEDFORD OB 1945 - Velká Británie
+45) GREYHOUND 1960 - USA
+46) FLEISCHER S5 1977 - DDR
+47) HINO BH15 1966 - Japonsko
+48) BROSSEL JONCKHEERE 1957- Belgie
+49) VOLVO B57 1972 - Švédsko
+50) STEYR 380 Q 1955 - Rakousko
+51) SAN HO1A 1958 - Polsko
+52) JELCZ 080 1984 - Polsko
+53) SAN H - 100B 1973 - Polsko
+54) FIAT 666 RN 1950 - Itálie
+55) OSINOBUS 1973 - Polsko
+56) KRUPP TITAN SW O80 HUBERTIA 1951 - Německo
+57) BEDFORD VAL 1967 - Velká Británie
+58) BURLINGHAM SEAGULL 1951 - Velká Británie
+59) IKARUS 280 1973 - Maďarsko
+60) IKARUS 620 1962 - Maďarsko
+
+# :poland: Полска
 
 1	Autosan H9-03	18-04-2018
 2	Škoda Karosa SM 11	02-05-2018
