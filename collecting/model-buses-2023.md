@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T18:40:04.408Z
+date: 2023-12-06T18:43:34.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -11,14 +11,35 @@ dateCreated: 2023-09-30T11:25:42.499Z
 > Носталгична колекция, с която ще събирате и ще научите повече за модели, които рядко ще видите по улиците, а най-вече в музеите.
 {.is-info}
 
+номер
+описание
+Дата
+1
+IKARUS 30
+27.09.2023 г.
+2
+SKODA RTO 706
+11.10.2023 г.
+3
+IKARUS 55
+25.10.2023 г.
+4
+ZIS 155
+8.11.2023 г.
+5
+BUSSING D2U
+22.11.2023 г.
+6
+Tatra 500 HB
+
+7
+SKODA SM 11
+20.12.2023 г.
+8
+JELCZ BERLIETT PR100
+
 
 ## 1-9
-
-
-
-
-
-
 
 | :poland: | :bulgaria: | Дата |
 |---|---|---|
@@ -45,7 +66,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 | <img src="https://drive.google.com/uc?id=1tDg4LDo-sga8HoVmjAllSLCt_Loc_AHm" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=1pbN5sxJC3vzybZUD4digURwQhqKytNK0" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=15FxioMUKEUlWejdOmRTrX8owLEKl7utj" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=1w_k8jJS4dqh-U07l2WZhv8uHiqcegdZB" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=1w_k8jJS4dqh-U07l2WZhv8uHiqcegdZB" width="200px">|---|06.12.2023 г.|
 | <img src="https://drive.google.com/uc?id=1_ivc9tH8ol4WUCBk_Eo7541-Vx857KtN" width="200px">|---|---|
 
 ## 20-29
@@ -118,7 +139,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 | <img src="https://drive.google.com/uc?id=1kySdtzEtc1HzXwUyaR2iU_o6YtoZOycK" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=1HxL3Ky7iHmwEW0DWx1Z40DGco5SyOvmY" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=18kGDzPTx2A86rI3128I9OXOp4yBtaF4L" width="200px">|<img src="https://drive.google.com/uc?id=1fGJbUOsFwX6ECBeH3Bzu_cnhT0ZGIQ7d" width="200px">|25.10.2023 г.| 
-| <img src="https://drive.google.com/uc?id=18k5n2Y5lmIiYGwvc93du9zsHS5KspqA-" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=18k5n2Y5lmIiYGwvc93du9zsHS5KspqA-" width="200px">|---|03.01.2024 г.|
 | <img src="https://drive.google.com/uc?id=1UNuXmswW1kKB0w0xReBS2A8pMkvW4FCZ" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=1_MMzYHUKKcgR7atJvkUZcZjfFh62asSE" width="200px">|---|---|
 | <img src="https://drive.google.com/uc?id=1f1Rabhm4PRYIxyFnuqFNeOmZWJaR9fzV" width="200px">|---|---|
