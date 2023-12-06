@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T13:40:08.307Z
+date: 2023-12-06T14:11:54.138Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -565,8 +565,8 @@ dateCreated: 2022-04-26T09:14:34.111Z
 - [➡️*Списание Сердика - 1951*](/bg/literature/spisanie-serdika-1951)
 {.links-list}
 
-Oчаквайте скоро...
-
+<mark>кн. 1, с. 71-76 - **Успехи на електротранспорта**</mark>
+<mark>кн. 1, с. 138 - **площад Славейков** - литография</mark>
 
 ### 1950
 - [➡️*Списание Сердика - 1950*](/bg/literature/spisanie-serdika-1950)
