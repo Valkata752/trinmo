@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T07:23:02.065Z
+date: 2023-12-06T13:40:08.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -559,7 +559,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 - [➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika-1952)
 {.links-list}
 
-Oчаквайте скоро...
+<mark>кн. 1, с. 50 - **площад Възраждане в миналото** - скица</mark>
 
 ### 1951
 - [➡️*Списание Сердика - 1951*](/bg/literature/spisanie-serdika-1951)
