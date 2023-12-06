@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T19:09:53.817Z
+date: 2023-12-06T19:15:01.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -32,25 +32,25 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1nIF6vWRUkOMue-Dr5GB0wuW8jFtzTW1l" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1D3Wkmk4cQdFj484xnpT1QGvGzIW9XuTx" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1WYJfkHnWx6ycUb3f7wgKrAirr6xD-daM" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1RC9B0d966QaM8S29c4HxIfGU15uhQ1QK" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1hsCYa2cc2vXiPOWqj4n3QYw5TAMDKiXO" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1tDg4LDo-sga8HoVmjAllSLCt_Loc_AHm" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1pbN5sxJC3vzybZUD4digURwQhqKytNK0" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=15FxioMUKEUlWejdOmRTrX8owLEKl7utj" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1w_k8jJS4dqh-U07l2WZhv8uHiqcegdZB" width="200px">|---|06.12.2023 г.|
-| модел | <img src="https://drive.google.com/uc?id=1_ivc9tH8ol4WUCBk_Eo7541-Vx857KtN" width="200px">|---|---|
+| Star N52 | <img src="https://drive.google.com/uc?id=1nIF6vWRUkOMue-Dr5GB0wuW8jFtzTW1l" width="200px">|---|---|
+| Ifa H6B | <img src="https://drive.google.com/uc?id=1D3Wkmk4cQdFj484xnpT1QGvGzIW9XuTx" width="200px">|---|---|
+| Setra S8 | <img src="https://drive.google.com/uc?id=1WYJfkHnWx6ycUb3f7wgKrAirr6xD-daM" width="200px">|---|---|
+| Volvo B616 | <img src="https://drive.google.com/uc?id=1RC9B0d966QaM8S29c4HxIfGU15uhQ1QK" width="200px">|---|---|
+| Henschel HS 100 | <img src="https://drive.google.com/uc?id=1hsCYa2cc2vXiPOWqj4n3QYw5TAMDKiXO" width="200px">|---|---|
+| Jelcz-Berliet | <img src="https://drive.google.com/uc?id=1tDg4LDo-sga8HoVmjAllSLCt_Loc_AHm" width="200px">|---|---|
+| Mercedes-benz O 3500 | <img src="https://drive.google.com/uc?id=1pbN5sxJC3vzybZUD4digURwQhqKytNK0" width="200px">|---|---|
+| Fiat 306/3 | <img src="https://drive.google.com/uc?id=15FxioMUKEUlWejdOmRTrX8owLEKl7utj" width="200px">|---|---|
+| Tatra T 500 HB | <img src="https://drive.google.com/uc?id=1w_k8jJS4dqh-U07l2WZhv8uHiqcegdZB" width="200px">|---|06.12.2023 г.|
+| Opel Blitz | <img src="https://drive.google.com/uc?id=1_ivc9tH8ol4WUCBk_Eo7541-Vx857KtN" width="200px">|---|---|
 
 ## 20-29
 
 | :poland: | :bulgaria: | Дата |
 |---|---|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1RJvv9igIu6rgsjMjQBRpE22ZI53pz9Sa" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=18xF8vPfqqg3RgA4dqzCCCP6DpxjgjiYX" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1wukxIGgH5QwwZNLhpCKMcNuSgrn6UURI" width="200px">|---|---|
-| модел | <img src="https://drive.google.com/uc?id=1MPtZ-YMfWFeCTpc5_paqE4pnRQWmGVQD" width="200px">|---|---|
+| Borgward BO 4000 | <img src="https://drive.google.com/uc?id=1RJvv9igIu6rgsjMjQBRpE22ZI53pz9Sa" width="200px">|---|---|
+| Leyland Verheul Holland | <img src="https://drive.google.com/uc?id=18xF8vPfqqg3RgA4dqzCCCP6DpxjgjiYX" width="200px">|---|---|
+| Autosan H10 | <img src="https://drive.google.com/uc?id=1wukxIGgH5QwwZNLhpCKMcNuSgrn6UURI" width="200px">|---|---|
+| Mercedes-benz lop | <img src="https://drive.google.com/uc?id=1MPtZ-YMfWFeCTpc5_paqE4pnRQWmGVQD" width="200px">|---|---|
 | модел | <img src="https://drive.google.com/uc?id=1WoRuEnELJ7MF0em0k0yxYfXeTbikbMP7" width="200px">|---|---|
 | модел | <img src="https://drive.google.com/uc?id=1_NzbLYYiKDrbS0elZ708YWyvR2FY92Wi" width="200px">|---|---|
 | модел | <img src="https://drive.google.com/uc?id=18OaIRXt2TU2p1UmXvjb0fZy2IxqxYZBi" width="200px">|---|---|
