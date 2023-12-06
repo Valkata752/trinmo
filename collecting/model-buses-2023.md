@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T18:43:57.655Z
+date: 2023-12-06T18:46:39.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -16,7 +16,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 | :poland: | :bulgaria: | Дата |
 |---|---|---|
 | <img src="https://drive.google.com/uc?id=1kIgrB1-k1yYiyfY460URYWBIdWZcxwzW" width="200px">|---|---|
-| <img src="https://drive.google.com/uc?id=15FljU-_n8gkGsAgErqLUorOcOOqNPZYf" width="200px">|---|---|
+| <img src="https://drive.google.com/uc?id=15FljU-_n8gkGsAgErqLUorOcOOqNPZYf" width="200px">|---|20.12.2023 г.|
 | <img src="https://drive.google.com/uc?id=1fhzgnMgr7ur6FNDgVbuIqUoHGzeM6l8D" width="200px">|<img src="https://drive.google.com/uc?id=1fImYv3GMItMP10lx9mfCponF85Sl5e--" width="200px">| 22.11.2023 г.|
 | <img src="https://drive.google.com/uc?id=19Chq9ZRqegwbhtQFwR2Rp3CxSNgX-vM3" width="200px">|<img src="https://drive.google.com/uc?id=1fGsXjX-cPOWQWudDijB7jln78UQCGnjn" width="200px">|08.11.2023 г.|
 | <img src="https://drive.google.com/uc?id=1IazoESV_03zs6rzrrTFYeSKohM--WRDt" width="200px">|---|---| 
