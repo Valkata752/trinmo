@@ -2,7 +2,7 @@
 title: Моделчета автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T19:40:46.644Z
+date: 2023-12-06T19:56:36.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -165,3 +165,73 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |                Volvo B616 Bus               |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc29_1.jpg" width="200px">|   |      |
 |             Reo Speedwagon Coach            |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc30_1.jpg" width="200px">|   |      |
 |         Neoplan NH 9L Hamburg Coach         |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc31_1.jpg" width="200px">|   |      |
+
+
+
+
+# Английска
+4642 101	Burlingham Seagull Coach
+4642 102	Bedford VAL Plaxton Panorama I Coach
+4642 103	Bedford OB Duple Vista Coach
+4642 104	Van Hool T9 Coach
+4642 105	Kässbohrer Setra S8 Coach
+4642 106	Saurer L4C Coach
+4642 107	Henschel 100N Coach
+4642 108	IFA H6 B Coach
+4642 109	Plaxton Panorama Coach (1/76)
+4642 110	Bova Futura Coach (/1/76)
+4642 111	Plaxton Excalibur Coach (/1/76)
+4642 112	Van Hool Alizee Coach (/1/76)
+4642 113	Borgward BO 4000 Coach
+4642 114	BMMO CM5T Coach (1/76)
+4642 115	Mercedes Benz O 3500 Coach
+4642 116	Plaxton Excalibur (Premiere #) Coach (1/76)
+4642 117	Van Hool 306 Coach
+4642 118	Magrirus-Deutz Saturn II Bus
+4642 119	Leyland-Verheul Bus
+4642 120	Brossel A80 Jonckheere Bus
+4642 121	Steyr 380Q Coach
+4642 122	Büssing Senator 12D Bus
+4642 123	Krupp Titan 080 Coach
+4642 124	Skoda 706 RTO Coach
+4642 125	Ikarus 66 Inter-City Coach
+4642 126	Fleischer S5 Coach
+4642 127	Fiat 306/3 Interurban Coach
+4642 128	Scania Vabis D11
+4642 129	Volvo B616 Bus
+4642 130	Reo Speedwagon Coach
+4642 131	Neoplan NH 9L Hamburg Coach
+
+# Edition ATLAS Bus Collection
+7163101 Kässbohrer S8 red/white
+7163102 Borgward BO 4000 grey/blue
+7163103 Henschel HS 100 N maroon
+7163104 Saurer L4C swiss post
+7163105 Büssing DSU Berlin
+7163106 M-B O 3500 blue/white
+7163107 Van Hool 3006 grey
+7163108 IFA H6 creme
+7163109 Magirus-Detz Saturn II orange/cream
+7163110 Holland Coach 1955 light blue/white
+7163111 Steyr 3380q ‘marooninsh’ red/white
+7163112 Krupp Titan black
+7163113 Brossel Jonckheere red/cream
+7163114 Leyl.RTW LT-red
+7163115 Büssing Senator 12D cream
+7163116 Skoda 706 RTO 1963 creme
+7163117 Ikarus 66 1955 creme
+7163118 Fiat 306/3 blue
+7163119 Volvo B 616 1:76 grey/red
+7163120 FleischerS5 1977 creme
+7163121 Scania Vabis D11/64 orange/creme
+7163122 Reo Speedwagon white/black
+7163123 Tatra 500 HB 1950 cream/blue
+7163124 Ikarus 311 red/white
+7163125 Volvo B375 red
+7163126 MB LoP 300 1935 begie, brown
+7163127 Robur Garant yellow/brown
+7163128 Star N52 1953 green
+7163129 Volvo B57 -72 green
+7163130 Neoplan NH9L creme/white
+7163131 Opel Blitz -54 blue/white
+7163111 Steyr 380 Q 1955 Maroon/White
