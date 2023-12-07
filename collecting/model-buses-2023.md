@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T09:40:57.526Z
+date: 2023-12-07T09:41:49.450Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -14,8 +14,10 @@ dateCreated: 2023-09-30T11:25:42.499Z
 {.is-info}
 
 
-# :bulgaria: Българска
+# :bulgaria: Легендарни Автобуси 
 
+# Tabs {.tabset}
+## 1-9
 |:oncoming_bus:  | дата | снимка |
 |---|---|---|
 |1  IKARUS 30 |27.09.2023 г. |<img src="https://drive.google.com/uc?id=1fJnVf3is_fCqnMdtWRU0odAJkOsyn2HM" width="200px">|
