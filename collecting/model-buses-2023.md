@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T09:24:31.111Z
+date: 2023-12-07T09:40:57.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -165,11 +165,11 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |:oncoming_bus:  | дата | снимка |
 |---|---|---|
 |80 Ikarus 250 |23-06-2021| <img src="https://drive.google.com/uc?id=1byDE-VD_jlv5-6wzamZAeSvzIYHvwLyl" width="200px">|
-|81	SAN H100A	|07-07-2021| |
-|82	JELCZ 272 MEX	|21-07-2021| |
-|83	Škoda 706 RO	|04-08-2021| |
-|84	SAN HOIB	|18-08-2021| |
-|85	KAROSA ŠD 11	|10-01-2022| |
+|81	SAN H100A	|07-07-2021|<img src="https://drive.google.com/uc?id=1DHo30KHUBtwPyQ1m-S46M07QyuhbUCIX" width="200px">|
+|82	JELCZ 272 MEX	|21-07-2021|<img src="https://drive.google.com/uc?id=1d7z4MrEekI1fxI7DZNfZ8V0XNom5RgKr" width="200px">|
+|83	Škoda 706 RO	|04-08-2021|<img src="https://drive.google.com/uc?id=1593msT2IU0ARcHvSs1e-tozZybHZcOUc" width="200px">|
+|84	SAN HOIB	|18-08-2021|<img src="https://drive.google.com/uc?id=1T8jK5kbr9apbhanYx4Dl0EkfctvrO8mE" width="200px">|
+|85	KAROSA ŠD 11	|10-01-2022|<img src="https://drive.google.com/uc?id=1X7FRg6Vv0_wCg2yne4JmVfC0pu43aHBv" width="200px">|
 {.dense}
 
 # :czech_republic: Kultovní Autobusy Minulé Éry
