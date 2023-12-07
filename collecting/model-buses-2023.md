@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T08:14:47.158Z
+date: 2023-12-07T08:17:45.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -47,7 +47,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |9 Ikarus 311 |09-08-2018| <img src="https://drive.google.com/uc?id=1reDJYHOwkUFx_7tAuGeBgr0mI46xvgrL" width="200px">|
 {.dense}
 
-# Tabs {.tabset}
 ## 10-19
 
 |:oncoming_bus:  | дата | снимка |
@@ -64,7 +63,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |19 Opel Blitz |23-01-2019| <img src="https://drive.google.com/uc?id=1_ivc9tH8ol4WUCBk_Eo7541-Vx857KtN" width="200px">|
 {.dense}
 
-# Tabs {.tabset}
 ## 20-29
 
 |:oncoming_bus:  | дата | снимка |
@@ -81,7 +79,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |29 Ikarus 260 |12-06-2019| <img src="https://drive.google.com/uc?id=1sQKKYBhdam3ld57KKjb4nqJ2WRrJq_eD" width="200px">|
 {.dense}
 
-# Tabs {.tabset}
 ## 30-39
 
 |:oncoming_bus:  | дата | снимка |
@@ -98,7 +95,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |39 Saurer 4T |	30-10-2019| <img src="https://drive.google.com/uc?id=1TO6RVu9VS2DbSyV9S5EpmLOKdK-3V5uD" width="200px">|
 {.dense}
 
-# Tabs {.tabset}
+
 ## 40-49
 
 |:oncoming_bus:  | дата | снимка |
@@ -115,7 +112,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |49 Volvo B57 |18-03-2020| <img src="https://drive.google.com/uc?id=1J3jJNcjUNdYuyHFAu5kwWjtjig-2wjow" width="200px"> |
 {.dense}
 
-# Tabs {.tabset}
 ## 50-59
 
 |:oncoming_bus:  | дата | снимка |
@@ -132,7 +128,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |59 Ikarus 280 |02-09-2020| <img src="https://drive.google.com/uc?id=1ifECEkBLi_q8Hcincr2X4sM_NjRRyQ6i" width="200px"> |
 {.dense}
 
-# Tabs {.tabset}
 ## 60-69
 
 |:oncoming_bus:  | дата | снимка |
@@ -149,7 +144,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |69 Standard Pullman 800 |20-01-2021| <img src="https://drive.google.com/uc?id=1_MMzYHUKKcgR7atJvkUZcZjfFh62asSE" width="200px">|
 {.dense}
 
-# Tabs {.tabset}
+
 ## 70-88
 
 |:oncoming_bus:  | дата | снимка |
@@ -166,8 +161,6 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |79 LAZ-695E |09-06-2021| <img src="https://drive.google.com/uc?id=1ckTR_V1SdrJwDKtJQCYfscLeSyXIYBy8" width="200px">|
 {.dense}
 
-
-# Tabs {.tabset}
 ## 80-85
 |:oncoming_bus:  | дата | снимка |
 |---|---|---|
