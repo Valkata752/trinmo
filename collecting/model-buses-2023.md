@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T08:27:34.681Z
+date: 2023-12-07T09:24:31.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -165,7 +165,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |:oncoming_bus:  | дата | снимка |
 |---|---|---|
 |80 Ikarus 250 |23-06-2021| <img src="https://drive.google.com/uc?id=1byDE-VD_jlv5-6wzamZAeSvzIYHvwLyl" width="200px">|
-|81	SAN HIOOA	|07-07-2021| |
+|81	SAN H100A	|07-07-2021| |
 |82	JELCZ 272 MEX	|21-07-2021| |
 |83	Škoda 706 RO	|04-08-2021| |
 |84	SAN HOIB	|18-08-2021| |
