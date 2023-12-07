@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T08:26:38.982Z
+date: 2023-12-07T08:27:34.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -237,6 +237,8 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 # :uk: Classic Coaches Collection
 
+# Tabs {.tabset}
+## 1-15
 |  |  |  | снимка |
 |---|---|---|---|
 | 4642 101 | Burlingham Seagull Coach | Oct 2015 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc01_plinth.jpg" width="200px">|
@@ -254,6 +256,10 @@ dateCreated: 2023-09-30T11:25:42.499Z
 | 4642 113 | Borgward BO 4000 Coach | Sep 2016 |  |
 | 4642 114 | BMMO CM5T Coach (1/76) | Oct 2016 |  |
 | 4642 115 | Mercedes Benz O 3500 Coach | Nov 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc15_1.jpg" width="200px">|
+
+## 16-31
+|  |  |  | снимка |
+|---|---|---|---|
 | 4642 116 | Plaxton Excalibur (Premiere #) Coach (1/76) | Dec 2016 |  |
 | 4642 117 | Van Hool 306 Coach | Dec 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc17_1.jpg" width="200px">|
 | 4642 118 | Magrirus-Deutz Saturn II Bus | Jan 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc18_1.jpg" width="200px">|
