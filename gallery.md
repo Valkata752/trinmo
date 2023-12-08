@@ -2,19 +2,50 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T09:27:10.000Z
+date: 2023-12-08T10:04:26.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
 ---
 
 ## 10те
-- [Иво Радоев :bulgaria: *2015, 2016, 2017, 2018, 2019*](/gallery/ivo-radoev-2010-2019)
-- [Иво Радоев :bulgaria: *2010, 2012, 2012, 2013, 2014*](/gallery/ivo-radoev-2010-2014)
+## Tabs {.tabset}
+### 2019
+- [Иво Радоев :bulgaria: *2019*](/gallery/ivo-radoev-2019)
+{.links-list}
+### 2018
+- [Иво Радоев :bulgaria: *2018*](/gallery/ivo-radoev-2018)
+{.links-list}
+### 2017
+- [Иво Радоев :bulgaria: *2017*](/gallery/ivo-radoev-2017)
+{.links-list}
+### 2016
+- [Иво Радоев :bulgaria: *2016*](/gallery/ivo-radoev-2016)
+{.links-list}
+### 2015
+- [Иво Радоев :bulgaria: *2015*](/gallery/ivo-radoev-2015)
+{.links-list}
+### 2014
+- [Иво Радоев :bulgaria: *2014*](/gallery/ivo-radoev-2014)
+{.links-list}
+### 2013
+- [Иво Радоев :bulgaria: *2013*](/gallery/ivo-radoev-2013)
+{.links-list}
+### 2012
+- [Иво Радоев :bulgaria: *2012*](/gallery/ivo-radoev-2012)
+{.links-list}
+### 2011
+- [Иво Радоев :bulgaria: *2011*](/gallery/ivo-radoev-2011)
+{.links-list}
+### 2010
+- [Иво Радоев :bulgaria: *2010*](/gallery/ivo-radoev-2010)
+{.links-list}
+### 2009
+- [Иво Радоев :bulgaria: *2009*](/gallery/ivo-radoev-2009)
 {.links-list}
 
 ## 00те
-- [Иво Радоев :bulgaria: *2006, 2007, 2008, 2009*](/gallery/ivo-radoev-2006-2009)
+- [Иво Радоев :bulgaria: *2006, 2007, 2008*](/gallery/ivo-radoev-2006-2008)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
