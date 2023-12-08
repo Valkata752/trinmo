@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T10:28:01.851Z
+date: 2023-12-08T12:30:19.798Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -10,41 +10,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 10те
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
-{.links-list}
-
-## Tabs {.tabset}
-### 2009
-- [Иво Радоев :bulgaria: *2009*](/gallery/ivo-radoev-2009)
-{.links-list}
-### 2010
-- [Иво Радоев :bulgaria: *2010*](/gallery/ivo-radoev-2010)
-{.links-list}
-### 2011
-- [Иво Радоев :bulgaria: *2011*](/gallery/ivo-radoev-2011)
-{.links-list}
-### 2012
-- [Иво Радоев :bulgaria: *2012*](/gallery/ivo-radoev-2012)
-{.links-list}
-### 2013
-- [Иво Радоев :bulgaria: *2013*](/gallery/ivo-radoev-2013)
-{.links-list}
-### 2014
-- [Иво Радоев :bulgaria: *2014*](/gallery/ivo-radoev-2014)
-{.links-list}
-### 2015
-- [Иво Радоев :bulgaria: *2015*](/gallery/ivo-radoev-2015)
-{.links-list}
-### 2016
-- [Иво Радоев :bulgaria: *2016*](/gallery/ivo-radoev-2016)
-{.links-list}
-### 2017
-- [Иво Радоев :bulgaria: *2017*](/gallery/ivo-radoev-2017)
-{.links-list}
-### 2018
-- [Иво Радоев :bulgaria: *2018*](/gallery/ivo-radoev-2018)
-{.links-list}
-### 2019
-- [Иво Радоев :bulgaria: *2019*](/gallery/ivo-radoev-2019)
+- [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev)
 {.links-list}
 
 ## 00те
