@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T12:41:38.866Z
+date: 2023-12-08T12:45:34.549Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -15,7 +15,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 00те
-- [Иво Радоев :bulgaria: *2006, 2007, 2008*](/gallery/ivo-radoev-2006-2008)
+- [Иво Радоев :bulgaria: *2006, 2007, 2008*](/gallery/ivo-radoev)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
