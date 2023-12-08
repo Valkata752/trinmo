@@ -2,14 +2,14 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T10:26:43.446Z
+date: 2023-12-08T10:28:01.851Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
 ---
 
 ## 10те
-- [Константин Димитров :bulgaria: *2013-2015*](/gallery/konstantin-dimitrov)
+- [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
 {.links-list}
 
 ## Tabs {.tabset}
