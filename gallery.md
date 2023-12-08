@@ -2,20 +2,15 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T12:39:56.563Z
+date: 2023-12-08T12:41:38.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
 ---
 
 ## 10те
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1tD6JStnItmDjgYqCdSmRnx6J2bB3gn4K"></td>
-<td><b>Константин Димитров </b><br>Снимки в периода 2015 - 2017 г.</td></tr>
-  <td colspan=2 >ℹ️ <b><a href="/gallery/konstantin-dimitrov">Разгледай снимките тук...</a></b></td></table></div>
   
-  
+- [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
 - [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev)
 {.links-list}
 
