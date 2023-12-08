@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T07:58:58.943Z
+date: 2023-12-08T07:59:37.378Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -132,13 +132,6 @@ dateCreated: 2022-05-19T22:30:33.330Z
 {.is-info}
 
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/z39JtlR5eE1Aj6FLZSFNE_8JlZZS6aQH_iwJPhiqlNq8PNtd2tm0VRkkC1SFaE_VtQU=w2400"></td>
-    <td>В първите дни на май бяха пуснати нови чехословашки тролейбуси, които се движат из големия град и превозват трудовите хора.</td>
-  </tr>
-  <td colspan=2 >ℹ️ в-к Транспортна искра 15.06.1964</td>
-</table>
 
 ## Сметки
 
