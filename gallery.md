@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-10T10:45:56.052Z
+date: 2023-12-10T10:51:46.595Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -11,9 +11,18 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 10те
   
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
-- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev-2009)
+- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev)
+{.links-list}
+
+**Архив по години:** | [2011](/gallery/daniel-anev-2011) | [2010](/gallery/daniel-anev-2010) | [2009](/gallery/daniel-anev-2009) |
+
 - [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev)
 {.links-list}
+
+
+
+---
+
 
 ## 00те
 - [Иво Радоев :bulgaria: *2006-2008*](/gallery/ivo-radoev)
