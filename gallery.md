@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-10T08:29:45.807Z
+date: 2023-12-10T10:39:28.060Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -11,6 +11,9 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 10те
   
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
+- [Даниел Анев :bulgaria: *2011*](/gallery/daniel-anev-2011)
+- [Даниел Анев :bulgaria: *2010*](/gallery/daniel-anev-2010)
+- [Даниел Анев :bulgaria: *2009*](/gallery/daniel-anev-2009)
 - [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev)
 {.links-list}
 
@@ -18,8 +21,9 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Иво Радоев :bulgaria: *2006, 2007, 2008*](/gallery/ivo-radoev)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
+- [Мариан Костадинов :bulgaria: *2006*](/gallery/marian-kostadinov-2006)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
-- [Мариан Костадинов :bulgaria: *2005-2006*](/gallery/marian-kostadinov)
+- [Мариан Костадинов :bulgaria: *2005*](/gallery/marian-kostadinov-2006)
 - [Jan Šlehofer :czech_republic: *2004*](/gallery/j-slehofer)
 {.links-list}
 
