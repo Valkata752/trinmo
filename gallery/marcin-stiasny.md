@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2023-12-11T14:38:57.182Z
+date: 2023-12-11T14:41:39.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
@@ -108,6 +108,26 @@ dateCreated: 2023-12-11T14:09:41.143Z
 
 <!--2035--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pq9Wqpw1tgR6R4aTJvsGV-ND2yURAUvJ" height="200px"><figcaption></figcaption>2035 - 18</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pq9Wqpw1tgR6R4aTJvsGV-ND2yURAUvJ" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### T6MD-1000
+<!--4027--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10Z0DIBvBmuNrRusyN3vtP1LpVesFDrdX" height="200px"><figcaption></figcaption>4027 - 22</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10Z0DIBvBmuNrRusyN3vtP1LpVesFDrdX" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### Tatra T6B5
+<!--4106--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RztXF7-4b4f2RHY2tVVEC0vRuKPzpBAH" height="200px"><figcaption></figcaption>4106+4108 - 20</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RztXF7-4b4f2RHY2tVVEC0vRuKPzpBAH" width="100%"></div></div>
+
+<!--4106--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tQFhgu0eePioeL2j4nlUsrHHU3agLC4w" height="200px"><figcaption></figcaption>4130+4132 - 20</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tQFhgu0eePioeL2j4nlUsrHHU3agLC4w" width="100%"></div></div>
+
+## Tabs {.tabset}
+### Duewag T4-B4
+<!--4211--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uu6NR0bz1Y0phXgZjZJkOLYNMwinKsUz" height="200px"><figcaption></figcaption>4211 - 22</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uu6NR0bz1Y0phXgZjZJkOLYNMwinKsUz" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
