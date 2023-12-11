@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2023-12-11T14:21:37.711Z
+date: 2023-12-11T14:38:57.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
@@ -15,6 +15,99 @@ dateCreated: 2023-12-11T14:09:41.143Z
 
 <!--325--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iMljlZr0Pgmt8U5WJQNYAVHwEUnVWyBi" height="200px"><figcaption></figcaption>325</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iMljlZr0Pgmt8U5WJQNYAVHwEUnVWyBi" width="100%"></div></div>
+
+## Tabs {.tabset}
+### T6M-700
+<!--707--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1315V1IyX7vrWDWEwhQQbZy8K_22Y2lty" height="200px"><figcaption></figcaption>707 - 6</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1315V1IyX7vrWDWEwhQQbZy8K_22Y2lty" width="100%"></div></div>
+
+<!--723--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13I7e-8law94WJNhoER6Ll0Lsy9PZ_YCb" height="200px"><figcaption></figcaption>723 - 12</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13I7e-8law94WJNhoER6Ll0Lsy9PZ_YCb" width="100%"></div></div>
+
+<!--804--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1i9Tf0C_pxmtaha4GlSO6lM1hRLFCHNiF" height="200px"><figcaption></figcaption>804 - 12</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1i9Tf0C_pxmtaha4GlSO6lM1hRLFCHNiF" width="100%"></div></div>
+
+<!--821--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16u1-DYyZz1mhEXCvNVzmoSb337Rk5I01" height="200px"><figcaption></figcaption>821 - 2</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16u1-DYyZz1mhEXCvNVzmoSb337Rk5I01" width="100%"></div></div>
+
+<!--828--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L-23rHFUOT-Cil2c0M1R7Psqrv_vDpSZ" height="200px"><figcaption></figcaption>828 - 3</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L-23rHFUOT-Cil2c0M1R7Psqrv_vDpSZ" width="100%"></div></div>
+
+## Tabs {.tabset}
+### T8M-700
+<!--904--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IqwVtpA59zDJ-_TvyjzUnlcm29MPL3oV" height="200px"><figcaption></figcaption>904 - 1</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IqwVtpA59zDJ-_TvyjzUnlcm29MPL3oV" width="100%"></div></div>
+
+<!--908--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q5mMSKWcw6eVnjwQqTdB0QJ3YbVUbjrj" height="200px"><figcaption></figcaption>908 - 1</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q5mMSKWcw6eVnjwQqTdB0QJ3YbVUbjrj" width="100%"></div></div>
+
+<!--912--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13y-Au2GXEFCbLWGboGdT7HLbEM_FlH4m" height="200px"><figcaption></figcaption>912 - 1</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13y-Au2GXEFCbLWGboGdT7HLbEM_FlH4m" width="100%"></div></div>
+
+<!--932--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kD3G8YIA6GsNNHK5p-AyzbPKMiJ7CABW" height="200px"><figcaption></figcaption>932 - 1</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kD3G8YIA6GsNNHK5p-AyzbPKMiJ7CABW" width="100%"></div></div>
+
+## Tabs {.tabset}
+### Tatra T4D
+<!--1017--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vxYkkds2jVK9AP_gc_u3iig6z4pLz8Fi" height="200px"><figcaption></figcaption>1017 - 8</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vxYkkds2jVK9AP_gc_u3iig6z4pLz8Fi" width="100%"></div></div>
+
+<!--1021--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1i1LoVHetcQxbU__8xyrmwYGcfM5nplak" height="200px"><figcaption></figcaption>1021 - 8</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1i1LoVHetcQxbU__8xyrmwYGcfM5nplak" width="100%"></div></div>
+
+
+<!--1055--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AHMPolZmXqN-Ir1up7HTH4a5sVQ96bpB" height="200px"><figcaption></figcaption>1055 - 8</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AHMPolZmXqN-Ir1up7HTH4a5sVQ96bpB" width="100%"></div></div>
+
+## Tabs {.tabset}
+### Tatra T6A2-SF
+<!--2045--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GYLne1eNHY4cLjZm5wqTvi8mopoe0rjE" height="200px"><figcaption></figcaption>2045+2046 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GYLne1eNHY4cLjZm5wqTvi8mopoe0rjE" width="100%"></div></div>
+
+<!--2045--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ugbQcABq2XUusDU_2Mz0pxG1vGcKJaHO" height="200px"><figcaption></figcaption>2045+2046 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ugbQcABq2XUusDU_2Mz0pxG1vGcKJaHO" width="100%"></div></div>
+
+<!--2051--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hDrTN0G6sULKc7kSEjznjo9c4kVDc1Rq" height="200px"><figcaption></figcaption>2051+2052 - 2</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hDrTN0G6sULKc7kSEjznjo9c4kVDc1Rq" width="100%"></div></div>
+
+<!--2051--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-7vfTzf9u2pS6zLi9ifqRv_reiSZNiRV" height="200px"><figcaption></figcaption>2051+2052 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-7vfTzf9u2pS6zLi9ifqRv_reiSZNiRV" width="100%"></div></div>
+
+<!--2054--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iWyVuj1RRa0hEDe514Pq41cL3VLUj2qw" height="200px"><figcaption></figcaption>2054 - 14</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iWyVuj1RRa0hEDe514Pq41cL3VLUj2qw" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### Tatra T6A2
+<!--2003--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mi9bEVDaOnEWL4RAafKYTjKDogASBuyE" height="200px"><figcaption></figcaption>2003+2004 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mi9bEVDaOnEWL4RAafKYTjKDogASBuyE" width="100%"></div></div>
+
+<!--2008--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1MACis5ORxcGVql543F-4QVnm96KbEvA1" height="200px"><figcaption></figcaption>2008 - 14</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1MACis5ORxcGVql543F-4QVnm96KbEvA1" width="100%"></div></div>
+
+<!--2011--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RZYZqZDoD3esnl3yLHhSBvi4S1grl6lC" height="200px"><figcaption></figcaption>2011+2012 - 2</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RZYZqZDoD3esnl3yLHhSBvi4S1grl6lC" width="100%"></div></div>
+
+<!--2019--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1phYibX_U850jT8SaAxFpeyKg05vi3NsI" height="200px"><figcaption></figcaption>2019 - 14</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1phYibX_U850jT8SaAxFpeyKg05vi3NsI" width="100%"></div></div>
+
+<!--2019--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1la_k8rnyGbDumJW-SK0DKS1zsfC-pAKL" height="200px"><figcaption></figcaption>2019 - 14</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1la_k8rnyGbDumJW-SK0DKS1zsfC-pAKL" width="100%"></div></div>
+
+<!--2026--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1suwgTz0lYtrLhWpnXdjBt4hlSt1ZvxWN" height="200px"><figcaption></figcaption>2026 - 18</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1suwgTz0lYtrLhWpnXdjBt4hlSt1ZvxWN" width="100%"></div></div>
+
+<!--2027--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DFcF1Ox2kuJF7Uzs7cH2M3SzpwFoa3VT" height="200px"><figcaption></figcaption>2027+2028 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DFcF1Ox2kuJF7Uzs7cH2M3SzpwFoa3VT" width="100%"></div></div>
+
+<!--2030--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BswBqVxl7qil6RPCrNWpKlQmv_XhKQG3" height="200px"><figcaption></figcaption>2030 - 15</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BswBqVxl7qil6RPCrNWpKlQmv_XhKQG3" width="100%"></div></div>
+
+<!--2031--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LM94yxZundUlycd7yyz0QDu0Ph2XvZnV" height="200px"><figcaption></figcaption>2031+2032 - 9</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LM94yxZundUlycd7yyz0QDu0Ph2XvZnV" width="100%"></div></div>
+
+<!--2035--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pq9Wqpw1tgR6R4aTJvsGV-ND2yURAUvJ" height="200px"><figcaption></figcaption>2035 - 18</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pq9Wqpw1tgR6R4aTJvsGV-ND2yURAUvJ" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
@@ -111,6 +204,9 @@ dateCreated: 2023-12-11T14:09:41.143Z
 
 <!--1406--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ncd0DwZ81Bbfz0vhhwaOhYbtlNpeBJG8" height="200px"><figcaption></figcaption>1406 - 2</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ncd0DwZ81Bbfz0vhhwaOhYbtlNpeBJG8" width="100%"></div></div>
+
+<!--1428--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LdsgaXDnR2gVVCx_lVthWRMHWPd0hAS3" height="200px"><figcaption></figcaption>1428 - 5</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LdsgaXDnR2gVVCx_lVthWRMHWPd0hAS3" width="100%"></div></div>
 
 <!--1431--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FwNnPkwq2Bc5vQ7WUQO8aL7ruU0GkMds" height="200px"><figcaption></figcaption>1431 - 2</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FwNnPkwq2Bc5vQ7WUQO8aL7ruU0GkMds" width="100%"></div></div>
