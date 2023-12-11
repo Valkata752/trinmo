@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2023-12-11T14:47:24.089Z
+date: 2023-12-11T14:57:48.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
@@ -167,6 +167,9 @@ dateCreated: 2023-12-11T14:09:41.143Z
 
 <!--1743--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jgMkvUDxtGEtNqnVZunnpinqi7dd5IG-" height="200px"><figcaption></figcaption>1743 - 64</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jgMkvUDxtGEtNqnVZunnpinqi7dd5IG-" width="100%"></div></div>
+
+<!--1743--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18YpeYC7XxJoOOfzZXSF_NlOcvRKnZAKI" height="200px"><figcaption></figcaption>1743 - 77</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18YpeYC7XxJoOOfzZXSF_NlOcvRKnZAKI" width="100%"></div></div>
 
 
 <!--1749--> 
