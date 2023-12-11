@@ -2,11 +2,20 @@
 title: Фотограф - Marcin Stiasny
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2023-12-11T14:20:04.337Z
+date: 2023-12-11T14:21:37.711Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
 ---
+
+## Tabs {.tabset}
+### T8M-301
+<!--313--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_-Uo7HdnJQn5CD_vJshSKcZ2H9eP_e2X" height="200px"><figcaption></figcaption>313 - 5</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_-Uo7HdnJQn5CD_vJshSKcZ2H9eP_e2X" width="100%"></div></div>
+
+<!--325--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iMljlZr0Pgmt8U5WJQNYAVHwEUnVWyBi" height="200px"><figcaption></figcaption>325</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iMljlZr0Pgmt8U5WJQNYAVHwEUnVWyBi" width="100%"></div></div>
+
 
 ## Tabs {.tabset}
 ### Ikarus 280
