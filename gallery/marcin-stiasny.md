@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2023-12-11T14:57:48.630Z
+date: 2023-12-11T14:59:30.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
@@ -157,6 +157,12 @@ dateCreated: 2023-12-11T14:09:41.143Z
 
 <!--3302--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AHCcuqDdjExlncgY8SNotse-qkncKaB9" height="200px"><figcaption></figcaption>3302 - 88</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AHCcuqDdjExlncgY8SNotse-qkncKaB9" width="100%"></div></div>
+
+## Ikarus 280 solo
+## Tabs {.tabset}
+### 
+<!--3893--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10jBAlGSfpuE4gGgMWa6DCwdixmjgw2wP" height="200px"><figcaption></figcaption>3893 - 69</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10jBAlGSfpuE4gGgMWa6DCwdixmjgw2wP" width="100%"></div></div>
 
 
 ## Mercedes O305
