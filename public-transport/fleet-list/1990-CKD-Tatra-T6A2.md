@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-05T13:32:29.589Z
+date: 2023-12-13T15:35:46.367Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -128,7 +128,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 ## Чертеж
 
-<img src="https://lh4.googleusercontent.com/gl8E7z_YPKHE_MdhseANKaT4T7h-ILE--vjKX0XH-qyZl-rtR4FDPUwCyjpD9se1UUM=w2400" height="400px">
+<img src="https://drive.google.com/uc?id=1u801Q9JyrQEjPyqFLAArclzASKSKdQgn">
 
 
 # Снимки
