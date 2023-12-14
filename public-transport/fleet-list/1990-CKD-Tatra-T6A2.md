@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T08:12:40.700Z
+date: 2023-12-14T08:13:32.780Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -160,7 +160,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <!--2003--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" height="200px"><figcaption> <b>TM19</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" width="100%"></div></div>
 
-
+## Tabs {.tabset}
 ### Състави 
 <!--2027--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" height="200px"><figcaption> <b>TM2</b> 📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" target="_blank" title="2027"> <img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" width="100%"></a></div></div>
@@ -192,7 +192,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <!--3007--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" width="100%"></div></div>
 
-
+## Tabs {.tabset}
 ### Състави
 <!--3013+3014--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" height="200px"><figcaption> <b>TM4</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" target="_blank" title="3013+3014"> <img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" width="100%"></a></div></div>
