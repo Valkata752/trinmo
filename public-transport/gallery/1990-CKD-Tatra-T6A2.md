@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2 📸
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T22:57:08.059Z
+date: 2023-12-14T08:23:34.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T22:55:47.389Z
@@ -322,7 +322,9 @@ dateCreated: 2023-12-03T22:55:47.389Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52492506913_cfca60c6a0_k.jpg" height="200px"><figcaption> <b>TМ4</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52492506913/" target="_blank" title="3005"> <img src="https://live.staticflickr.com/65535/52492506913_cfca60c6a0_k.jpg" width="100%"></a></div></div>
 <!--3005+3006--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48809654118_809098378a_k.jpg" height="200px"><figcaption> <b>TM4</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/48809654118/" target="_blank" title="3005+3006"> <img src="https://live.staticflickr.com/65535/48809654118_809098378a_k.jpg" width="100%"></a></div></div>
-<!--3005-->
+ <!--3005-3006--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4657/28410155099_e4d94743c2_k.jpg" height="200px"><figcaption> <b>3005-3006</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/28410155099" target="_blank" title="3005-3006"> <img src="https://live.staticflickr.com/4657/28410155099_e4d94743c2_k.jpg" width="100%"></a></div></div>
+ <!--3005-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" height="200px"><figcaption><b>TM8</b> 📷 Петър М. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" width="100%"></div></div>
 
 ## Tabs {.tabset}
@@ -349,6 +351,9 @@ dateCreated: 2023-12-03T22:55:47.389Z
 ### 3010
 <!--3010--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" height="200px"><figcaption> <b>TМ4</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" target="_blank" title="3010"> <img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" width="100%"></a></div></div>
+ <!--3010--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405652302_bc82491e79_k.jpg" height="200px"><figcaption> <b>3010</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405652302/in/album-72157716127699751/" target="_blank" title="3010"> <img src="https://live.staticflickr.com/65535/50405652302_bc82491e79_k.jpg" width="100%"></a></div></div>
+ 
 <!--3010--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IETUKSH4AW9r8K8AFq8EFHmj_u3QNBTj" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IETUKSH4AW9r8K8AFq8EFHmj_u3QNBTj" width="100%"></div></div>
 
@@ -426,6 +431,18 @@ dateCreated: 2023-12-03T22:55:47.389Z
 <!--3029-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YteS7mdJMOsHUoy06w2sFykbb5BuF1-3" height="200px"><figcaption><b>TM8</b> 📷 Петър М. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YteS7mdJMOsHUoy06w2sFykbb5BuF1-3" width="100%"></div></div>
 
+
+## Tabs {.tabset}
+### 3031
+ <!--3031--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" height="200px"><figcaption> <b>3031</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405503751/" target="_blank" title="3031"> <img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" width="100%"></a></div></div>
+ 
+## Tabs {.tabset}
+### 3032
+ <!--3032--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405655792_8736d9aca9_k.jpg" height="200px"><figcaption> <b>3032</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405655792/" target="_blank" title="3032"> <img src="https://live.staticflickr.com/65535/50405655792_8736d9aca9_k.jpg" width="100%"></a></div></div>
+ 
+ 
 ## Tabs {.tabset}
 ### 3037
 <!--3037-->
@@ -437,5 +454,7 @@ dateCreated: 2023-12-03T22:55:47.389Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52230798777_9daacf44b1_b.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/52230798777" target="_blank" title="3038"> <img src="https://live.staticflickr.com/65535/52230798777_9daacf44b1_b.jpg" width="100%"></a></div></div>
 
 
+
+ 
 
 
