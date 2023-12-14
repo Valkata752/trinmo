@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T08:13:32.780Z
+date: 2023-12-14T08:22:18.563Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -185,7 +185,10 @@ dateCreated: 2022-05-19T22:00:08.386Z
 ### Единични
 <!--3002--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" height="200px"><figcaption><b>TM4</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" width="100%"></div></div>
-<!--3005-->
+ 
+ <!--3031--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" height="200px"><figcaption> <b>3031</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405503751/" target="_blank" title="3031"> <img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" width="100%"></a></div></div>
+ <!--3005-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" height="200px"><figcaption><b>TM8</b> 📷 Петър М. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" width="100%"></div></div>
 <!--3020--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/51137834923/" target="_blank" title="2040"> <img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" width="100%"></a></div></div>
@@ -194,7 +197,8 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 ## Tabs {.tabset}
 ### Състави
-<!--3013+3014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" height="200px"><figcaption> <b>TM4</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" target="_blank" title="3013+3014"> <img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2_tatra_t6a2.jpg" width="100%"></a></div></div>
+ <!--3005-3006--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4657/28410155099_e4d94743c2_k.jpg" height="200px"><figcaption> <b>3005-3006</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/28410155099" target="_blank" title="3005-3006"> <img src="https://live.staticflickr.com/4657/28410155099_e4d94743c2_k.jpg" width="100%"></a></div></div>
+ 
 
 
