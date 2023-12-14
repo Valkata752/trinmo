@@ -2,7 +2,7 @@
 title: Международен панаир Пловдив
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-22T16:35:38.155Z
+date: 2023-12-14T14:33:16.921Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-22T15:45:51.292Z
