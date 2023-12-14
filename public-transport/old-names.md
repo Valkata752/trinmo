@@ -1,8 +1,8 @@
 ---
-title: Преименувания
+title: Преименувания на булеварди
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T18:26:10.938Z
+date: 2023-12-14T18:26:21.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T13:27:34.848Z
