@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-15T15:42:38.104Z
+date: 2023-12-15T15:54:14.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T15:42:38.104Z
@@ -18,13 +18,21 @@ dateCreated: 2023-12-15T15:42:38.104Z
 <!--2041+2042--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52609385540_37701d8ffd_k.jpg" height="200px"><figcaption> <b>2041+2042 - TM4</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197172963@N03/52609385540/" target="_blank" title="2041+2042"> <img src="https://live.staticflickr.com/65535/52609385540_37701d8ffd_k.jpg" width="100%"></a></div></div>
 <!--2041--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48985487776" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" width="100%"></a></div></div>
+
+
+
+<!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър Мънъри</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/49162447272/" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" width="100%"></a></div></div>
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52131435972_141c6c18d3_b.jpg" height="200px"><figcaption><b>TM19</b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://live.staticflickr.com/65535/52131435972_141c6c18d3_b.jpg" target="_blank" title="2084"> <img src="https://live.staticflickr.com/65535/52131435972_141c6c18d3_b.jpg" width="100%"></a></div></div>
  
  ## Tabs {.tabset}
 ### 2042
- <!--2042--> 
+<!--2042--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51641823249_1ae229c550_k.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51641823249/" target="_blank" title="2042"> <img src="https://live.staticflickr.com/65535/51641823249_1ae229c550_k.jpg" width="100%"></a></div></div>
+
+<!--2042--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/975/27275774757_3ce203ae7d_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/cometbg/27275774757/" target="_blank" title="2042"> <img src="https://live.staticflickr.com/975/27275774757_3ce203ae7d_k.jpg" width="100%"></a></div></div>
 
 <!--2042-->
@@ -70,6 +78,8 @@ dateCreated: 2023-12-15T15:42:38.104Z
   
 ## Tabs {.tabset}
 ### 2046
+<!--2046--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51576106733_bbe7dbb6a3_k.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51576106733/" target="_blank" title="2046"> <img src="https://live.staticflickr.com/65535/51576106733_bbe7dbb6a3_k.jpg" width="100%"></a></div></div>
  <!--2046--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/908/41260735314_a882c2bed2_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/41260735314/" target="_blank" title="2046"> <img src="https://live.staticflickr.com/908/41260735314_a882c2bed2_k.jpg" width="100%"></a></div></div>
 
