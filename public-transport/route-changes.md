@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-30T08:49:58.429Z
+date: 2023-12-15T08:16:23.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -67,7 +67,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 {.links-list}
 
 ## 2017
-- [:white_check_mark: Ремонт на релсов път и пътни платна по бул. Княз Ал. Дондуков  *04.06.2017 - 11.11.2017*](/bg/public-transport/route-changes/rekonstrukcia-dondukov)
+- [:white_check_mark: Ремонт на релсов път и пътни платна по бул. Княз Ал. Дондуков  *04.06.2017 - 11.11.2017*](/bg/public-transport/route-changes/2017-rekonstrukcia-dondukov)
 - [:construction: :m: Строителството на Метродиаметър 3 в Овча купел *21.07.2017 -*](/bg/public-transport/route-changes/2017-stroitelstvo-metro-ovcha-kupel)
 {.links-list}
 
