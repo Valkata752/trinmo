@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T21:52:47.992Z
+date: 2023-12-16T21:53:49.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -73,13 +73,17 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53078908159_40c148bd39_k.jpg" height="200px"><figcaption><b>a2046 lineX50</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53078908159_40c148bd39_k.jpg" width="100%"></div></div>
 
 ## 06.2023
-<!--2720-->
+<!--1122-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53074921731_3bf97b798c_k.jpg" height="200px"><figcaption><b>a1122 line83</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53074921731_3bf97b798c_k.jpg" width="100%"></div></div>
 
 <!--2720-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53074920506_55120e21fe_k.jpg" height="200px"><figcaption><b>a2720 line310</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53074920506_55120e21fe_k.jpg" width="100%"></div></div>
 
+<!--2504-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53074923861_dbd3f4e46a_k.jpg" height="200px"><figcaption><b>a2504 lineД1</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53074923861_dbd3f4e46a_k.jpg" width="100%"></div></div>
 
-<!--1122-->
+
+
+<!--3007-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" height="200px"><figcaption><b>tm3007+3008 line11</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" width="100%"></div></div>
 
