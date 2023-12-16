@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2 📸
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T08:23:34.056Z
+date: 2023-12-16T22:33:33.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T22:55:47.389Z
@@ -13,7 +13,7 @@ dateCreated: 2023-12-03T22:55:47.389Z
 ---
 
 
-## Красна поляна (2000-2020)
+## 2000-2020
 
 ## Tabs {.tabset}
 ### 2001
@@ -136,7 +136,7 @@ dateCreated: 2023-12-03T22:55:47.389Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQX89xItbb5JnbnsMmkW2sUmBJ7_TCj-3rOKmHXKnADVxxdP6I4XKSR2-5d_T9RNFt9Fm0u2gTNs9ynjgioROKCshGIgw=w1920-h853" height="200px"><figcaption> <b>TM14</b> 📷 Неизв. </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQX89xItbb5JnbnsMmkW2sUmBJ7_TCj-3rOKmHXKnADVxxdP6I4XKSR2-5d_T9RNFt9Fm0u2gTNs9ynjgioROKCshGIgw=w1920-h853" width="100%"></div></div>
 
 
-## Красна поляна (2021-2040)
+## 2021-2040
 
 ## Tabs {.tabset}
 ### 2021
@@ -291,7 +291,7 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 
 
-## Банишора (3001-3020)
+## 3001-3020
 
 ## Tabs {.tabset}
 
@@ -339,6 +339,10 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 <!--3007+3008--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/Z60OiCsQh_nI6gDu-vpP-Zhz9Aoj2AfX-3PjoS-DHrAIGH7DAH3qcwsk4XsJ0Id4L2s=w2400" height="200px"><figcaption> <b>TM4</b> 📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/Z60OiCsQh_nI6gDu-vpP-Zhz9Aoj2AfX-3PjoS-DHrAIGH7DAH3qcwsk4XsJ0Id4L2s=w2400" target="_blank" title="3007+3008"> <img src="https://lh6.googleusercontent.com/Z60OiCsQh_nI6gDu-vpP-Zhz9Aoj2AfX-3PjoS-DHrAIGH7DAH3qcwsk4XsJ0Id4L2s=w2400" width="100%"></a></div></div>
+<!--3007-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53399611306_a9a75a4750_k.jpg" height="200px"><figcaption><b>tm3007 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53399611306_a9a75a4750_k.jpg" width="100%"></div></div>
+<!--3007-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400044960_a925792365_k.jpg" height="200px"><figcaption><b>tm3007 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400044960_a925792365_k.jpg" width="100%"></div></div>
 <!--3007--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" width="100%"></div></div>
 
@@ -406,6 +410,9 @@ dateCreated: 2023-12-03T22:55:47.389Z
 ### 3019
 <!--3019--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52166490230_f475779a0f_k.jpg" height="200px"><figcaption> <b>TМ4</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52166490230/" target="_blank" title="3019"> <img src="https://live.staticflickr.com/65535/52166490230_f475779a0f_k.jpg" width="100%"></a></div></div>
+<!--3019-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400042360_61a57e881c_k.jpg" height="200px"><figcaption><b>tm3019 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400042360_61a57e881c_k.jpg" width="100%"></div></div>
+
 
 ## Tabs {.tabset}
 ### 3020
@@ -415,7 +422,7 @@ dateCreated: 2023-12-03T22:55:47.389Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/51137834923/" target="_blank" title="2040"> <img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" width="100%"></a></div></div>
 
 
-## Банишора 3021-3040
+## 3021-3040
 ## Tabs {.tabset}
 ### 3023
 <!--3023+3024--> 
@@ -423,7 +430,9 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 ## Tabs {.tabset}
 ### 3027
- <!--3027--> 
+ <!--3027-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400041285_1c2d5a0829_k.jpg" height="200px"><figcaption><b>tm3027 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400041285_1c2d5a0829_k.jpg" width="100%"></div></div>
+<!--3027--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51137835483_236354f54d_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/51137835483/" target="_blank" title="2040"> <img src="https://live.staticflickr.com/65535/51137835483_236354f54d_k.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
