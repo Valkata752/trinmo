@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T21:34:19.504Z
+date: 2023-12-16T21:37:36.066Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -36,4 +36,21 @@ dateCreated: 2023-12-16T21:18:03.715Z
 
 <!--1851-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53360128370_0731726b10_k.jpg" height="200px"><figcaption><b>a1835 line102</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53360128370_0731726b10_k.jpg" width="100%"></div></div>
+
+
+<!--2163-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53358793597_44d0ebb534_k.jpg" height="200px"><figcaption><b>a2163 line78</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53358793597_44d0ebb534_k.jpg" width="100%"></div></div>
+
+<!--2163-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53358793597_44d0ebb534_k.jpg" height="200px"><figcaption><b>a2163 line78</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53358793597_44d0ebb534_k.jpg" width="100%"></div></div>
+
+
+<!--2801-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53359891178_0a69432a36_k.jpg" height="200px"><figcaption><b>tb2801 line1</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53359891178_0a69432a36_k.jpg" width="100%"></div></div>
+
+<!--2010-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53359998694_01b31fa86b_k.jpg" height="200px"><figcaption><b>2010</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53359998694_01b31fa86b_k.jpg" width="100%"></div></div>
+
+<!--5091-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53358793972_0b10de8e2e_k.jpg" height="200px"><figcaption><b>5091</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53358793972_0b10de8e2e_k.jpg" width="100%"></div></div>
 
