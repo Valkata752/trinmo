@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T22:01:07.660Z
+date: 2023-12-16T22:02:46.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -48,10 +48,15 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <!--2123-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53370382933_e5b5b266f0_k.jpg" height="200px"><figcaption><b>tb2123 line5</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53370382933_e5b5b266f0_k.jpg" width="100%"></div></div>
 
-
+<!--2913-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53370191226_d324adf1b4_k.jpg" height="200px"><figcaption><b>tb2913 line5</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53370191226_d324adf1b4_k.jpg" width="100%"></div></div>
 
 <!--2801-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53359891178_0a69432a36_k.jpg" height="200px"><figcaption><b>tb2801 line1</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53359891178_0a69432a36_k.jpg" width="100%"></div></div>
+
+<!--2802-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53369289002_de2e83bbe7_k.jpg" height="200px"><figcaption><b>tb2802 line7</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53369289002_de2e83bbe7_k.jpg" width="100%"></div></div>
+
 
 <!--2010-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53359998694_01b31fa86b_k.jpg" height="200px"><figcaption><b>2010</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53359998694_01b31fa86b_k.jpg" width="100%"></div></div>
