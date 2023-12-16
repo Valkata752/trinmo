@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T22:11:32.666Z
+date: 2023-12-16T22:21:58.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -80,9 +80,21 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <!--1821-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53241550347_ba4b461926_k.jpg" height="200px"><figcaption><b>a1821 line5TM</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53241550347_ba4b461926_k.jpg" width="100%"></div></div>
 
+<!--1929-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53236035837_0387043b51_k.jpg" height="200px"><figcaption><b>a1929 line107</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53236035837_0387043b51_k.jpg" width="100%"></div></div>
+
 
 <!--1909-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53242914900_ffc1067d40_k.jpg" height="200px"><figcaption><b>a1909 line5tm</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53242914900_ffc1067d40_k.jpg" width="100%"></div></div>
+
+<!--2062-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53237270039_835617e09f_k.jpg" height="200px"><figcaption><b>a2062 line12TM</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53237270039_835617e09f_k.jpg" width="100%"></div></div>
+
+<!--2062-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53237270114_5f8b621670_k.jpg" height="200px"><figcaption><b>a2062 line12TM</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53237270114_5f8b621670_k.jpg" width="100%"></div></div>
+
+<!--0332-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53237269399_3d69f9b6f3_k.jpg" height="200px"><figcaption><b>CA0332AP</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53237269399_3d69f9b6f3_k.jpg" width="100%"></div></div>
 
 <!--2811-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53242432251_736f3e862a_k.jpg" height="200px"><figcaption><b>tb2811 line2</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53242432251_736f3e862a_k.jpg" width="100%"></div></div>
@@ -111,3 +123,6 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <!--3007-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" height="200px"><figcaption><b>tm3007+3008 line11</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" width="100%"></div></div>
 
+## 05.2023
+<!--1231-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52906994997_a75904b675_k.jpg" height="200px"><figcaption><b>a1231 line110</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52906994997_a75904b675_k.jpg" width="100%"></div></div>
