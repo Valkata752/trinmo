@@ -1,8 +1,8 @@
 ---
-title: Александър Бахчевански
+title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T21:18:03.715Z
+date: 2023-12-16T21:18:24.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
