@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T22:22:58.124Z
+date: 2023-12-16T22:25:10.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -130,3 +130,5 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <!--3663-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52907705774_06ee0e8509_k.jpg" height="200px"><figcaption><b>a3663 line204</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52907705774_06ee0e8509_k.jpg" width="100%"></div></div>
 
+<!--2691-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52892876798_728e7bc939_k.jpg" height="200px"><figcaption><b>tb2691 line9</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52892876798_728e7bc939_k.jpg" width="100%"></div></div>
