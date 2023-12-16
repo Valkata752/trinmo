@@ -2,7 +2,7 @@
 title: Александър Бахчевански - 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-16T21:53:49.004Z
+date: 2023-12-16T21:54:37.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-16T21:18:03.715Z
@@ -82,7 +82,8 @@ dateCreated: 2023-12-16T21:18:03.715Z
 <!--2504-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53074923861_dbd3f4e46a_k.jpg" height="200px"><figcaption><b>a2504 lineД1</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53074923861_dbd3f4e46a_k.jpg" width="100%"></div></div>
 
-
+<!--2913-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53075125039_e8d7158242_k.jpg" height="200px"><figcaption><b>tb2913 line11</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53075125039_e8d7158242_k.jpg" width="100%"></div></div>
 
 <!--3007-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" height="200px"><figcaption><b>tm3007+3008 line11</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53075122569_08bb5cd0c6_k.jpg" width="100%"></div></div>
