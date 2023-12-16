@@ -1,0 +1,21 @@
+---
+title: Александър Бахчевански
+description: Транспорт, инфраструктура и мобилност
+published: true
+date: 2023-12-16T21:18:03.715Z
+tags: 
+editor: markdown
+dateCreated: 2023-12-16T21:18:03.715Z
+---
+
+## 27.11.2023
+<!--3007-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53399611306_a9a75a4750_k.jpg" height="200px"><figcaption><b>tm3007 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53399611306_a9a75a4750_k.jpg" width="100%"></div></div>
+<!--3007-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400044960_a925792365_k.jpg" height="200px"><figcaption><b>tm3007 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400044960_a925792365_k.jpg" width="100%"></div></div>
+
+<!--3019-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400042360_61a57e881c_k.jpg" height="200px"><figcaption><b>tm3019 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400042360_61a57e881c_k.jpg" width="100%"></div></div>
+
+<!--3027-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53400041285_1c2d5a0829_k.jpg" height="200px"><figcaption><b>tm3027 line8</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/53400041285_1c2d5a0829_k.jpg" width="100%"></div></div>
