@@ -2,7 +2,7 @@
 title: Fiat Iveco 421 AL
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-17T23:26:53.854Z
+date: 2023-12-17T23:28:24.990Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:52:57.059Z
@@ -71,8 +71,9 @@ dateCreated: 2022-05-19T21:52:57.059Z
 
 # Снимки
   
+  
 # Tabs {.tabset}
 ## 3718
 <!--3718--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arGN" height="200px"><figcaption> <b>a3718 line404</b> 📷 Сканирано от Metan</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" height="200px"><figcaption> <b>a3718 line404</b> 📷 Сканирано от Metan</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" width="100%"></div></div>
 
