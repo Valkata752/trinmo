@@ -2,7 +2,7 @@
 title: Fiat Iveco 421 AL
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-17T23:22:25.955Z
+date: 2023-12-17T23:26:53.854Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:52:57.059Z
@@ -74,4 +74,5 @@ dateCreated: 2022-05-19T21:52:57.059Z
 # Tabs {.tabset}
 ## 3718
 <!--3718--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qREIcWuhz-0Iik9MRMYTNlJrWQYSIVxpADH1gJno9mOUNiqa73SX4zJ8gm2bXAsdzzGTWmbbqkovzdDWy8BmdciunGTA=w2560-h1190" height="200px"><figcaption> <b>A404</b> 📷 Сканирано от Metan</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qREIcWuhz-0Iik9MRMYTNlJrWQYSIVxpADH1gJno9mOUNiqa73SX4zJ8gm2bXAsdzzGTWmbbqkovzdDWy8BmdciunGTA=w2560-h1190" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arGN" height="200px"><figcaption> <b>a3718 line404</b> 📷 Сканирано от Metan</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" width="100%"></div></div>
+
