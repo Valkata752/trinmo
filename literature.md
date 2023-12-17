@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-17T23:01:38.799Z
+date: 2023-12-17T23:14:00.677Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -18,7 +18,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
                                            
 ## Tabs {.tabset}
 
-### 1992
+### 1992✔️
 - [➡️*Вечерни новини - 1992*](/literature/vecherni-novini-1992)
 {.links-list}
 
