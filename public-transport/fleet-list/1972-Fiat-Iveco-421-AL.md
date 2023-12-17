@@ -2,7 +2,7 @@
 title: Fiat Iveco 421 AL
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-17T23:20:28.836Z
+date: 2023-12-17T23:22:25.955Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:52:57.059Z
@@ -12,11 +12,10 @@ dateCreated: 2022-05-19T21:52:57.059Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1u90kNXascfVeJPDQ89kJFepKYZ-_GXit"></td>
-<td><b>Автобуси от Торино по столичните улици</b><br>Произведени с в началото на 80-те години. Мотрисите са единично съчленени и имат мощни, но шумни двигатели. Побират около 200 пътника.</td></tr>
-  <td colspan=2 >ℹ️ <b><a href=""></a></b></td></table></div>
+<td><img src="https://drive.google.com/uc?id=1JjH9iIUcJW48lltITI4oa6SQ-3hNWlHN"></td>
+<td><b>Автобуси от Торино по столичните улици</b><br></td></tr>
+  <td colspan=2 >ℹ️ <b><a href=""></a></b>в-к Вечерни новини брой 53 1992.03.19</td></table></div>
   
-
 # Списък
 
 |Инв.|Прозив.|Дост.|От...|До...|ДКН|
