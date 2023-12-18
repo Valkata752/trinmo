@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T09:08:54.058Z
+date: 2023-12-18T09:12:56.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -16,7 +16,7 @@ dateCreated: 2022-05-19T22:30:56.353Z
 "></td>
     <td><b>LINZ</b><br> Ерата на съчленените тролейбуси започва в Линц през 1960 г. с този дълъг 18 метра тролейбус тип "Gräf & Stift EO I". Автопаркът от 11 превозни средства е в експлоатация до 1984 г., като седем от тях след това имат "втори живот" в София.</td>
   </tr>
-  <td colspan=2 >ℹ️ 100 години градски транспорт София</td>
+  <td colspan=2 >ℹ️ http://www.regionale-schienen.at/0_thema_201409.asp?mid=23</td>
 </table>
 
 
