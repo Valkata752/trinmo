@@ -2,14 +2,11 @@
 title: Маршрутки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T13:32:57.670Z
+date: 2023-12-18T13:33:57.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-18T09:50:32.477Z
 ---
-
-<img src="https://drive.google.com/uc?id=1kZfO1LluaszDUmB-zE7eoN8o3QcL8AjI">
-
 
 ## Маршрути
 ## Tabs {.tabset}
