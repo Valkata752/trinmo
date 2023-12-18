@@ -2,7 +2,7 @@
 title: Ливреи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-26T21:49:46.449Z
+date: 2023-12-18T09:01:08.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T10:09:01.298Z
@@ -351,7 +351,16 @@ dateCreated: 2022-05-01T10:09:01.298Z
     <td style="width:300px"><img src="https://drive.google.com/uc?id=1s9VhYOpZWnIiIKy3a-x1tK2aW038HsMB"></td>
     <td><b></b></td>
   </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Kurt Rasmussen</td>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
+</table>
+
+#### 💛 Жълто
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="https://drive.google.com/uc?id=1z_VhfkZJoi6-nbuMGoFL4ZLbUd-yzZuI"></td>
+    <td><b></b></td>
+  </tr>
+  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
 </table>
 
 #### 💙 Синьо
@@ -359,15 +368,6 @@ dateCreated: 2022-05-01T10:09:01.298Z
   <tr>
     <td style="width:300px"><img src="https://drive.google.com/uc?id=1rrlgZyum_Xk-sMJhs5z4a-QwkemXG-3D"></td>
     <td><b>Превозни средства с такова оцветяване:</b> 110</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
-</table>
-
-#### 💛 Жълто
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://lh5.googleusercontent.com/lw2R-lKXTX7_25koNd27AWDcqKk3AXINc29QsamsqLjapEfnb2CKhrAdVtITKUufUuc=w2400"></td>
-    <td><b></b></td>
   </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
 </table>
