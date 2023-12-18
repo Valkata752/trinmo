@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2023-12-18T12:41:39.331Z
+date: 2023-12-18T14:31:07.190Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -17,8 +17,6 @@ dateCreated: 2022-04-26T15:34:13.268Z
 ###  1998-сега
 
 -   **1998 - сега** | [M1](/bg/sofia-metro/line-1) | [M2](/bg/sofia-metro/line-2) | [M3](/bg/sofia-metro/line-3) | [M4](/bg/sofia-metro/line-4) |
-
-
 
 ## 🚋 Трамваен транспорт
 
