@@ -2,7 +2,7 @@
 title: Ливреи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T09:01:08.476Z
+date: 2023-12-18T09:12:59.141Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T10:09:01.298Z
@@ -73,7 +73,6 @@ dateCreated: 2022-05-01T10:09:01.298Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4164/34596686802_9a1bf15fba_k.jpg" height="200px"><figcaption> <b>T4D-M/B4D-M<br></b> 📷 Апостол Чуканов </figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/cometbg/34596686802/" target="_blank" title="4044"> <img src="https://live.staticflickr.com/4164/34596686802_9a1bf15fba_k.jpg" width="100%"></a></div></div>
 
 <!--4413-->
-
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/15/37/05/1537054.jpg" height="200px"><figcaption> <b>Duewag GT8<br></b> 📷 Романенков Дмитрий </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/15/37/05/1537054.jpg" width="100%"></div></div>
 
 
@@ -81,6 +80,17 @@ dateCreated: 2022-05-01T10:09:01.298Z
 Синият цвят при тролеите идва с доставката на 9TrH25 през 1978, а оранжевата ивица "донасят" тролеите от Линц през 1984.
 
 Икарус 280Т
+
+
+#### Линц
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="http://www.regionale-schienen.at/images/sites/0/onlineThema/1409_z02.jpg" ></td>
+    <td><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm"></td>
+  </tr>
+  <td colspan=2 >ℹ️  spirka.org / www.regionale-schienen.at</td>
+</table>
+
 
 
 ## Столичен автотранспорт
