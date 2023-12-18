@@ -2,7 +2,7 @@
 title: Ливреи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T09:12:59.141Z
+date: 2023-12-18T09:14:32.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T10:09:01.298Z
@@ -91,6 +91,7 @@ dateCreated: 2022-05-01T10:09:01.298Z
   <td colspan=2 >ℹ️  spirka.org / www.regionale-schienen.at</td>
 </table>
 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" width="100%"></div></div>
 
 
 ## Столичен автотранспорт
