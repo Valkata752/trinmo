@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2023-12-07T13:01:47.219Z
+date: 2023-12-18T12:41:39.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -42,7 +42,7 @@ dateCreated: 2022-04-26T15:34:13.268Z
 
 ###  1960-сега
 
--   **1960 - сега** | [**1**](/bg/public-transport/trolleybus-routes-1960-sega/1) | [1А](/bg/public-transport/trolleybus-routes-1960-sega/1A) | [**2**](/bg/public-transport/trolleybus-routes-1960-sega/2) | [2А](/bg/public-transport/trolleybus-routes-1960-sega/2A) | [**3**](/bg/public-transport/trolleybus-routes-1960-sega/3) | [3А](/bg/public-transport/trolleybus-routes-1960-sega/3A) | [**4**](/bg/public-transport/trolleybus-routes-1960-sega/4) | [4А](/bg/public-transport/trolleybus-routes-1960-sega/4A) | [**5**](/bg/public-transport/trolleybus-routes-1960-sega/5) | [5А](/bg/public-transport/trolleybus-routes-1960-sega/5A) | [5Б](/bg/public-transport/trolleybus-routes-1960-sega/5%D0%91) | [**6**](/bg/public-transport/trolleybus-routes-1960-sega/6) | [6А](/bg/public-transport/trolleybus-routes-1960-sega/6A) | [**7**](/bg/public-transport/trolleybus-routes-1960-sega/7) | [7А](/bg/public-transport/trolleybus-routes-1960-sega/7A) | [**8**](/bg/public-transport/trolleybus-routes-1960-sega/8) | [8А](/bg/public-transport/trolleybus-routes-1960-sega/8A) | [**9**](/bg/public-transport/trolleybus-routes-1960-sega/9) | [9А](/bg/public-transport/trolleybus-routes-1960-sega/9A) | [10](/bg/public-transport/trolleybus-routes-1960-sega/10) | [**11**](/bg/public-transport/trolleybus-routes-1960-sega/11) | [11А](/bg/public-transport/trolleybus-routes-1960-sega/11A) | [12](/bg/public-transport/trolleybus-routes-1960-sega/12)
+-   **1960 - сега** | [**1**](/bg/public-transport/trolleybus-routes-1960-sega/1) | [1А](/bg/public-transport/trolleybus-routes-1960-sega/1A) | [**2**](/bg/public-transport/trolleybus-routes-1960-sega/2) | [2А](/bg/public-transport/trolleybus-routes-1960-sega/2A) | [**3**](/bg/public-transport/trolleybus-routes-1960-sega/3) | [3А](/bg/public-transport/trolleybus-routes-1960-sega/3A) | [**4**](/bg/public-transport/trolleybus-routes-1960-sega/4) | [4А](/bg/public-transport/trolleybus-routes-1960-sega/4A) | [**5**](/bg/public-transport/trolleybus-routes-1960-sega/5) | [5A](/bg/public-transport/trolleybus-routes-1960-sega/5A) | [5Б](/bg/public-transport/trolleybus-routes-1960-sega/5%D0%91) | [**6**](/bg/public-transport/trolleybus-routes-1960-sega/6) | [6А](/bg/public-transport/trolleybus-routes-1960-sega/6A) | [**7**](/bg/public-transport/trolleybus-routes-1960-sega/7) | [7А](/bg/public-transport/trolleybus-routes-1960-sega/7A) | [**8**](/bg/public-transport/trolleybus-routes-1960-sega/8) | [8А](/bg/public-transport/trolleybus-routes-1960-sega/8A) | [**9**](/bg/public-transport/trolleybus-routes-1960-sega/9) | [9А](/bg/public-transport/trolleybus-routes-1960-sega/9A) | [10](/bg/public-transport/trolleybus-routes-1960-sega/10) | [**11**](/bg/public-transport/trolleybus-routes-1960-sega/11) | [11А](/bg/public-transport/trolleybus-routes-1960-sega/11A) | [12](/bg/public-transport/trolleybus-routes-1960-sega/12)
 
     
 
