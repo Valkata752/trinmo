@@ -2,7 +2,7 @@
 title: Ливреи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T09:26:15.424Z
+date: 2023-12-18T09:32:54.371Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T10:09:01.298Z
@@ -80,24 +80,17 @@ dateCreated: 2022-05-01T10:09:01.298Z
 > Синият цвят при тролеите идва с доставката на 9TrH25 през 1978, а оранжевата ивица "донасят" тролеите от Линц през 1984.
 {.is-info}
 
+<!--linz--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://www.regionale-schienen.at/images/sites/0/onlineThema/1409_z02.jpg" height="200px"><figcaption><b></b>📷 www.regionale-schienen.at</figcaption></figure></button><div class="dropdown-content"><img src="http://www.regionale-schienen.at/images/sites/0/onlineThema/1409_z02.jpg" width="100%"></div></div>
 
-#### Gräf & Stift BBC GEO
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://www.regionale-schienen.at/images/sites/0/onlineThema/1409_z02.jpg" ></td>
-    <td><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm"></td></tr>
-  <td colspan=2 >ℹ️ www.regionale-schienen.at / www.spirka.org</td></table></div>
-  
-  
-#### 9TR
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh4.googleusercontent.com/AB9liLg-KNazY_PLttt2mmXdAmVueYhWC9D3pGSPAFmvOckGXlNK5KNg4bhMs8Ty-8Q=w2400" ></td>
-    <td><img src="https://lh3.googleusercontent.com/D5YarwiqHHDr3AHdiFMGcamjyLU5ZlHChdBm1vdhAQmd0uxMrhg2562yhTGZZzz1lV8=w2400"></td></tr>
-  <td colspan=2 >ℹ️ неизв. / Trotskee travel</td></table></div>
-  
-  
+<!--2824--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b></b>📷 www.spirka.org</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
 
+  <!--2824--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/AB9liLg-KNazY_PLttt2mmXdAmVueYhWC9D3pGSPAFmvOckGXlNK5KNg4bhMs8Ty-8Q=w2400" height="200px"><figcaption><b></b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/AB9liLg-KNazY_PLttt2mmXdAmVueYhWC9D3pGSPAFmvOckGXlNK5KNg4bhMs8Ty-8Q=w2400" width="100%"></div></div>
+
+<!--2824--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/D5YarwiqHHDr3AHdiFMGcamjyLU5ZlHChdBm1vdhAQmd0uxMrhg2562yhTGZZzz1lV8=w2400" height="200px"><figcaption><b></b>📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/D5YarwiqHHDr3AHdiFMGcamjyLU5ZlHChdBm1vdhAQmd0uxMrhg2562yhTGZZzz1lV8=w2400" width="100%"></div></div>
 
 
 ## Столичен автотранспорт
@@ -111,12 +104,6 @@ dateCreated: 2022-05-01T10:09:01.298Z
 | RAL 9010    | ![#F1ECE1](https://via.placeholder.com/15/F1ECE1/000000?text=+) #F1ECE1  + 🍃  |
 {.dense}
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="/идентичност/ливреи/karsan_3.jpg" ></td>
-    <td><img src="/идентичност/ливреи/higer_3.jpg"></td></tr>
-  <td colspan=2 >ℹ️ Столичен автотранспорт</td></table></div>
-  
 
 ### Дизелови автобуси
 
