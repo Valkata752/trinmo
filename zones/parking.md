@@ -2,7 +2,7 @@
 title: Синя и зелена зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-19T09:50:58.326Z
+date: 2023-12-19T09:58:17.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:17:50.530Z
@@ -104,6 +104,14 @@ dateCreated: 2023-12-01T07:17:50.530Z
 {.is-info}
 
 <img src="https://drive.google.com/uc?id=1ZOVi0bOqc2L_3LfBdB0BxCQ1-ZQFT0_c">
+
+### 2013
+> Решение 521 от 26.09.2013
+{.is-info}
+
+<img src="https://drive.google.com/uc?id=14_r9tmM9EhiEBeN6tVFjvWsYV88TD-RE">
+
+
 
 ### 2012
 > Решение 148 от 22.03.2012
