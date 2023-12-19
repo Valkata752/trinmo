@@ -2,7 +2,7 @@
 title: Gräf & Stift GE152 M18 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-19T11:28:35.251Z
+date: 2023-12-19T11:31:47.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-19T11:28:35.251Z
@@ -34,7 +34,7 @@ dateCreated: 2023-12-19T11:28:35.251Z
 
 # Tabs {.tabset}
 ## 1802
-    <!--1802-->
+<!--1802-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://live.staticflickr.com/65535/52163580206_b2ab3ab3f5_k.jpg" height="200px"><figcaption><b>1802</b> 📷 Владимир Симов</figcaption></button><div class="dropdown-content">
   <a href="https://www.flickr.com/photos/137241490@N07/52163580206/" target="_blank" title="1802 - Владимир Симов">
