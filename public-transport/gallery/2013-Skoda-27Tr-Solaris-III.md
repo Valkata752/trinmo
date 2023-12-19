@@ -1,8 +1,8 @@
 ---
-title: Škoda 27Tr Solaris III - Галерия
+title: Škoda 27Tr Solaris III 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T13:54:44.575Z
+date: 2023-12-19T11:33:14.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-01T13:52:16.838Z
