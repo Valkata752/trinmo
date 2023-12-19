@@ -2,7 +2,7 @@
 title: Škoda 27Tr Solaris IV
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T14:10:45.117Z
+date: 2023-12-19T11:18:38.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:24:21.927Z
@@ -77,9 +77,11 @@ dateCreated: 2022-05-19T22:24:21.927Z
   
 # Tabs {.tabset}
 
-## Надежда
+## 
 <!--2824--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51286328610_b81f754387_k.jpg" height="200px"><figcaption><b>ТБ3</b>📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51286328610/" target="_blank" title="2824"> <img src="https://live.staticflickr.com/65535/51286328610_b81f754387_k.jpg" width="100%"></a></div></div>
-<!--2805--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" height="200px"><figcaption><b>ТБ11</b>📷 Никола Коняров</figcaption></figure></button><div class="dropdown-content"><a href="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" target="_blank" title="2805"> <img src="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51286328610_b81f754387_k.jpg" height="200px"><figcaption><b>tb2828 line3</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51286328610/" target="_blank" title="2824"> <img src="https://live.staticflickr.com/65535/51286328610_b81f754387_k.jpg" width="100%"></a></div></div>
+<!--2801--> 
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51084321456_64968c4429_k.jpg" height="200px"><figcaption><b>tb2801 line6</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/137241490@N07/51084321456/" target="_blank" title="2801"> <img src=" https://live.staticflickr.com/65535/51084321456_64968c4429_k.jpg" width="100%"></a></div></div>
+ <!--2805--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" height="200px"><figcaption><b>tb2805 line11</b> 📷 Никола Коняров</figcaption></figure></button><div class="dropdown-content"><a href="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" target="_blank" title="2805"> <img src="https://drive.google.com/uc?id=1z9xoEwPKFrxEGQtgGvA7Rb_lZRBbKxLN" width="100%"></a></div></div>
 
