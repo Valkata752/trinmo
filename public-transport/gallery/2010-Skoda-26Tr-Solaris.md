@@ -1,8 +1,8 @@
 ---
-title: Škoda 26Tr Solaris - Галерия
+title: Škoda 26Tr Solaris 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-04T22:18:42.304Z
+date: 2023-12-19T11:32:54.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T09:10:53.398Z
