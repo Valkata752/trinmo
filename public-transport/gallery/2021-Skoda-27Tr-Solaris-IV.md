@@ -2,7 +2,7 @@
 title: Škoda 27Tr Solaris IV 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-19T11:16:56.342Z
+date: 2023-12-19T11:20:07.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-01T14:03:45.494Z
@@ -31,8 +31,8 @@ dateCreated: 2023-10-01T14:03:45.494Z
 
 ## 2810
 <!--2810--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qLaYPty7yVfwoYHooIElWVl_hG43hkM1LwxI3wufKCaHDL5rNyHDx4ieu5zXyLhEYlS90U4eia62uKlOkcFo5OML2PJg=w2560-h1190" height="200px"><figcaption><b>ТБ2</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81qLaYPty7yVfwoYHooIElWVl_hG43hkM1LwxI3wufKCaHDL5rNyHDx4ieu5zXyLhEYlS90U4eia62uKlOkcFo5OML2PJg=w2560-h1190" width="100%"></div></div>
-
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53191489453_de289cddcf_k.jpg" height="200px"><figcaption><b>tb2810 line2</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"> <a href=" https://www.flickr.com/photos/198506535@N07/53191489453/" target="_blank" title="2810"> <img src=" https://live.staticflickr.com/65535/53191489453_de289cddcf_k.jpg" width="100%"></a></div></div>
+ 
 # Tabs {.tabset}
 ## 2819
 <!--2819--> 
