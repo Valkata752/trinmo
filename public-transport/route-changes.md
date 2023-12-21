@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-15T08:16:23.484Z
+date: 2023-12-21T14:00:36.877Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -23,7 +23,6 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 
 ## 2022
-- [:construction: Реконструкция на на трамваен релсов път по бул. Цар Борис III - етап 2  *08.12.2022 -*](/bg/public-transport/route-changes/2022-rekonstrukcia-tsar-boris_iii)
 - [:construction: :m: Строителството на Метродиаметър 3 в Левски *21.03.2022 -*](/bg/public-transport/route-changes/2022-stroitelstvo-metro-levski)
 {.links-list}
 
@@ -42,6 +41,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 
 ## 2022
+- [:white_check_mark:  Реконструкция на на трамваен релсов път по бул. Цар Борис III - етап 2  *08.12.2022 - 23.12.2023*](/bg/public-transport/route-changes/2022-rekonstrukcia-tsar-boris_iii)
 - [:white_check_mark:  Ремонт на ул. Кукуш и ул. Щросмайер  *19.09.2022 - 01.11.2023*](/bg/public-transport/route-changes/2022-remont-kukush-shtrosmaier)
 - [:white_check_mark: Реконструкция на водопровод в кв. Бояна  *29.08.2022 - 11.09.2022*](/bg/public-transport/route-changes/2022-rekonstrukcia-vodoprovod-boyana)
 - [:white_check_mark: Ремонт и рехабилитация на транспортен тунел по бул. Царица Йоана  *21.07.2022 - 07.03.2023*](/bg/public-transport/route-changes/2022-rekonstrukcia-tunnel-lyulin)
