@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-21T14:00:36.877Z
+date: 2023-12-21T14:05:04.804Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -117,8 +117,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 # Повтарящи се промени
 - [:blossom: Задушница *Три пъти годишно (разкриване на временни линии)*](/bg/public-transport/route-changes/zadushnica)
 - [:egg: Великден *Веднъж годишно (късни курсове)*](/bg/public-transport/route-changes/velikden)
-- [:christmas_tree: Коледа *Веднъж годишно (съкратени курсове)*](/bg/public-transport/route-changes/koleda)
-- [:fireworks: Нова година *Веднъж годишно (късни курсове)*](/bg/public-transport/route-changes/nova-godina)
+- [:christmas_tree::fireworks: Коледа и Нова година *Веднъж годишно (съкратени и късни курсове)*](/bg/public-transport/route-changes/koleda-nova-godina)
 - [:leftwards_arrow_with_hook: Възпоменателна церемония за Васил Левски *Веднъж годишно на 19 февруари*](/bg/public-transport/route-changes/vasil-levski)
 - [:a: Деня на Българската просвета и култура *Веднъж годишно на 24 май*](/bg/public-transport/route-changes/vasil-levski)
 {.links-list}
