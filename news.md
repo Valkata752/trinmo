@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-01T09:56:30.628Z
+date: 2023-12-21T15:06:18.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -10,6 +10,28 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 <!--https://www.sofia.bg/transport-news--> 
 
+## 23.12.2023
+> Приключва реконструкцията на трамвайното трасе по бул. Цар Борис III. 
+> Възстановява се маршрута на трамвайна линия № 4 до трамвайно обръщателно колело „бул. Никола Петков“.
+> Възстановява се маршрута на трамвайна линия № 5 до трамвайно обръщателно колело „кв. Княжево“.
+> Възстановява се маршрута на трамвайна линия № 11 до трамвайно обръщателно колело „кв. Княжево“.
+> Преустановява се  движението на временната заместваща автобусна линия № А5ТМ.
+{.is-success}
+
+
+
+
+## 23.12.2023
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1z2As2uM30poB--jlh4xo846JOGi-fMvi"></td>
+<td>Считано от от 23.12.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N3">N3</a> се завръща след тригодишно отсъствие.</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1kg0NmaSdnw0S-p6sHGiDmF8xuWH_iHq9"></td>
+<td>Считано от от 23.12.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a> се завръща след тригодишно отсъствие.</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
+  
 ## 27.11.2023
 
 <div class="table-responsive"><table style="width:100%"><tr>
