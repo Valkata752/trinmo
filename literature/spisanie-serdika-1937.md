@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T19:01:25.295Z
+date: 2023-12-22T19:06:19.353Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -62,26 +62,17 @@ dateCreated: 2023-12-22T18:26:08.296Z
 
 ## кн. 5, с. 44
 Хроника | Търг за доставка на 20 броя нови трамвайни мотриси
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 5, с. 44
 Хроника | Подобрение на трамвайните съобщения - нощно движение на трамваи
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1KMl1ZBHivi4PmWARQ4-_g11TF6o7TZuO">
+
 
 
 ## кн. 5, с. 58
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 5, с. 58
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1ndxyipgGgOq4zdUn-kFE3TJiCN7Q61T5">
 
 
 ## кн. 6, с. 41
