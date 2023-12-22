@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T18:43:34.904Z
+date: 2023-12-22T18:57:11.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -26,23 +26,19 @@ dateCreated: 2023-12-22T18:26:08.296Z
 
 <img src="https://drive.google.com/uc?id=1WLC4FTs1JpaLE0Fwkw0hpDr1fszrT-6j">
 
-
-## кн. 3, с. 57
-Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 3, с. 57
-Общи данни за общинските автобуси по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
 ## кн. 3, с. 43
 Хроника | Доставки за трамваите - универсален струг и медни жици
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1tjcSVnAvaGflz6rnRzMrAavmO7AlJXWT">
+
+
+## кн. 3, с. 57
+Общи данни за електрическите трамваи по години и месеци
+Общи данни за общинските автобуси по години и месеци
+
+
+<img src="https://drive.google.com/uc?id=12ujeAepd7pUpQIQN0lPacV3dvh1ECHZy">
+
 
 
 ## кн. 4, с. 36-38
