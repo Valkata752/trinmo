@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T18:57:11.079Z
+date: 2023-12-22T19:01:25.295Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -44,19 +44,20 @@ dateCreated: 2023-12-22T18:26:08.296Z
 ## кн. 4, с. 36-38
 Развой на електроснабдяването на софийските трамваи.
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1tYInVDT0hXDVcvri_3yLpLtOiBKhFXMj">
+<img src="https://drive.google.com/uc?id=1pJyD_kPdNcgABd0kUQ5mI7dqLHsvv3i6">
+<img src="https://drive.google.com/uc?id=1fR1qCTpX66ZMiw-hE5GS8wHKsRqG7KAQ">
+
+
 
 
 ## кн. 4, с. 57
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 4, с. 57
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1Tqsh-8YAxSUPg4LTGK1lAypfKNYxWCop">
+
+
 
 
 ## кн. 5, с. 44
