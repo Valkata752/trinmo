@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T18:28:38.764Z
+date: 2023-12-22T18:43:34.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -11,18 +11,20 @@ dateCreated: 2023-12-22T18:26:08.296Z
 ## кн. 2, с. 34
 Столичните железопътни гари и спирки
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=12uFIrzYIX34AOmiE7gSvrdgXBinm7qsv">
+<img src="https://drive.google.com/uc?id=1rDlNNyQc4kfyQ1q7BOyjymW9m9DpAqZh">
+
 
 ## кн. 2, с. 60
 Общи данни за електрическите трамваи през годините 1931 - 1937.
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1E-zffT08cMD77CxycJ3N-nC7VZ8JQk3R">
 
 
 ## кн. 2, с. 61
 Общи данни за общинските автобуси през годините 1931 - 1937.
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1WLC4FTs1JpaLE0Fwkw0hpDr1fszrT-6j">
 
 
 ## кн. 3, с. 57
