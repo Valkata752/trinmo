@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T19:19:13.270Z
+date: 2023-12-22T19:26:37.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -112,7 +112,7 @@ dateCreated: 2023-12-22T18:26:08.296Z
 Общи данни за електрическите трамваи по години и месеци
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=1cw3KsB4pRNwa3QWO3q3CzlmmfTd8jHth">
+<img src="https://drive.google.com/uc?id=1qIl9ry5HOcbaxifGbvg5YndQwUHPaBww">
 
 
 
@@ -120,6 +120,6 @@ dateCreated: 2023-12-22T18:26:08.296Z
 Общи данни за електрическите трамваи по години и месеци
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=18Ab-kr7zQU_NDfC-MYM7Yney7svmtt2-">
+<img src="https://drive.google.com/uc?id=1iN7H2ogJf9CR2Ed-ERFATaEEV6BM-4TO">
 
 
