@@ -2,7 +2,7 @@
 title: Списание Сердика - 1938
 description: Транспорт, инфраструктира и мобилност
 published: true
-date: 2023-12-22T19:39:57.168Z
+date: 2023-12-22T19:41:17.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:31:29.648Z
@@ -39,7 +39,7 @@ dateCreated: 2023-12-22T18:31:29.648Z
 
 <img src="https://drive.google.com/uc?id=9999999999999999">
 
-## кн. 5, с. 11
+## кн. 5, с. 3
 Градоустройствен план на София
 
 <img src="https://drive.google.com/uc?id=9999999999999999">
