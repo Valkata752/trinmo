@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T19:06:19.353Z
+date: 2023-12-22T19:19:13.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
@@ -49,24 +49,17 @@ dateCreated: 2023-12-22T18:26:08.296Z
 <img src="https://drive.google.com/uc?id=1fR1qCTpX66ZMiw-hE5GS8wHKsRqG7KAQ">
 
 
-
-
 ## кн. 4, с. 57
 Общи данни за електрическите трамваи по години и месеци
 Общи данни за общинските автобуси по години и месеци
 
 <img src="https://drive.google.com/uc?id=1Tqsh-8YAxSUPg4LTGK1lAypfKNYxWCop">
 
-
-
-
 ## кн. 5, с. 44
 Хроника | Търг за доставка на 20 броя нови трамвайни мотриси
 Хроника | Подобрение на трамвайните съобщения - нощно движение на трамваи
 
 <img src="https://drive.google.com/uc?id=1KMl1ZBHivi4PmWARQ4-_g11TF6o7TZuO">
-
-
 
 ## кн. 5, с. 58
 Общи данни за електрическите трамваи по години и месеци
@@ -78,71 +71,55 @@ dateCreated: 2023-12-22T18:26:08.296Z
 ## кн. 6, с. 41
 Хроника | Пускане в движение на мотриса 46; Попряване и усилване на трамвайната линия по бул. Мария Лузиа.
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1p1V4T81XNvvRXI3n-kRtpwufM1OQ2JNU">
 
 
 ## кн. 6, с. 59
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 6, с. 59
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1NTASxgv_EC5QWWMCzxl3o2-wVnZtH2fE">
+
+
 
 
 ## кн. 7, с. 60
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 7, с. 60
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1lGpK29HF1EgTI7mWBTVuE4qCtCtBbWCC">
+
+
 
 
 ## кн. 8, с. 60
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 8, с. 60
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1hjlv0e3okuL2rcKl5RSOD8ElZjOYNkwF">
+
 
 
 ## кн. 9, с. 12-15
 С железница във Витоша (Назъбена или гладка релса)
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
+<img src="https://drive.google.com/uc?id=1aEx2luSFQBz4qNFrN4_Bj3mJsApq7-ut">
+<img src="https://drive.google.com/uc?id=1uuKbIOJMfZhH6RcuW2m706Jqf1xalANM">
+<img src="https://drive.google.com/uc?id=1C1893EtNrdmilPofT2sOZEqijSmYx_dx">
+<img src="https://drive.google.com/uc?id=1wTbZJi0sllIUQhl8C2cP7pZn3KSOdOnG">
 
 ## кн. 9, с. 60
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 9, с. 60
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=1cw3KsB4pRNwa3QWO3q3CzlmmfTd8jHth">
+
 
 
 ## кн. 10, с. 56
 Общи данни за електрическите трамваи по години и месеци
-
-<img src="https://drive.google.com/uc?id=99999999999999999">
-
-
-## кн. 10, с. 56
 Общи данни за общинските автобуси по години и месеци
 
-<img src="https://drive.google.com/uc?id=99999999999999999">
+<img src="https://drive.google.com/uc?id=18Ab-kr7zQU_NDfC-MYM7Yney7svmtt2-">
+
 
