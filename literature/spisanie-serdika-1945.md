@@ -2,7 +2,7 @@
 title: Списание Сердика - 1945 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T08:55:14.456Z
+date: 2023-12-24T08:59:52.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T08:45:00.280Z
@@ -35,3 +35,8 @@ dateCreated: 2023-12-24T08:45:00.280Z
 ## кн. 3 и 4, с. 78
 Статистически данни - общински трамваи, автобуси и тролейбуси
 <img src="https://drive.google.com/uc?id=1FqeP5AJPXY-WQNjai29Ps__-uMdjXBBW">
+
+## кн. 5 и 6, с. 4
+Снимка - трамвай
+
+<img src="https://drive.google.com/uc?id=15AzCI4G0ekBMwzbnMLNWQ5i695TByc9w">
