@@ -2,13 +2,30 @@
 title: Статистически данни за транспорта от 1931 г. до 1947 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T10:07:24.595Z
+date: 2023-12-24T10:08:32.423Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T09:29:20.600Z
 ---
 
 # Обообщени данни
+
+
+
+## 1946
+
+## Tabs {.tabset}
+
+### кн. 1-2
+<img src="https://drive.google.com/uc?id=12JyvgluMkhbt2jOANmzZ24wAsB8vJVdy">
+
+### кн. 3-4
+<img src="https://drive.google.com/uc?id=190968w1YztJgfy6R1H-5h-aKXpebzFxX">
+
+
+### кн. 7-12
+<img src="https://drive.google.com/uc?id=1pSMiyjOntcGglldizN_55IvXumoyEVS1">
+
 
 ## 1945
 ## Tabs {.tabset}
