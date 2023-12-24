@@ -2,13 +2,54 @@
 title: Статистически данни за транспорта от 1931 г. до 1947 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T09:52:40.074Z
+date: 2023-12-24T09:54:53.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T09:29:20.600Z
 ---
 
 # Обообщени данни
+
+
+## 1939
+## Tabs {.tabset}
+
+### кн. 1
+<img src="https://drive.google.com/uc?id=1e_7gAsWdXUusLuBi1BCW-uqMEsMV1iBk">
+
+### кн. 2
+<img src="https://drive.google.com/uc?id=1QFQh3PzebIIoIr-j1sQCp6XgB3GWT8hN">
+
+### кн. 3
+<img src="https://drive.google.com/uc?id=1UEub_b-x3iM-fMj3HBD6TzG_rC2e_dKy">
+
+### кн. 4
+<img src="https://drive.google.com/uc?id=1B3mzgjvj-SmLlBpwlDm_ZfimL-IWAulM">
+
+
+### кн. 5
+<img src="https://drive.google.com/uc?id=1dLaU4C8AsVU-LVvU9PW3VYM7bDrGtJh8">
+
+### кн. 6
+<img src="https://drive.google.com/uc?id=1I1s11DmOXuALL00zhGSeKyXrLoHuwbg-">
+
+
+### кн. 7
+<img src="https://drive.google.com/uc?id=1_jSAijZb_N_keFbnkr30pHe5jV7wH76d">
+
+
+### кн. 8
+<img src="https://drive.google.com/uc?id=1aM3mwN-JAz65qqMzoOG4Azq99S1OHc33">
+
+
+
+### кн. 9
+<img src="https://drive.google.com/uc?id=1eNoyYcN4ZMNNWgG29FtPMUUv3T6XmYso">
+
+### кн. 10
+<img src="https://drive.google.com/uc?id=1R-ffcEZxWIZP86t1pYLocunMl15gE_jI">
+
+
 
 ## 1938
 ## Tabs {.tabset}
