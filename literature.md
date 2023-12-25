@@ -2,11 +2,13 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T07:29:17.061Z
+date: 2023-12-25T09:08:37.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
 ---
+
+# Вестници и списания
 
 ## Списание София (1953-1991)
 
@@ -483,7 +485,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 
-## Вечерни новини (1952 -1992) 
+## в-к Вечерни новини (1952 -1992) 
 ![](https://lh6.googleusercontent.com/IhDo4pGL5BuckGBf2DndH_Te3Bk195Ft_TNDcKl-VYUo-7SkaVyQlH8WwMRi4pFQSCYCBsaMbj1nwlfOvjW6Eda_8j4fQIA4VRlbHECBCEussEPdMgWdyy1gkTPQ4e5hCWGrhRUM)
 
                                            
@@ -792,7 +794,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 09.06.1975 (брой 7285) - **София в 24 часа** (закриване на 103 и 279)
 02.06.1975 (брой 7280) - **София в 24 часа** (промяна на 64 и 65)
 
-## Работническо дело (1927-1990) 
+## в-к Работническо дело (1927-1990) 
                                            
 ## Tabs {.tabset}
 
@@ -879,7 +881,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 15.12.1967 - **Нови тролейбусни коли в Столицата**
 
-## Вестник Демокрация
+## в-к Демокрация
 
 ## Tabs {.tabset}
 
@@ -902,7 +904,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 17.01.1992 - **Открива се автобусна линия от квартал "Факултета"**
 
 
-## Вестник Зора (1919-1944)
+## в-к Зора (1919-1944)
 
 ## Tabs {.tabset}
 
@@ -917,14 +919,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 
-## Списание Архитектура
+## сп. Архитектура
 
 1977 - [Проектът на Софийския метрополитен](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
 
-## Modern Tramway
+## сп. Modern Tramway
 <a href="/literature/modern-tramway-305"><img src="https://lh5.googleusercontent.com/PfUB1NoQjQSr3JOuh0LPTkkLSl1jGFmKGicK4RLVWOlDoCnbxkRDmPWcpnJWFnYpF4I=w2400" height=200px></a> <a href="/literature/modern-tramway-407"><img src="https://lh3.googleusercontent.com/_ti2E1Wjx6tzQ9OXgkBnFot1rNuK27xux9huNjw2ZGVHpK-4Axf7z_iWpE_RSB7K6_g=w2400" height=200px></a> <a href="/literature/modern-tramway-450"><img src="https://lh3.googleusercontent.com/H1YW_r8-8afHoV6jkZp9NPLqRYfILy78XWWph7hnWetJK6HkNBHjc0BHHP_3Sa3XFeo=w2400" height=200px></a>
 
-# Статии                                           
+## Статии                                           
 
 - [:seven::six: *По пътя на 76 - Невидимата памет на града*](/literature/po-patya-na-76)
 {.links-list}
