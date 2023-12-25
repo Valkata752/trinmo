@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T00:59:20.761Z
+date: 2023-12-25T01:10:11.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -718,6 +718,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 ## **Списание Сердика** (1937-1952)
+<img src="https://drive.google.com/uc?id=1eLWxB_8sLpknYx-VTX4GLQO5pX_JiPMj">
 
 ## Tabs {.tabset}
 
