@@ -2,13 +2,16 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T00:52:41.279Z
+date: 2023-12-25T00:54:35.303Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
 ---
 
 ## Столичен общински вестник (1925 - 1936)
+
+<img src="https://drive.google.com/uc?id=1eF7dwKdPDskIF9wA4P6oJC5D9MF0p6td">
+
 
 ## Tabs {.tabset}
 
