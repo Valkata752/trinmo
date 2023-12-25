@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T09:08:37.461Z
+date: 2023-12-25T09:23:21.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 # Вестници и списания
 
-## Списание София (1953-1991)
+## сп. София (1953-1991)
 
 ## Tabs {.tabset}
 
@@ -187,7 +187,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 бр. 1, с. 25 - **Софийският градски транспорт**
 
 
-## **Списание Сердика** (1937-1952)
+## сп. Сердика (1937-1952)
 <img src="https://drive.google.com/uc?id=1eLWxB_8sLpknYx-VTX4GLQO5pX_JiPMj">
 
 ## Tabs {.tabset}
@@ -939,16 +939,83 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 # 📙 Пътеводители и справочници
 
-|  |  |   
-|---|---|   
-| <a href="/bg/literature/travel-guides/1964-ukazatel"><img src="https://drive.google.com/uc?id=1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8" height=200px></a><figcaption><b> 1964 </b>- Указател</figcaption></a>| <a href="/bg/literature/travel-guides/1978-patevoditel"><img src="https://drive.google.com/uc?id=1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9" height=200px></a><figcaption><b> 1978 </b>- Справочник</figcaption> </a>|   
-| <a href="/bg/literature/travel-guides/1981-spravochnik"><img src="https://drive.google.com/uc?id=1INyd34jukzsGhTqRYTgjm0wjheiTvX4y" height=200px></a><figcaption><b> 1981 </b>- Справочник</figcaption> </a>  | <a href="/bg/literature/travel-guides/1983-spravochnik"><img src="https://drive.google.com/uc?id=1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I" height=200px></a><figcaption><b> 1983 </b>- Справочник</figcaption> </a> |   
-{.dense}
+## 1964
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8"></td>
+<td>Указател - 1964</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
+  
+## 1978
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9"></td>
+<td>Пътеводител - 1978</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
+  
+## 1981
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1INyd34jukzsGhTqRYTgjm0wjheiTvX4y"></td>
+<td>Справочник - 1981</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
+  
+## 1983
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I"></td>
+<td>Справочник - 1983</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
+  
+
 
 
 # 💯 Юбилейни издания
 
-<a href="/literature/anniversary/100-years-public-transport"><img src="https://lh4.googleusercontent.com/JyQKzCb1C090u8EMc-h81KIhivMKfsv6ubFnEH3nBNUdnFnUYt5KdO6g0jEFMvhe3bo=w2400" width=200px></a><a href="/literature/anniversary/75-years-public-transport"><img src="https://lh4.googleusercontent.com/D5BM-mhP2lTtWUvUZ-D2taWjXBbNxLzXz6GHGMJvsK4_eCGkozQ-Kh87J3jalp-tIks=w2400" width=200px></a><a href="/literature/anniversary/70-years-public-transport"><img src="https://lh5.googleusercontent.com/H6vwb8nXNsBsofwo1qIrzukF_iJDnReZ4Ug4bWw2isHdfHPNvFyMJmoMknJcBeehp4M=w2400" width=200px></a><a href="/literature/anniversary/60-years-public-transport"><img src="https://lh5.googleusercontent.com/ahqylRR2ps7jRI2uW2wHAX-_tyMGXAvQ8zlwh0I5_EvauksPWdpQt5ePyEm3vKvJdOo=w2400" width=200px></a><a href="/literature/anniversary/40-years-public-transport"><img src="https://lh3.googleusercontent.com/VczLgBoRiqgsZ11RnN4yNHAeMp8uQy2-n3p_SS76uYlBn0qk8MheT9mSOeoUzHDUGhI=w2400" width=200px></a><a href="/literature/anniversary/30-years-trams-in-sofia"><img src="https://lh5.googleusercontent.com/9mRO_YaDvNP9BCYe1dYftcSymx6zIEWh1uf8u-Httdi9bpy9Yzmdz6IorBUWoH9otiE=w2400" width=200px></a>
+## 100 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh4.googleusercontent.com/JyQKzCb1C090u8EMc-h81KIhivMKfsv6ubFnEH3nBNUdnFnUYt5KdO6g0jEFMvhe3bo=w2400"></td>
+<td><b>100 години градски транспорт в София</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/100-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>
+  
+## 75 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh4.googleusercontent.com/D5BM-mhP2lTtWUvUZ-D2taWjXBbNxLzXz6GHGMJvsK4_eCGkozQ-Kh87J3jalp-tIks=w2400"></td>
+<td><b>75 години градски транспорт в София</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/75-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
+  
+## 70 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh5.googleusercontent.com/H6vwb8nXNsBsofwo1qIrzukF_iJDnReZ4Ug4bWw2isHdfHPNvFyMJmoMknJcBeehp4M=w2400"></td>
+<td><b>70 години градски транспорт</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/70-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
+  
+  
+ ## 60 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh5.googleusercontent.com/ahqylRR2ps7jRI2uW2wHAX-_tyMGXAvQ8zlwh0I5_EvauksPWdpQt5ePyEm3vKvJdOo=w2400"></td>
+<td><b>60 години градски пътнически транспорт - София (1901 - 1961)</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/60-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
+  
+## 40 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh3.googleusercontent.com/VczLgBoRiqgsZ11RnN4yNHAeMp8uQy2-n3p_SS76uYlBn0qk8MheT9mSOeoUzHDUGhI=w2400"></td>
+<td><b>Софийските трамваи (1901 - 1941)</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/40-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
+  
+ ## 30 години
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh5.googleusercontent.com/9mRO_YaDvNP9BCYe1dYftcSymx6zIEWh1uf8u-Httdi9bpy9Yzmdz6IorBUWoH9otiE=w2400"></td>
+  <td><b>Тридесет години трамваи в София (1901 - 1931)</b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/anniversary/30-years-trams-in-sofia"><b>Разгледай тук...</b></a></td></table></div>  
+  
+
 
 # 🚇 Софийското метро
 
