@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T07:25:21.929Z
+date: 2023-12-25T07:29:17.061Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -11,7 +11,6 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Списание София (1953-1991)
 
 ## Tabs {.tabset}
-
 
 ### 1978
 - [➡️ *Списание София - 1978*](/literature/spisanie-sofia-1978)
@@ -483,11 +482,6 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 
-
-
-
-# 📰 Вестници
-<br>
 
 ## Вечерни новини (1952 -1992) 
 ![](https://lh6.googleusercontent.com/IhDo4pGL5BuckGBf2DndH_Te3Bk195Ft_TNDcKl-VYUo-7SkaVyQlH8WwMRi4pFQSCYCBsaMbj1nwlfOvjW6Eda_8j4fQIA4VRlbHECBCEussEPdMgWdyy1gkTPQ4e5hCWGrhRUM)
