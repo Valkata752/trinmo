@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T09:29:18.144Z
+date: 2023-12-25T09:35:55.373Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -419,6 +419,40 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 28.05.1932 (брой 9) - **Столични електрически трамваи и осветление**
 
+### 1931
+
+- [➡️*Столичен общински вестник - 1931*](/literature/stolichen-obshtinski-vestnik-1931)
+{.links-list}
+
+### 1930
+
+- [➡️*Столичен общински вестник - 1930*](/literature/stolichen-obshtinski-vestnik-1930)
+{.links-list}
+
+### 1929
+
+- [➡️*Столичен общински вестник - 1929*](/literature/stolichen-obshtinski-vestnik-1929)
+{.links-list}
+
+### 1928
+
+- [➡️*Столичен общински вестник - 1928*](/literature/stolichen-obshtinski-vestnik-1928)
+{.links-list}
+
+### 1927
+
+- [➡️*Столичен общински вестник - 1925*](/literature/stolichen-obshtinski-vestnik-1927)
+{.links-list}
+
+### 1925
+
+- [➡️*Столичен общински вестник - 1925*](/literature/stolichen-obshtinski-vestnik-1925)
+{.links-list}
+
+18.07.1925 (брой 1) - **Хроника** - Трамвай Захарна фабрика
+18.07.1925 (брой 1) - **Хроника** - Трамвай за гробищата
+
+
 ## Софийски общински вестник (1914-1918)
 
 <img src="https://drive.google.com/uc?id=1eFsHSohl_0qmzj5DkdueN61v7KQL_MCM">
@@ -428,7 +462,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ### 1918
 
-- [➡️*Столичен общински вестник - 1918*](/literature/stolichen-obshtinski-vestnik-1918)
+- [➡️*Софийски общински вестник - 1918*](/literature/stolichen-obshtinski-vestnik-1918)
 {.links-list}
 
 30.04.1918 (брой 49 и 50) - **Правилник за службата на трамвайния персонал**
@@ -443,7 +477,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ### 1917
 
-- [➡️*Столичен общински вестник - 1917*](/literature/stolichen-obshtinski-vestnik-1917)
+- [➡️*Софийски общински вестник - 1917*](/literature/stolichen-obshtinski-vestnik-1917)
 {.links-list}
 
 22.12.1917 (брой 27) - **Трамваи и осветление**
