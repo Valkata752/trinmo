@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-25T00:55:59.672Z
+date: 2023-12-25T00:59:20.761Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -53,6 +53,8 @@ dateCreated: 2022-04-26T09:14:34.111Z
 28.05.1932 (брой 9) - **Столични електрически трамваи и осветление**
 
 ## Софийски общински вестник (1914-1918)
+
+<img src="https://drive.google.com/uc?id=1eFsHSohl_0qmzj5DkdueN61v7KQL_MCM">
 
 ## Tabs {.tabset}
 
