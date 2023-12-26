@@ -2,7 +2,7 @@
 title: История на Софийския трамвай
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-26T23:08:29.046Z
+date: 2023-12-26T23:08:37.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-20T00:17:45.247Z
