@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-26T22:47:18.444Z
+date: 2023-12-26T22:57:16.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -440,6 +440,9 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 - [➡️*Столичен общински вестник - 1928*](/literature/stolichen-obshtinski-vestnik-1928)
 {.links-list}
+
+
+07.05.1928 (брой 10) - **Приходи от трамаите** - 1923-1927 и по линии за 1927.
 
 ### 1927
 
