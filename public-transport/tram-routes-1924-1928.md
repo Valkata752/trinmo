@@ -2,7 +2,7 @@
 title: Трамвайни маршрути 1924 - 1928
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-15T10:40:30.974Z
+date: 2023-12-27T09:16:25.824Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T11:08:08.498Z
@@ -42,8 +42,8 @@ dateCreated: 2022-05-10T11:08:08.498Z
 ### Трамвайна линия 3-10
 <p>| <mark class="pen-green">Разкрита 1924 год.</mark> | <mark class="pen-red">Закрита 01.10.1928 год.</mark> | <a href="/bg/public-transport/tram-routes-1924-1928/3-10">Досие на линията</a> |</p>
 
-### Трамвайна линия 4-4
-<p>| <mark class="pen-green">Разкрита 1924 год.</mark> | <mark class="pen-red">Преномерирана 01.10.1928 год.</mark> | <a href="/bg/public-transport/tram-routes-1924-1928/4-4">Досие на линията</a> |</p>
+### Трамвайна линия 4-8
+<p>| <mark class="pen-green">Разкрита 1924 год.</mark> | <mark class="pen-red">Преномерирана 01.10.1928 год.</mark> | <a href="/bg/public-transport/tram-routes-1924-1928/4-8">Досие на линията</a> |</p>
 
 ### Трамвайна линия 4-10
 <p>| <mark class="pen-green">Разкрита 27.06.1928 год.</mark> | <mark class="pen-red">Преномерирана 01.10.1928 год.</mark> | <a href="/bg/public-transport/tram-routes-1924-1928/4-10">Досие на линията</a> |</p>
