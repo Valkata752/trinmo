@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2023-12-20T10:46:22.732Z
+date: 2023-12-27T08:55:33.253Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -29,7 +29,7 @@ dateCreated: 2022-04-26T15:34:13.268Z
 -   **Нощни трамваи** | [A](/bg/public-transport/tram-routes-1928-sega/night-trams) | [Б](/bg/public-transport/tram-routes-1928-sega/night-trams) | [В](/bg/public-transport/tram-routes-1928-sega/night-trams) | [Г](/bg/public-transport/tram-routes-1928-sega/night-trams) | [Д](/bg/public-transport/tram-routes-1928-sega/night-trams) | [Е](/bg/public-transport/tram-routes-1928-sega/night-trams) 
 
 ###  1924-1928
--   **1924 - 1928**: | [1-1](/bg/public-transport/tram-routes-1924-1928/1-1) | [1-9](/bg/public-transport/tram-routes-1924-1928/1-9) | [2-2](/bg/public-transport/tram-routes-1924-1928/2-2) | [2-6](/bg/public-transport/tram-routes-1924-1928/2-6) | [2-7](/bg/public-transport/tram-routes-1924-1928/2-7) | [2-10](/bg/public-transport/tram-routes-1924-1928/2-10) | [3-3](/bg/public-transport/tram-routes-1924-1928/3-3) | [3-3а](/bg/public-transport/tram-routes-1924-1928/3-3A) | [3-7](/bg/public-transport/tram-routes-1924-1928/3-7) | [3-10](/bg/public-transport/tram-routes-1924-1928/3-10) | [4-4](/bg/public-transport/tram-routes-1924-1928/4-4) | [4-10](/bg/public-transport/tram-routes-1924-1928/4-10) | [5-5](/bg/public-transport/tram-routes-1924-1928/5-5) | [6-6](/bg/public-transport/tram-routes-1924-1928/6-6) | [6-6а](/bg/public-transport/tram-routes-1924-1928/6-6A) | [7-7](/bg/public-transport/tram-routes-1924-1928/7-7) | [8-8](/bg/public-transport/tram-routes-1924-1928/8-8) | [9-9](/bg/public-transport/tram-routes-1924-1928/9-9) | [10-10](/bg/public-transport/tram-routes-1924-1928/10-10) |
+-   **1924 - 1928**: | [1-1](/bg/public-transport/tram-routes-1924-1928/1-1) | [1-9](/bg/public-transport/tram-routes-1924-1928/1-9) | [2-2](/bg/public-transport/tram-routes-1924-1928/2-2) | [2-6](/bg/public-transport/tram-routes-1924-1928/2-6) | [2-7](/bg/public-transport/tram-routes-1924-1928/2-7) | [2-10](/bg/public-transport/tram-routes-1924-1928/2-10) | [3-3](/bg/public-transport/tram-routes-1924-1928/3-3) | [3-3а](/bg/public-transport/tram-routes-1924-1928/3-3A) | [3-7](/bg/public-transport/tram-routes-1924-1928/3-7) | [3-10](/bg/public-transport/tram-routes-1924-1928/3-10) | [4-8](/bg/public-transport/tram-routes-1924-1928/4-8) | [4-10](/bg/public-transport/tram-routes-1924-1928/4-10) | [5-5](/bg/public-transport/tram-routes-1924-1928/5-5) | [6-6](/bg/public-transport/tram-routes-1924-1928/6-6) | [6-6а](/bg/public-transport/tram-routes-1924-1928/6-6A) | [7-7](/bg/public-transport/tram-routes-1924-1928/7-7) | [8-8](/bg/public-transport/tram-routes-1924-1928/8-8) | [9-9](/bg/public-transport/tram-routes-1924-1928/9-9) | [10-10](/bg/public-transport/tram-routes-1924-1928/10-10) |
 
 
 ###  1901-1924
