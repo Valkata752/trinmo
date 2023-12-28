@@ -2,7 +2,7 @@
 title: Преномерация на линиите през годините
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T11:52:38.520Z
+date: 2023-12-28T18:26:26.025Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-21T20:13:35.899Z
@@ -33,24 +33,34 @@ dateCreated: 2022-05-21T20:13:35.899Z
 
 # 1928
 
-01.10.1928 е изоставена секторната система и въведена нова. / [30 години трамваен транспорт в София - стр.57](http://trinmo.org/bg/literature/anniversary/1930-30-years-trams-in-sofia#viii-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5) /
+Това наложи отъ 1 октомври 1928 г. да се въведе сегашната номерация на колите. | [30 години трамваен транспорт в София - стр.57](/bg/literature/anniversary/30-years-trams-in-sofia) |   
 
-| линия преди 01.10.1928 |     | линия след 01.10.1928 |
-| --- | --- | --- |
-| № 2-7 | **→** | **1** |
-| № 2-6 | **→** | **2** |
-| № 3-10 | **→** | **3** |
-| Булина ливада - Орлов мост | **→** | **4** |
-| № 5-5 | **→** | **5 / 5А** |
-| Св. Неделя - Иван Вазов | **→** | **6** |
-| № 3-3а | **→** | **7** |
-| Павлово - Бояна | **→** | **8** |
-| № 1-9 | **→** | **9** |
-| Булина ливада - Подуяне | **→** | **10** |
-| № 2-2 | **→** | **закрита** |
-| № 3-3 | **→** | **закрита** |
-| № 7-7 | **→** | **закрита** |
-| № 10-10 | **→** | **закрита** |
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1X0fLeRXNG4xyJ5OyZGSc-1zhuzmtyASn"></td>
+<td><b>НОВА трамвайна номерация </b><br> Новата номерация на трамвайните линии се въведе от днес. Трамвайните коли ще носят номерата на линиите.<br><br><a href="/bg/public-transport/tram-routes-1928-sega/1"> № <b>1</b> Гара - Игрище</a><br><a href="/bg/public-transport/tram-routes-1928-sega/2"> № <b>2</b> Гара - Арсенала</a><br><a href="/bg/public-transport/tram-routes-1928-sega/3"> № <b>3</b> Пирот - Подуяне</a><br><a href="/bg/public-transport/tram-routes-1928-sega/4"> № <b>4</b> Булина ливада - Борисова градина</a><br><a href="/bg/public-transport/tram-routes-1928-sega/5"> № <b>5</b> София - Княжево</a><br><a href="/bg/public-transport/tram-routes-1928-sega/6"> № <b>6</b> с. Надежда - Лозенец</a><br><a href="/bg/public-transport/tram-routes-1928-sega/7"> № <b>7</b> Света Неделя - Захарна фабрика</a><br><a href="/bg/public-transport/tram-routes-1928-sega/8"> № <b>8</b> Павлово - Бояна</a><br><a href="/bg/public-transport/tram-routes-1928-sega/9"> № <b>9</b> Военно училище - Орландовци</a><br><a href="/bg/public-transport/tram-routes-1928-sega/10"> № <b>10</b> Булина ливада - Подуяне</a></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/stolichen-obshtinski-vestnik-1928#h-01101928-%D0%B1%D1%80%D0%BE%D0%B9-31-3"><b>Столичен общински вестник - 01.10.1928 (брой 31)</b></a> </td></table></div>
+  
+  
+  [
+  
+
+| линия преди<br>01.10.1928 |     | линия след<br>01.10.1928 |
+| :---:|:---:|:---:|
+| [2-7](/bg/public-transport/tram-routes-1924-1928/2-7) | **→** | [**1**](/bg/public-transport/tram-routes-1928-sega/1) |
+| [2-6](/bg/public-transport/tram-routes-1924-1928/2-6) | **→** | [**2**](/bg/public-transport/tram-routes-1928-sega/2) |
+| [3-10](/bg/public-transport/tram-routes-1924-1928/3-10) | **→** | [**3**](/bg/public-transport/tram-routes-1928-sega3) |
+| [4-8](/bg/public-transport/tram-routes-1924-1928/4-8) | **→** | [**4**](/bg/public-transport/tram-routes-1928-sega/4) |
+| [5-5](/bg/public-transport/tram-routes-1924-1928/5-5) | **→** | [**5**](/bg/public-transport/tram-routes-1928-sega/5) |
+| [6-6a](/bg/public-transport/tram-routes-1924-1928/6-6A) | **→** | [**6**](/bg/public-transport/tram-routes-1928-sega/6) |
+| [3-3а](/bg/public-transport/tram-routes-1924-1928/3-3A) | **→** | [**7**](/bg/public-transport/tram-routes-1928-sega/7) |
+| [8-8](/bg/public-transport/tram-routes-1924-1928/8-8) | **→** | [**8**](/bg/public-transport/tram-routes-1928-sega/8) |
+| [1-9](/bg/public-transport/tram-routes-1924-1928/1-9) | **→** | [**9**](/bg/public-transport/tram-routes-1928-sega/9) |
+| [4-10](/bg/public-transport/tram-routes-1924-1928/4-10) | **→** | [**10**](/bg/public-transport/tram-routes-1928-sega/10) |
+| [2-2](/bg/public-transport/tram-routes-1924-1928/2-2) | **→** | **закрита** |
+| [3-3](/bg/public-transport/tram-routes-1924-1928/3-3) | **→** | **закрита** |
+| [7-7](/bg/public-transport/tram-routes-1924-1928/7-7) | **→** | **закрита** |
+| [10-10](/bg/public-transport/tram-routes-1924-1928/10-7) | **→** | **закрита** |
 
 # 1959
 
