@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1927 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T16:05:11.945Z
+date: 2023-12-28T17:09:47.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T15:23:04.283Z
@@ -265,10 +265,13 @@ dateCreated: 2023-12-28T15:23:04.283Z
 
 ## 24.06.1927 (брой 19)
 Новата трамвайна линия (ул. Шипка до паметника Левски)
+
+
+<img src="https://drive.google.com/uc?id=1T9DYoYB-gIbxe3GKuW1QRLmPEf9odu12">
+
 Новите релси
 
-<img src="https://drive.google.com/uc?id=1Aqw-eUcuTt9_uP-f-FktCADqZh1-oKlu">
-
+<img src="https://drive.google.com/uc?id=12NRSM9br1kTtanOfUs551MYwOdNbqutS">
 
 ## 03.06.1927 (брой 17)
 Новите трамвайни коли (Одобрен търг за 25 броя)
