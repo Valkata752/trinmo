@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1925 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T15:23:04.283Z
+date: 2023-12-28T15:34:28.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T15:23:04.283Z
@@ -394,75 +394,65 @@ dateCreated: 2023-12-28T15:23:04.283Z
 
 
 ## 08.04.1927 (брой 10)
-Хроника - За и.д. наалник на трамваите е назначен инж. Кардалев.
+Хроника - За и.д. началник на трамваите е назначен инж. Кардалев.
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1-NllUdrLmAl-Et_A24mVO1Eop0rwLOyM">
 
 
 ## 08.04.1927 (брой 10)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1x_bmcV0HSdyuJOxR7TFiqHyIp-paWfH3">
 
 
 ## 08.04.1927 (брой 10)
 Обявление - Една струга
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1lU9dDF6SCZfP4IiL7Kk1uesV97bGwsLs">
 
 
 ## 01.04.1927 (брой 9)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1x_bmcV0HSdyuJOxR7TFiqHyIp-paWfH3">
 
 
 ## 01.04.1927 (брой 9)
+Хроника - Из трамваите
 Хроника - Оставка на началник на Трамваите и осветлението
 
-<img src="https://drive.google.com/uc?id=99999999999">
-
-
-## 01.04.1927 (брой 9)
-Хроника - И трамваите
-
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=13kidikGa4gOMihM2JvXUWPaXSXHbfa2k">
 
 
 ## 18.03.1927 (брой 8)
 Хроника - Приходите от трамваите
-
-<img src="https://drive.google.com/uc?id=99999999999">
-
-
-## 18.03.1927 (брой 8)
 Хроника - По арсеналската трамвайна линия
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1WqL77T3WFecGf6enqAqxg_MI-uSY-fe-">
 
 
 ## 18.03.1927 (брой 7)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1GB-_OVSZUbmxIsO6Ex1BA4oXgkyYWKCa">
 
 
 ## 18.03.1927 (брой 7)
 Свободна трибуна - Искания на новите квартали
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1Rd8-qE2ofhOJGNST4q2K9xk5rxvmfEPq">
 
 
 ## 11.03.1927 (брой 6)
 Нов директор на Трамваите и осветлението
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1pWp4VERV-iyGgVNKzETHR8VwYGcZx5dF">
 
 
 ## 04.03.1927 (брой 5)
 Делото за трамваите
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1d5y8ynMlPRTq1fiU9neFbVUQdNDczQmv">
 
 
 ## 04.03.1927 (брой 5)
@@ -486,13 +476,13 @@ dateCreated: 2023-12-28T15:23:04.283Z
 ## 18.02.1927 (брой 3)
 На службата по трамваите
 
-<img src="https://drive.google.com/uc?id=99999999999">
+<img src="https://drive.google.com/uc?id=1cTEdIQDzTXGU8KrwG2Xj0AcICxyjanSi">
 
 
 ## 18.02.1927 (брой 3)
 Хроника - По княжевската линия
 Хроника - Железни травеси
-Хроника - Обуща за тамвайните служащи
+Хроника - Обуща за трамвайните служащи
 
 <img src="https://drive.google.com/uc?id=1Lh2JrAnmjeeiB6ApjMuAHV5OE0BLHZ8j">
 
