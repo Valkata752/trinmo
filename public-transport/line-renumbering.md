@@ -2,7 +2,7 @@
 title: Преномерация на линиите през годините
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T21:33:20.836Z
+date: 2023-12-28T21:35:25.272Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-21T20:13:35.899Z
@@ -21,17 +21,17 @@ dateCreated: 2022-05-21T20:13:35.899Z
 | линия преди <br>1924 |     | линия след <br>1924 |
 |:---:|:---:|:---:|
 | [Гробища](/bg/public-transport/tram-routes-1901-1924/Grobishta) | **→** | [**1-1**](/bg/public-transport/tram-routes-1924-1928/1-1) |
-| не съществува | **→** | [**№ 2-2**](/bg/public-transport/tram-routes-1924-1928/2-2) |
-| не съществува | **→** | [**№ 3-3**](/bg/public-transport/tram-routes-1924-1928/3-3) |
-| [Княжевска](/bg/public-transport/tram-routes-1901-1924/Kniajevska) | **→** | [**№ 5-5**](/bg/public-transport/tram-routes-1924-1928/5-5) |
-| [Витошка](/bg/public-transport/tram-routes-1901-1924/Vitoshka) | **→** | [**№ 6-6**](/bg/public-transport/tram-routes-1924-1928/6-6) |
-| не съществува | **→** | [**№ 7-7**](/bg/public-transport/tram-routes-1924-1928/7-7) |
-| [Цар Освободител<br> Военно Училище](/bg/public-transport/tram-routes-1901-1924/Tsar-Osvoboditel)  | **→** | [**№ 9-9**](/bg/public-transport/tram-routes-1924-1928/9-9) |
-| не съществува | **→** | [**№ 10-10**](/bg/public-transport/tram-routes-1924-1928/10-10) |
-| [Гарата - Игнатиев](/bg/public-transport/tram-routes-1901-1924/Garata-Igantiev) | **→** | [**№ 2-7**](/bg/public-transport/tram-routes-1924-1928/2-7) |
-| не съществува | **→** | [**№ 2-10**](/bg/public-transport/tram-routes-1924-1928/2-10) |
-| не съществува | **→** | [**№ 3-7**](/bg/public-transport/tram-routes-1924-1928/3-7) |
-| [Пирот - Подуяне](/bg/public-transport/tram-routes-1901-1924/Pirot-Poduiane) | **→** | [**№ 3-10**](/bg/public-transport/tram-routes-1924-1928/3-10) |
+| не съществува | **→** | [**2-2**](/bg/public-transport/tram-routes-1924-1928/2-2) |
+| не съществува | **→** | [**3-3**](/bg/public-transport/tram-routes-1924-1928/3-3) |
+| [Княжевска](/bg/public-transport/tram-routes-1901-1924/Kniajevska) | **→** | [**5-5**](/bg/public-transport/tram-routes-1924-1928/5-5) |
+| [Витошка](/bg/public-transport/tram-routes-1901-1924/Vitoshka) | **→** | [**6-6**](/bg/public-transport/tram-routes-1924-1928/6-6) |
+| не съществува | **→** | [**7-7**](/bg/public-transport/tram-routes-1924-1928/7-7) |
+| [Цар Освободител<br> Военно Училище](/bg/public-transport/tram-routes-1901-1924/Tsar-Osvoboditel)  | **→** | [**9-9**](/bg/public-transport/tram-routes-1924-1928/9-9) |
+| не съществува | **→** | [**10-10**](/bg/public-transport/tram-routes-1924-1928/10-10) |
+| [Гарата - Игнатиев](/bg/public-transport/tram-routes-1901-1924/Garata-Igantiev) | **→** | [**2-7**](/bg/public-transport/tram-routes-1924-1928/2-7) |
+| не съществува | **→** | [**2-10**](/bg/public-transport/tram-routes-1924-1928/2-10) |
+| не съществува | **→** | [**3-7**](/bg/public-transport/tram-routes-1924-1928/3-7) |
+| [Пирот - Подуяне](/bg/public-transport/tram-routes-1901-1924/Pirot-Poduiane) | **→** | [**3-10**](/bg/public-transport/tram-routes-1924-1928/3-10) |
 
 # 1928
 ><b>НОВА трамвайна номерация </b><br> Новата номерация на трамвайните линии се въведе от днес.<a href="/bg/literature/stolichen-obshtinski-vestnik-1928#h-01101928-%D0%B1%D1%80%D0%BE%D0%B9-31-3"><br><b>Столичен общински вестник - 01.10.1928 (брой 31)</b></a> 
