@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1927 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T16:04:09.389Z
+date: 2023-12-28T16:05:11.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T15:23:04.283Z
@@ -15,7 +15,7 @@ dateCreated: 2023-12-28T15:23:04.283Z
 <img src="https://drive.google.com/uc?id=1NZ0aU7Gs07X3_O2ewMQoBS6XfhylFcN5">
 
 ## 12.12.1927 (брой 41)
-Борисова градина - Булина ливада - От днес се открива линия 4/8
+Борисова градина - Булина ливада - От днес се открива линия 4-8
 
 <img src="https://drive.google.com/uc?id=1Focpc655lJJIPDaeTbfcSjk5sJWUqQX5">
 
