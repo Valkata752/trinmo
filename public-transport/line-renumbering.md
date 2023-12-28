@@ -2,7 +2,7 @@
 title: Преномерация на линиите през годините
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T18:50:28.678Z
+date: 2023-12-28T21:33:20.836Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-21T20:13:35.899Z
@@ -20,18 +20,18 @@ dateCreated: 2022-05-21T20:13:35.899Z
 
 | линия преди <br>1924 |     | линия след <br>1924 |
 |:---:|:---:|:---:|
-| [Гробища](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D1%80%D0%BE%D0%B1%D0%B8%D1%89%D0%B0) | **→** | [**№ 1-1**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-1-1) |
-| не съществува | **→** | [**№ 2-2**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-2) |
-| не съществува | **→** | [**№ 3-3**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-3) |
-| [Княжевска](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0) | **→** | [**№ 5-5**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-5-5) |
-| [Витошка](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%B8%D1%82%D0%BE%D1%88%D0%BA%D0%B0) | **→** | [**№ 6-6**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-6-6) |
-| не съществува | **→** | [**№ 7-7**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-7-7) |
-| [Цар Освободител](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5)  <br> [Военно Училище](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5) | **→** | [**№ 9-9**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-9-9) |
-| не съществува | **→** | [**№ 10-10**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-10-10) |
-| [Гарата - Игнатиев](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B0%D1%80%D0%B0%D1%82%D0%B0-%D0%B8%D0%B3%D0%BD%D0%B0%D1%82%D0%B8%D0%B5%D0%B2) | **→** | [**№ 2-7**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
-| не съществува | **→** | [**№ 2-10**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
-| не съществува | **→** | [**№ 3-7**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-7) |
-| [Пирот - Подуяне](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B8%D1%80%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D1%83%D0%B5%D0%BD%D0%B5) | **→** | [**№ 3-10**](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-10) |
+| [Гробища](/bg/public-transport/tram-routes-1901-1924/Grobishta) | **→** | [**1-1**](/bg/public-transport/tram-routes-1924-1928/1-1) |
+| не съществува | **→** | [**№ 2-2**](/bg/public-transport/tram-routes-1924-1928/2-2) |
+| не съществува | **→** | [**№ 3-3**](/bg/public-transport/tram-routes-1924-1928/3-3) |
+| [Княжевска](/bg/public-transport/tram-routes-1901-1924/Kniajevska) | **→** | [**№ 5-5**](/bg/public-transport/tram-routes-1924-1928/5-5) |
+| [Витошка](/bg/public-transport/tram-routes-1901-1924/Vitoshka) | **→** | [**№ 6-6**](/bg/public-transport/tram-routes-1924-1928/6-6) |
+| не съществува | **→** | [**№ 7-7**](/bg/public-transport/tram-routes-1924-1928/7-7) |
+| [Цар Освободител<br> Военно Училище](/bg/public-transport/tram-routes-1901-1924/Tsar-Osvoboditel)  | **→** | [**№ 9-9**](/bg/public-transport/tram-routes-1924-1928/9-9) |
+| не съществува | **→** | [**№ 10-10**](/bg/public-transport/tram-routes-1924-1928/10-10) |
+| [Гарата - Игнатиев](/bg/public-transport/tram-routes-1901-1924/Garata-Igantiev) | **→** | [**№ 2-7**](/bg/public-transport/tram-routes-1924-1928/2-7) |
+| не съществува | **→** | [**№ 2-10**](/bg/public-transport/tram-routes-1924-1928/2-10) |
+| не съществува | **→** | [**№ 3-7**](/bg/public-transport/tram-routes-1924-1928/3-7) |
+| [Пирот - Подуяне](/bg/public-transport/tram-routes-1901-1924/Pirot-Poduiane) | **→** | [**№ 3-10**](/bg/public-transport/tram-routes-1924-1928/3-10) |
 
 # 1928
 ><b>НОВА трамвайна номерация </b><br> Новата номерация на трамвайните линии се въведе от днес.<a href="/bg/literature/stolichen-obshtinski-vestnik-1928#h-01101928-%D0%B1%D1%80%D0%BE%D0%B9-31-3"><br><b>Столичен общински вестник - 01.10.1928 (брой 31)</b></a> 
@@ -58,38 +58,37 @@ dateCreated: 2022-05-21T20:13:35.899Z
 
 | линия преди <br>1959 |     | линия след<br>1959 |
 |:---:|:---:|:---:|
-| П   | **→** | **1** |
-| И   | **→** | **2** |
-| Л   | **→** | **3** |
-| З   | **→** | **4** |
-| Х   | **→** | **5** |
-| Ж   | **→** | **6** |
-| Ч   | **→** | **7** |
-| О   | **→** | **8** |
-| А   | **→** | **9** |
-| Д   | **→** | **10** |
-| К   | **→** | **11** |
-| Б   | **→** | **12** |
-| Г   | **→** | **13** |
-| М   | **→** | **13 / 14** |
-| Ф   | **→** | **15** |
-| В   | **→** | **16** |
-| Р   | **→** | **17** |
-| Т   | **→** | **18** |
-| Н   | **→** | **19** |
-| С   | **→** | **20** |
-| Е   | **→** | **22** |
-
+| [П](/bg/public-transport/bus-routes-1935-1959/П)   | **→** | [**1**](/bg/public-transport/bus-routes-1959-1968/1) |
+| [И](/bg/public-transport/bus-routes-1935-1959/И)   | **→** | [**2**](/bg/public-transport/bus-routes-1959-1968/2) |
+| [Л](/bg/public-transport/bus-routes-1935-1959/Л)   | **→** | [**3**](/bg/public-transport/bus-routes-1959-1968/3) |
+| [З](/bg/public-transport/bus-routes-1935-1959/З)   | **→** | [**4**](/bg/public-transport/bus-routes-1959-1968/4) |
+| [Х](/bg/public-transport/bus-routes-1935-1959/Х)   | **→** | [**5**](/bg/public-transport/bus-routes-1959-1968/5) |
+| [Ж](/bg/public-transport/bus-routes-1935-1959/Ж)   | **→** | [**6**](/bg/public-transport/bus-routes-1959-1968/6) |
+| [Ч](/bg/public-transport/bus-routes-1935-1959/Ч)   | **→** | [**7**](/bg/public-transport/bus-routes-1959-1968/7) |
+| [О](/bg/public-transport/bus-routes-1935-1959/О)   | **→** | [**8**](/bg/public-transport/bus-routes-1959-1968/8) |
+| [А](/bg/public-transport/bus-routes-1935-1959/А)   | **→** | [**9**](/bg/public-transport/bus-routes-1959-1968/9) |
+| [Д](/bg/public-transport/bus-routes-1935-1959/Д)   | **→** | [**10**](/bg/public-transport/bus-routes-1959-1968/10) |
+| [К](/bg/public-transport/bus-routes-1935-1959/К)   | **→** | [**11**](/bg/public-transport/bus-routes-1959-1968/11) |
+| [Б](/bg/public-transport/bus-routes-1935-1959/Б)   | **→** | [**12**](/bg/public-transport/bus-routes-1959-1968/12) |
+| [Г](/bg/public-transport/bus-routes-1935-1959/Г)   | **→** | [**13**](/bg/public-transport/bus-routes-1959-1968/13) |
+| [М](/bg/public-transport/bus-routes-1935-1959/М)   | **→** | [**14**](/bg/public-transport/bus-routes-1959-1968/14) |
+| [Ф](/bg/public-transport/bus-routes-1935-1959/Ф)   | **→** | [**15**](/bg/public-transport/bus-routes-1959-1968/15) |
+| [В](/bg/public-transport/bus-routes-1935-1959/В)   | **→** | [**16**](/bg/public-transport/bus-routes-1959-1968/16) |
+| [Р](/bg/public-transport/bus-routes-1935-1959/Р)   | **→** | [**17**](/bg/public-transport/bus-routes-1959-1968/17) |
+| [Т](/bg/public-transport/bus-routes-1935-1959/Т)   | **→** | [**18**](/bg/public-transport/bus-routes-1959-1968/18) |
+| [Н](/bg/public-transport/bus-routes-1935-1959/Н)   | **→** | [**19**](/bg/public-transport/bus-routes-1959-1968/19) |
+| [С](/bg/public-transport/bus-routes-1935-1959/С)   | **→** | [**20**](/bg/public-transport/bus-routes-1959-1968/20) |
+| [Е](/bg/public-transport/bus-routes-1935-1959/Е)   | **→** | [**22**](/bg/public-transport/bus-routes-1959-1968/22) |
 # 1960
 
 | линия преди <br>1960 |     | линия след <br> 1960 |
 |:---:|:---:|:---:|
-| П   | **→** | **1** |
-| ХД  | **→** | **2** |
-| Л   | **→** | **3** |
-| С   | **→** | **4** |
-| Р   | **→** | **5** |
-| И   | **→** | **6** |
+| [П](/bg/public-transport/trolleybus-routes-1941-1960/П)   | **→** | [**1**](/bg/public-transport/trolleybus-routes-1960-sega/1) |
+| [ХД](/bg/public-transport/trolleybus-routes-1941-1960/ХД)   | **→** | [**2**](/bg/public-transport/trolleybus-routes-1960-sega/2) |
+| [Л](/bg/public-transport/trolleybus-routes-1941-1960/Л)   | **→** | [**3**](/bg/public-transport/trolleybus-routes-1960-sega/3) |
+| [С](/bg/public-transport/trolleybus-routes-1941-1960/С)   | **→** | [**4**](/bg/public-transport/trolleybus-routes-1960-sega/4) |
+| [Р](/bg/public-transport/trolleybus-routes-1941-1960/Р)   | **→** | [**5**](/bg/public-transport/trolleybus-routes-1960-sega/5) |
+| [И](/bg/public-transport/trolleybus-routes-1941-1960/И)   | **→** | [**6**](/bg/public-transport/trolleybus-routes-1960-sega/6) |
 
 # 1968
 
