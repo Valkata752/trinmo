@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1927 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T17:09:47.309Z
+date: 2023-12-28T17:32:36.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T15:23:04.283Z
@@ -172,9 +172,13 @@ dateCreated: 2023-12-28T15:23:04.283Z
 
 ## 16.09.1927 (брой 29)
 Новите трамвайни релси
-02.09.1927 (брой 28) - Хроника - Трамвайното движение (пуснато от вчера по ул. Шипка)
-
 <img src="https://drive.google.com/uc?id=1kZipGQ4LHt2IGSLa5GRnw9DbrRYREJ_7">
+
+
+##  02.09.1927 (брой 28)
+Хроника - Трамвайното движение (пуснато от вчера по ул. Шипка)
+
+<img src="https://drive.google.com/uc?id=1X77QOK3XugEfgIByVxVja6TWSwxftWOV">
 
 
 ## 02.09.1927 (брой 28)
