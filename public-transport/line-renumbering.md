@@ -2,7 +2,7 @@
 title: Преномерация на линиите през годините
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-05T09:01:54.826Z
+date: 2023-12-28T11:52:38.520Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-21T20:13:35.899Z
@@ -18,18 +18,18 @@ dateCreated: 2022-05-21T20:13:35.899Z
 
 | линия преди 1924 |     | линия след 1924 |
 | --- | --- | --- |
-| [Гробища](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D1%80%D0%BE%D0%B1%D0%B8%D1%89%D0%B0) | **→** | [*№ 1-1*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-1-1) |
-| не съществува | **→** | [*№ 2-2*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-2) |
-| не съществува | **→** | [*№ 3-3*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-3) |
-| [Княжевска](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0) | **→** | [*№ 5-5*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-5-5) |
-| [Витошка](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%B8%D1%82%D0%BE%D1%88%D0%BA%D0%B0) | **→** | [*№ 6-6*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-6-6) |
-| не съществува | **→** | [*№ 7-7*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-7-7) |
-| [Цар Освободител](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5)  <br> [Военно Училище](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5) | **→** | [*№ 9-9*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-9-9) |
-| не съществува | **→** | [*№ 10-10*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-10-10) |
-| [Гарата - Игнатиев](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B0%D1%80%D0%B0%D1%82%D0%B0-%D0%B8%D0%B3%D0%BD%D0%B0%D1%82%D0%B8%D0%B5%D0%B2) | **→** | [*№ 2-7*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
-| не съществува | **→** | [*№ 2-10*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
-| не съществува | **→** | [*№ 3-7*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-7) |
-| [Пирот - Подуяне](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B8%D1%80%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D1%83%D0%B5%D0%BD%D0%B5) | **→** | [*№ 3-10*](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-10) |
+| [Гробища](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D1%80%D0%BE%D0%B1%D0%B8%D1%89%D0%B0) | **→** | [***№ 1-1***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-1-1) |
+| не съществува | **→** | [***№ 2-2***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-2) |
+| не съществува | **→** | [***№ 3-3***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-3) |
+| [Княжевска](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B0) | **→** | [***№ 5-5***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-5-5) |
+| [Витошка](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%B8%D1%82%D0%BE%D1%88%D0%BA%D0%B0) | **→** | [***№ 6-6***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-6-6) |
+| не съществува | **→** | [***№ 7-7***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-7-7) |
+| [Цар Освободител](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5)  <br> [Военно Училище](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D1%86%D0%B0%D1%80-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%D0%BE%D1%82-1906-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5) | **→** | [***№ 9-9***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-9-9) |
+| не съществува | **→** | [***№ 10-10***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-10-10) |
+| [Гарата - Игнатиев](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B0%D1%80%D0%B0%D1%82%D0%B0-%D0%B8%D0%B3%D0%BD%D0%B0%D1%82%D0%B8%D0%B5%D0%B2) | **→** | [***№ 2-7***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
+| не съществува | **→** | [***№ 2-10***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-2-7) |
+| не съществува | **→** | [***№ 3-7***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-7) |
+| [Пирот - Подуяне](http://trinmo.org/bg/public-transport/tram-routes-1901-1924#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B8%D1%80%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D1%83%D0%B5%D0%BD%D0%B5) | **→** | [***№ 3-10***](http://trinmo.org/bg/public-transport/tram-routes-1924-1928#%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F-3-10) |
 
 # 1928
 
@@ -37,57 +37,57 @@ dateCreated: 2022-05-21T20:13:35.899Z
 
 | линия преди 01.10.1928 |     | линия след 01.10.1928 |
 | --- | --- | --- |
-| № 2-7 | **→** | 1   |
-| № 2-6 | **→** | 2   |
-| № 3-10 | **→** | 3   |
-| Булина ливада - Орлов мост | **→** | 4   |
-| № 5-5 | **→** | 5 / 5А |
-| Св. Неделя - Иван Вазов | **→** | 6   |
-| № 3-3а | **→** | 7   |
-| Павлово - Бояна | **→** | 8   |
-| № 1-9 | **→** | 9   |
-| Булина ливада - Подуяне | **→** | 10  |
-| № 2-2 | **→** | закрита |
-| № 3-3 | **→** | закрита |
-| № 7-7 | **→** | закрита |
-| № 10-10 | **→** | закрита |
+| № 2-7 | **→** | **1** |
+| № 2-6 | **→** | **2** |
+| № 3-10 | **→** | **3** |
+| Булина ливада - Орлов мост | **→** | **4** |
+| № 5-5 | **→** | **5 / 5А** |
+| Св. Неделя - Иван Вазов | **→** | **6** |
+| № 3-3а | **→** | **7** |
+| Павлово - Бояна | **→** | **8** |
+| № 1-9 | **→** | **9** |
+| Булина ливада - Подуяне | **→** | **10** |
+| № 2-2 | **→** | **закрита** |
+| № 3-3 | **→** | **закрита** |
+| № 7-7 | **→** | **закрита** |
+| № 10-10 | **→** | **закрита** |
 
 # 1959
 
 | линия преди 1959 |     | линия след 1959 |
 | --- | --- | --- |
-| П   | **→** | 1   |
-| И   | **→** | 2   |
-| Л   | **→** | 3   |
-| З   | **→** | 4   |
-| Х   | **→** | 5   |
-| Ж   | **→** | 6   |
-| Ч   | **→** | 7   |
-| О   | **→** | 8   |
-| А   | **→** | 9   |
-| Д   | **→** | 10  |
-| К   | **→** | 11  |
-| Б   | **→** | 12  |
-| Г   | **→** | 13  |
-| М   | **→** | 13 / 14 |
-| Ф   | **→** | 15  |
-| В   | **→** | 16  |
-| Р   | **→** | 17  |
-| Т   | **→** | 18  |
-| Н   | **→** | 19  |
-| С   | **→** | 20  |
-| Е   | **→** | 22  |
+| П   | **→** | **1** |
+| И   | **→** | **2** |
+| Л   | **→** | **3** |
+| З   | **→** | **4** |
+| Х   | **→** | **5** |
+| Ж   | **→** | **6** |
+| Ч   | **→** | **7** |
+| О   | **→** | **8** |
+| А   | **→** | **9** |
+| Д   | **→** | **10** |
+| К   | **→** | **11** |
+| Б   | **→** | **12** |
+| Г   | **→** | **13** |
+| М   | **→** | **13 / 14** |
+| Ф   | **→** | **15** |
+| В   | **→** | **16** |
+| Р   | **→** | **17** |
+| Т   | **→** | **18** |
+| Н   | **→** | **19** |
+| С   | **→** | **20** |
+| Е   | **→** | **22** |
 
 # 1960
 
 | линия преди 1960 |     | линия след 1960 |
 | --- | --- | --- |
-| Л   | **→** | 3   |
-|     | **→** |     |
-|     | **→** |     |
-|     | **→** |     |
-|     | **→** |     |
-|     | **→** |     |
+| П   | **→** | **1** |
+| ХД  | **→** | **2** |
+| Л   | **→** | **3** |
+| С   | **→** | **4** |
+| Р   | **→** | **5** |
+| И   | **→** | **6** |
 
 # 1968
 
