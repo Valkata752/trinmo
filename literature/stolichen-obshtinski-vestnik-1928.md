@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1928 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T07:02:47.237Z
+date: 2023-12-29T07:03:57.564Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T17:53:20.721Z
@@ -119,7 +119,7 @@ dateCreated: 2023-12-28T17:53:20.721Z
 ## 24.09.1928 (брой 30)
 Хроника - Трамваят за с. Враждебна
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1IwJOG7X52Bw_u_aTxjBXuC2B6rj2Gtsc">
 
 
 ## 24.09.1928 (брой 30)
