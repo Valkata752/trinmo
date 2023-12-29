@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-18T09:24:55.188Z
+date: 2023-12-29T13:47:33.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -11,7 +11,10 @@ dateCreated: 2022-05-03T08:22:21.095Z
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
 
-
+## 11.2023
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
+  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+</figure>
 
 ## 06.2022
 <figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1uOv28EoSqSFreN5O5-WmWGkB9KS5rOnW)">
