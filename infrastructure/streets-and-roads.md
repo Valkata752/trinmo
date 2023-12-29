@@ -2,7 +2,7 @@
 title: Улична и пътна мрежа
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-10T15:42:03.814Z
+date: 2023-12-29T00:04:21.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T14:54:09.438Z
@@ -37,3 +37,8 @@ dateCreated: 2023-11-10T14:54:09.438Z
 <iframe src="https://drive.google.com/file/d/1vBhTMOj57dHsknAOGoKoZpInjmiw0xDF/preview" width="100%" height="480"></iframe>
 
 
+## История
+
+### Старите имена на улиците и булевардите
+
+### Улиците на София (1927-1928)
