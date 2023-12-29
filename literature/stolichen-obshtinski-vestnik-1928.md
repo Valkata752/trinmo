@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1928 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T07:03:57.564Z
+date: 2023-12-29T12:12:25.131Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T17:53:20.721Z
@@ -131,163 +131,163 @@ dateCreated: 2023-12-28T17:53:20.721Z
 ## 24.09.1928 (брой 30)
 Хроника - Привършена е новата трамвайна линия (кръгова на гарата)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1w1D69wDx7cdkcttUBwD-Goi0xVFbleXs">
 
 
 ## 24.09.1928 (брой 30)
 Хроника - За княжевският трамвай
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=102T-B0nRvYvi-4EMZ4TGqR26obcQ8b0x">
 
 
 ## 24.09.1928 (брой 30)
 Хроника - Електрическаа заварка на трамвайните линии
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=13TxRkZpqeRsqlZo3YZaWnSSkrleCZGhK">
 
 
 ## 17.09.1928 (брой 29)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1tf2QI4qGmK3O_PROy31en68aVugTSegE">
 
 
 ## 03.09.1928 (брой 27)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1YJ1P0TI8_AQSdSpnYF6rZEOp6Nz5J2OI">
 
 
 ## 03.09.1928 (брой 27)
 Хроника - Нова номерация на трамвайните линии
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=18uScm81L8__akCvAKTePjSZWSBpDnu0M">
 
 
 ## 13.08.1928 (брой 24)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1Z6DZxj7PFyhMRp4yRPwMk_8JGT8bxjVx">
 
 
 ## 13.08.1928 (брой 24)
 Хроника - Нови трамвайни чакалнии - на привършване е изграждането на нова
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1hKB9afPIZqMpLKcQhCPyGF-4NyfiB89V">
 
 
 ## 13.08.1928 (брой 24)
 Хроника - Нови трамвайни линии - кръгова линия при гарата
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1MdK4XZm148sH-wjXdvzW0sYu5BaYL49q">
 
 
 ## 13.08.1928 (брой 24)
 Хроника - Последните две от 15те нови Franco-Belge-BBC са доставени)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1VWYwFKW6X4A2FziTnzlxXqIJcy9djDI4">
 
 
 ## 06.08.1928 (брой 23)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1H2rgxrhPzhJJDCY2Oo-PoR_Cs_87IJHe">
 
 
 ## 30.07.1928 (брой 22)
 Обявление - доставка на машини за постройка на трамвайни линии
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1ItAZY1dfHqB1URNENeKNG01II1b_dJPA">
 
 
 ## 30.07.1928 (брой 22)
 с. Надежда - Ив. Вазов" - да се махнат жп линии
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=10wzQFFBk97PDEYp73t8JTiJ4jq48uukB">
 
 
 ## 30.07.1928 (брой 22)
 Новите коли (Изпратени са от фабриката до сега 7 от 15те нови Franco-Belge-BBC)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1UBgSNxz2dv6uWS2Hewkfm5n-qtIztNUv">
 
 
 ## 23.07.1928 (брой 21)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1HDLOxQZq40f0Jrryauyhm-7mlVhQzmsc">
 
 
 ## 23.07.1928 (брой 21)
 Улиците на София (ул. Пресансе)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1zTMZgGZ4l3wuPeFWPpEqLwUaFPyXRbfr">
 
 
 ## 16.07.1928 (брой 20)
 Улиците на София (ул. Антим I, ул. Батак)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1oZkv9LwCpH1x0vgQEpeUAJej2lx0UvQu">
 
 
 ## 09.07.1928 (брой 19)
 Новите трамвайни коли (2 от 15те нови Franco-Belge-BBC трамваи са доставени)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=19poS8htdAFXxrlvFGXtJ7AJK_AGP8iU_">
 
 
 ## 09.07.1928 (брой 19)
 Улиците на София (ул. Венелин)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1coR12szeZblgQnpDVA_zuecEYOVNJ6N-">
 
 
 ## 02.07.1928 (брой 18)
 Дирекция на трамваите и полицейската служба
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1ha-1zEhjJHrJDyfozJz6-KB4GoOSHdkC">
 
 
 ## 02.07.1928 (брой 18)
 Улиците на София (ул. Бачо Киро)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1g99d73x4yTZUOt4fUDNA3JGQumXqHguI">
 
 
 ## 18.06.1928 (брой 16)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1my9DinAwKdF7rl7X6fG-2CAZYGN0IjtK">
 
 
 ## 18.06.1928 (брой 16)
 Хроника - Назначена е приемателна комисия (10 нови трамвая Atellier Metallurgique de Nivelle)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1KhBSRVuFykoTa8zltO9Tq_WKX8syJ3PN">
 
 
 ## 11.06.1928 (брой 15)
 Хроника - Приходи от трамваите
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1MxT-yX5_TSjaoUHfhJD-PYY-M-rW1jyC">
 
 
 ## 11.06.1928 (брой 15)
 Хроника - Въздушна мрежа (Нова ККМ по линия 2-7)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=14sG_uLv3HFxZoxm9WDPr9dlrLYXHch68">
 
 
 ## 11.06.1928 (брой 15)
 Хроника - По княжевската линия (По късни курсове по празниците)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1q2vBOT-cI-d9B3EC-MlZUaNor40-BWlv">
 
 
 ## 11.06.1928 (брой 15)
 Хроника - Нови трамвайни линии (Готова линията към Бояна)
 
-<img src="https://drive.google.com/uc?id=999999999">
+<img src="https://drive.google.com/uc?id=1Pw_a9bLC4cpiRy3QGB5Nxx8xW15GKW4T">
 
 
 ## 28.05.1928 (брой 13)
