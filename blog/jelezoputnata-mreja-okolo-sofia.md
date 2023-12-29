@@ -2,7 +2,7 @@
 title: Железопътната мрежа около София - 1939
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T17:04:47.699Z
+date: 2023-12-29T17:06:37.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-29T17:04:47.699Z
