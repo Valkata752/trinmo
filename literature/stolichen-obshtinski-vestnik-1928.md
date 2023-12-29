@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1928 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T06:57:34.036Z
+date: 2023-12-29T07:02:47.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T17:53:20.721Z
@@ -47,11 +47,14 @@ dateCreated: 2023-12-28T17:53:20.721Z
 Улиците на София (ул. Левски, ул. Средна гора, ул. Бенковски, ул. Оборище)
 
 <img src="https://drive.google.com/uc?id=1rD37OoItVd573SwOyqQgE2-qRYBoj4s-">
+<img src="https://drive.google.com/uc?id=1Ulym0eWrVLZGN0NgRieqXkvhiBEKfPWG">
 
 ## 29.10.1928 (брой 35)
 Улиците на София (ул. Антим I, ул. Раковски)
 
-<img src="https://drive.google.com/uc?id=1Ulym0eWrVLZGN0NgRieqXkvhiBEKfPWG">
+
+<img src="https://drive.google.com/uc?id=1fciXjZzoEb0pNF9o-Om8XePxiz53Mt1J">
+
 
 ## 22.10.1928 (брой 34)
 Хроника - Приходи от трамваите
