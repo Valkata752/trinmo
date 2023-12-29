@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T13:55:50.927Z
+date: 2023-12-29T14:00:15.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -17,55 +17,55 @@ dateCreated: 2022-05-03T08:22:21.095Z
 </figure>
 
 ## 06.2022
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1uOv28EoSqSFreN5O5-WmWGkB9KS5rOnW)">
+  <img src="https://drive.google.com/uc?id=1uOv28EoSqSFreN5O5-WmWGkB9KS5rOnW"/>
 </figure>
 
 ## 03.2021
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=13t6YTeYII_w9KhyDl7P4cOWMciHkkTW8)">
+  <img src="https://drive.google.com/uc?id=13t6YTeYII_w9KhyDl7P4cOWMciHkkTW8"/>
 </figure>
 
 ## 09.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1XJwr8ebkr7id2i0gYOiwhoyjQgzn3Z20)">
+  <img src="https://drive.google.com/uc?id=1XJwr8ebkr7id2i0gYOiwhoyjQgzn3Z20"/>
 </figure>
 
 ## 08.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1A7cTCUudNjF6Qit69X4Q96Ql1MmYTbVU)">
+  <img src="https://drive.google.com/uc?id=1A7cTCUudNjF6Qit69X4Q96Ql1MmYTbVU"/>
 </figure>
 
 ## 01.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=160kwW7z76Uc8L2FZzEzN9sAhJ3XfKcdp)">
+  <img src="https://drive.google.com/uc?id=160kwW7z76Uc8L2FZzEzN9sAhJ3XfKcdp"/>
 </figure>
 
 
 ## 12.2019
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1P6cufACZJiADDtJtZULgEUlNMBFfSgRb)">
+  <img src="https://drive.google.com/uc?id=1P6cufACZJiADDtJtZULgEUlNMBFfSgRb"/>
 </figure>
 
 ## 04.2019
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1YGWN9vpRj2lloJp-18zZWfEOWxwB263W)">
+  <img src="https://drive.google.com/uc?id=1YGWN9vpRj2lloJp-18zZWfEOWxwB263W"/>
 </figure>
 
 ## 01.2018
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=19CpiRIQPVZkRqD5qLU7P_3kfDhWzMQdL)">
+  <img src="https://drive.google.com/uc?id=19CpiRIQPVZkRqD5qLU7P_3kfDhWzMQdL"/>
 </figure>
 
 ## 09.2017
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1TheXb32pPsXrOEn1NpDegvzsElp_Yrrf)">
+  <img src="https://drive.google.com/uc?id=1TheXb32pPsXrOEn1NpDegvzsElp_Yrrf"/>
 </figure>
 
 
 ## 06.2017
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit)">
-  <img src="https://drive.google.com/uc?id=1rGK6jMio6Lc-dWQfX8MkoMvuA7TYufit"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=15nSgWtz0LCwWmgREvWZ0cwXfg4yZ06tV)">
+  <img src="https://drive.google.com/uc?id=15nSgWtz0LCwWmgREvWZ0cwXfg4yZ06tV"/>
 </figure>
 
 ## 01.2017
