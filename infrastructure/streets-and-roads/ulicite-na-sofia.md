@@ -2,7 +2,7 @@
 title: Улиците на София 1927
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T07:06:21.000Z
+date: 2023-12-29T12:14:43.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-29T00:16:45.426Z
@@ -32,16 +32,22 @@ dateCreated: 2023-12-29T00:16:45.426Z
 ## 02.07.1928 (брой 18)
 - Улиците на София (ул. Бачо Киро)
 
+<img src="https://drive.google.com/uc?id=1g99d73x4yTZUOt4fUDNA3JGQumXqHguI">
 
 ## 09.07.1928 (брой 19)
 - Улиците на София (ул. Венелин)
 
+<img src="https://drive.google.com/uc?id=1coR12szeZblgQnpDVA_zuecEYOVNJ6N-">
 
 ## 16.07.1928 (брой 20)
 - Улиците на София (ул. Антим I, ул. Батак)
 
+<img src="https://drive.google.com/uc?id=1oZkv9LwCpH1x0vgQEpeUAJej2lx0UvQu">
+
 ## 23.07.1928 (брой 21)
 - Улиците на София (ул. Пресансе)
+
+<img src="https://drive.google.com/uc?id=1zTMZgGZ4l3wuPeFWPpEqLwUaFPyXRbfr">
 
 ## 08.10.1928 (брой 32 и 33)
 - Улиците на София (ул. Денкоглу, ул. Братя Миладинови)
