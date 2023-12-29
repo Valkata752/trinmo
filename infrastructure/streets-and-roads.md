@@ -2,7 +2,7 @@
 title: Улична и пътна мрежа
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T00:04:21.873Z
+date: 2023-12-29T00:10:49.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T14:54:09.438Z
@@ -41,4 +41,8 @@ dateCreated: 2023-11-10T14:54:09.438Z
 
 ### Старите имена на улиците и булевардите
 
+http://trinmo.org/bg/infrastructure/streets-and-roads/old-names
+
 ### Улиците на София (1927-1928)
+
+http://trinmo.org/bg/infrastructure/streets-and-roads/
