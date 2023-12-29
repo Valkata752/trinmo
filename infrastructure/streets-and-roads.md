@@ -2,7 +2,7 @@
 title: Улична и пътна мрежа
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T00:11:27.125Z
+date: 2023-12-29T00:12:01.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T14:54:09.438Z
@@ -45,4 +45,4 @@ http://trinmo.org/bg/infrastructure/streets-and-roads/old-names
 
 ### Улиците на София (1927-1928)
 
-http://trinmo.org/bg/infrastructure/streets-and-roads/sofia-streets-1927
+http://trinmo.org/bg/infrastructure/streets-and-roads/ulicite-na-sofia
