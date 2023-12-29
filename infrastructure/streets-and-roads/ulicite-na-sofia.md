@@ -2,7 +2,7 @@
 title: Улиците на София 1927
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T07:00:45.625Z
+date: 2023-12-29T07:02:14.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-29T00:16:45.426Z
@@ -57,12 +57,13 @@ dateCreated: 2023-12-29T00:16:45.426Z
 ## 29.10.1928 (брой 35)
 - Улиците на София (ул. Антим I, ул. Раковски)
 
-<img src="https://drive.google.com/uc?id=1Ulym0eWrVLZGN0NgRieqXkvhiBEKfPWG">
+<img src="https://drive.google.com/uc?id=1fciXjZzoEb0pNF9o-Om8XePxiz53Mt1J">
 
 ## 05.11.1928 (брой 36)
 - Улиците на София (ул. Левски, ул. Средна гора, ул. Бенковски, ул. Оборище)
 
 <img src="https://drive.google.com/uc?id=1rD37OoItVd573SwOyqQgE2-qRYBoj4s-">
+<img src="https://drive.google.com/uc?id=1Ulym0eWrVLZGN0NgRieqXkvhiBEKfPWG">
 
 ## 12.11.1928 (брой 37)
 - Улиците на София (ул. Екзарх Йосиф, ул. Хаджи ДИмитър, ул. Стефан Караджа, ул. Любен Каравелов)
