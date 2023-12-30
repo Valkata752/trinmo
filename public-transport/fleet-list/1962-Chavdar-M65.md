@@ -2,7 +2,7 @@
 title: Чавдар М65
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-04T15:43:18.559Z
+date: 2023-12-30T17:02:54.631Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:58.411Z
@@ -42,27 +42,25 @@ dateCreated: 2022-05-19T21:54:58.411Z
 
 # Снимки
   
-# Tabs {.tabset}
+## Tabs {.tabset}
 
-## 120
+### 120
 <!--120--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pNv1mb-5wHlvu5l8tg09ixdBDH-Rd1jtq78sa_i5aNYcYeM3FrfOfZSvx_OWLEPNoUUQOSVgPIjFt454CqEYGxzFo4Ew=w1920-h853" height="200px"><figcaption> <b>A4</b> 📷 С оркестър София в София</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pNv1mb-5wHlvu5l8tg09ixdBDH-Rd1jtq78sa_i5aNYcYeM3FrfOfZSvx_OWLEPNoUUQOSVgPIjFt454CqEYGxzFo4Ew=w1920-h853" width="100%"></div></div>
 <!--120--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81oK96MZpEX5g5A-2uuo26hpGmRdtEDmNkGjEiRLvpGAUUGLNMLVc0_D3VpX18FDGQFoZ8nt7uNA79-iFoCV60eVCKEJog=w1920-h853" height="200px"><figcaption> <b>A4</b> 📷 С оркестър София в София</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81oK96MZpEX5g5A-2uuo26hpGmRdtEDmNkGjEiRLvpGAUUGLNMLVc0_D3VpX18FDGQFoZ8nt7uNA79-iFoCV60eVCKEJog=w1920-h853" width="100%"></div></div>
 
-## 26, 164
+## Tabs {.tabset}
+### 26, 164
 <!--26, 164--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/инфраструктура/гаражи-депа/stochna-gara-1965.jpg" height="200px"><figcaption> <b>Сточна гара</b> 📷 сп. София - 1965 год, бр. 8 с. 4</figcaption></figure></button><div class="dropdown-content"><img src="/инфраструктура/гаражи-депа/stochna-gara-1965.jpg" width="100%"></div></div>
 
-
-## 335
+## Tabs {.tabset}
+### 335
 <!--335--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/подвижен-състав-галерия/1962-chavdar-m65/a56_chavdar_m65_sof_1965_kn12_0019-1.jpg" height="200px"><figcaption> <b>A15</b> 📷 сп. София - 1965 год, бр. 12 с. 19</figcaption></figure></button><div class="dropdown-content"><img src="/подвижен-състав-галерия/1962-chavdar-m65/a56_chavdar_m65_sof_1965_kn12_0019-1.jpg" width="100%"></div></div>
 
-
-## 614
-## 7**
 ## Tabs {.tabset}
-###
+### 614
  <!--614--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1im0NwEMStN7IbnxFNr3jngO-68507Jql" height="200px"><figcaption> <b></b> 📷 https://collections.lib.uwm.edu ⭐</figcaption></figure></button><div class="dropdown-content"><img src="1im0NwEMStN7IbnxFNr3jngO-68507Jql" width="100%"></div></div>
