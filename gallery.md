@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T18:19:33.730Z
+date: 2023-12-30T22:36:11.605Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -80,6 +80,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Торос Хорисян*1968*](/gallery/toros-horisyan)
 - [FPD7*1969*](/gallery/fpd7)
 - [Mike Cornwall*1969*](/gallery/mike-cornwall)
+- [Димитър Кацев и Николай Щерев :bulgaria:*1967*](/gallery/dimitar-katsev-nikolay-shterev)
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
 - [Paul Popper*1960*](/gallery/paul-popper)
 {.links-list}
