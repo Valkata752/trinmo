@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T15:49:38.071Z
+date: 2023-12-30T15:53:23.582Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -57,9 +57,18 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="https://drive.google.com/uc?id=17gzjh4S1jAhocupSd9XhLcosPhKEJggv"></td></tr>
   <td colspan=2 >ℹ️  1908-1911 / A. Weber</td></table></div>
   
+ 
+## Неизвестен
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1u_S2bdyLJmQsNzi9066zYmXWgvVCMawi"></td>
+<td>пл.Св. Неделя</td></tr>
+  <td colspan=2 >ℹ️  73.</td></table></div>
+  
   
 ## Österreichische Nationalbibliothek
 
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1Z9ixpvFhGMick_Mly5G0fnG7LEVPMS7r"></td>
