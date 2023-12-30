@@ -2,7 +2,7 @@
 title: Фотоалбум - София 1959
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T22:55:52.161Z
+date: 2023-12-30T22:58:06.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T22:55:52.161Z
@@ -44,6 +44,12 @@ dateCreated: 2023-12-30T22:55:52.161Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1VgeHCo-MTxH9jSo9HP2nAcTs4qewzbva"></td>
 <td><b></b>📌 <br> 📷 Никола Миронски <br>Фотоалбум София 1959</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1A4JYwKImrGBnCwfVbnXivx4tFEubqQ8-"></td>
+<td><b>tm47</b><br>📌 <br> 📷 неизв. <br>Фотоалбум София 1959</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
