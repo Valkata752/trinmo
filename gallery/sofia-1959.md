@@ -2,7 +2,7 @@
 title: Фотоалбум - София 1959
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T22:58:06.822Z
+date: 2023-12-30T23:22:24.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T22:55:52.161Z
@@ -37,13 +37,13 @@ dateCreated: 2023-12-30T22:55:52.161Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=15hwd1esqMG4e7XkhngzE9ri60MSkhajf"></td>
-<td><b>tm52 line6</b><br>📌 <br> 📷 Людмил Костов <br>Фотоалбум София 1959</td></tr>
+<td><b>Емблематичната сграда отзад и в днешен ден съществува!</b><br>📌 бул. Мария Луиза<b>tm52 line6</b><br>📌 <br> 📷 Людмил Костов <br>Фотоалбум София 1959</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1VgeHCo-MTxH9jSo9HP2nAcTs4qewzbva"></td>
-<td><b></b>📌 <br> 📷 Никола Миронски <br>Фотоалбум София 1959</td></tr>
+<td><b>📌<br> 📷 Никола Миронски <br>Фотоалбум София 1959</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
