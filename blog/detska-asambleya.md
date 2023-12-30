@@ -2,7 +2,7 @@
 title: Международна детска асамблея
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-13T09:32:38.444Z
+date: 2023-12-30T17:25:11.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T21:15:25.817Z
@@ -39,13 +39,13 @@ dateCreated: 2023-05-31T21:15:25.817Z
 <!--612--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1k_KkqNVoleJYlJ0gba-65hk4xzeZ5uRR" height="200px"><figcaption> <b>612</b> 📷 ДИ "Септември" ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1k_KkqNVoleJYlJ0gba-65hk4xzeZ5uRR" width="100%"></div></div>
 <!--612--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1A_15pUKamaEEK6Q4fVrmzdE9SSkJQzv0" height="200px"><figcaption> <b>612</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1A_15pUKamaEEK6Q4fVrmzdE9SSkJQzv0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sbk7yJ6NMmb7jDvV8wt-XTDOn7dTDqj1" height="200px"><figcaption> <b>tm612 line Асамблея</b> 📷 Панайот Бърнев <br>Български визуален архив</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sbk7yJ6NMmb7jDvV8wt-XTDOn7dTDqj1" width="100%"></div></div>
 <!--612--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1l9tE-vVIOmrJd22PgGRc375VYf8LAs4x" height="200px"><figcaption> <b>612</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1l9tE-vVIOmrJd22PgGRc375VYf8LAs4x" width="100%"></div></div>
-<!--612-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1afkQBGg1O64QBuvYMfaDgAoXtcv16mDn" height="200px"><figcaption> <b>612</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1afkQBGg1O64QBuvYMfaDgAoXtcv16mDn" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-IEJHHdan9GGuiycujDFBXuLjxHCN3a-" height="200px"><figcaption> <b>tm612 line Асамблея</b> 📷 Панайот Бърнев <br>Български визуален архив</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-IEJHHdan9GGuiycujDFBXuLjxHCN3a-" width="100%"></div></div>
+
 <!--612--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DtVOThOYcbM_PE9TaV36MxxSOzkStU9B" height="200px"><figcaption> <b>612</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DtVOThOYcbM_PE9TaV36MxxSOzkStU9B" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13o_bEqLHCKkPbXa9i2uPMuluP5KF6XXp" height="200px"><figcaption> <b>tm612 line Асамблея</b> 📷 Панайот Бърнев <br>Български визуален архив</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13o_bEqLHCKkPbXa9i2uPMuluP5KF6XXp" width="100%"></div></div>
+
 
 
 ## 607
