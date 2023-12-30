@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T15:24:10.940Z
+date: 2023-12-30T15:27:46.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -34,4 +34,11 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="https://drive.google.com/uc?id=1Gls-O1ZyqZgCo8zJm85pUtcly2Fuht_D"></td>
 <td><img src="https://drive.google.com/uc?id=15KZRdvRp6IpilvDi9GjeRtmKyVtMeOoV"></td></tr>
   <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
+  
+## Иван. Д. Баджаров
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1AmnK6x0g4gFobRknKoVbg3gkwVoLlOdU"></td>
+<td><img src="https://drive.google.com/uc?id=1p81KiDI6jEUVz2wU64CrGvOEcsdkARii"></td></tr>
+  <td colspan=2 >ℹ️  1908-1911 / Иван. Д. Баджаров</td></table></div>
   
