@@ -2,7 +2,7 @@
 title: Фотограф - Торос Хорисян
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T16:50:37.922Z
+date: 2023-12-30T16:54:04.577Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T16:49:33.801Z
@@ -27,14 +27,14 @@ dateCreated: 2023-12-30T16:49:33.801Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1hlYeFRk6Fx7GQFYaXNP3l52D7GhwHCbG"></td>
-<td>📌 Централни хали <br>📆 1968 <br>🚋  </td></tr>
+<td>📌 Централни хали <br>📆 1968 <br>🚋 Т6M-901 (Космонавт) </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1jgEsm3GdwElioBy08VLyau3zwOEQV_0e"></td>
-<td>📌 Народно събрание <br>📆 1968 <br>🚋 </td></tr>
+<td>📌 Народно събрание <br>📆 1968 <br>🚋 Т4М-221 (Република)</td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 
@@ -47,13 +47,13 @@ dateCreated: 2023-12-30T16:49:33.801Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1KITWuNE-Bp5pR5SLZnYf9aKLDd3XGmYN"></td>
-<td>📌 Съдебна палата <br>📆 1968 <br>🚋  </td></tr>
+<td>📌 Съдебна палата <br>📆 1968 <br>🚋  Т6M-901 (Космонавт)</td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=10_358NBUxOhfSaAgGqbKq3Be8yDXelA1"></td>
-<td>📌 Софийски Университет <br>📆 1968 <br>🚋  </td></tr>
+<td>📌 Софийски Университет <br>📆 1968 <br>🚎 Skoda 9TR  </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 <!--следващ пост--> 
@@ -65,12 +65,12 @@ dateCreated: 2023-12-30T16:49:33.801Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=18Y2zMdoP5sHMMfGZtF7NrhLTIf0oh48r"></td>
-<td>📌 ж.к. Христо Смирненски (сега ж.к. Западен парк) <br>📆 1968 <br>🚋 </td></tr>
+<td>📌 ж.к. Христо Смирненски (сега ж.к. Западен парк) <br>📆 1968 <br>🚋 Т6М-801 (София) </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
       
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1idSQ0Ph0OlghKh7kDuFlTQGw8SpUap0v"></td>
-<td>📌 бул. Георги Димитров (сега Мария Луиза) <br>📆 1968 <br>🚋 </td></tr>
+<td>📌 бул. Георги Димитров (сега Мария Луиза) <br>📆 1968 <br>🚋 Т6M-901 (Космонавт)</td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
             
