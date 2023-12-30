@@ -2,7 +2,7 @@
 title: Фотограф Богдан Стефанов
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T18:32:10.694Z
+date: 2023-12-30T18:36:49.595Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T18:20:40.888Z
@@ -21,15 +21,15 @@ dateCreated: 2023-12-30T18:20:40.888Z
 <!--786--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1d9O_g4IuIYU7ZNe7FwVmiWvTVhN7wWHn" height="200px"><figcaption> <b>tm786 line3</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1d9O_g4IuIYU7ZNe7FwVmiWvTVhN7wWHn" width="100%"></div></div>
 
-<!--786--> 
+<!--spirkoznak--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" height="200px"><figcaption> <b>спиркознак</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" width="100%"></div></div>
 
-<!--786--> 
+<!--666--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BGKB5f4qfFVGhXXNjJFKOQ1sX8ljD-3d" height="200px"><figcaption> <b>tm666 line7</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BGKB5f4qfFVGhXXNjJFKOQ1sX8ljD-3d" width="100%"></div></div>
 
-<!--786--> 
+<!--855--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FwuVLOvWWvnFkndm13HavU0cGwcxM-nP" height="200px"><figcaption> <b>tm855 line2</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FwuVLOvWWvnFkndm13HavU0cGwcxM-nP" width="100%"></div></div>
 
 
-<!--786--> 
+<!--878--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1unLrV-7MI1jEHzJ4Sq9fK2yWv_JoywhH" height="200px"><figcaption> <b>tm878</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1unLrV-7MI1jEHzJ4Sq9fK2yWv_JoywhH" width="100%"></div></div>
