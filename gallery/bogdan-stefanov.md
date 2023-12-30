@@ -2,7 +2,7 @@
 title: Фотограф Богдан Стефанов
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T18:36:49.595Z
+date: 2023-12-30T18:41:28.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T18:20:40.888Z
@@ -33,3 +33,6 @@ dateCreated: 2023-12-30T18:20:40.888Z
 
 <!--878--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1unLrV-7MI1jEHzJ4Sq9fK2yWv_JoywhH" height="200px"><figcaption> <b>tm878</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1unLrV-7MI1jEHzJ4Sq9fK2yWv_JoywhH" width="100%"></div></div>
+
+<!--su--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GYpsxWWcvtsgKH9P4RE3bQrBCG5pWrzK" height="200px"><figcaption> <b>Софийски университет</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GYpsxWWcvtsgKH9P4RE3bQrBCG5pWrzK" width="100%"></div></div>
