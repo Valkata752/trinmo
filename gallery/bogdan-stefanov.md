@@ -2,7 +2,7 @@
 title: Фотограф Богдан Стефанов
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T18:25:57.172Z
+date: 2023-12-30T18:29:34.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T18:20:40.888Z
@@ -23,3 +23,9 @@ dateCreated: 2023-12-30T18:20:40.888Z
 
 <!--786--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" height="200px"><figcaption> <b>спиркознак</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" width="100%"></div></div>
+
+<!--786--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BGKB5f4qfFVGhXXNjJFKOQ1sX8ljD-3d" height="200px"><figcaption> <b>tm666 line7</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BGKB5f4qfFVGhXXNjJFKOQ1sX8ljD-3d" width="100%"></div></div>
+
+<!--786--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FwuVLOvWWvnFkndm13HavU0cGwcxM-nP" height="200px"><figcaption> <b>tm855 line2</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FwuVLOvWWvnFkndm13HavU0cGwcxM-nP" width="100%"></div></div>
