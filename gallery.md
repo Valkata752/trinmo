@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T22:50:29.123Z
+date: 2023-12-30T22:58:37.913Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -86,6 +86,6 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 
 ## 00те
-- [Фотоалбум София*1959*](/gallery/sofia-1959)
+- [Фотоалбум София :bulgaria:*1959*](/gallery/sofia-1959)
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
 {.links-list}
