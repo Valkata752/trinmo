@@ -2,7 +2,7 @@
 title: Фотограф - Торос Хорисян
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T17:06:29.531Z
+date: 2023-12-30T17:30:36.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T16:49:33.801Z
@@ -17,16 +17,7 @@ dateCreated: 2023-12-30T16:49:33.801Z
 ## Tabs {.tabset}
 ### 
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1BPa3ihjN1gdGyE3hpr2CMdfA2jFK6jHr"></td>
-<td>📌 бул.Емил Марков (сега бул. Гоце Делчев)  <br>📆 1968 <br>🚌 <a href="/bg/public-transport/fleet-list/1962-Chavdar-M65">Чавдар М65</a> </td></tr>
-  <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
-  
-  
-  
-  
-  
+ 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1hlYeFRk6Fx7GQFYaXNP3l52D7GhwHCbG"></td>
@@ -76,4 +67,9 @@ dateCreated: 2023-12-30T16:49:33.801Z
 <td><img src="https://drive.google.com/uc?id=1idSQ0Ph0OlghKh7kDuFlTQGw8SpUap0v"></td>
 <td>📌 бул. Георги Димитров (сега Мария Луиза) <br>📆 1968 <br>🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a></td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
-            
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1BPa3ihjN1gdGyE3hpr2CMdfA2jFK6jHr"></td>
+<td>📌 бул. Ленин (сега бул. Цариградско шосе)  <br>📆 1968 <br>🚌 <a href="/bg/public-transport/fleet-list/1962-Skoda-706-RTO">Škoda 706 RTO</a> </td></tr>
+  <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
