@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-06T18:25:06.353Z
+date: 2023-12-30T15:24:10.940Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -10,21 +10,28 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 ## Людмил Попов
 
-| | |
-|---------|------|
-|<img src="https://drive.google.com/uc?id=1X8tG_WTC0fT6jTfDveJxH_e7eVb0ZZFA"> |<img src="https://drive.google.com/uc?id=1X9iEZQLv7ganDv2IG1lBf7z4sTXXhPJx">| 
-{.dense}
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=18NnOb6T7MOBXQT3FcmdjuFGstJ3hKzxN"></td>
+<td><img src="https://drive.google.com/uc?id=1vZY9CV8gM6CkI3wKYpvGR7USGevWpCd_"></td></tr>
+  <td colspan=2 >ℹ️ Людмил Попов</td></table></div>
+  
+  
 
 ## Тодор Чипев
-| | |
-|---------|------|
-|<img src="https://drive.google.com/uc?id=1iB654Rrip-zcRLI6s60GpGWvFqjxkbCQ"> |<img src="https://drive.google.com/uc?id=1m1_qMegS90nDHxsTnWg_oU8zF-QVn-Vw">| 
-{.dense}
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=10FSYj4tQN88H_YSyZaTjzXYh6X30_0QX"></td>
+<td><img src="https://drive.google.com/uc?id=1W39BpNYsn8mnNALrit7Erwqat7KDWLCs"></td></tr>
+  <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
+  
 
 ## Д. Влаев
-| | |
-|---------|------|
-|<img src="https://drive.google.com/uc?id=1C-91uUUvPrVrCkG2Y3Iir7mYgfcLM0vP"> |<img src="https://drive.google.com/uc?id=1ZA-HuHImUsK_7ddgUnIx13Lnu7XZGwmE">| 
-{.dense}
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1Gls-O1ZyqZgCo8zJm85pUtcly2Fuht_D"></td>
+<td><img src="https://drive.google.com/uc?id=15KZRdvRp6IpilvDi9GjeRtmKyVtMeOoV"></td></tr>
+  <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
+  
