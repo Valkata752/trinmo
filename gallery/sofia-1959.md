@@ -2,7 +2,7 @@
 title: Фотоалбум - София 1959
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T23:22:24.659Z
+date: 2023-12-30T23:25:27.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T22:55:52.161Z
@@ -43,13 +43,13 @@ dateCreated: 2023-12-30T22:55:52.161Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1VgeHCo-MTxH9jSo9HP2nAcTs4qewzbva"></td>
-<td><b>📌<br> 📷 Никола Миронски <br>Фотоалбум София 1959</td></tr>
+<td><b></b>📌 бул. Патриарх Евтимии (пред Iва градска болница)<br> 📷 Никола Миронски <br>Фотоалбум София 1959</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1A4JYwKImrGBnCwfVbnXivx4tFEubqQ8-"></td>
-<td><b>tm47</b><br>📌 <br> 📷 неизв. <br>Фотоалбум София 1959</td></tr>
+<td><b>tm47 line1</b><br>📌 кръстовище бул. Витоша и ул. Хан аспарух<br> 📷 неизв. <br>Фотоалбум София 1959</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
