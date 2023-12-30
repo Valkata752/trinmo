@@ -2,7 +2,7 @@
 title: Фотограф - Торос Хорисян
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T16:54:04.577Z
+date: 2023-12-30T17:06:29.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T16:49:33.801Z
@@ -20,57 +20,60 @@ dateCreated: 2023-12-30T16:49:33.801Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1BPa3ihjN1gdGyE3hpr2CMdfA2jFK6jHr"></td>
-<td>📌 бул.Емил Марков (сега бул. Гоце Делчев)  <br>📆 1968 <br>🚌 Чавдар М65 </td></tr>
+<td>📌 бул.Емил Марков (сега бул. Гоце Делчев)  <br>📆 1968 <br>🚌 <a href="/bg/public-transport/fleet-list/1962-Chavdar-M65">Чавдар М65</a> </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
+  
+  
+  
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1hlYeFRk6Fx7GQFYaXNP3l52D7GhwHCbG"></td>
-<td>📌 Централни хали <br>📆 1968 <br>🚋 Т6M-901 (Космонавт) </td></tr>
+<td>📌 Централни хали <br>📆 1968 <br>🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a> </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1jgEsm3GdwElioBy08VLyau3zwOEQV_0e"></td>
-<td>📌 Народно събрание <br>📆 1968 <br>🚋 Т4М-221 (Република)</td></tr>
+<td>📌 Народно събрание <br>📆 1968 <br>🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 (Република)</a></td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=15KA_F4mzQYc3h-ge7KMfeCJTHrmdWdu2"></td>
-<td>📌 пл. Орлов мост <br>📆 1968 <br>🚎 Skoda 9TR </td></tr>
+<td>📌 пл. Орлов мост <br>📆 1968 <br>🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1KITWuNE-Bp5pR5SLZnYf9aKLDd3XGmYN"></td>
-<td>📌 Съдебна палата <br>📆 1968 <br>🚋  Т6M-901 (Космонавт)</td></tr>
+<td>📌 Съдебна палата <br>📆 1968 <br>🚋  <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a></td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=10_358NBUxOhfSaAgGqbKq3Be8yDXelA1"></td>
-<td>📌 Софийски Университет <br>📆 1968 <br>🚎 Skoda 9TR  </td></tr>
+<td>📌 Софийски Университет <br>📆 1968 <br>🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a>  </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1ziWI-3O2C7g0cQkN4tIQkIylkLTl977w"></td>
-<td>📌 пам. Васил Левски <br>📆 1968 <br>🚎 Skoda 9TR </td></tr>
+<td>📌 пам. Васил Левски <br>📆 1968 <br>🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
       
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=18Y2zMdoP5sHMMfGZtF7NrhLTIf0oh48r"></td>
-<td>📌 ж.к. Христо Смирненски (сега ж.к. Западен парк) <br>📆 1968 <br>🚋 Т6М-801 (София) </td></tr>
+<td>📌 ж.к. Христо Смирненски (сега ж.к. Западен парк) <br>📆 1968 <br>🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a> </td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
       
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1idSQ0Ph0OlghKh7kDuFlTQGw8SpUap0v"></td>
-<td>📌 бул. Георги Димитров (сега Мария Луиза) <br>📆 1968 <br>🚋 Т6M-901 (Космонавт)</td></tr>
+<td>📌 бул. Георги Димитров (сега Мария Луиза) <br>📆 1968 <br>🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a></td></tr>
   <td colspan=2 >ℹ️ Фотоалбум (съст. Торос Хорисян). София: „Наука и изкуство“, 1968.</td></table></div>
             
