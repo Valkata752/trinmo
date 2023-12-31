@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-31T13:46:34.785Z
+date: 2023-12-31T13:48:12.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -23,8 +23,9 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 215
-<!--215-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" height="200px"><figcaption><b>ТБ3</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" width="100%"></div></div>
+<!--215--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" height="200px"><figcaption></figcaption><b>tb215 line3 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" width="100%"></div></div>
+
 
 ## Tabs {.tabset}
 ### 219
@@ -32,15 +33,15 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" width="100%"></div></div>
  <!--219--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" width="100%"></div></div>
-<!--219-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" width="100%"></div></div>
-
+<!--219, 323--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" height="200px"><figcaption></figcaption><b>tb219 line4, tb323 line2</b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
 ### 223
-<!--223-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" width="100%"></div></div>
+
+<!--223--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E8V6ZAwJV87yxHm2TUbM4o8J48cSkf65" height="200px"><figcaption></figcaption><b>tb223 line4 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E8V6ZAwJV87yxHm2TUbM4o8J48cSkf65" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### 224
@@ -56,8 +57,11 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 238
 <!--238-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" height="200px"><figcaption><b>ТБ3</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" width="100%"></div></div>
-<!--238-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" width="100%"></div></div>
+
+<!--238--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1drlnfmuNtBPIJjjOPLNovIuUFc9gOXvG" height="200px"><figcaption></figcaption><b>tb238 line4 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1drlnfmuNtBPIJjjOPLNovIuUFc9gOXvG" width="100%"></div></div>
+
+
 
 ## Tabs {.tabset}
 ### 242
@@ -91,7 +95,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <!--274-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_O" width="100%"></div></div>
 <!--274--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/FxrI5IofnRceFk7Op62xUS4aoAOe0Ia_Vn-aJo-3C6WPcwy171zUbK_LlvhdOAcjbbM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Bohdan Turzanski</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/FxrI5IofnRceFk7Op62xUS4aoAOe0Ia_Vn-aJo-3C6WPcwy171zUbK_LlvhdOAcjbbM=w2400" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BvwNLi651QJph1DcmutsT7ralz8Jou6-" height="200px"><figcaption></figcaption><b>tb274 line2 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BvwNLi651QJph1DcmutsT7ralz8Jou6-" width="100%"></div></div>
 <!--274-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" width="100%"></div></div>
 
@@ -157,8 +161,9 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 323
-<!--323-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" height="200px"><figcaption><b>ТБ2</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" width="100%"></div></div>
+<!--219, 323--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" height="200px"><figcaption></figcaption><b>tb219 line4, tb323 line2</b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" width="100%"></div></div>
+
  <!--323--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" width="100%"></div></div>
 
