@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-31T11:55:58.198Z
+date: 2023-12-31T12:12:05.593Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -173,8 +173,9 @@ MAN-Siemens притежава следните технико-експлоат�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1MpG2hWOVp5oQfADamq2A8FFwnqwd-_F1" height="200px"><figcaption></figcaption><b>tm553+582</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1MpG2hWOVp5oQfADamq2A8FFwnqwd-_F1" width="100%"></div></div>
 <!--149--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10zNCGTwdERcl4K4FevtIQwhQR27QYuju" height="200px"><figcaption></figcaption><b>tm149 line5</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10zNCGTwdERcl4K4FevtIQwhQR27QYuju" width="100%"></div></div>
-<!--553-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YI_8GIoaKhgAhkJc9PusS5c-_ajEYdsg" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YI_8GIoaKhgAhkJc9PusS5c-_ajEYdsg" width="100%"></div></div>
+
+<!--553, 502--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PUasbx8tatxs-ZAq6WCcCkqd4IZOzr9Q" height="200px"><figcaption></figcaption><b>tm553, tm502</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PUasbx8tatxs-ZAq6WCcCkqd4IZOzr9Q" width="100%"></div></div>
 
 
 # Tabs {.tabset}
