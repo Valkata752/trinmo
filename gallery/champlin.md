@@ -2,7 +2,7 @@
 title: Фотограф - Champlin
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T13:27:27.060Z
+date: 2023-12-31T14:11:14.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:26:09.399Z
@@ -12,27 +12,56 @@ dateCreated: 2023-11-20T13:26:09.399Z
 {.is-info}
 
 
+
 ## 1990
 ## Tabs {.tabset}
 ### Т8М-730 (София-70)
-<!--127--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP" height="200px"><figcaption></figcaption>127</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP" width="100%"></div></div>
 
-<!--740--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UTp5sem5B6LiyR4GISs-rKJK2k0NLgiR" height="200px"><figcaption></figcaption>740</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UTp5sem5B6LiyR4GISs-rKJK2k0NLgiR" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP"></td>
+<td><b><b>tm127 line21 </b></b><br>📌 ул. Алабин <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1UTp5sem5B6LiyR4GISs-rKJK2k0NLgiR"></td>
+<td><b><b>tm740 line3 </b></b><br>📌 ? <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--785--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd" height="200px"><figcaption></figcaption>785</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd"></td>
+<td><b><b>tm785 line7 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ 
 
 ## Tabs {.tabset}
 ### Т6М-700/М
-<!--816--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl" height="200px"><figcaption></figcaption>816</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl" width="100%"></div></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl"></td>
+<td><b><b>tm816 line4 </b></b><br>📌 пл. Св. Неделя <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
-<!--845--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VtzJBWidp_L5LsRjgiNOcA_DDuUMmvZb" height="200px"><figcaption></figcaption>845</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VtzJBWidp_L5LsRjgiNOcA_DDuUMmvZb" width="100%"></div></div>
-
-
-<!--845--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GwFLqnfsOWWGl4yjzH6q7Fe3cDvNljLU" height="200px"><figcaption></figcaption>845</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GwFLqnfsOWWGl4yjzH6q7Fe3cDvNljLU" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1VtzJBWidp_L5LsRjgiNOcA_DDuUMmvZb"></td>
+<td><b><b>tm845 line1 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1GwFLqnfsOWWGl4yjzH6q7Fe3cDvNljLU"></td>
+<td><b><b>tm845 line1 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
