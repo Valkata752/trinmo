@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-16T13:01:19.653Z
+date: 2023-12-31T11:55:58.198Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -147,10 +147,12 @@ MAN-Siemens притежава следните технико-експлоат�
 <!--81--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qDqGwwZdG1XgY5k8nay1AAxVMUxMZ_ntrYlzb-cp4Onl2_bvEPFMd78OtpKbDlhQhfPke0ZhNrSkde0nm25HcxsP34yw=w1920-h853" height="200px"><figcaption> <b>TM8</b> 📷 Петър Спасов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qDqGwwZdG1XgY5k8nay1AAxVMUxMZ_ntrYlzb-cp4Onl2_bvEPFMd78OtpKbDlhQhfPke0ZhNrSkde0nm25HcxsP34yw=w1920-h853" width="100%"></div></div>
 
+# Tabs {.tabset}
 ## 82
 <!--82--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_edG5Tr_wY7TN6HaeRIBpk79ylgnyaMv" height="200px"><figcaption><b>TM2</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_edG5Tr_wY7TN6HaeRIBpk79ylgnyaMv" width="100%"></div></div>
 
+# Tabs {.tabset}
 ## 83/553
 ### 83
 <!--83-->
@@ -166,30 +168,37 @@ MAN-Siemens притежава следните технико-експлоат�
 <!--553-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BmzHQp7F-Jba4Z4xIvZ6sYenFZEzoxzB" height="200px"><figcaption><b>депо</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BmzHQp7F-Jba4Z4xIvZ6sYenFZEzoxzB" width="100%"></div></div>
 <!--553--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lX67jdEEX-iryW99Da_QcLiIqk3huoz6" height="200px"><figcaption><b>1981 г.</b>📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lX67jdEEX-iryW99Da_QcLiIqk3huoz6" width="100%"></div></div>
-<!--553-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1miFnVPZ4GCd4JDo8FT9HFJt1TXjDrqxW" height="200px"><figcaption><b>1981 г.</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1miFnVPZ4GCd4JDo8FT9HFJt1TXjDrqxW" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sVudSuwA-xdspX8DIYD3HZ9wkI6rxWuK" height="200px"><figcaption></figcaption><b>tm553</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sVudSuwA-xdspX8DIYD3HZ9wkI6rxWuK" width="100%"></div></div>
+<!--553+582--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1MpG2hWOVp5oQfADamq2A8FFwnqwd-_F1" height="200px"><figcaption></figcaption><b>tm553+582</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1MpG2hWOVp5oQfADamq2A8FFwnqwd-_F1" width="100%"></div></div>
+<!--149--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10zNCGTwdERcl4K4FevtIQwhQR27QYuju" height="200px"><figcaption></figcaption><b>tm149 line5</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10zNCGTwdERcl4K4FevtIQwhQR27QYuju" width="100%"></div></div>
 <!--553-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YI_8GIoaKhgAhkJc9PusS5c-_ajEYdsg" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YI_8GIoaKhgAhkJc9PusS5c-_ajEYdsg" width="100%"></div></div>
 
 
+# Tabs {.tabset}
 ## 84
 <!--84--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1l8wQ4RfNM8aMnEizfEOlEx6wPqZp5cSE" height="200px"><figcaption><b>TM3</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1l8wQ4RfNM8aMnEizfEOlEx6wPqZp5cSE" width="100%"></div></div>
 
+# Tabs {.tabset}
 ## 85
 <!--85--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q9twoJB2uo4uKoDsnYD3wGma_h9VV6D6" height="200px"><figcaption><b>TM3</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q9twoJB2uo4uKoDsnYD3wGma_h9VV6D6" width="100%"></div></div>
 
+# Tabs {.tabset}
 ## 88
 <!--88--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PzYj_b-xklxJD1PxO-5PEpwYaR_HeJ1f" height="200px"><figcaption><b>TM?</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PzYj_b-xklxJD1PxO-5PEpwYaR_HeJ1f" width="100%"></div></div>
 
+# Tabs {.tabset}
 ## 90
 <!--90-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aTOafin9fyeCUD9Zb9Qja5DPZmXdoJrl" height="200px"><figcaption><b>TM3</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aTOafin9fyeCUD9Zb9Qja5DPZmXdoJrl" width="100%"></div></div>
 
 
+# Tabs {.tabset}
 ## 92/1/92
 <!--1-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16lc6zV4EZNJpgMyUXZznV61w76OEVO3j" height="200px"><figcaption><b>депо</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16lc6zV4EZNJpgMyUXZznV61w76OEVO3j" width="100%"></div></div>
