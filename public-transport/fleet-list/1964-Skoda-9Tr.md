@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-08T07:59:37.378Z
+date: 2023-12-31T13:53:14.130Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -420,173 +420,75 @@ dateCreated: 2022-05-19T22:30:33.330Z
 <img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AAOQEOSnuh4eaKd_e0NvdZlA8khn2uGBnRNFjmqz68HkDX3X3OC1Os99cW817EfOEr54NtknrtNt4o8ycYmlZ4GCtKNrCefwzQ=w2400" height="500px">
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1979-T6M-400)
+{.links-list}
 
-## 200-299
+
+
+## ТБ1
 ## Tabs {.tabset}
-
-### 212
-<!--212-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБУ</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
-
-### 215
-<!--215-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" height="200px"><figcaption><b>ТБ3</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" width="100%"></div></div>
-
-### 219
-<!--219-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" width="100%"></div></div>
- <!--219--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" width="100%"></div></div>
-<!--219-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" width="100%"></div></div>
+###
+<!--312-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" height="200px"><figcaption><b>ТБ1</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" width="100%"></div></div>
 
 
-
-### 223
-<!--223-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" width="100%"></div></div>
-
-### 224
- <!--224--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/lJCklSuVep4kUauUk9G5HoBa0q-tQJd7on2hKsYMDmmNDNX1Dajb4R_n7VEikmcu4Qw=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/lJCklSuVep4kUauUk9G5HoBa0q-tQJd7on2hKsYMDmmNDNX1Dajb4R_n7VEikmcu4Qw=w2400" width="100%"></div></div>
-
-### 234
-<!--234-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" width="100%"></div></div>
-
-### 238
-<!--238-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" height="200px"><figcaption><b>ТБ3</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" width="100%"></div></div>
-<!--238-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" width="100%"></div></div>
-
-### 242
-<!--242-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19_rCOTtRI2jiVYDIFL-c06S25z219TME" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19_rCOTtRI2jiVYDIFL-c06S25z219TME" width="100%"></div></div>
-
-### 247
- <!--247--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/NvsmS_Wm4ncTaEbitvOod2pGqs70xU0lBZTwcPUYhGKwBrGuFvcdY16oVxH3SGBi8LU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Борислав Харизанов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/NvsmS_Wm4ncTaEbitvOod2pGqs70xU0lBZTwcPUYhGKwBrGuFvcdY16oVxH3SGBi8LU=w2400" width="100%"></div></div>
-
-
-### 258/259
-<!--258-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1flD0BKr1Q66cP-vt47kH71VhqLZiNYZO" height="200px"><figcaption><b>ТБ3</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1flD0BKr1Q66cP-vt47kH71VhqLZiNYZO" width="100%"></div></div>
-
-### 264
-<!--264-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E9faXRjeixJHUbpfF1pzmSaV--85Q1WO" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E9faXRjeixJHUbpfF1pzmSaV--85Q1WO" width="100%"></div></div>
-
-### 270
+## ТБ2
+## Tabs {.tabset}
+###
  <!--270--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Pedro Gonzalez Esquerdo</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" width="100%"></div></div>
-
-
-### 274
 <!--274-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_O" width="100%"></div></div>
-<!--274--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/FxrI5IofnRceFk7Op62xUS4aoAOe0Ia_Vn-aJo-3C6WPcwy171zUbK_LlvhdOAcjbbM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Bohdan Turzanski</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/FxrI5IofnRceFk7Op62xUS4aoAOe0Ia_Vn-aJo-3C6WPcwy171zUbK_LlvhdOAcjbbM=w2400" width="100%"></div></div>
-<!--274-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" width="100%"></div></div>
-
-### 277
- <!--277--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/BbJvTynXjcHnOKR9cODiWbu2_LaG6nofYRgOAxdZ6j_xJcwiBH92VrBgLMDfxfxC1zU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Bohdan Turzanski</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/BbJvTynXjcHnOKR9cODiWbu2_LaG6nofYRgOAxdZ6j_xJcwiBH92VrBgLMDfxfxC1zU=w2400" width="100%"></div></div>
-
-### 283
 <!--283-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" width="100%"></div></div>
  <!--283--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/fsfQN-Wm-JFwO42KTEwoeCNs43WCDGNriLuGLMCNrwa9L2Ops-KN967n1_Ti8HUxfTc=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/fsfQN-Wm-JFwO42KTEwoeCNs43WCDGNriLuGLMCNrwa9L2Ops-KN967n1_Ti8HUxfTc=w2400" width="100%"></div></div>
 
-### 284
-<!--284-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" width="100%"></div></div>
- <!--284--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/V1SGL51EkDswHwi5iLr4xv6gWP32iIIJDyvVrB_RJxVPr8dVfvQPbLU8-4W40TUAJ4w=w2400" height="200px"><figcaption><b>ТБ? </b>📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/V1SGL51EkDswHwi5iLr4xv6gWP32iIIJDyvVrB_RJxVPr8dVfvQPbLU8-4W40TUAJ4w=w2400" width="100%"></div></div>
-
-### 292
-  <!--292--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/U4OCoNIHkE86oWKP3YxZp5oZmB5ROSRGB-794eKY7j7bYOkYDfhc-jN2CylUgYai5LY=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Росен Димитров</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/U4OCoNIHkE86oWKP3YxZp5oZmB5ROSRGB-794eKY7j7bYOkYDfhc-jN2CylUgYai5LY=w2400" width="100%"></div></div>
-
-### 293
-<!--293-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" height="200px"><figcaption><b>ТБ6</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" width="100%"></div></div>
-
-## 300-399
+## ТБ3
 ## Tabs {.tabset}
-
-### 303/304
-<!--303-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sEwSWV4uuSNfnOqd6TsCelqgCXL7XFiq" height="200px"><figcaption><b>ТБ2</b> 📷 ohoboho ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11sEwSWV4uuSNfnOqd6TsCelqgCXL7XFiq" width="100%"></div></div>
+###
+<!--215-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" height="200px"><figcaption><b>ТБ3</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wuNFHBedtreIgETky6ONPijy2xbIO9y2" width="100%"></div></div>
+<!--238-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" height="200px"><figcaption><b>ТБ3</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ssFAhRpEXltRSrAEmXZtDKdHUcUyO9a6" width="100%"></div></div>
 <!--303-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" height="200px"><figcaption><b>ТБ3</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" width="100%"></div></div>
 
-### 305/306
-<!--305-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБ3</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
-<!--306-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13JfZfFAvb8cH2VasQsDcE_yBY1IkyHT3" height="200px"><figcaption><b>ТБ3</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13JfZfFAvb8cH2VasQsDcE_yBY1IkyHT3" width="100%"></div></div>
+## ТБ4
+## Tabs {.tabset}
+###
+<!--219-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" width="100%"></div></div>
+<!--223-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pXTdMPiU1r6R9mxM_MF3gfTYYT6AqMI8" width="100%"></div></div>
+<!--238-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" height="200px"><figcaption><b>ТБ4</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1T2YGytXMqnMqFnOqY-uX8aP2DAdiV7dm" width="100%"></div></div>
 
-### 307/308
-<!--307-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AOG5t2uIVcEtoYc715pExGffODB3KLMq" height="200px"><figcaption><b>ТБ3</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AOG5t2uIVcEtoYc715pExGffODB3KLMq" width="100%"></div></div>
+## ТБ6
+## Tabs {.tabset}
+###
+<!--293-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" height="200px"><figcaption><b>ТБ6</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" width="100%"></div></div>
 
-### 312
-<!--312-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" height="200px"><figcaption><b>ТБ1</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" width="100%"></div></div>
-
-### 315
-  <!--315--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/PgngRsAILLmyHlW4Z8ZRj7ce8jVHEY4FGYVWTPfa5BIDV80Qzaj5-GVPwvr09YRi0oU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Ole Iskov</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/PgngRsAILLmyHlW4Z8ZRj7ce8jVHEY4FGYVWTPfa5BIDV80Qzaj5-GVPwvr09YRi0oU=w2400" width="100%"></div></div>
-
-### 323
-<!--323-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" height="200px"><figcaption><b>ТБ2</b> 📷 Bohdan Turzanski ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nwzcqpcKC93OW-tTtC3lKvs5yTEtFRV8" width="100%"></div></div>
- <!--323--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" width="100%"></div></div>
-
-### 328
-<!--328-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yWoyb3P6dCd7TnPavLAY17uEZU4y-Lxe" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yWoyb3P6dCd7TnPavLAY17uEZU4y-Lxe" width="100%"></div></div>
-
-### 333
-<!--333-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oU--wqpnfPRFAYNveBZ7jzPgQ728wvBI" height="200px"><figcaption><b>ТБ2</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oU--wqpnfPRFAYNveBZ7jzPgQ728wvBI" width="100%"></div></div>
-
-
-
-
-### 339,355,359
-  <!--339,355,359--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/3SAHnN5rBbLeVqO0xbBz_cgMcKFU7VO-zVttg7pgncLk2VPiEC_5SaI9YOSTUJF9-EI=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 gettyimages</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/3SAHnN5rBbLeVqO0xbBz_cgMcKFU7VO-zVttg7pgncLk2VPiEC_5SaI9YOSTUJF9-EI=w2400" width="100%"></div></div>
-
-### 340
-<!--340-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iTL9pXYBEH0cXNpVWNKm5osIsibZM0mZ" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iTL9pXYBEH0cXNpVWNKm5osIsibZM0mZ" width="100%"></div></div>
-
-### 348
-<!--348--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81orZNKjf9goVutso1mpOKY0LIYDbPpbOS8fpzpGoFLFTJYAafqn2DvR51iwIQ7ajkrOKMzSE-oJM_Ngee4ftWwFNyGaSw=w1920-h854" height="200px"><figcaption><b>ТБ2 </b>📷 75 години градски транспорт</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81orZNKjf9goVutso1mpOKY0LIYDbPpbOS8fpzpGoFLFTJYAafqn2DvR51iwIQ7ajkrOKMzSE-oJM_Ngee4ftWwFNyGaSw=w1920-h854" width="100%"></div></div>
-<!--348-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jlcFQp5HYIa7z-zdoAOOaLISZmR-pKsQ" height="200px"><figcaption><b>ТБ2</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jlcFQp5HYIa7z-zdoAOOaLISZmR-pKsQ" width="100%"></div></div>
-
-
-
-## 1214-1240
+## ТБ7
 ## Tabs {.tabset}
 
-### 1222
-  <!--1222--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" width="100%"></div></div>
-
-## 2150-2176
-## Tabs {.tabset}
-
-### 2163
-
+###
 <!--2163--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" height="200px"><figcaption><b>ТБ7 </b>📷 Милан Христев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" width="100%"></div></div>
+
+
+## ТБУ
+## Tabs {.tabset}
+
+###
+<!--212-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБУ</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
+
+
+
+
+
 
 
