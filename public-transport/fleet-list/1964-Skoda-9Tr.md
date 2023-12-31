@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-31T13:54:25.380Z
+date: 2023-12-31T13:55:11.048Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -436,7 +436,7 @@ dateCreated: 2022-05-19T22:30:33.330Z
  <!--270--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Pedro Gonzalez Esquerdo</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" width="100%"></div></div>
 <!--274-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_O" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" width="100%"></div></div>
 <!--283-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" width="100%"></div></div>
  <!--283--> 
