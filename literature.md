@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T14:54:14.816Z
+date: 2024-01-01T20:10:54.773Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1185,7 +1185,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
   <td colspan=2 >ℹ️ <a href="/literature/anniversary/70-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
   
   
- ## 60 години
+## 60 години
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://lh5.googleusercontent.com/ahqylRR2ps7jRI2uW2wHAX-_tyMGXAvQ8zlwh0I5_EvauksPWdpQt5ePyEm3vKvJdOo=w2400"></td>
@@ -1213,7 +1213,54 @@ dateCreated: 2022-04-26T09:14:34.111Z
 "Софийското метро" е любителско издание, насочено към феновете на метрото и транспортните ентусиасти. В него се публикува актуална и интересна информация, свързана със столичното метро и метрополитените по света. Изданието не е обвързано по никакъв начин с "Метрополитен" ЕАД. 
 <!--1--> 
 <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tnw1Bk9OK9N7u7AExCIwCNHWZ5vFOJGT" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18oKP5B5riCmNna2KIiDU6f5AvIChzTne" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VrHrihKdptl928Dc5-U9e2R53Tr6Vkxv" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Lw6vsKES7fOF3M37s9FJ2MJuovtpC5Zn" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bZWDyOMltXqeXjM8z7QanTyS6AA9WO1H" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ehATRGNPNdwY_1zB7Rop8b_k_nauUYw0" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JsoQgIm0ZCem8wyPBSNFmhBwg3urNgj3" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div>
- 
+
+# Чуждестранна литература
+
+## :de: Stadtverkehr 
+
+## Tabs {.tabset}
+
+### 10те
+Srámek: Škoda gewinnt Trolleybus-Ex-portaufträge / 7-8 2013 52
+Koblischka: Straßenbahnen in Sofia / 9 2013 38
+Srámek: Škoda Transportation liefert neue Straßenbahnen für Sofia / 11 2017 48
+Hondius: InnoTrans 2018: Regional-, S - , U-und Straßenbahnen / 12 2018 8
+PESA liefert weitere Swing-Straßenbahnen nach Sofi / 3 2019 51
+
+
+### 00те
+Roggenkamp: Veränderungen bei der Stra-ßenbahn Sofia  / 3 2003 50
+Lassbacher: Neue Obusse in Sofia / 10 2007 51
+Stoyanov: Crotram-Vorführung in Bulgarien / 12 2008 31
+Groneck: Metrobau in Sofia / 6 2010 20
+
+
+### 90те
+Köhler, Günter H.: Stippvisite in Sofia / 4 1997 25
+
+### 80те
+Der öffentliche Nahverkehr in Sofia 1981 / 11/12 1981 454
+Verkehrsneuigkeiten aus den Balkanländern / 10 1983 428
+Verkehrsneuigkeiten aus den Balkanländern / 11/12 1985 445
+Sofia 1986 / 8 1986 39
+Jiri HertI: Obusse in Bulgarien / 10 1989 17
+Hans Lehnhart: Veränderungen in Sofia / 10 1989 32
+
+
+### 70те
+Der öffentliche Verkehr in Sofia / 8 1971 272
+Der Obus in Bulgarien / 9 1977 349
+
+### 60те
+Der öffentliche Verkehr in Bulgarien / 5/6 1966 149
+Der öffentliche Verkehr in Bulgarien / 11/12 1969 357
+
+
+
+
+
+
+
 # 🌐 От нета
 
 - [🚋🚌*Нова интерпретация на историята на транспортната мрежа (1901-1957)*](/bg/literature/new-interpretation-of-the-history-of-the-transport-network)
