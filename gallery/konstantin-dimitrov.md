@@ -2,7 +2,7 @@
 title: Фотограф - Константин Димитров
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-01-01T13:25:08.049Z
+date: 2024-01-01T13:37:50.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T12:48:34.001Z
@@ -120,96 +120,96 @@ dateCreated: 2023-12-08T12:48:34.001Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2660 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
 
 <!--2670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2670 гараж</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L_7DOMTVXPIDDCvF0WB9z1SExtrvo_XH" height="200px"><figcaption></figcaption><b>a2670 гараж</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L_7DOMTVXPIDDCvF0WB9z1SExtrvo_XH" width="100%"></div></div>
 
 <!--2670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2670 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FGC4ewXXcyzHpGLPZNxSoLI7bQDncHrP" height="200px"><figcaption></figcaption><b>a2670 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FGC4ewXXcyzHpGLPZNxSoLI7bQDncHrP" width="100%"></div></div>
 
 <!--2670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2670 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wC4F6bxTA9Ic9niZEY3tL3NAhl1LHPLh" height="200px"><figcaption></figcaption><b>a2670 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wC4F6bxTA9Ic9niZEY3tL3NAhl1LHPLh" width="100%"></div></div>
 
 <!--2670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2670 line100</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1x_78bR6Awn-0i_GbaYAo5C1hMxFDRPIg" height="200px"><figcaption></figcaption><b>a2670 line100</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1x_78bR6Awn-0i_GbaYAo5C1hMxFDRPIg" width="100%"></div></div>
 
 <!--2671--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2671 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1u1k-iQYWImMGXhWfoOzyS6JsrLRdMXG-" height="200px"><figcaption></figcaption><b>a2671 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1u1k-iQYWImMGXhWfoOzyS6JsrLRdMXG-" width="100%"></div></div>
 
 <!--2672--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2672 (бивш 2658) line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TPHsJyRqaQge-HGq81SSPlw5XXer_mo6" height="200px"><figcaption></figcaption><b>a2672 (бивш 2658) line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TPHsJyRqaQge-HGq81SSPlw5XXer_mo6" width="100%"></div></div>
 
 <!--2672--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2672 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gLCD1bvQpQM572nWF_I37eMGG3L_lwp_" height="200px"><figcaption></figcaption><b>a2672 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gLCD1bvQpQM572nWF_I37eMGG3L_lwp_" width="100%"></div></div>
 
 <!--2672--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2672 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1K9DJCwQFXbPqdkYzoIw9r20X7fYHWfD6" height="200px"><figcaption></figcaption><b>a2672 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1K9DJCwQFXbPqdkYzoIw9r20X7fYHWfD6" width="100%"></div></div>
 
 <!--2673--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2673 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CRw7a0Vh5W21uD8noYGNSTv64eR7QAbU" height="200px"><figcaption></figcaption><b>a2673 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CRw7a0Vh5W21uD8noYGNSTv64eR7QAbU" width="100%"></div></div>
 
 <!--2673--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2673 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ESTg2UQuKtYmkHI50yXy4G_QyznwOCYi" height="200px"><figcaption></figcaption><b>a2673 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ESTg2UQuKtYmkHI50yXy4G_QyznwOCYi" width="100%"></div></div>
 
 
 <!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2674 line21-22</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eOJHwngkUhgdT3grqvMAgkb8qSbNOj3s" height="200px"><figcaption></figcaption><b>a2674 line21-22</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eOJHwngkUhgdT3grqvMAgkb8qSbNOj3s" width="100%"></div></div>
 
 <!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2674 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_vFCpQ-UCj5e2HtfWjuaxEUBmbwobJ2S" height="200px"><figcaption></figcaption><b>a2674 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_vFCpQ-UCj5e2HtfWjuaxEUBmbwobJ2S" width="100%"></div></div>
 
 <!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2674 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BTxveFoaczogXiUDSplABpVK_BBsvV-v" height="200px"><figcaption></figcaption><b>a2674 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BTxveFoaczogXiUDSplABpVK_BBsvV-v" width="100%"></div></div>
 
 <!--2675--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2675 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oPKRJ81AYRJstpkK6os6nhJlJGQcG6Jq" height="200px"><figcaption></figcaption><b>a2675 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oPKRJ81AYRJstpkK6os6nhJlJGQcG6Jq" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Xnfarcg1NtJq2MdwfoL1DGy-ZcdcVPZs" height="200px"><figcaption></figcaption><b>a2677 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Xnfarcg1NtJq2MdwfoL1DGy-ZcdcVPZs" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tmkqNxbUKPlXDO5ap_1EeKBSLbEIoD1h" height="200px"><figcaption></figcaption><b>a2677 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tmkqNxbUKPlXDO5ap_1EeKBSLbEIoD1h" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18WG3Q2QNZso7XM8VyjoXavVltHrVAxjj" height="200px"><figcaption></figcaption><b>a2677 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18WG3Q2QNZso7XM8VyjoXavVltHrVAxjj" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TgUmFwU0RPkpEQKnlIR5g_Uv4eXneQPu" height="200px"><figcaption></figcaption><b>a2677 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TgUmFwU0RPkpEQKnlIR5g_Uv4eXneQPu" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q5hfzrwfjfvuDkCrTyYQwEq9SPaHUobC" height="200px"><figcaption></figcaption><b>a2677 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q5hfzrwfjfvuDkCrTyYQwEq9SPaHUobC" width="100%"></div></div>
 
 <!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2677 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wqnkCtrmn-85IhXDkf9L98zaa2nZz6hZ" height="200px"><figcaption></figcaption><b>a2677 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wqnkCtrmn-85IhXDkf9L98zaa2nZz6hZ" width="100%"></div></div>
 
 <!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2678 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Gk63nvkR2kV4oNWpI5wzS_Wwf1lkN1fn" height="200px"><figcaption></figcaption><b>a2678 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Gk63nvkR2kV4oNWpI5wzS_Wwf1lkN1fn" width="100%"></div></div>
 
 <!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2678 line18</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tZCkB_aW_6Q39yhXUq8s4jNS6yo23JZE" height="200px"><figcaption></figcaption><b>a2678 line18</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tZCkB_aW_6Q39yhXUq8s4jNS6yo23JZE" width="100%"></div></div>
 
 <!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2678 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gHNj67Wr0UaHAKT17uxPUK6jkREnTVXv" height="200px"><figcaption></figcaption><b>a2678 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gHNj67Wr0UaHAKT17uxPUK6jkREnTVXv" width="100%"></div></div>
 
 <!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2678 line100</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bdizxVq96etfxcpWSj2kD4i47EsNhzp3" height="200px"><figcaption></figcaption><b>a2678 line100</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bdizxVq96etfxcpWSj2kD4i47EsNhzp3" width="100%"></div></div>
 
 <!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2678 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1g0E--L8YKNb3ZDiS1hlc65urLywwDb1f" height="200px"><figcaption></figcaption><b>a2678 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1g0E--L8YKNb3ZDiS1hlc65urLywwDb1f" width="100%"></div></div>
 
 <!--2679--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2679 line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lRVWJqMCdrtB3lM4WwOb0acvm6UvE43u" height="200px"><figcaption></figcaption><b>a2679 line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lRVWJqMCdrtB3lM4WwOb0acvm6UvE43u" width="100%"></div></div>
 
 <!--2679--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2679 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jdHQ79fXxLxF8ofgXjFTkHP0IKooNFHz" height="200px"><figcaption></figcaption><b>a2679 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jdHQ79fXxLxF8ofgXjFTkHP0IKooNFHz" width="100%"></div></div>
 
 
 <!--2679--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2679 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dUKTmltZ9xRCdLlh_o_L3ch0aEXwuFsl" height="200px"><figcaption></figcaption><b>a2679 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dUKTmltZ9xRCdLlh_o_L3ch0aEXwuFsl" width="100%"></div></div>
 
 <!--2679--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2679 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhxnCs_9EszNJ5b-qTItOxZOpYQVbXxs" height="200px"><figcaption></figcaption><b>a2679 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uhxnCs_9EszNJ5b-qTItOxZOpYQVbXxs" width="100%"></div></div>
 
 <!--2679--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2679 line117</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OCq6eHrv5ePcMD-leWsF-tEkaDC5KvRP" height="200px"><figcaption></figcaption><b>a2679 line117</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OCq6eHrv5ePcMD-leWsF-tEkaDC5KvRP" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
