@@ -2,7 +2,7 @@
 title: Тролейбуси в България
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T21:16:38.425Z
+date: 2024-01-01T21:17:10.608Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T21:03:48.762Z
@@ -53,7 +53,7 @@ dateCreated: 2024-01-01T21:03:48.762Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1msRKpeBwPcgmYna-XBlOixWXi-I6riZY"></td>
 </tr>
-  <td>ℹ️ </td></table></div>
+  <td>ℹ️ Преглед на българските тролейбусни предприятия</td></table></div>
 
 Структура на тролейбусния транспорт в България 
 
