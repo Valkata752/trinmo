@@ -2,7 +2,7 @@
 title: Mercedes O305 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T13:52:40.127Z
+date: 2024-01-01T14:23:19.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T13:39:54.362Z
@@ -383,3 +383,22 @@ dateCreated: 2024-01-01T13:39:54.362Z
 
 <!--2849--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ao_rt-XjzysGLQjeyHrGyAadFZXsj8t8" height="200px"><figcaption></figcaption><b>a2849 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ao_rt-XjzysGLQjeyHrGyAadFZXsj8t8" width="100%"></div></div>
+
+
+
+## 37**
+
+## Tabs {.tabset}
+### 3762
+<!--3762--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" height="200px"><figcaption></figcaption><b>a3762 line75</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### 3764
+<!--3764--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" height="200px"><figcaption></figcaption><b>a3764 line88</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" width="100%"></div></div>
+
+### 3766
+<!--3766--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11Eg_CT2z8_9e5M5fzWaH2fVQpav9WEyp" height="200px"><figcaption></figcaption><b>a3766 line4</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11Eg_CT2z8_9e5M5fzWaH2fVQpav9WEyp" width="100%"></div></div>
