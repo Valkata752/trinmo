@@ -2,7 +2,7 @@
 title: Mercedes O305 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T14:23:19.188Z
+date: 2024-01-01T14:23:31.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T13:39:54.362Z
@@ -398,6 +398,9 @@ dateCreated: 2024-01-01T13:39:54.362Z
 ### 3764
 <!--3764--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" height="200px"><figcaption></figcaption><b>a3764 line88</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" width="100%"></div></div>
+<!--3764--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" height="200px"><figcaption></figcaption><b>a3764 line604</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" width="100%"></div></div>
+
 
 ### 3766
 <!--3766--> 
