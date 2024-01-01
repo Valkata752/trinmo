@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-31T12:15:39.361Z
+date: 2024-01-01T09:17:03.543Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -16,12 +16,12 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 10те
   
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
-- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev)
+- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev-2009)
 {.links-list}
 
 **Архив по години:** | [2011](/gallery/daniel-anev-2011) | [2010](/gallery/daniel-anev-2010) | [2009](/gallery/daniel-anev-2009) |
 
-- [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev)
+- [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev-2009)
 {.links-list}
 
 **Архив по години:** | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev) |
@@ -31,7 +31,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 00те
 - [Marcin Stiasny :poland: *2006*](/gallery/marcin-stiasny)
-- [Иво Радоев :bulgaria: *2006-2008*](/gallery/ivo-radoev)
+- [Иво Радоев :bulgaria: *2006-2008*](/gallery/ivo-radoev-2006-2008)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
