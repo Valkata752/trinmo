@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T20:17:15.106Z
+date: 2024-01-01T20:23:03.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1250,7 +1250,7 @@ Verkehrsneuigkeiten aus den Balkanländern / 10 1983 428
 Der öffentliche Nahverkehr in Sofia 1981 / 11/12 1981 454
 
 ### 70те
-- [🚎 *Der Obus in Bulgarien - 9 1977 349*](/literature/stadtverkehr-obus-in-bulgarien)
+- [🚎 Тролейбуси в България *9 1977 349*](/literature/stadtverkehr-obus-in-bulgarien)
 {.links-list}
  
 Der öffentliche Verkehr in Sofia / 8 1971 272
