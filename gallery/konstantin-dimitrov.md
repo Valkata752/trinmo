@@ -2,7 +2,7 @@
 title: Фотограф - Константин Димитров
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-01-01T13:37:50.725Z
+date: 2024-01-01T13:52:21.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T12:48:34.001Z
@@ -114,10 +114,10 @@ dateCreated: 2023-12-08T12:48:34.001Z
 
 
 <!--2660--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2660 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ai_oJmgjq6cxY78SCVvbCfrwiGRkWQOU" height="200px"><figcaption></figcaption><b>a2660 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ai_oJmgjq6cxY78SCVvbCfrwiGRkWQOU" width="100%"></div></div>
 
 <!--2660--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2660 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QTMfKAB-juilUQLpM9tJt4ML5IXsARWE" height="200px"><figcaption></figcaption><b>a2660 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QTMfKAB-juilUQLpM9tJt4ML5IXsARWE" width="100%"></div></div>
 
 <!--2670--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L_7DOMTVXPIDDCvF0WB9z1SExtrvo_XH" height="200px"><figcaption></figcaption><b>a2670 гараж</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L_7DOMTVXPIDDCvF0WB9z1SExtrvo_XH" width="100%"></div></div>
