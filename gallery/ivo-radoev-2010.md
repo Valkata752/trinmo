@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Иво Радоев 2010 г.
+title: Фотограф - Иво Радоев 2010
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T12:14:44.264Z
+date: 2024-01-01T12:34:45.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T10:17:21.033Z
