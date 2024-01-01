@@ -2,13 +2,13 @@
 title: Фотограф - Иво Радоев 2006 - 2008
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T09:17:48.600Z
+date: 2024-01-01T12:15:07.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T09:38:43.641Z
 ---
 
-**Архив по години:** | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev) |
+**Архив по години:** | [2020](/gallery/ivo-radoev-2020) | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev-2006-2008) |
 
 ---
 
