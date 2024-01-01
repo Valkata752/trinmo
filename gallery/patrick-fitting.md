@@ -2,7 +2,7 @@
 title: фотограф - Patrick Fitting
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T15:44:25.611Z
+date: 2024-01-01T15:49:10.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T15:45:11.083Z
@@ -15,33 +15,33 @@ dateCreated: 2023-12-02T15:45:11.083Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1HFKMF4En6csfzmtWFVaZGgMJ2MMuCeGD"></td>
-<td><b>tm117 line15</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm117 line15</b><br>📌 кръстовище бул. Витоша и бул. Патриарх Евтимий <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1ssb9r_dDvxMoHkE7MyTmAih-qM1nexfI"></td>
-<td><b>tm179 line4, tm208 line10</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm179 line4, tm208 line10</b><br>📌 Софийски университет <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1K-8IoihstVdu2x5DVZcDlxyBza11KQ5K"></td>
-<td><b>tm732 line7</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm732 line7</b><br>📌 бул. Княгния Мария Луиза <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1DwWlVXJYtnKcYheK6GTO0p5qmQcTpuXO"></td>
-<td><b>tm743 line7</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm743 line7</b><br>📌 кръстовище бул. Витоша и ул. Алабин <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1yIMfrIu-RNOAcTDkm9Wdt2SANALXbKnQ"></td>
-<td><b>tm795 line3</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm795 line3</b><br>📌 бул. Княз Александър Дондуков<br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -52,26 +52,26 @@ dateCreated: 2023-12-02T15:45:11.083Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1IO_Ff2eE5XXaLDGyqhUUc_sx5iSMx68Y"></td>
-<td><b>tm50, tm551, tm609</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm50, tm551, tm609</b><br>📌 депо Клокотница <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1p_Y-PcIdbuXQK1c3GsDsK4uBsKsg9lFj"></td>
-<td><b>tm625 line9</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm625 line9</b><br>📌 бул. Христо Ботев <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1KVrw-slNbTDMeKqP3xC-XaXG0VgOYNYY"></td>
-<td><b>tm670 line19, tm155 line5</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm670 line19, tm155 line5</b><br>📌 ул. Алабин<br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1EUNucblnspE7DAQrGQYcIBGYjikh7v2z-XaXG0VgOYNYY"></td>
+<td><img src="https://drive.google.com/uc?id=1EUNucblnspE7DAQrGQYcIBGYjikh7v2z"></td>
 <td><b>tm829, tm844 line14</b><br>📌 <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
