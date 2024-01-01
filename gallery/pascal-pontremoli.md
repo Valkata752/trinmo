@@ -2,7 +2,7 @@
 title: Фотограф Pascal Pontremoli
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T23:22:31.739Z
+date: 2024-01-01T23:25:37.789Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T23:22:31.739Z
@@ -31,7 +31,7 @@ dateCreated: 2024-01-01T23:22:31.739Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1hdASDeLvTKdx9KWTLfMPGQjedo68xXv2"></td>
+<td><img src="https://drive.google.com/uc?id=1hkXxCqlNDIgkU5PgJhgrhDZpZ_2Fg-Fl"></td>
 <td><b>tm253 line2</b><br>📌  пл. Св. Неделя<br> 📷  Pascal Pontremoli</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
