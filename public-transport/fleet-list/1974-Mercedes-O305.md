@@ -2,7 +2,7 @@
 title: Mercedes O305
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T14:20:20.667Z
+date: 2024-01-01T14:21:23.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:48:52.520Z
@@ -267,10 +267,16 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 7*
+<!--3762--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" height="200px"><figcaption></figcaption><b>a3762 line75</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" width="100%"></div></div>
+
 
 
 # Tabs {.tabset}
 ## 8*
+<!--3764--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" height="200px"><figcaption></figcaption><b>a3764 line88</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" width="100%"></div></div>
+
 
 
 # Tabs {.tabset}
@@ -289,6 +295,10 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 <!--2842--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" height="200px"><figcaption></figcaption><b>a2842 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" width="100%"></div></div>
+<!--1727--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" height="200px"><figcaption></figcaption><b>a1727 line107</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" width="100%"></div></div>
+
+
 <!--3763--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" height="200px"><figcaption></figcaption><b>a3763 line113</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" width="100%"></div></div>
 
@@ -298,10 +308,15 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 2**, 3**, 4**, 6**
-
+<!--3764--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" height="200px"><figcaption></figcaption><b>a3764 line604</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" width="100%"></div></div>
 
 # Tabs {.tabset}
 ## **ТМ
 <!--1741--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" height="200px"><figcaption></figcaption><b>a1741 line9tm</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" width="100%"></div></div>
+
+
+
+
 
