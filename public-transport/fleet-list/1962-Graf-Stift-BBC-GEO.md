@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T09:12:56.100Z
+date: 2024-01-01T20:01:41.881Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -10,17 +10,15 @@ dateCreated: 2022-05-19T22:30:56.353Z
 
 # Кратка история
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://transphoto.org/photo/18/65/68/1865689.jpg
-"></td>
-    <td><b>LINZ</b><br> Ерата на съчленените тролейбуси започва в Линц през 1960 г. с този дълъг 18 метра тролейбус тип "Gräf & Stift EO I". Автопаркът от 11 превозни средства е в експлоатация до 1984 г., като седем от тях след това имат "втори живот" в София.</td>
-  </tr>
-  <td colspan=2 >ℹ️ http://www.regionale-schienen.at/0_thema_201409.asp?mid=23</td>
-</table>
-
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://transphoto.org/photo/18/65/68/1865689.jpg"></td>
+<td><b>LINZ</b><br> Ерата на съчленените тролейбуси започва в Линц през 1960 г. с този дълъг 18 метра тролейбус тип "Gräf & Stift EO I". Автопаркът от 11 превозни средства е в експлоатация до 1984 г., като седем от тях след това имат "втори живот" в София.</td></tr>
+  <td colspan=2 >ℹ️ http://www.regionale-schienen.at/0_thema_201409.asp?mid=23</td></table></div>
+  
+  
+  
+  
 
 
   
@@ -49,7 +47,7 @@ dateCreated: 2022-05-19T22:30:56.353Z
 <table style="width:100%">
   <tr>
     <td style="width:400px"><img src="https://lh4.googleusercontent.com/jl1v81byVXC9O_dqyxUhm6mSV9qzgiLL9cMHnM6FmmLU--dkkWcpt-UmiyQhPvaPZGQ=w2400"></td>
-    <td><b>Тролейбуси в България </b><br>Статия</td>
+    <td><b>Тролейбуси в България </b><br>Пълната статия прочети тук...</td>
   </tr>
   <td colspan=2 >ℹ️  Von K. Hertl, Praha</td>
 </table>
