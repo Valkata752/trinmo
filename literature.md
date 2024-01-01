@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T20:10:54.773Z
+date: 2024-01-01T20:17:15.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1221,39 +1221,46 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Tabs {.tabset}
 
 ### 10те
-Srámek: Škoda gewinnt Trolleybus-Ex-portaufträge / 7-8 2013 52
-Koblischka: Straßenbahnen in Sofia / 9 2013 38
-Srámek: Škoda Transportation liefert neue Straßenbahnen für Sofia / 11 2017 48
-Hondius: InnoTrans 2018: Regional-, S - , U-und Straßenbahnen / 12 2018 8
 PESA liefert weitere Swing-Straßenbahnen nach Sofi / 3 2019 51
+Hondius: InnoTrans 2018: Regional-, S - , U-und Straßenbahnen / 12 2018 8
+Srámek: Škoda Transportation liefert neue Straßenbahnen für Sofia / 11 2017 48
+Koblischka: Straßenbahnen in Sofia / 9 2013 38
+Srámek: Škoda gewinnt Trolleybus-Ex-portaufträge / 7-8 2013 52
 
 
 ### 00те
-Roggenkamp: Veränderungen bei der Stra-ßenbahn Sofia  / 3 2003 50
-Lassbacher: Neue Obusse in Sofia / 10 2007 51
-Stoyanov: Crotram-Vorführung in Bulgarien / 12 2008 31
 Groneck: Metrobau in Sofia / 6 2010 20
+Stoyanov: Crotram-Vorführung in Bulgarien / 12 2008 31
+Lassbacher: Neue Obusse in Sofia / 10 2007 51
+Roggenkamp: Veränderungen bei der Stra-ßenbahn Sofia  / 3 2003 50
+
+
+
 
 
 ### 90те
 Köhler, Günter H.: Stippvisite in Sofia / 4 1997 25
 
 ### 80те
-Der öffentliche Nahverkehr in Sofia 1981 / 11/12 1981 454
-Verkehrsneuigkeiten aus den Balkanländern / 10 1983 428
-Verkehrsneuigkeiten aus den Balkanländern / 11/12 1985 445
-Sofia 1986 / 8 1986 39
-Jiri HertI: Obusse in Bulgarien / 10 1989 17
 Hans Lehnhart: Veränderungen in Sofia / 10 1989 32
-
+Jiri HertI: Obusse in Bulgarien / 10 1989 17
+Sofia 1986 / 8 1986 39
+Verkehrsneuigkeiten aus den Balkanländern / 11/12 1985 445
+Verkehrsneuigkeiten aus den Balkanländern / 10 1983 428
+Der öffentliche Nahverkehr in Sofia 1981 / 11/12 1981 454
 
 ### 70те
+- [🚎 *Der Obus in Bulgarien - 9 1977 349*](/literature/stadtverkehr-obus-in-bulgarien)
+{.links-list}
+ 
 Der öffentliche Verkehr in Sofia / 8 1971 272
-Der Obus in Bulgarien / 9 1977 349
+
+
 
 ### 60те
-Der öffentliche Verkehr in Bulgarien / 5/6 1966 149
 Der öffentliche Verkehr in Bulgarien / 11/12 1969 357
+Der öffentliche Verkehr in Bulgarien / 5/6 1966 149
+
 
 
 
