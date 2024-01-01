@@ -2,7 +2,7 @@
 title: Mercedes O305 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T14:23:31.592Z
+date: 2024-01-01T14:24:09.976Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T13:39:54.362Z
@@ -61,6 +61,12 @@ dateCreated: 2024-01-01T13:39:54.362Z
 <!--1723--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1m-SRvvFnJ8CzDawGcc_os5MmLQHnSfKq" height="200px"><figcaption></figcaption><b>a1723 ремонт</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1m-SRvvFnJ8CzDawGcc_os5MmLQHnSfKq" width="100%"></div></div>
 
+
+## Tabs {.tabset}
+### 1727
+<!--1727--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" height="200px"><figcaption></figcaption><b>a1727 line107</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" width="100%"></div></div>
+
 ## Tabs {.tabset}
 ### 1733
 <!--1733--> 
@@ -80,7 +86,8 @@ dateCreated: 2024-01-01T13:39:54.362Z
 
 <!--1741--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qDSNGvwuKzP5OV_5d74_s_w9kQOedD9l" height="200px"><figcaption></figcaption><b>a1741 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qDSNGvwuKzP5OV_5d74_s_w9kQOedD9l" width="100%"></div></div>
-
+<!--1741--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" height="200px"><figcaption></figcaption><b>a1741 line9tm</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" width="100%"></div></div>
 <!--1741--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QXz_xGpojyNYDcxSC1ZzIAxTnJZUE4F8" height="200px"><figcaption></figcaption><b>a1741 брак</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QXz_xGpojyNYDcxSC1ZzIAxTnJZUE4F8" width="100%"></div></div>
 
