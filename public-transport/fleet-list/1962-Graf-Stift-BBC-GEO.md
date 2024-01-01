@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T21:25:08.561Z
+date: 2024-01-01T21:26:33.420Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -133,7 +133,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 ## 218/2218
    <!--2218-->
 <div class="dropdown"><button class="imgbtn">
-  <img src="https://lh5.googleusercontent.com/Zb6_MAkiG2l4X2uk9qJln1prtYUKwBV4puUcQC0ppACWdURK4n8yDpIBvY7UwujITUA=w2400" height="200px"><figcaption><b>218</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/Zb6_MAkiG2l4X2uk9qJln1prtYUKwBV4puUcQC0ppACWdURK4n8yDpIBvY7UwujITUA=w2400" width="100%"></div></div>
+  <img src="https://drive.google.com/uc?id=1h-MefLnsouG4dMLv3vmpPldpsbJDdMBa" height="200px"><figcaption><b>tb218 line7</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h-MefLnsouG4dMLv3vmpPldpsbJDdMBa" width="100%"></div></div>
      <!--2218-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b>2218</b> 📷 spirka.org</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
@@ -144,4 +144,4 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" height="200px"><figcaption><b>2216</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" width="100%"></div></div>
    <!--2216-->
 <div class="dropdown"><button class="imgbtn">
-  <img src="https://lh6.googleusercontent.com/mkbzN65EHuu7yZoIj8mst3SKB2Ok9jwn5DPPWHAxtjp8TwSyQ1axuERsevfUpzz6eW0=w2400" height="200px"><figcaption><b>2216</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/mkbzN65EHuu7yZoIj8mst3SKB2Ok9jwn5DPPWHAxtjp8TwSyQ1axuERsevfUpzz6eW0=w2400" width="100%"></div></div>
+  <img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" height="200px"><figcaption><b>tb2216</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" width="100%"></div></div>
