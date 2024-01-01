@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Иво Радоев 2009 г.
+title: Фотограф - Иво Радоев 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T12:14:57.144Z
+date: 2024-01-01T12:34:37.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T12:50:40.137Z
