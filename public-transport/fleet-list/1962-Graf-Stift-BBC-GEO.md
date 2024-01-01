@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T20:01:41.881Z
+date: 2024-01-01T21:25:08.561Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -124,12 +124,12 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 <!--2203-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" height="200px"><figcaption><b>ТБ7</b> 📷 Hans Lenhart ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" width="100%"></div></div>
 
-  
+ # Tabs {.tabset} 
 ## 205
 <!--205-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zPlGQXTl76EiCW125YnJnLcYyXjCwNrj" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zPlGQXTl76EiCW125YnJnLcYyXjCwNrj" width="100%"></div></div>
 
-
+# Tabs {.tabset}
 ## 218/2218
    <!--2218-->
 <div class="dropdown"><button class="imgbtn">
@@ -138,7 +138,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 <div class="dropdown"><button class="imgbtn">
   <img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b>2218</b> 📷 spirka.org</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
  
- 
+ # Tabs {.tabset}
 ## 2216
 <!--2216-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" height="200px"><figcaption><b>2216</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" width="100%"></div></div>
