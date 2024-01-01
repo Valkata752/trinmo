@@ -2,7 +2,7 @@
 title: Mercedes O305 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T13:46:03.388Z
+date: 2024-01-01T13:52:40.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T13:39:54.362Z
@@ -130,12 +130,11 @@ dateCreated: 2024-01-01T13:39:54.362Z
 <!--2660--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pYbQ9KW2j-QVhN4iWpFDWQABStRrPzLb" height="200px"><figcaption></figcaption><b>a2660 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pYbQ9KW2j-QVhN4iWpFDWQABStRrPzLb" width="100%"></div></div>
 
+<!--2660--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ai_oJmgjq6cxY78SCVvbCfrwiGRkWQOU" height="200px"><figcaption></figcaption><b>a2660 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ai_oJmgjq6cxY78SCVvbCfrwiGRkWQOU" width="100%"></div></div>
 
 <!--2660--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2660 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
-
-<!--2660--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=9999999" height="200px"><figcaption></figcaption><b>a2660 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QTMfKAB-juilUQLpM9tJt4ML5IXsARWE" height="200px"><figcaption></figcaption><b>a2660 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QTMfKAB-juilUQLpM9tJt4ML5IXsARWE" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### 2670
