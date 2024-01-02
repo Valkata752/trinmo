@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T15:42:42.116Z
+date: 2024-01-02T15:48:24.222Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1135,35 +1135,43 @@ dateCreated: 2022-04-26T09:14:34.111Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8"></td>
 <td>Указател - 1964</td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1978
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9"></td>
 <td>Пътеводител - 1978</td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1981
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1INyd34jukzsGhTqRYTgjm0wjheiTvX4y"></td>
 <td>Справочник - 1981</td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1983
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I"></td>
 <td>Справочник - 1983</td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
+
+## 1935
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=-I"></td>
+<td>Пътеводител - 1935</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1935-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
+  
   
 ## 1910
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1mkB9GPe_Ddc27ouQVRhJyQLX2CEjeE-s"></td>
 <td>Пътеводител - 1910</td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1910-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/1910-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
 
 
