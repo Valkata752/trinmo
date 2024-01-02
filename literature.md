@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T20:23:03.725Z
+date: 2024-01-02T15:42:42.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1158,7 +1158,13 @@ dateCreated: 2022-04-26T09:14:34.111Z
 <td>Справочник - 1983</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
   
-
+## 1910
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1mkB9GPe_Ddc27ouQVRhJyQLX2CEjeE-s"></td>
+<td>Пътеводител - 1910</td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/travel-guides/1910-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
+  
 
 
 # 💯 Юбилейни издания
