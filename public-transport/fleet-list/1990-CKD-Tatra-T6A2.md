@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-23T01:29:13.380Z
+date: 2024-01-02T17:12:20.349Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -15,7 +15,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1_SRIvtB9ptnhCyMzhT6PwmGk_gY_Uxy2"></td>
-<td><b>Tatra T6A2</b><br> За трамвайната мрежа в София с междурелсие 1009 mm са поръчани от čKD Praha 40 мотриси от типа T6A2B и след 1991 започва тяхната експлоатация.  </td></tr>
+<td><b>Tatra T6A2</b><br> За трамвайната мрежа в София с междурелсие 1009 mm са поръчани от ČKD Praha 40 мотриси от типа T6A2B и след 1991 започва тяхната експлоатация.  </td></tr>
   <td colspan=2 >ℹ️ ČKD Praha Tatra Smíchov 1852-1992</td></table></div>
   
  
