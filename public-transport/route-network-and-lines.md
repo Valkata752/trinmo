@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2024-01-02T08:48:42.081Z
+date: 2024-01-02T08:55:08.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -90,6 +90,9 @@ dateCreated: 2022-04-26T15:34:13.268Z
 
 # 🆕 Списък на линиите
 # Tabs {.tabset}
+
+## 1981
+<img src="https://drive.google.com/uc?id=1qOq-UMCLy2gmsim6Bv5kYUpZNRHkbHt2">
 
 ## 1979
 <img src="https://drive.google.com/uc?id=1p6em3ytuTI8X_TZshqly1KxoRpEmUy8Q">
