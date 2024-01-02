@@ -1,0 +1,124 @@
+---
+title: Трамваите Татра
+description: Транспорт, инфраструктра и мобилност
+published: true
+date: 2024-01-02T17:31:02.498Z
+tags: 
+editor: markdown
+dateCreated: 2024-01-02T17:31:02.498Z
+---
+
+# Кратка история
+
+## Татра
+Кратка история на завода
+
+
+## София
+Кратка хронология за доставките в София
+
+
+### T6B5
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1MfC8Sa1MiIFOjF6vhRdrVSRvJmPR-Q6X"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+  
+  
+### T6A2B
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1CSA7zDBiu92tMBiWWOU-iSTIX_UEDAxg"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+### T6A2-SF
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52628848429_c879504146_k.jpg"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+  
+### T4D
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1c6B2WOWgjh_itLLJLuD_Vb81zMYL-zuC"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+  
+### T4D-C / B4D-C
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52137414245_635a8f4728_k.jpg"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+  
+### T4D-M / B4D-M
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1hiI0T_LfcoW_DzwzsR7MODVC5gY6PFmP"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+  
+  
+### T6A5
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="
+https://live.staticflickr.com/65535/49996570488_a6e72fd53b_k.jpg"></td>
+<td>Кратка история...</td></tr>
+  <td colspan=2 >ℹ️ линк към модела</td></table></div>
+
+
+## Откъде идват наименованията
+
+Стандартни автомобили без съчленения 
+
+### 1-во място
+
+Т - обозначава четириосен трамваен автомобил с двигател ( трамвай )
+В - означава четириосен обикновен трамваен вагон (влекач)
+
+### 2-ро място
+
+цифри на типовата серия (поколение): 1 - 7
+
+###  3-то място
+Буква, указваща разстоянието между шарнирите на шасито и едновременно с това дали вагонът е еднопосочен или двупосочен:
+
+А = 6,7 м (еднопосочен автомобил)
+B = 7,5 m (еднопосочен автомобил)
+C = 6,7 m (двупосочен автомобил)
+D = 7,5 m (двупосочен автомобил)
+
+###  4-то място
+Цифри, указващи широчината на превозното средство:
+
+2 = 2.2 m
+5 = 2.5 m
+6 = 2.6 m
+
+###  5-то място
+Версия за износ: B ( :bulgaria: ), D ( :de: ), H ( :hungary: ), K ( :north_korea: ), R ( :romania: ), SU ( Съветски съюз ), SUCS (модифицирана версия за Съветския съюз, доставена на чехословашките транспортни компании) , YU ( Югославия )
+Понякога се споменава и CS ( :czech_republic: )
+
+> Бележка: Третото и четвъртото място в обозначението на типа започват да се използват едва в средата на 70-те години. Преди това 3-тото място е било обозначението на версията за износ (напр. T2SU).
+{.is-info}
+
+
+### Пример: 
+
+Т6А2Б
+
+Т6Б5
+
+Т4D-C
+
+T4D-M
+
+T6B5SU - четириосен моторен трамваен вагон, 6-то поколение, еднопосочен (разстоянието между колчетата е 7,5 м), широчината на превозното средство е 2,5 м, предназначен за Съветския съюз
