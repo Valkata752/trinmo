@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2023-12-27T08:55:33.253Z
+date: 2024-01-02T08:37:41.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -89,8 +89,9 @@ dateCreated: 2022-04-26T15:34:13.268Z
 
 
 # 🆕 Списък на линиите
-
-Хроника на всички линии година по година: | [2023](/bg/public-transport/routes-2023) | [31.08.**1990**](/bg/public-transport/routes-1990) | [30.06.**1988**](/bg/public-transport/routes-1988) | [30.10.**1986**](/bg/public-transport/routes-1986) | [**1984**](/bg/public-transport/routes-1984) | [30.11.**1982**](/bg/public-transport/routes-1982) | [30.06.**1981**](/bg/public-transport/routes-1981) | [31.12.**1976**](/bg/public-transport/routes-1976) |
+# Tabs {.tabset}
+## 1977
+<img src="https://drive.google.com/uc?id=1OnRZRbQgCcbO9poeOoQ96WjrxIXCh-Ha">
 
 
 # История на маршрутната мрежа
