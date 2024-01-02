@@ -2,7 +2,7 @@
 title: 1978 Пътеводител
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T15:49:35.349Z
+date: 2024-01-02T15:50:03.060Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:09:30.342Z
