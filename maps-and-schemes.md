@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T14:05:33.078Z
+date: 2024-01-02T09:56:56.550Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -19,7 +19,7 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 ##
 <!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Or5PigJE1t0wclgwD-i61jD1Jgzk0Fxi" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>
 
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
