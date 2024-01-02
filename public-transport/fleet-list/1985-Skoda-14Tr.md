@@ -2,7 +2,7 @@
 title: Škoda 14Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T17:45:57.010Z
+date: 2024-01-02T17:47:16.441Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:29:42.577Z
@@ -14,7 +14,7 @@ Skoda 14 Tr е тролейбус, произвеждан от фирмата Ш
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1bZVmVt9Rkp8mBUXkBcvevDfUXo4-yWR_"></td>
+<td><img src="https://drive.google.com/uc?id=1J-A6J7L2Sbqok2hbTPEgr0r9pJC2C59H"></td>
 <td><b>Skoda 14 Tr</b><br>Движи ли са се за много кратко.</td></tr>
   <td colspan=2 >ℹ️ 100 години градски транспорт София</td></table></div>
   
@@ -97,6 +97,6 @@ Skoda 14 Tr е тролейбус, произвеждан от фирмата Ш
 ### 
 
 <!--1501-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bZVmVt9Rkp8mBUXkBcvevDfUXo4-yWR_" height="200px"><figcaption><b>ТБ9</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bZVmVt9Rkp8mBUXkBcvevDfUXo4-yWR_" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1J-A6J7L2Sbqok2hbTPEgr0r9pJC2C59H" height="200px"><figcaption><b>tb1501 line9</b> 📷 100 години градски транспорт</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1J-A6J7L2Sbqok2hbTPEgr0r9pJC2C59H" width="100%"></div></div>
  <!--1517--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/gZlLSlHaU4z6DRvPh5nt6Dp8-s0BxLqWdM_h1WvYQFgEaWaT3rwhBTw87wLqWSCza-E=w2400" height="200px"><figcaption><b>ТБ9 </b>📷 Патилата на Спас и Нели — 1987 г.</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/gZlLSlHaU4z6DRvPh5nt6Dp8-s0BxLqWdM_h1WvYQFgEaWaT3rwhBTw87wLqWSCza-E=w2400" target="_blank" title="1517"> <img src="https://lh6.googleusercontent.com/gZlLSlHaU4z6DRvPh5nt6Dp8-s0BxLqWdM_h1WvYQFgEaWaT3rwhBTw87wLqWSCza-E=w2400" width="100%"></a></div></div>
