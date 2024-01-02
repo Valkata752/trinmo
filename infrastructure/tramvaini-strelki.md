@@ -2,7 +2,7 @@
 title: Трамвайни стрелки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T12:24:03.322Z
+date: 2024-01-02T16:57:03.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-27T13:24:11.401Z
@@ -52,9 +52,12 @@ dateCreated: 2023-04-27T13:24:11.401Z
   
   
 ## Схема стрелки
-<br>
-
+## Tabs {.tabset}
+### Горе-долу актуално
 <img src="https://drive.google.com/uc?id=1lehk_7zv8BFHs7cg2ekRTFO8X_mWGvoH">
+
+### 1918
+<img src="https://drive.google.com/uc?id=1NjVhG9bN9cCMQ6RJKEV7MWlY1FRhQjDF">
 
 ## Списък стрелки
 
