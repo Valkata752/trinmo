@@ -2,7 +2,7 @@
 title: 1983 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-06T06:49:54.354Z
+date: 2024-01-02T15:49:22.101Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-22T22:06:57.386Z
