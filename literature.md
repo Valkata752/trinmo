@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T15:48:24.222Z
+date: 2024-01-02T15:52:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1161,7 +1161,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## 1935
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=-I"></td>
+<td><img src="https://drive.google.com/uc?id=11NQx9UQZx3QMo2tdOEwA9vR5-n4_n9IK"></td>
 <td>Пътеводител - 1935</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1935-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
