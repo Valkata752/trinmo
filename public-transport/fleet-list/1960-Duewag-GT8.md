@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T23:37:40.274Z
+date: 2024-01-03T23:38:24.708Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -15,7 +15,8 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1jXMPl6cigkYkr2mHzauzDqsdz9yl-kUK"></td>
-<td><b>Duewag GT8</b><br>Транспортът, подготвителните операции и застраховките им, са бартер срещу реклама със ЗК "България"(сега "Алианц" - б.а.). </td></tr>
+<td><b>Доставка по вода</b><br>Трамвайна мотриса №405(4405) при доставката и на пристанище Лом
+</td></tr>
   <td colspan=2 >ℹ️ снимка: Николай Николов</td></table></div>
 
 
