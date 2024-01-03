@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-21T14:05:04.804Z
+date: 2024-01-03T14:13:09.889Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -13,6 +13,11 @@ dateCreated: 2022-05-05T22:27:52.554Z
 {.links-list}
 
 # Действащи
+
+## 2023
+   
+- [:construction: :m: Строителството на Метродиаметър 3 до УМБАЛ Св. Анна *06.01.2024 -*](/bg/public-transport/route-changes/2023-kanalizacia-novi-iskar)
+{.links-list}
 
 ## 2023
    
