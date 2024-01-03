@@ -2,7 +2,7 @@
 title: Трамваите Татра
 description: Транспорт, инфраструктра и мобилност
 published: true
-date: 2024-01-03T14:32:51.025Z
+date: 2024-01-03T15:38:19.108Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-02T17:31:02.498Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-02T17:31:02.498Z
 # Кратка история
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1LjwfbCm_URWX1BBYsH82_7bUmUzrV9_e"></td>
+  <td><center><img src="https://drive.google.com/uc?id=1LjwfbCm_URWX1BBYsH82_7bUmUzrV9_e"></center></td>
 <td> ČKD (Českomoravská Kolben-Daněk) е една от най-големите машиностроителни компании в бивша Чехословакия и днешна Чешка република. Известна е с масовото производство на трамваи и най-вече моделът Т3, от който са продадени 13 991 единици по целия свят.</td></tr>
   <td colspan=2 >ℹ️ http://www.ckd.cz/translate/cs/home</td></table></div>
   
