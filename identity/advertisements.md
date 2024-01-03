@@ -2,7 +2,7 @@
 title: Рекламите по возилата
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T17:20:08.997Z
+date: 2024-01-03T17:31:00.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T19:15:27.904Z
@@ -272,5 +272,18 @@ dateCreated: 2023-01-24T19:15:27.904Z
   <td colspan=2 >📷 <a href="/bg/identity/advertisements-80te"><b> Рекламите по возилата - 1980-1989 г.</b></a></td>
 </table>
 </div>
+
+
+## 1929
+<div class="table-responsive">
+<table style="width:100%">
+  <tr>
+    <td><img src="https://drive.google.com/uc?id=1b5CF6q_rxgJRPfDWtXK94RD7QjyUiREI"><br></td>
+    <td></td>
+  </tr>
+  <td colspan=2 >📷 <a href="/bg/literature/1929"><b> Списание Сердика 1929 г.</b></a></td>
+</table>
+</div>
+
 
 
