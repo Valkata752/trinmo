@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T21:38:47.271Z
+date: 2024-01-04T21:43:24.433Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
