@@ -2,7 +2,7 @@
 title: Фотограф - Dirk Hartmann
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T08:33:06.835Z
+date: 2024-01-04T14:11:46.343Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-04T00:54:50.368Z
@@ -69,7 +69,8 @@ dateCreated: 2024-01-04T00:54:50.368Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1XHrPHLdWnRU7Dg6ug2hOG4Jb89USrVVH"></td>
-<td><b>tm123</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN) </a><br>📌 неизв.<br> 📷 Dirk Hartmann<br></td></tr>
+<td><b>tm123</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)
+ </a><br>📌 неизв.<br> 📷 Dirk Hartmann<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
