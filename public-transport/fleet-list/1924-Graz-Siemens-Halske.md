@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-23T13:15:26.782Z
+date: 2024-01-04T21:38:47.271Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -145,6 +145,9 @@ Graz/Siemens & Halske притежава следните технико-екс�
 # Tabs {.tabset}
 
 ## Пътнически
+<!--2--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xQs5-kUNO7WBDlJcnn9R-vxT6qsCBUoZ" height="200px"><figcaption></figcaption><b> tm2 line8</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xQs5-kUNO7WBDlJcnn9R-vxT6qsCBUoZ" width="100%"></div></div>
+
 <!--5-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" height="200px"><figcaption><b>5 - депо</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" width="100%"></div></div>
 <!--5-->
