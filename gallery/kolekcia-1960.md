@@ -1,8 +1,8 @@
 ---
-title: Фотоалбум - София 1959
+title: Фотограф - Dirk Hartmann
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T01:11:02.586Z
+date: 2024-01-04T07:40:58.108Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-04T00:54:50.368Z
