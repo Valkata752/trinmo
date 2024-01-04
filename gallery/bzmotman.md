@@ -2,7 +2,7 @@
 title: Фотограф - BZMOTMAN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T21:50:34.198Z
+date: 2024-01-04T21:56:02.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T12:37:52.647Z
@@ -40,21 +40,25 @@ dateCreated: 2023-11-20T12:37:52.647Z
 <td><b>tm275</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277</a><br>📌 неизв.<br> 📷 BZMOTMAN<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-## Други
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1L79TbgtuA-oI-GoHTeShIf6NBidY_9JX"></td>
+<td><b>tm722 tm13</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)</a><br>📌 неизв.<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1SVz2YtYFug47ecKZ7NjvwUPyqFUuHIc1"></td>
+<td><b>tm826 tm12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв.<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1PmM1dbPA-aDwBwL5w_Urvc2pftQ8CLxK"></td>
+<td><b>tm937 tm9</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-901 (Космонавт)</a><br>📌 неизв.<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-
-
-
-
-
-
-<!--722--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L79TbgtuA-oI-GoHTeShIf6NBidY_9JX" height="200px"><figcaption></figcaption><b> tm722 tm13</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L79TbgtuA-oI-GoHTeShIf6NBidY_9JX" width="100%"></div></div>
-
-<!--826--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SVz2YtYFug47ecKZ7NjvwUPyqFUuHIc1" height="200px"><figcaption></figcaption><b> tm826 tm12</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SVz2YtYFug47ecKZ7NjvwUPyqFUuHIc1" width="100%"></div></div>
-
-<!--937--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PmM1dbPA-aDwBwL5w_Urvc2pftQ8CLxK" height="200px"><figcaption></figcaption><b> tm937 tm9</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PmM1dbPA-aDwBwL5w_Urvc2pftQ8CLxK" width="100%"></div></div>
 
 
