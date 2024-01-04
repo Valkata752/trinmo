@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:51:52.688Z
+date: 2024-01-04T22:52:19.862Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -421,7 +421,7 @@ dateCreated: 2022-05-19T22:30:33.330Z
 
 # Снимки
      
-- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1979-T6M-400)
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1964-Skoda-9Tr)
 {.links-list}
 
  
