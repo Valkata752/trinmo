@@ -2,7 +2,7 @@
 title: Фотограф - Гисберта Якла
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:43:37.339Z
+date: 2024-01-04T22:44:21.496Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
@@ -22,7 +22,7 @@ dateCreated: 2023-11-12T10:18:41.924Z
 <!--50--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vxJbmmk2SbiN60vaDMrGezw8zOROAS2L" height="200px"><figcaption></figcaption><b>tm50 line14</b> 📷 Гисберта Якла </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vxJbmmk2SbiN60vaDMrGezw8zOROAS2L" width="100%"></div></div>
 <!--144--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vxJbmmk2SbiN60vaDMrGezw8zOROAS2L" height="200px"><figcaption></figcaption><b>tm144 line7</b> 📷 Гисберта Якла </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vxJbmmk2SbiN60vaDMrGezw8zOROAS2L" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Vib3nFgCfqVARYGUg5KgKkmkVVAd8P6H" height="200px"><figcaption></figcaption><b>tm144 line7</b> 📷 Гисберта Якла </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Vib3nFgCfqVARYGUg5KgKkmkVVAd8P6H" width="100%"></div></div>
 <!--276--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VsV5hlX4Z4t63xv0jFeXYdluy8EfdBq4" height="200px"><figcaption></figcaption><b>tm276 line7</b> 📷 Гисберта Якла </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VsV5hlX4Z4t63xv0jFeXYdluy8EfdBq4" width="100%"></div></div>
 <!--277--> 
