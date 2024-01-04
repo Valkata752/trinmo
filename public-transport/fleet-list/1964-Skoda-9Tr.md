@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:49:35.978Z
+date: 2024-01-04T22:51:52.688Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -448,7 +448,7 @@ dateCreated: 2022-05-19T22:30:33.330Z
 <!--215--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" height="200px"><figcaption></figcaption><b>tb215 line3 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" width="100%"></div></div>
 <!--238--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" height="200px"><figcaption></figcaption><b>tb238 line3</b> 📷 Гисберта Якла </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" height="200px"><figcaption></figcaption><b>tb238 line3</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" width="100%"></div></div>
 <!--303-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" height="200px"><figcaption><b>ТБ3</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" width="100%"></div></div>
 
