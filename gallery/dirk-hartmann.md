@@ -2,7 +2,7 @@
 title: Фотограф - Dirk Hartmann
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T08:29:56.557Z
+date: 2024-01-04T08:30:48.507Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-04T00:54:50.368Z
@@ -98,7 +98,7 @@ dateCreated: 2024-01-04T00:54:50.368Z
 
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1D7Abgsi1vRwZ1bcZRG6gJ9JTPsevhxsS"></td>
+<td><img src="https://drive.google.com/uc?id=1TxricpY23o_W1BEN5PKNobyGr9ITO4s_"></td>
 <td><b>tm235 tm720</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република) </a><br>📌 неизв.<br> 📷 неизв. <br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
