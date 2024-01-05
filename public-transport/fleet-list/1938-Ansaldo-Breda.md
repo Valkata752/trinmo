@@ -2,7 +2,7 @@
 title: Ansaldo-Breda (121-140)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T14:06:49.129Z
+date: 2024-01-05T21:55:33.693Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:16:12.233Z
@@ -90,7 +90,7 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 
 ### 122
 <!--122-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WTNwYoOOCTpsaZ9PcHk5cR1lZ38UqomJ" height="200px"><figcaption><b>TM3</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WTNwYoOOCTpsaZ9PcHk5cR1lZ38UqomJ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1j5QHkeg2sVvUqfpQS2iwlQROJsl6b1V0" height="200px"><figcaption><b>tm122 line3</b> 📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1j5QHkeg2sVvUqfpQS2iwlQROJsl6b1V0" width="100%"></div></div>
 <!--122+352+472--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jJrmLy5nMhbbh98igWMFjeARlAR_xrV7" height="200px"><figcaption></figcaption><b> tm122+tm352+tm472 line3</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jJrmLy5nMhbbh98igWMFjeARlAR_xrV7" width="100%"></div></div>
 
