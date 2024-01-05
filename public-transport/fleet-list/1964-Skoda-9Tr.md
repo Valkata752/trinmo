@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:52:19.862Z
+date: 2024-01-05T07:23:42.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -427,8 +427,9 @@ dateCreated: 2022-05-19T22:30:33.330Z
  
 ## Tabs {.tabset}
 ### ТБ1
-<!--312-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" height="200px"><figcaption><b>ТБ1</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" width="100%"></div></div>
+<!--312--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption></figcaption><b>tb312 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
+
 
 
 ## Tabs {.tabset}
