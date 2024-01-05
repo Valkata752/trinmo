@@ -2,17 +2,25 @@
 title: Фотограф - Peter Haseldine
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T23:00:00.904Z
+date: 2024-01-05T23:02:15.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T15:47:45.157Z
 ---
 
 ## 1976
+
 ## Tabs {.tabset}
-###
-<!--114--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E_Zausk49ij97VXzsV6WxBHWw0DK5GiT" height="200px"><figcaption></figcaption><b>tm114</b> 📷 Peter Haseldine </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E_Zausk49ij97VXzsV6WxBHWw0DK5GiT" width="100%"></div></div>
+### Т8М-730 (София 70)
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1E_Zausk49ij97VXzsV6WxBHWw0DK5GiT"></td>
+<td><b>tm114</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌 неизв. <br> 📷 Peter Haseldine<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
 
 <!--274--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q8vwhMgb2CDKgOX9S-Rb8ei-xmAsfDze" height="200px"><figcaption></figcaption><b>tm274 line17</b> 📷 Peter Haseldine </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q8vwhMgb2CDKgOX9S-Rb8ei-xmAsfDze" width="100%"></div></div>
