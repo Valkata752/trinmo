@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T14:23:54.152Z
+date: 2024-01-05T14:26:07.467Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -60,6 +60,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [joka-video.de :de: *1981*](/gallery/joka-video-de-1981)
 - [Patrick Fitting *1983*](/gallery/patrick-fitting)
 - [H. Luff*1984/86*](/gallery/h-luff)
+- [Trotskee Travel *80те*](/gallery/trotskee)
 {.links-list}
 
 
@@ -75,6 +76,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Bohdan Turzanski :poland: *1971, 1975*](/gallery/bohdan-turzanski)
 - [BZMOTMAN*1970*](/gallery/bzmotman)
 - [Ohoboho*197Х*](/gallery/ohoboho)
+- [Trotskee Travel *70те*](/gallery/trotskee)
 {.links-list}
 
 ## 60те
@@ -85,6 +87,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Pascal Pontremoli*1964*](/gallery/pascal-pontremoli)
 - [Dirk Hartmann*1960*](/gallery/dirk-hartmann)
 - [Paul Popper*1960*](/gallery/paul-popper)
+- [Trotskee Travel *60те*](/gallery/trotskee)
 {.links-list}
 
 
@@ -93,7 +96,3 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
 {.links-list}
 
-
-## Без дата
-- [Trotskee Travel](/gallery/trotskee)
-{.links-list}
