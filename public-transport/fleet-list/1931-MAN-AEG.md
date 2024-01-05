@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T10:14:08.465Z
+date: 2024-01-05T20:25:46.447Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -84,9 +84,9 @@ MAN-AEG притежава следните технико-експлоатац�
 
 ## 79
 <!--79-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wOPlcFcrS_uFA0r-WGEAwZexUL3jd7wT" height="200px"><figcaption><b>TM8</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wOPlcFcrS_uFA0r-WGEAwZexUL3jd7wT" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1S47SHwt0hV5wsWB7S1BUs0EhM2gJgxSU" height="200px"><figcaption><b>tm79 line8</b> 📷 Trotskee travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1S47SHwt0hV5wsWB7S1BUs0EhM2gJgxSU" width="100%"></div></div>
 <!--79-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wBESP70qBomukZVZRfy6xJkVecIPRgUg" height="200px"><figcaption><b>TM8</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wBESP70qBomukZVZRfy6xJkVecIPRgUg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ia4v75L89TgTOBn35nAb7FSoHo2hc0-b" height="200px"><figcaption><b>tm79 line8</b> 📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ia4v75L89TgTOBn35nAb7FSoHo2hc0-b" width="100%"></div></div>
 
 
 
