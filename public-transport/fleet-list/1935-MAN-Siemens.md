@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T20:16:26.826Z
+date: 2024-01-05T21:28:50.239Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -205,9 +205,9 @@ MAN-Siemens притежава следните технико-експлоат�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PzYj_b-xklxJD1PxO-5PEpwYaR_HeJ1f" height="200px"><figcaption><b>TM?</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PzYj_b-xklxJD1PxO-5PEpwYaR_HeJ1f" width="100%"></div></div>
 
 # Tabs {.tabset}
-## 90
-<!--90-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aTOafin9fyeCUD9Zb9Qja5DPZmXdoJrl" height="200px"><figcaption><b>TM3</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aTOafin9fyeCUD9Zb9Qja5DPZmXdoJrl" width="100%"></div></div>
+## 89
+<!--89-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" height="200px"><figcaption><b>tm89 line3</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" width="100%"></div></div>
 
 
 # Tabs {.tabset}
