@@ -2,7 +2,7 @@
 title: Фотограф - Dirk Hartmann
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T14:11:46.343Z
+date: 2024-01-05T07:33:26.239Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-04T00:54:50.368Z
@@ -128,9 +128,9 @@ dateCreated: 2024-01-04T00:54:50.368Z
 <td><b>tm504</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1930-DTO-501-512">ДТО Ремаркета серия № 501/512 (Кардалев) </a><br>📌 неизв.<br> 📷 Dirk Hartmann<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1zuy7qmBWuk6kWcH06tusyILG-z7Q7tb1"></td>
+<td><img src="https://drive.google.com/uc?id=1TP8hQCHnrkkJaeBurpDqgycFb9W42dnd"></td>
 <td><b>tm703 tm704 tm705</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец) </a><br>📌 Трамкар <br> 📷 Dirk Hartmann<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
