@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T21:43:24.433Z
+date: 2024-01-05T09:56:03.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -150,8 +150,8 @@ Graz/Siemens & Halske притежава следните технико-екс�
 
 <!--5-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" height="200px"><figcaption><b>5 - депо</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" width="100%"></div></div>
-<!--5-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1O9HnCmwQX2f7K33ktsRbZlvKbF4JDD_m" height="200px"><figcaption><b>5</b> 📷 Албум 75 години ГТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1O9HnCmwQX2f7K33ktsRbZlvKbF4JDD_m" width="100%"></div></div>
+<!--5--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1komfckOEER21HDISFBtTwCZMZL7JOXzD" height="200px"><figcaption> <b>tm5</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1komfckOEER21HDISFBtTwCZMZL7JOXzD" width="100%"></div></div>
 <!--16--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" height="200px"><figcaption> <b>16 - TM9</b> 📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" width="100%"></div></div>
 <!--20-->
