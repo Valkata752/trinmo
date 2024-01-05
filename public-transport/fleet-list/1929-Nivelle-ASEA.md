@@ -2,7 +2,7 @@
 title: Nivelle-ASEA (106-115)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:32:24.856Z
+date: 2024-01-05T09:32:48.418Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:05.175Z
@@ -80,7 +80,8 @@ Nivelle-ASEA притежава следните технико-експлоат
 ## 112
 <!--112--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" height="200px"><figcaption></figcaption><b>tm112</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" width="100%"></div></div>
-
+<!--112--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g" height="200px"><figcaption></figcaption><b>tm112</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g" width="100%"></div></div>
   
 ## 113
 <!--113--> 
