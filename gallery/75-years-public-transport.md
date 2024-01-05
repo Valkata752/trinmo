@@ -2,19 +2,20 @@
 title: Албум - 75 години градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T10:59:38.975Z
+date: 2024-01-05T11:02:50.435Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:59:38.975Z
 ---
 
-http://trinmo.org/bg/literature/anniversary/75-years-public-transport
+- [:seven::five: години градски транспорт *Цялата книга*](http://trinmo.org/bg/literature/anniversary/75-years-public-transport)
+{.links-list}
 
-# 1976
-  
-# Tabs {.tabset}
+---
 
-## 
+
+## Tabs {.tabset}
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1komfckOEER21HDISFBtTwCZMZL7JOXzD"></td>
@@ -37,26 +38,13 @@ http://trinmo.org/bg/literature/anniversary/75-years-public-transport
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1jsrOfIcZh4mcoSgKyYxtoeh9SD4GafHs"></td>
 <td><b>tm76 line10</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>    
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1GFekXWeCAqkSa5Xkph838EGVx4sMuR_v"></td>
-<td><b>tm148 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>    
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1lXF9ywNoSycVt_JKJqE8Zd_xGmTpsGYW"></td>
-<td><b>tm152</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>      
+  <td colspan=2 >ℹ️ </td></table></div>   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1wIsCSgQmieUkDwnO-E1aOJrNsO0BgoyW"></td>
 <td><b>tm205 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin"> Cepelin (34-39 -> 201-206)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>       
-  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1It3Iwe--AWKg3c_ffI5VDcMHeyWQyN8Z"></td>
@@ -70,6 +58,22 @@ http://trinmo.org/bg/literature/anniversary/75-years-public-transport
   <td colspan=2 >ℹ️ </td></table></div>         
   
   
+
+## Tabs {.tabset}
+###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1GFekXWeCAqkSa5Xkph838EGVx4sMuR_v"></td>
+<td><b>tm148 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1lXF9ywNoSycVt_JKJqE8Zd_xGmTpsGYW"></td>
+<td><b>tm152</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+  
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=186IOHUbJAo0-FWNEjFy47k_21kTs7Kwr"></td>
@@ -93,8 +97,7 @@ http://trinmo.org/bg/literature/anniversary/75-years-public-transport
 <td><img src="https://drive.google.com/uc?id=121WXnvODF8ToMJ5k_ZZy9Vv1lzoQmEzE"></td>
 <td><b>tm721</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>    
-  
-  
+ 
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
