@@ -2,13 +2,13 @@
 title: Линии по гаражи
 description: Транспорт, инфраструктура и планиране
 published: true
-date: 2024-01-05T19:40:32.099Z
+date: 2024-01-05T19:42:25.282Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-23T07:48:29.402Z
 ---
 
-# Прехвърляния
+## Прехвърляния
 ## Tabs {.tabset}
 
 ### 2024
