@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T21:49:15.053Z
+date: 2024-01-05T21:57:58.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
@@ -25,6 +25,34 @@ dateCreated: 2024-01-05T16:03:02.937Z
 <td><b>tm108 line16</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+ ## Tabs {.tabset}
+### Т4М-701 (Комсомолец)
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=122OfwzffzunNyJHMuN_auU043XF1y8_L"></td>
+<td><b>tm709 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ ## Tabs {.tabset}
+### Т4М-221 / Т4Р-521 (Република)
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1U99AOdTmaoFd-WV-pmG3KGxdhO9G6TQW"></td>
+<td><b>tm221 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1IZG0HN3d1VojtD8Rmgelh--aEJ73aMwF"></td>
+<td><b>tm232 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
+</a><br>📌 неизв. <br> 📷 The Leeds Transport Society<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
   
   
 ## 1970
