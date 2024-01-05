@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:29:24.853Z
+date: 2024-01-05T09:29:51.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -91,5 +91,5 @@ MAN-AEG притежава следните технико-експлоатац�
 
 
 ## 80	
-<!--80-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OWRioFA6mOZArZDhAaXImtvHTgKSbECs" height="200px"><figcaption><b>TM12</b> 📷 H E C Piercy ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OWRioFA6mOZArZDhAaXImtvHTgKSbECs" width="100%"></div></div>
+<!--80--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ve9i68bF-FL9pNE6e4kXciPusiLssEKG" height="200px"><figcaption></figcaption><b>tm80 line12</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ve9i68bF-FL9pNE6e4kXciPusiLssEKG" width="100%"></div></div>
