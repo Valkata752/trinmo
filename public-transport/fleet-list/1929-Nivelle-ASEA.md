@@ -2,7 +2,7 @@
 title: Nivelle-ASEA (106-115)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-14T11:21:37.714Z
+date: 2024-01-05T09:32:24.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:05.175Z
@@ -78,8 +78,9 @@ Nivelle-ASEA притежава следните технико-експлоат
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HgfQF5Aul1Zxw-5kOycmjNbXoQq8NB03" height="200px"><figcaption><b>TM5</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HgfQF5Aul1Zxw-5kOycmjNbXoQq8NB03" width="100%"></div></div>
 
 ## 112
-<!--112-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sirmKDGObX5x0zQYWcC88JqJEgezpcx6" height="200px"><figcaption><b>TM?</b> 📷 H E C Piercy ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sirmKDGObX5x0zQYWcC88JqJEgezpcx6" width="100%"></div></div>
+<!--112--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" height="200px"><figcaption></figcaption><b>tm112</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" width="100%"></div></div>
+
   
 ## 113
 <!--113--> 
