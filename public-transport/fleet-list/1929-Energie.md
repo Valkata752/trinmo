@@ -2,7 +2,7 @@
 title: Energie (401-432)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:28:07.122Z
+date: 2024-01-05T09:29:18.590Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:19:47.485Z
@@ -89,5 +89,5 @@ Energie притежава следните технико-експлоатац�
 
 ## 422
 <!--72+422--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" height="200px"><figcaption></figcaption><b>tm72+422</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" height="200px"><figcaption></figcaption><b>tm72+422 line2</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" width="100%"></div></div>
 
