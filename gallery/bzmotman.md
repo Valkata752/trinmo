@@ -2,7 +2,7 @@
 title: Фотограф - BZMOTMAN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:15:32.594Z
+date: 2024-01-05T22:00:46.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T12:37:52.647Z
@@ -33,12 +33,19 @@ dateCreated: 2023-11-20T12:37:52.647Z
 <td><b>tm122+tm352+tm472 line3</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)</a><br>📌 гара Захарна фабрика<br> 📷 BZMOTMAN<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=10sGHSpEOX0g2WuVBJgY90eBKBHqroRQo"></td>
 <td><b>tm275</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277</a><br>📌 пл.Св. Неделя<br> 📷 BZMOTMAN<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1BcelhvAgIKv-jx2e3_jRyARLXGaSJO1h"></td>
+<td><b>tm232 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
+</a><br>📌 неизв. <br> 📷 The Leeds Transport Society<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
   
   
   
