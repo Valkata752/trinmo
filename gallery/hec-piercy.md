@@ -2,7 +2,7 @@
 title: Фотограф: H E C Piercy
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:43:29.624Z
+date: 2024-01-05T09:47:07.058Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:47:00.001Z
@@ -79,7 +79,7 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1mycUs4D7rQkUt-pwf9Jkps2462mPlE2w"></td>
+<td><img src="https://drive.google.com/uc?id=1hK7RT1L24Xg2fibUn0D4Tovzaz0yz8A8"></td>
 <td><b>tm927 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
