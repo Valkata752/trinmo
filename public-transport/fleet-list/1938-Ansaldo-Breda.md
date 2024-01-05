@@ -2,7 +2,7 @@
 title: Ansaldo-Breda (121-140)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T21:47:17.675Z
+date: 2024-01-05T14:06:49.129Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:16:12.233Z
@@ -128,6 +128,10 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 ### 136
 <!--136-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CT8DHuabnnWMV7OTTejsCQTuQlEtmH9Y" height="200px"><figcaption><b>TM2</b> 📷 ohoboho ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CT8DHuabnnWMV7OTTejsCQTuQlEtmH9Y" width="100%"></div></div>
+
+### 137
+<!--137, 357--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hdASDeLvTKdx9KWTLfMPGQjedo68xXv2" height="200px"><figcaption><b>tm137 tm357 line2</b> 📷 Pascal Pontremoli</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hdASDeLvTKdx9KWTLfMPGQjedo68xXv2" width="100%"></div></div>
 
 ### 139
 <!--139--> 
