@@ -2,14 +2,14 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T21:48:20.939Z
+date: 2024-01-05T21:49:15.053Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
 ---
 
-- [📷 Разгледай другия архив на Trotskee travel *80те*](/bg/public-transport/gallery/trotskee-80te)
-- [📷 Разгледай другия архив на Trotskee travel *60те*](/bg/public-transport/gallery/trotskee-60te)
+- [📷 Разгледай другия архив на Trotskee travel *80те*](/bg/gallery/trotskee-80te)
+- [📷 Разгледай другия архив на Trotskee travel *60те*](/bg/gallery/trotskee-60te)
 {.links-list}
 
 
