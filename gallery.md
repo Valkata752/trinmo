@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T07:41:26.975Z
+date: 2024-01-05T09:50:02.858Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -67,6 +67,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Olle S. Nevius*1978*](/gallery/olle-s-nevius-1978)
 - [Богдан Стефанов :bulgaria: *1977-1978*](/gallery/bogdan-stefanov)
 - [Kurt Rasmussen*1977*](/gallery/kurt-rasmussen)
+- [75 години градски транспорт :bulgaria: *1976*](/gallery/75-years-public-transport)
 - [Peter Haseldine*1976*](/gallery/peter-haseldine)
 - [Ole Iskov*1976*](/gallery/ole-iskov)
 - [Olaf Guettler:de: *1975, 1976*](/gallery/olaf-guettler)
