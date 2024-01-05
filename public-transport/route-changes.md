@@ -2,7 +2,7 @@
 title: Маршрутни промени
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T14:14:36.994Z
+date: 2024-01-05T10:28:20.031Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T22:27:52.554Z
@@ -14,7 +14,7 @@ dateCreated: 2022-05-05T22:27:52.554Z
 
 # Действащи
 
-## 2023
+## 2024
    
 - [:construction: :m: Строителството на Метродиаметър 3 до УМБАЛ Св. Анна *06.01.2024 -*](/bg/public-transport/route-changes/2024-stroitelstvo-metro-sv-anna)
 {.links-list}
