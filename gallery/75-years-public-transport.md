@@ -2,13 +2,13 @@
 title: Албум - 75 години градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T11:02:50.435Z
+date: 2024-01-05T11:07:06.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:59:38.975Z
 ---
 
-- [:seven::five: години градски транспорт *Цялата книга*](http://trinmo.org/bg/literature/anniversary/75-years-public-transport)
+- [:seven::five: години градски транспорт *Цялата книга*](/bg/literature/anniversary/75-years-public-transport)
 {.links-list}
 
 ---
