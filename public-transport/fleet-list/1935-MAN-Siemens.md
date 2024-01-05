@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T13:57:28.853Z
+date: 2024-01-05T20:16:26.826Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -13,14 +13,14 @@ dateCreated: 2022-05-19T22:18:34.657Z
 
 През 1935г., поради доказаното перфектно качество и работоспособност са внесени още 12 мотриси, този път с електрическа част от "Siemens". Кошът е изцяло желязна конструкция (на предната доставка рамките на прозорците са от обшити с ламарина дървени елементи, по-късно сменени с желязни). Номерирани са от 81 до 92.  
 
-
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81ojpIAb0463mfrkbcmd1ZWhbOSoMATExMrFJ9qU-5zJI_ZpBiazo5Z7bd619EqNjnefR-dGV_WLX9bc7SfL80CztUeiQg=w2560-h1190"></td>
-    <td><b>Двуосна мотриса тип "МАН"</b><br>През 1935 год. са доставени 12 бр. двуосни мотриси тип "МАН", мотриса "Сименс" - Берлин, 5 киловата редуцирано налягане върху въздушната спирачка, също с желязна конструкция.</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт София</b></a></td>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB"></td>
+<td><b>Двуосна мотриса тип "МАН"</b><br>През 1935 год. са доставени 12 бр. двуосни мотриси тип "МАН", мотриса "Сименс" - Берлин, 5 киловата редуцирано налягане върху въздушната спирачка, също с желязна конструкция.</td></tr>
+  <td colspan=2 >ℹ️ 60 години градски транспорт София</td></table></div>
+  
+  
+  
 
 
 Тези мотриси носят службата по най-натоварените и с тежък профил маршрути (вкл. през гората към Семинарията), като теглят по два вагона.
@@ -155,8 +155,8 @@ MAN-Siemens притежава следните технико-експлоат�
 # Tabs {.tabset}
 ## 83/553
 ### 83
-<!--83-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11rCaqVRXHKFwy8SU0Gc7Y9Cx_AMXnjKc" height="200px"><figcaption><b>TM?</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11rCaqVRXHKFwy8SU0Gc7Y9Cx_AMXnjKc" width="100%"></div></div>
+<!--924-->
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB" height="200px"><figcaption><b>tm83</b> 📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB" width="100%"></div></div>
 <!--83-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SwFxihiZ5fvxnujRgwtFbMadUPOPApl7" height="200px"><figcaption><b>TM3</b> 📷 Mike Cornwall ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SwFxihiZ5fvxnujRgwtFbMadUPOPApl7" width="100%"></div></div>
 
