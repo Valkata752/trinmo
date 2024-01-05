@@ -1,8 +1,8 @@
 ---
-title: Фотоархив - Trotskee travel
+title: Фотоархив - Trotskee travel - 60те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T14:30:07.843Z
+date: 2024-01-05T15:13:50.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T14:30:07.843Z
