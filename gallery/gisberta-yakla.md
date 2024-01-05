@@ -2,7 +2,7 @@
 title: Фотограф - Gisberta Yakla
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T07:07:47.371Z
+date: 2024-01-05T07:24:24.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
@@ -89,24 +89,40 @@ dateCreated: 2023-11-12T10:18:41.924Z
 <td><b>tm608 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 пл.Св. Неделя<br> 📷 Gisberta Yakla<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-
-<!--718--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sp8ihBYIpPYJlOPWNLfqF5jAvELNvLeJ" height="200px"><figcaption></figcaption><b>tm718 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sp8ihBYIpPYJlOPWNLfqF5jAvELNvLeJ" width="100%"></div></div>
-<!--837--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E6A4UJlD0DRCFQZJQIDAVEHrQgSo-NEe" height="200px"><figcaption></figcaption><b>tm837 line4</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E6A4UJlD0DRCFQZJQIDAVEHrQgSo-NEe" width="100%"></div></div>
-<!--904--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" height="200px"><figcaption></figcaption><b>tm904 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1sp8ihBYIpPYJlOPWNLfqF5jAvELNvLeJ"></td>
+<td><b>tm718 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)</a><br>📌 пл.Св. Неделя<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1E6A4UJlD0DRCFQZJQIDAVEHrQgSo-NEe"></td>
+<td><b>tm837 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 пл.Св. Неделя<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1YTC_U6Gvcxi-3rIl-wPtOzrQY-K6fnK1"></td>
+<td><b>tm904 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a><br>📌 пл.Св. Неделя<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
 ## 1975
 ## Tabs {.tabset}
 ### 
-<!--258--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" height="200px"><figcaption></figcaption><b>tb258+tb259</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" width="100%"></div></div>
-
-<!--312--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption></figcaption><b>tb312 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3"></td>
+<td><b>tb258+tb259</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a><br>📌 неизв.<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe"></td>
+<td><b>tb312 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a><br>📌 пл. Александър Невски<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 
