@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-31T12:12:05.593Z
+date: 2024-01-05T13:57:28.853Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -187,6 +187,17 @@ MAN-Siemens притежава следните технико-експлоат�
 ## 85
 <!--85--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q9twoJB2uo4uKoDsnYD3wGma_h9VV6D6" height="200px"><figcaption><b>TM3</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q9twoJB2uo4uKoDsnYD3wGma_h9VV6D6" width="100%"></div></div>
+
+
+
+# Tabs {.tabset}
+## 86
+<!--86,416--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hcnfv2svA8i04Cqd2sgnxsQ8EUTk7yCT" height="200px"><figcaption><b>tm86 tm416 line2</b> 📷 Pascal Pontremoli</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hcnfv2svA8i04Cqd2sgnxsQ8EUTk7yCT" width="100%"></div></div>
+
+
+
+
 
 # Tabs {.tabset}
 ## 88
