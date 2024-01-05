@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 80те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T22:44:48.257Z
+date: 2024-01-05T22:54:11.874Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:40.051Z
@@ -33,32 +33,32 @@ dateCreated: 2024-01-05T16:03:40.051Z
 <td><b>tm605 line14</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1ONBPEetSCW69btV1kTItr5H8eH9d7I2E"></td>
 <td><b>tm613 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1emulotMHw_oyMiDcY9spDY0ISDDS24Tb"></td>
 <td><b>tm664 line19</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
     
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1sgaOBlA_lOKtsgHGH9DDUbgbq8d8HuNv"></td>
 <td><b>tm848 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-    <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1wVDLFMz1CWdp-pgd8yC3ucA1JZg4PVL2"></td>
 <td><b>tm886 line14</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-    <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1_dLGuZgDCEp1JwPhqHlXkivMVYOpjmz-"></td>
 <td><b>tm897 line14</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
@@ -83,13 +83,13 @@ dateCreated: 2024-01-05T16:03:40.051Z
 <td><b>tm427 line13</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T6M-400">Т6М-400 (София 100)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1GgyRQrslwE5YTA08PfGn4q5oKnVwi2Jt"></td>
 <td><b>tm439 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T6M-400">Т6М-400 (София 100)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1uIogMtqy4yqJIVCXUpbYHuLefRMujwxf"></td>
 <td><b>tm448 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T6M-400">Т6М-400 (София 100)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
