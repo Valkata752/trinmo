@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:03:31.077Z
+date: 2024-01-05T09:15:01.501Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -22,15 +22,18 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **ДТО** - ремаркета | [№ 431/479](/bg/public-transport/fleet-list/1949-DTO-431-479) | [№ 381/392 (Energie)](/bg/public-transport/fleet-list/1942-DTO-381-392) | [№ 371/380 (MAN)](/bg/public-transport/fleet-list/1940-DTO-371-380) | [№ 651/660 (Лодка)](/bg/public-transport/fleet-list/1939-DTO-651-660) | [№ 351/370 (за мотриси Breda)](/bg/public-transport/fleet-list/1937-DTO-351-370) | [№ 341/346 (Siemens)](/bg/public-transport/fleet-list/1936-DTO-341-346) | [№ 301/312 (Siemens)](/bg/public-transport/fleet-list/1935-DTO-301-312) | [№ 501/512 (Кардалев)](/bg/public-transport/fleet-list/1930-DTO-501-512) |
 -   **ČKD Tatra** | [**T6А2 SF**](/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF) | [**T6А5**](/bg/public-transport/fleet-list/1995-CKD-Tatra-T6A5) | [**T6А2B**](/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2) | [**T6B5**](/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5) | [T4D-C/B4D-C](/bg/public-transport/fleet-list/1981-CKD-Tatra-T4D-C)  | [**T4D-M2/B4D-M**](/bg/public-transport/fleet-list/1971-CKD-Tatra-T4D-M2) | [T4D](/bg/public-transport/fleet-list/1969-CKD-Tatra-T4D) |
 -   **Duewag** | [**GT8**](/bg/public-transport/fleet-list/1960-Duewag-GT8) | [GT6](/bg/public-transport/fleet-list/1959-Duewag-GT6) | [T4 - B4](/bg/public-transport/fleet-list/1957-Duewag-T4-B4) |
- -   **BBC** | [BBC (1-28)](/bg/public-transport/fleet-list/1901-BBC-1-28) | [BBC - ремарке (33-64)](/bg/public-transport/fleet-list/1901-BBC-33-64) | [Franco-Belge-BBC (51-65)](/bg/public-transport/fleet-list/1928-Franco-Belge-BBC) |
- -   **MAN** |  [MAN-Siemens (81-92)](/bg/public-transport/fleet-list/1935-MAN-Siemens) | [MAN-AEG (66-80)](/bg/public-transport/fleet-list/1931-MAN-AEG) |
- -   **Pesa** | [**Swing-122NaSF**](/bg/public-transport/fleet-list/2013-Pesa-122NASF) |
+-   **BBC** | [BBC (1-28)](/bg/public-transport/fleet-list/1901-BBC-1-28) | [BBC - ремарке (33-64)](/bg/public-transport/fleet-list/1901-BBC-33-64) | [Franco-Belge-BBC (51-65)](/bg/public-transport/fleet-list/1928-Franco-Belge-BBC) |
+-   **MAN** |  [MAN-Siemens (81-92)](/bg/public-transport/fleet-list/1935-MAN-Siemens) | [MAN-AEG (66-80)](/bg/public-transport/fleet-list/1931-MAN-AEG) |
+-   **Pesa** | [**Swing-122NaSF**](/bg/public-transport/fleet-list/2013-Pesa-122NASF) |
+-   **Crotram** | [TMK2200 (тестов)](/bg/public-transport/fleet-list/2008-Crotram-TMK2200) |
 -   **Schindler** | [**Waggon AG Be 4-6**](/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6) |
 -   **Uerdingen** | [Uerdingen (321-332)](/bg/public-transport/fleet-list/1939-Uerdingen) |
 -   **Ernesto Breda** | [Ansaldo-Breda (121-140)](/bg/public-transport/fleet-list/1938-Ansaldo-Breda) |
+-   **Ateliers métallurgiques** | [Nivelle-ASEA (106-115)](/bg/public-transport/fleet-list/1929-Nivelle-ASEA) | 
 -   **Siemens** | [Graz/Siemens & Halske (1-30)](/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske) |
--   **Crotram** | [TMK2200 (тестов)](/bg/public-transport/fleet-list/2008-Crotram-TMK2200) |
--   **Разни** | [Energie (401-432)](/bg/public-transport/fleet-list/1929-Energie) | [Nivelle-ASEA (106-115)](/bg/public-transport/fleet-list/1929-Nivelle-ASEA) | [Graz/Siemens & Halske (1-30)](/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske) | [Franco-Belge-OeBB Charleroi (151-162)](/bg/public-transport/fleet-list/1914-Franco-Belge-OeBB-Charleroi) | [La Brugeoise et Nivelles SA АМ-АСЕС / Cepelin (34-39 -> 201-206)](/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin) |
+-   **Franco-Belge-OeBB** | [Charleroi (151-162)](/bg/public-transport/fleet-list/1914-Franco-Belge-OeBB-Charleroi) |
+-   **La Brugeoise et Nivelles SA АМ-АСЕС** | [Cepelin (34-39 -> 201-206)](/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin) |
+-   **Разни** | [Energie (401-432)](/bg/public-transport/fleet-list/1929-Energie) 
 
 
 # 🚌 Автобусен транспорт
