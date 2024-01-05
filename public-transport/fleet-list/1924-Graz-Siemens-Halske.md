@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:57:46.668Z
+date: 2024-01-05T10:08:13.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -158,8 +158,8 @@ Graz/Siemens & Halske притежава следните технико-екс�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" height="200px"><figcaption> <b>tm20+tm305 line10</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" width="100%"></div></div>
 <!--23--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q7RZMqGdEPhfuP3oX4NR5hulP39Ex3TS182gSjQO4DSJcjBsaVrZAyvQBZTOBSLtBeYFtE2D8csyUGttwOmSvuhB-x=w1920-h854" height="200px"><figcaption> <b>23 - TM16</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q7RZMqGdEPhfuP3oX4NR5hulP39Ex3TS182gSjQO4DSJcjBsaVrZAyvQBZTOBSLtBeYFtE2D8csyUGttwOmSvuhB-x=w1920-h854" width="100%"></div></div>
-<!--26-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gGfFWqvh1l5IjodoA1x7VeOWJ_ujJ2wu" height="200px"><figcaption><b>TM17</b> 📷 Албум 75 години ГТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gGfFWqvh1l5IjodoA1x7VeOWJ_ujJ2wu" width="100%"></div></div>
+<!--26--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" height="200px"><figcaption> <b>tm26 line17</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" width="100%"></div></div>
 
 ## Служебни
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" height="200px"><figcaption> <b>1 и 503</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" width="100%"></div></div>
