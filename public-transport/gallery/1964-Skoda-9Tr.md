@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-04T22:52:36.089Z
+date: 2024-01-05T07:24:15.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -76,8 +76,8 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 258/259
-<!--258-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1flD0BKr1Q66cP-vt47kH71VhqLZiNYZO" height="200px"><figcaption><b>ТБ3</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1flD0BKr1Q66cP-vt47kH71VhqLZiNYZO" width="100%"></div></div>
+<!--258--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" height="200px"><figcaption></figcaption><b>tb258+tb259</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1r89I74yCEm2qjTrMmPetKLY_HsGQJTt3" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### 264
@@ -151,8 +151,8 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 312
-<!--312-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" height="200px"><figcaption><b>ТБ1</b> 📷 Gisberta Yakla ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QvbFDpFoTr3HlyHvbv7Y_FTkt7fY8Q4l" width="100%"></div></div>
+<!--312--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption></figcaption><b>tb312 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### 315
