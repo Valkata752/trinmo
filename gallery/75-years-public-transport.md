@@ -2,7 +2,7 @@
 title: Албум - 75 години градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T11:07:06.797Z
+date: 2024-01-05T14:11:50.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:59:38.975Z
@@ -48,7 +48,7 @@ dateCreated: 2024-01-05T10:59:38.975Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1It3Iwe--AWKg3c_ffI5VDcMHeyWQyN8Z"></td>
-<td><b>tm240</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
+<td><b>tm240, tm937</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)</a> и <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>       
   
 <!--следващ пост--> 
