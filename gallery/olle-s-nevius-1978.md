@@ -2,15 +2,17 @@
 title: Фотограф - Olle S. Nevius - 1978
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T17:52:26.705Z
+date: 2024-01-06T17:54:48.106Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
 ---
 
+|  [Посещение - 1978](/gallery/olle-s-nevius-1978) |  [Посещение - 2005](/gallery/olle-s-nevius-2005) |  [Посещение - 2018](/gallery/olle-s-nevius-2018) |
+
+---
+
 ## 05.1978
-
-
 ## Tabs {.tabset}
 ### Т8М-730 (София-70)
 
