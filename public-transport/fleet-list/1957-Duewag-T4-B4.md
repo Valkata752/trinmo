@@ -2,7 +2,7 @@
 title: Duewag T4 - B4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-23T20:15:49.002Z
+date: 2024-01-06T10:08:53.776Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:09:29.551Z
@@ -90,23 +90,24 @@ dateCreated: 2022-05-19T22:09:29.551Z
 T4
 # Tabs {.tabset}
 ## 4201
+<!--4201--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KzSTrYuxt0CBndEVxwEiv8xeyabKjYjk" height="200px"><figcaption></figcaption><b>tm4201</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KzSTrYuxt0CBndEVxwEiv8xeyabKjYjk" width="100%"></div></div>
 <!--4201-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yivB9WXl6xw3ZRsBP2YlxmTDlurFpsoc" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yivB9WXl6xw3ZRsBP2YlxmTDlurFpsoc" width="100%"></div></div>
-
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/14/44/91/1444911.jpg" height="200px"><figcaption> <b>депо</b> 📷 Theo</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/14/44/91/1444911.jpg" width="100%"></div></div>
 
-## *202
-<!--202-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11PdcFZNzB6D5k7La2UBZGdzwW8Krhqkp" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11PdcFZNzB6D5k7La2UBZGdzwW8Krhqkp" width="100%"></div></div>
+## (4)202
+<!--4202--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1klD8G6icG5YU7FsQWoj1hkSvBrCki-8C" height="200px"><figcaption></figcaption><b>tm(4)202, tm(4)403</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1klD8G6icG5YU7FsQWoj1hkSvBrCki-8C" width="100%"></div></div>
+<!--4202--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/36/81/436818.jpg" height="200px"><figcaption> <b>депо </b> 📷 Красен Панев</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/36/81/436818.jpg" width="100%"></div></div>
 
 ## 4203
-<!--4203-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zcZM29XmPPIUPVv-kbXqj_77-RwsHkio" height="200px"><figcaption><b>TM21</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zcZM29XmPPIUPVv-kbXqj_77-RwsHkio" width="100%"></div></div>
+<!--4203--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NclX_9V82DogHsu2M0z2ZZhgbZA822qy" height="200px"><figcaption></figcaption><b>tm4203 line21</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NclX_9V82DogHsu2M0z2ZZhgbZA822qy" width="100%"></div></div>
 <!--4203-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/37/89/437897.jpg" height="200px"><figcaption> <b>депо</b> 📷 Красен Панев</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/37/89/437897.jpg" width="100%"></div></div>
 
-## *204
+## (4)204
 <!--204-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mU5ETY_SVJzQzxHKnxbfztLc_JHNGyT-" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mU5ETY_SVJzQzxHKnxbfztLc_JHNGyT-" width="100%"></div></div>
 <!--4204-->
@@ -119,11 +120,10 @@ T4
 ## 4206
 <!--4206-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UFolShfid9tTg6kaGBPacqWgrqr6O0uR" height="200px"><figcaption><b>TM21</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UFolShfid9tTg6kaGBPacqWgrqr6O0uR" width="100%"></div></div>
-<!--4206-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oGvOXbeQBM8BoNljjZ5_JtqTuacwbLUD" height="200px"><figcaption><b>TM22</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oGvOXbeQBM8BoNljjZ5_JtqTuacwbLUD" width="100%"></div></div>
-<!--4206-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ne98UUGpOFiSDVOatUqffIJtUKJZBvKF" height="200px"><figcaption><b>TM22</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ne98UUGpOFiSDVOatUqffIJtUKJZBvKF" width="100%"></div></div>
-
+<!--4206--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1c3imbnWByJWqmV51jg9VpwRliy6ItsJY" height="200px"><figcaption></figcaption><b>tm4206 line21</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1c3imbnWByJWqmV51jg9VpwRliy6ItsJY" width="100%"></div></div>
+<!--4206--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IHbZ2R8bn6kxA0FBjZ76OtR1z42RWSZJ" height="200px"><figcaption></figcaption><b>tm4206 line21</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IHbZ2R8bn6kxA0FBjZ76OtR1z42RWSZJ" width="100%"></div></div>
 <!--4206-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/17/41/12/1741121.jpg" height="200px"><figcaption> <b>4206 и 4284</b> 📷 Rudolf </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/17/41/12/1741121.jpg" width="100%"></div></div>
 
@@ -146,10 +146,10 @@ T4
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/06/22/78/622780.jpg" height="200px"><figcaption> <b>4208 и 4288 "Rollplast"</b> 📷 Palal </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/06/22/78/622780.jpg" width="100%"></div></div>
 
 ## 4210
-<!--4210-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11dh1i6-LpXtmP7QTiNgfnsnEPrkHGRvP" height="200px"><figcaption><b>TM21</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11dh1i6-LpXtmP7QTiNgfnsnEPrkHGRvP" width="100%"></div></div> 
-<!--4210-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KzwgDasN5SsZDwJ2clHWZdEbUkVsTvVl" height="200px"><figcaption><b>TM21</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KzwgDasN5SsZDwJ2clHWZdEbUkVsTvVl" width="100%"></div></div> 
+<!--4210--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yv0uiiHv6g4vu4-xHVqPZo0d4eY8xdPJ" height="200px"><figcaption></figcaption><b>tm4210 line21</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yv0uiiHv6g4vu4-xHVqPZo0d4eY8xdPJ" width="100%"></div></div>
+<!--4210--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kH_0fMaKhd_Oh51HYORAp8dgNwgCUX5r" height="200px"><figcaption></figcaption><b>tm4210 line21</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kH_0fMaKhd_Oh51HYORAp8dgNwgCUX5r" width="100%"></div></div>
 <!--4210-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tdBBAYsS9xwj1s401OApBhpSeyVrj6QW" height="200px"><figcaption><b>TM22</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tdBBAYsS9xwj1s401OApBhpSeyVrj6QW" width="100%"></div></div> 
 <!--4210-->
