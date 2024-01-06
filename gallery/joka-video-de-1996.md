@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de - 1996
 description: 
 published: true
-date: 2024-01-06T09:33:22.793Z
+date: 2024-01-06T09:36:47.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:41:28.828Z
@@ -174,3 +174,21 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" width="100%"></div></div>
 
 
+## Tabs {.tabset}
+### Tatra T6B5
+
+<!--4104--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OVreD4qYeKd17kL5j7rBgOEq8CTmu95-" height="200px"><figcaption></figcaption><b>tm4104</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OVreD4qYeKd17kL5j7rBgOEq8CTmu95-" width="100%"></div></div>
+
+
+<!--4105--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18rgxtovqcUA-vIEs5zjSsfqXTN5cHYlq" height="200px"><figcaption></figcaption><b>tm4105 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18rgxtovqcUA-vIEs5zjSsfqXTN5cHYlq" width="100%"></div></div>
+
+<!--4105,4128--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" height="200px"><figcaption></figcaption><b>tm4105 tm4128 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" width="100%"></div></div>
+
+<!--4121--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NRdK15xaBJN2geHIr0JfFSyNSn-zIK8-" height="200px"><figcaption></figcaption><b>tm4121 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NRdK15xaBJN2geHIr0JfFSyNSn-zIK8-" width="100%"></div></div>
+
+<!--4131--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1amHMFU4LgPKxU15FTgP2X5r2hfg94fSA" height="200px"><figcaption></figcaption><b>tm4131 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1amHMFU4LgPKxU15FTgP2X5r2hfg94fSA" width="100%"></div></div>
