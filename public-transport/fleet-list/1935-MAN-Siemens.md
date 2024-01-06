@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:23:34.705Z
+date: 2024-01-06T10:30:36.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -207,10 +207,12 @@ MAN-Siemens притежава следните технико-експлоат�
 # Tabs {.tabset}
 ## 89
 <!--89-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" height="200px"><figcaption><b>tm89 line3</b> 📷 Trotskee Travel ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" height="200px"><figcaption><b>tm89 line3</b> 📷 Trotskee travel </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eLkNo81pe46M3SjDK7WUtETZCSfbX7SI" width="100%"></div></div>
 
 
 # Tabs {.tabset}
 ## 92/1/92
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" width="100%"></div></div>
 <!--1-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16lc6zV4EZNJpgMyUXZznV61w76OEVO3j" height="200px"><figcaption><b>депо</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16lc6zV4EZNJpgMyUXZznV61w76OEVO3j" width="100%"></div></div>
