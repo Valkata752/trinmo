@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Тролейбуси 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:50:49.608Z
+date: 2024-01-06T16:53:30.536Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T16:21:19.460Z
@@ -17,9 +17,9 @@ dateCreated: 2024-01-06T16:21:19.460Z
 
 ## Ikarus 280T
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gxGxMlcP5K-m1bJ1Texv_qLRsgyCloNq" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gxGxMlcP5K-m1bJ1Texv_qLRsgyCloNq" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18-4jM0hmkJSKW079IIFtF6bRkrm8HRmm" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18-4jM0hmkJSKW079IIFtF6bRkrm8HRmm" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qtVs73Zjd5qmYmDJQAwrBmsw0iAlvdqG" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qtVs73Zjd5qmYmDJQAwrBmsw0iAlvdqG" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gxGxMlcP5K-m1bJ1Texv_qLRsgyCloNq" height="200px"><figcaption></figcaption><b>tb1204 line4 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gxGxMlcP5K-m1bJ1Texv_qLRsgyCloNq" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18-4jM0hmkJSKW079IIFtF6bRkrm8HRmm" height="200px"><figcaption></figcaption><b>tb1210 line4 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18-4jM0hmkJSKW079IIFtF6bRkrm8HRmm" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qtVs73Zjd5qmYmDJQAwrBmsw0iAlvdqG" height="200px"><figcaption></figcaption><b>tb1311 line4 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qtVs73Zjd5qmYmDJQAwrBmsw0iAlvdqG" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Fe7k68qXzdR_kI-CHdiiatFHTyYEgakH" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Fe7k68qXzdR_kI-CHdiiatFHTyYEgakH" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1j8nsd1Ger2HN8DPavea5y9FRjaXx-dyn" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1j8nsd1Ger2HN8DPavea5y9FRjaXx-dyn" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Im7eSgt6sPnonFFEygjsu1NstuMgtB88" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Im7eSgt6sPnonFFEygjsu1NstuMgtB88" width="100%"></div></div>
