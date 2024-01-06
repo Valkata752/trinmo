@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:41:22.691Z
+date: 2024-01-06T11:29:34.121Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -214,6 +214,8 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hHQ-R9lseLi4qt9B5Zew1cuNQe-Q_QxD" height="200px"><figcaption><b>TM23</b> 📷 Christian Wenger ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hHQ-R9lseLi4qt9B5Zew1cuNQe-Q_QxD" width="100%"></div></div>
 <!--4413-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WHGT0zNNlW-YKO-IXsk08u3tGEsJW5SB" height="200px"><figcaption><b>TM22A</b> 📷 Сава Ташев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WHGT0zNNlW-YKO-IXsk08u3tGEsJW5SB" width="100%"></div></div>
+<!--4413--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16jud611UcowMmiYCcAsbcEeEmm2DZtX6" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16jud611UcowMmiYCcAsbcEeEmm2DZtX6" width="100%"></div></div>
 <!--4413-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/14/44/95/1444956.jpg" height="200px"><figcaption> <b>ТМ22</b> 📷 Theo </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/14/44/95/1444956.jpg" width="100%"></div></div>
 <!--4413-->
