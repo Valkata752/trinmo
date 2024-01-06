@@ -2,7 +2,7 @@
 title: Фотограф - Jara prazsketramvaje.cz
 description: Транпорт, инфраструкутра и мобилност
 published: true
-date: 2024-01-06T11:07:13.735Z
+date: 2024-01-06T11:29:36.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T14:09:40.487Z
@@ -29,7 +29,7 @@ dateCreated: 2023-11-19T14:09:40.487Z
 
 
 <!--311--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" height="200px"><figcaption></figcaption><b>tm311 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" height="200px"><figcaption></figcaption><b>tm311</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### 1979-T6M-400
@@ -149,7 +149,6 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <!--2001--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18zcswR3CeWidnsgX03iN1Q5XJ9o9ZQdI" height="200px"><figcaption></figcaption><b>tm2001+tm2002</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18zcswR3CeWidnsgX03iN1Q5XJ9o9ZQdI" width="100%"></div></div>
 
-
 <!--2001--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1MK-WpWM_8jX8sFivSCcRIy6hhbhDs1Ci" height="200px"><figcaption></figcaption><b>tm2001+tm2002</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1MK-WpWM_8jX8sFivSCcRIy6hhbhDs1Ci" width="100%"></div></div>
 
@@ -172,23 +171,22 @@ dateCreated: 2023-11-19T14:09:40.487Z
 
 <!--2025--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OMk-ZBgXKNNiIl-wOd8PBXbLV-yhueDf" height="200px"><figcaption></figcaption><b>tm2025 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OMk-ZBgXKNNiIl-wOd8PBXbLV-yhueDf" width="100%"></div></div>
-
-
 <!--2025--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XNCxaHbxoYoCv0encx3zVEms2_Jw490i" height="200px"><figcaption></figcaption><b>tm2025 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XNCxaHbxoYoCv0encx3zVEms2_Jw490i" width="100%"></div></div>
 
 
 <!--2026--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XghD64-1yLmxYUtGbgvhJ1iAxmjlMRks" height="200px"><figcaption></figcaption><b>tm2026 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XghD64-1yLmxYUtGbgvhJ1iAxmjlMRks" width="100%"></div></div>
+<!--2029--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" height="200px"><figcaption></figcaption><b>tm2029 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" width="100%"></div></div>
 
 <!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" height="200px"><figcaption></figcaption><b>tm2029 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" height="200px"><figcaption></figcaption><b>tm2029 line15</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" width="100%"></div></div>
 
 <!--2029--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tlSVbFuV1jgKIMLgCtYmN2g5dSsCbcuu" height="200px"><figcaption></figcaption><b>tm2029 line15</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tlSVbFuV1jgKIMLgCtYmN2g5dSsCbcuu" width="100%"></div></div>
 
-<!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" height="200px"><figcaption></figcaption><b>tm2029 line15</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" width="100%"></div></div>
+
 
 
 <!--2030--> 
@@ -196,7 +194,6 @@ dateCreated: 2023-11-19T14:09:40.487Z
 
 <!--2031--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1y9SShQFh9rdpFsvT4CTc05lUDdPR-t4a" height="200px"><figcaption></figcaption><b>tm2031 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1y9SShQFh9rdpFsvT4CTc05lUDdPR-t4a" width="100%"></div></div>
-
 <!--2031--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ytfALSaKEdeJCYimrV9Yg0w6jalvDSLG" height="200px"><figcaption></figcaption><b>tm2031 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ytfALSaKEdeJCYimrV9Yg0w6jalvDSLG" width="100%"></div></div>
 
@@ -211,16 +208,15 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1c4qPVMxU8LhOZR9CjCfyN9J0BSK46GyX" height="200px"><figcaption></figcaption><b>tm2040 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1c4qPVMxU8LhOZR9CjCfyN9J0BSK46GyX" width="100%"></div></div>
 
 
+## Tabs {.tabset}
+### 1999-CKD-Tatra-T6A2-SF
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" height="200px"><figcaption></figcaption><b>tm2041 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" width="100%"></div></div>
-
-
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2041 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
 
 <!--2043--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
-
 <!--2043--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" width="100%"></div></div>
 
