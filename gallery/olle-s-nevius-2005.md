@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevious - 2005
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T18:06:12.732Z
+date: 2024-01-06T18:07:34.537Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T17:52:33.686Z
@@ -64,16 +64,8 @@ dateCreated: 2024-01-06T17:52:33.686Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Dd9-vEEO52qdnIgKkk9heJ8h4z5fjB-f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dd9-vEEO52qdnIgKkk9heJ8h4z5fjB-f" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IIiyz-VrsMOsz6T9eNaxxsVAezuiqgaC" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IIiyz-VrsMOsz6T9eNaxxsVAezuiqgaC" width="100%"></div></div>
 
-## Софийско метро
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11W53WJ3qZVe2nzjGaJ0i40IGdxbWFwrw" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11W53WJ3qZVe2nzjGaJ0i40IGdxbWFwrw" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Mhw3aSJ0AY_EsV-abFTrcOfE_lVFcdNh" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Mhw3aSJ0AY_EsV-abFTrcOfE_lVFcdNh" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jtEuIW0DQIwnsoOuPX4GtGjxdOHf1_4D" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jtEuIW0DQIwnsoOuPX4GtGjxdOHf1_4D" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wh-XdI6aUrBvhyHrey-eqzSlxzbF4OM4" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Wh-XdI6aUrBvhyHrey-eqzSlxzbF4OM4" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1g_NGK1rkBafv2EIEIZybr7Vx32PsLcQB" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1g_NGK1rkBafv2EIEIZybr7Vx32PsLcQB" width="100%"></div></div>
 
-## Трасе към Обеля
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zNe1C8ZyyUz1vCG-DCpXEGbgAFMspSYh" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zNe1C8ZyyUz1vCG-DCpXEGbgAFMspSYh" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rWXAB5alwO47pt-_1APpKGEhQP_0Qhpm" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rWXAB5alwO47pt-_1APpKGEhQP_0Qhpm" width="100%"></div></div>
+
 
 ## T8M-700
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14IAhoLJ7zaUOiNLxAi7dgaw5tj7LIfnz" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14IAhoLJ7zaUOiNLxAi7dgaw5tj7LIfnz" width="100%"></div></div>
@@ -98,10 +90,24 @@ dateCreated: 2024-01-06T17:52:33.686Z
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1q19f3FTml1KZjWMOiKIyS_W6_C6tkllv" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1q19f3FTml1KZjWMOiKIyS_W6_C6tkllv" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hM-qyPfn3vWIOD4l5t4w3H6dZWdopAsG" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hM-qyPfn3vWIOD4l5t4w3H6dZWdopAsG" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LhKfgL-kMDK6zlkMOobSKdsMNnpEwZMk" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LhKfgL-kMDK6zlkMOobSKdsMNnpEwZMk" width="100%"></div></div>
+
 
 
 ## T6B5
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=185UBEcH5a5n6wP0-Yo_U-d-nX9Sc-aK0" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=185UBEcH5a5n6wP0-Yo_U-d-nX9Sc-aK0" width="100%"></div></div>
 
+## Трасе към Обеля
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zNe1C8ZyyUz1vCG-DCpXEGbgAFMspSYh" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zNe1C8ZyyUz1vCG-DCpXEGbgAFMspSYh" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rWXAB5alwO47pt-_1APpKGEhQP_0Qhpm" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rWXAB5alwO47pt-_1APpKGEhQP_0Qhpm" width="100%"></div></div>
+
+
+## Софийско метро
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11W53WJ3qZVe2nzjGaJ0i40IGdxbWFwrw" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11W53WJ3qZVe2nzjGaJ0i40IGdxbWFwrw" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Mhw3aSJ0AY_EsV-abFTrcOfE_lVFcdNh" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Mhw3aSJ0AY_EsV-abFTrcOfE_lVFcdNh" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jtEuIW0DQIwnsoOuPX4GtGjxdOHf1_4D" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jtEuIW0DQIwnsoOuPX4GtGjxdOHf1_4D" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wh-XdI6aUrBvhyHrey-eqzSlxzbF4OM4" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Wh-XdI6aUrBvhyHrey-eqzSlxzbF4OM4" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1g_NGK1rkBafv2EIEIZybr7Vx32PsLcQB" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1g_NGK1rkBafv2EIEIZybr7Vx32PsLcQB" width="100%"></div></div>
+
+## Разни
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LhKfgL-kMDK6zlkMOobSKdsMNnpEwZMk" height="200px"><figcaption></figcaption><b>a line </b> 📷 Olle S. Nevius</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LhKfgL-kMDK6zlkMOobSKdsMNnpEwZMk" width="100%"></div></div>
