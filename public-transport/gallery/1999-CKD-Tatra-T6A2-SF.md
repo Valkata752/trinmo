@@ -2,13 +2,17 @@
 title: ČKD Tatra T6A2-SF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-15T15:54:14.103Z
+date: 2024-01-06T11:23:34.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T15:42:38.104Z
 ---
 
-# Снимки
+
+- [➡️ Обатно към страницата на модела *ČKD Tatra T6A2-SF*](/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF)
+{.links-list}
+---
+
 
 
 ## Tabs {.tabset}
