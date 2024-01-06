@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:43:42.714Z
+date: 2024-01-06T17:43:10.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -39,8 +39,15 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
-- [Мариан Костадинов :bulgaria: *2003, 2004, 2005*](/gallery/marian-kostadinov)
+- [Мариан Костадинов :bulgaria: *2003, 2004, 2005*](/gallery/marian-kostadinov-tm-2003)
 {.links-list}
+
+**Архив по години - трамваи:** |  [2005 - Трамваи](/gallery/marian-kostadinov-bus-2005) |   [2004 - Трамваи](/gallery/marian-kostadinov-tm-2004) |   [2003 - Трамваи](/gallery/marian-kostadinov-tm-2003) | 
+**Архив по години - тролейбуси:** |  [2005 - Тролейбуси](/gallery/marian-kostadinov-tb-2005) |  [2004 - Тролейбуси](/gallery/marian-kostadinov-tb-2004) |  [2003 - Тролейбуси](/gallery/marian-kostadinov-tb-2003) |
+**Архив по години - автобуси:** |  [2005 - Автобуси](/gallery/marian-kostadinov-bus-2005) |  [2004 - Автобуси](/gallery/marian-kostadinov-bus-2004) |  [2003 - Автобуси](/gallery/marian-kostadinov-bus-2003) |
+
+---
+
 
 **Архив по години:** | [2005](/gallery/marian-kostadinov-2005) | [2004](/gallery/marian-kostadinov-2004) | [2003](/gallery/marian-kostadinov-2003) |
 
