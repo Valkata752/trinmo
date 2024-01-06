@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de - 1996
 description: 
 published: true
-date: 2024-01-06T09:25:55.989Z
+date: 2024-01-06T09:33:22.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:41:28.828Z
@@ -129,6 +129,30 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <!--4232--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" width="100%"></div></div>
 
+## Tabs {.tabset}
+### Tatra T6A2
+
+<!--2013+2014--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=177agf7Q_CgB_oGKhlmV09paj2u1wk406" height="200px"><figcaption></figcaption><b>tm2013+tm2014 line5</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=177agf7Q_CgB_oGKhlmV09paj2u1wk406" width="100%"></div></div>
+
+<!--2015+2016--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HAUEYn1qJbbWG7nKUg5yGmZzVX85UT-h" height="200px"><figcaption></figcaption><b>tm2015+tm2016</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HAUEYn1qJbbWG7nKUg5yGmZzVX85UT-h" width="100%"></div></div>
+
+<!--2018--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DCeLMSkHbUhs5WWrucNZKbP1JJWmXYJZ" height="200px"><figcaption></figcaption><b>tm2018</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DCeLMSkHbUhs5WWrucNZKbP1JJWmXYJZ" width="100%"></div></div>
+
+<!--2024--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12GgqG7_9Np96V3Jk2MDlH6OWAVGMSNmU" height="200px"><figcaption></figcaption><b>tm2024 line9</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12GgqG7_9Np96V3Jk2MDlH6OWAVGMSNmU" width="100%"></div></div>
+
+<!--2029--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HF2EGLdciVkqldKpIhRpAJaZZqlXkzHq" height="200px"><figcaption></figcaption><b>tm2029 tm190 line5</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HF2EGLdciVkqldKpIhRpAJaZZqlXkzHq" width="100%"></div></div>
+
+<!--2033+2-34--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qVnuqu0qXmfrnStPxqgDO2gZSamwNVuS" height="200px"><figcaption></figcaption><b>tm2033+tm2034 line9</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qVnuqu0qXmfrnStPxqgDO2gZSamwNVuS" width="100%"></div></div>
+
+
+<!--2035+2036--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DWHM4lNzOnNShyskVpigBEcsEi-THcna" height="200px"><figcaption></figcaption><b>tm2025+tm2036</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DWHM4lNzOnNShyskVpigBEcsEi-THcna" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
@@ -146,5 +170,7 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <!--4413--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ycGptwZIRFyh40wbGR1Ff_wqWR1Wf4EU" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ycGptwZIRFyh40wbGR1Ff_wqWR1Wf4EU" width="100%"></div></div>
 
+<!--4413--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" width="100%"></div></div>
 
 
