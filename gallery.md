@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:43:18.259Z
+date: 2024-01-06T16:43:42.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -22,7 +22,6 @@ dateCreated: 2022-07-01T07:02:10.622Z
 **Архив по години - трамваи:** |  [2011 - Трамваи](/gallery/daniel-anev-bus-2011) |   [2010 - Трамваи](/gallery/daniel-anev-bus-2010) |   [2009 - Трамваи](/gallery/daniel-anev-bus-2009) | 
 **Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2010 - Тролейбуси](/gallery/daniel-anev-tb-2010) |  [2009 - Тролейбуси](/gallery/daniel-anev-tb-2009) |
 **Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
-
 
 ---
 
