@@ -2,7 +2,7 @@
 title: Duewag GT6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-19T12:58:09.233Z
+date: 2024-01-06T10:09:30.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:08:38.003Z
@@ -80,8 +80,10 @@ dateCreated: 2022-05-19T22:08:38.003Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/13/34/08/1334089.jpg" height="200px"><figcaption> <b>4231</b> 📷 Karsten Richter</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/13/34/08/1334089.jpg" width="100%"></div></div>
 
 ## 4232
-<!--4232-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yQmauE1O2Q0ixHYTrJhegqDTsikGOZze" height="200px"><figcaption><b>ТМ22</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yQmauE1O2Q0ixHYTrJhegqDTsikGOZze" width="100%"></div></div>
+<!--4232--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VL7o5xLoaFB-si0PlF1Kf5VuWqnJImkk" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VL7o5xLoaFB-si0PlF1Kf5VuWqnJImkk" width="100%"></div></div>
+<!--4232--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" width="100%"></div></div>
 <!--4232-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QTjR22CAcgZBThgAk-lwEp48yheiCLT8" height="200px"><figcaption><b>TM22</b> 📷 Hilsner Keld ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QTjR22CAcgZBThgAk-lwEp48yheiCLT8" width="100%"></div></div>
 <!--4232-->
