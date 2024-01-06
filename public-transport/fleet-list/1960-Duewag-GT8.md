@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T23:38:24.708Z
+date: 2024-01-06T10:11:03.995Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -108,7 +108,7 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <!--4401-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tUUnR9puUhZavb76mZMeN9PU_9Z9hsWa" height="200px"><figcaption><b>TM23</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tUUnR9puUhZavb76mZMeN9PU_9Z9hsWa" width="100%"></div></div>
 
-## *402
+## (4)402
 <!--4402-->  
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/37/52/437527.jpg" height="200x"><figcaption> <b>Депо</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/37/52/437527.jpg" width="100%"></div></div>
 <!--4402-->
@@ -116,7 +116,7 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <!--4402-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/08/62/42/862425.jpg" height="200px"><figcaption> <b>Депо, 4402 близко до 4012</b> 📷Petko Dragov </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/08/62/42/862425.jpg" width="100%"></div></div>
 
-## *403
+## (4)403
 <!--403-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11PdcFZNzB6D5k7La2UBZGdzwW8Krhqkp" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11PdcFZNzB6D5k7La2UBZGdzwW8Krhqkp" width="100%"></div></div>
 <!--4403-->
@@ -144,21 +144,23 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <!--4405-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/04/30/404304.jpg" height="200px"><figcaption> <b>ТМ23</b> 📷 Ааре Оландер </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/04/30/404304.jpg" width="100%"></div></div>
 
-## *407
-<!--407-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rafmn99eX9L5L1U3ZclkcYINqGDTyawK" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rafmn99eX9L5L1U3ZclkcYINqGDTyawK" width="100%"></div></div>
-<!--407-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1h3tsRVA4R86ntgCkR1bn3eFcBT_Tjaqt" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h3tsRVA4R86ntgCkR1bn3eFcBT_Tjaqt" width="100%"></div></div>
+## (4)407
+<!--4407--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19NJjQDeuBgn18jFmP1hT15Oy2OhtcCKc" height="200px"><figcaption></figcaption><b>tm(4)407</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19NJjQDeuBgn18jFmP1hT15Oy2OhtcCKc" width="100%"></div></div>
 
-## *408
+<!--4407--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oqo_OZ6s7qTcZCRvd51WRjMQn7LoZT2h" height="200px"><figcaption></figcaption><b>tm(4)407</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oqo_OZ6s7qTcZCRvd51WRjMQn7LoZT2h" width="100%"></div></div>
+
+## (4)408
 <!--408-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=118aNSsi34xLfbYve9ohxnSVnMw6SYNO5" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=118aNSsi34xLfbYve9ohxnSVnMw6SYNO5" width="100%"></div></div>
 <!--4408-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/37/89/437899.jpg" height="200px"><figcaption> <b>Депо</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/37/89/437899.jpg" width="100%"></div></div>
 
 ## 4409
-<!--409-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s9czOm8bEfOCTIx2COWy_Mn64PXWLwxC" height="200px"><figcaption><b>депо</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s9czOm8bEfOCTIx2COWy_Mn64PXWLwxC" width="100%"></div></div>
+<!--4409--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hXHUpufuNm7q4XJECCqMBwgd9KS2isrl" height="200px"><figcaption></figcaption><b>tm(4)409</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hXHUpufuNm7q4XJECCqMBwgd9KS2isrl" width="100%"></div></div>
+
 <!--409-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Z_z7_2NrE_hu1y-ZruBmJqZIHD72BsKA" height="200px"><figcaption><b>депо</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Z_z7_2NrE_hu1y-ZruBmJqZIHD72BsKA" width="100%"></div></div>
 
@@ -203,8 +205,11 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wdb_wMBO8jTKfngYQdvGqglqC6u0vOMQ" height="200px"><figcaption><b>TM23</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Wdb_wMBO8jTKfngYQdvGqglqC6u0vOMQ" width="100%"></div></div>
 
 ## 4413
-<!--4413-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gsih83sdzZKWlQWxAeae77RKuHu88xBM" height="200px"><figcaption><b>TM22</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gsih83sdzZKWlQWxAeae77RKuHu88xBM" width="100%"></div></div>
+<!--4413--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ycGptwZIRFyh40wbGR1Ff_wqWR1Wf4EU" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ycGptwZIRFyh40wbGR1Ff_wqWR1Wf4EU" width="100%"></div></div>
+
+<!--4413--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" height="200px"><figcaption></figcaption><b>tm4413 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kdgT6hwmjbe7jb98lwcW6eS1P1hayaHG" width="100%"></div></div>
 <!--4413-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hHQ-R9lseLi4qt9B5Zew1cuNQe-Q_QxD" height="200px"><figcaption><b>TM23</b> 📷 Christian Wenger ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hHQ-R9lseLi4qt9B5Zew1cuNQe-Q_QxD" width="100%"></div></div>
 <!--4413-->
