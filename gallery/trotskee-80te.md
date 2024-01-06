@@ -2,11 +2,16 @@
 title: Фотоархив - Trotskee travel - 80те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T22:54:11.874Z
+date: 2024-01-06T10:29:53.675Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:40.051Z
 ---
+
+- [📷 Разгледай другия архив на Trotskee travel *60те*](/bg/gallery/trotskee-60te)
+- [📷 Разгледай другия архив на Trotskee travel *70те*](/bg/gallery/trotskee-70te)
+{.links-list}
+
 
 ## 1985
 ## Tabs {.tabset}
