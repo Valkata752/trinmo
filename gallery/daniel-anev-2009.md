@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T14:29:41.589Z
+date: 2024-01-06T11:34:01.516Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
@@ -14,9 +14,9 @@ dateCreated: 2024-01-01T14:29:41.589Z
 
 
 
-## Mercedes O305
+## Ikarus 280
 ## Tabs {.tabset}
 ### 
 
-<!--1319--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=99999999999999999" height="200px"><figcaption></figcaption><b>a1319 line44</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=99999999999999" width="100%"></div></div>
+<!--3101--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lv370Y27xroPYKDVGygGiy-2jpWGRjei" height="200px"><figcaption></figcaption><b>a3101 line88</b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lv370Y27xroPYKDVGygGiy-2jpWGRjei" width="100%"></div></div>
