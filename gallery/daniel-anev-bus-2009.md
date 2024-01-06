@@ -2,14 +2,14 @@
 title: Фотограф - Даниел Анев - Автобуси 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:27:04.025Z
+date: 2024-01-06T16:34:33.503Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T16:22:51.914Z
 ---
 
 **Архив по години - трамваи:** |  [2011 - Трамваи](/gallery/daniel-anev-bus-2011) |   [2010 - Трамваи](/gallery/daniel-anev-bus-2010) |   [2009 - Трамваи](/gallery/daniel-anev-bus-2009) | 
-**Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |
+**Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2010 - Тролейбуси](/gallery/daniel-anev-tb-2010) |  [2009 - Тролейбуси](/gallery/daniel-anev-tb-2009) |
 **Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
 
 
