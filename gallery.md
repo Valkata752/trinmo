@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T16:05:42.332Z
+date: 2024-01-06T16:43:18.259Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -16,10 +16,15 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 10те
   
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
-- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev-2009)
+- [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev-tm-2009)
 {.links-list}
 
-**Архив по години:** | [2011](/gallery/daniel-anev-2011) | [2010](/gallery/daniel-anev-2010) | [2009](/gallery/daniel-anev-2009) |
+**Архив по години - трамваи:** |  [2011 - Трамваи](/gallery/daniel-anev-bus-2011) |   [2010 - Трамваи](/gallery/daniel-anev-bus-2010) |   [2009 - Трамваи](/gallery/daniel-anev-bus-2009) | 
+**Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2010 - Тролейбуси](/gallery/daniel-anev-tb-2010) |  [2009 - Тролейбуси](/gallery/daniel-anev-tb-2009) |
+**Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
+
+
+---
 
 - [Иво Радоев :bulgaria: *2009-2019*](/gallery/ivo-radoev-2009)
 {.links-list}
