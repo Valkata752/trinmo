@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T10:08:13.089Z
+date: 2024-01-06T10:25:49.439Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -166,5 +166,14 @@ Graz/Siemens & Halske притежава следните технико-екс�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rF-2U5gwRzICmccJkTPcJWsyCNtkjX-Z3WetYDWAip8HhnlhGIGcyi_js2tdQvQjIHwL1SQIcGKli1CIOWzGH3JcyTxA=w1920-h854" height="200px"><figcaption> <b>608</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rF-2U5gwRzICmccJkTPcJWsyCNtkjX-Z3WetYDWAip8HhnlhGIGcyi_js2tdQvQjIHwL1SQIcGKli1CIOWzGH3JcyTxA=w1920-h854" width="100%"></div></div>
 
 ## Музеен
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qWF4OB2JoPvfKjfYIw4cFZotTwLiTb7H" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qWF4OB2JoPvfKjfYIw4cFZotTwLiTb7H" width="100%"></div></div>
+
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eNu3BY2cdtHpUXDlK0-Op5sKiJWn-r3M" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eNu3BY2cdtHpUXDlK0-Op5sKiJWn-r3M" width="100%"></div></div>
+
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" width="100%"></div></div>
+
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q0C3EHx4VoiYBDoOc_qOW3D9jp7Xe74_3Tb1tsnUzCy-j8h2nkxR4xRHOzws_pgPnyRCEsl9aXQR1JKIQO7mw1xKkS4Q=w1920-h854" height="200px"><figcaption> <b>35</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q0C3EHx4VoiYBDoOc_qOW3D9jp7Xe74_3Tb1tsnUzCy-j8h2nkxR4xRHOzws_pgPnyRCEsl9aXQR1JKIQO7mw1xKkS4Q=w1920-h854" width="100%"></div></div></center>
