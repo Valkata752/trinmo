@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de - 1996
 description: 
 published: true
-date: 2024-01-06T09:52:56.503Z
+date: 2024-01-06T10:28:29.061Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:41:28.828Z
@@ -210,8 +210,7 @@ dateCreated: 2023-11-20T14:41:28.828Z
 ## Tabs {.tabset}
 ### Т6МД-1000
 
-<!--402, 4012--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IAXkDZNGt2bW_COkPVIgiXYCaBuxSg1u" height="200px"><figcaption></figcaption><b>tm(4)402, tm4012</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IAXkDZNGt2bW_COkPVIgiXYCaBuxSg1u" width="100%"></div></div>
+
 
 <!--4006,4008,4015--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13pT-qkFRkdG-TWGwiiZHv0aRCRSdB4z8" height="200px"><figcaption></figcaption><b>tm4006, tm4008, tm4015</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13pT-qkFRkdG-TWGwiiZHv0aRCRSdB4z8" width="100%"></div></div>
@@ -222,6 +221,8 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <!--4008,4015--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gN36BOCL3bUbCbU0SJfiZLjehO4zYrxX" height="200px"><figcaption></figcaption><b>tm4008, tm4015</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gN36BOCL3bUbCbU0SJfiZLjehO4zYrxX" width="100%"></div></div>
 
+<!--402, 4012--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IAXkDZNGt2bW_COkPVIgiXYCaBuxSg1u" height="200px"><figcaption></figcaption><b>tm(4)402, tm4012</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IAXkDZNGt2bW_COkPVIgiXYCaBuxSg1u" width="100%"></div></div>
 
 <!--4012--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-5Wx1tz6OXXYrD0kwlazdDOGV2w7NyzW" height="200px"><figcaption></figcaption><b>tm4012</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-5Wx1tz6OXXYrD0kwlazdDOGV2w7NyzW" width="100%"></div></div>
@@ -254,10 +255,13 @@ dateCreated: 2023-11-20T14:41:28.828Z
 
 
 ## Tabs {.tabset}
-### Ретро
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" width="100%"></div></div>
+### MAN-Siemens (81-92)
+<!--553--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18FJQj53B9UtRA-Nw8HU-h5Axe3K91aqq" height="200px"><figcaption></figcaption><b>tm553</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18FJQj53B9UtRA-Nw8HU-h5Axe3K91aqq" width="100%"></div></div>
 
+
+## Tabs {.tabset}
+### Graz/Siemens & Halske (1-30)
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qWF4OB2JoPvfKjfYIw4cFZotTwLiTb7H" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qWF4OB2JoPvfKjfYIw4cFZotTwLiTb7H" width="100%"></div></div>
 
@@ -267,6 +271,15 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <!--1--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" width="100%"></div></div>
 
+
+## Tabs {.tabset}
+### MAN-Siemens (81-92)
+<!--1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h6Ih5TMME3896oylTXJZsC8eWr4BPHIK" width="100%"></div></div>
+
+
+## Tabs {.tabset}
+### Ретро
 <!--253--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LU0LnIIGYz2dxcrjI48sQ0E0MKOmMv8j" height="200px"><figcaption></figcaption><b>tm253</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LU0LnIIGYz2dxcrjI48sQ0E0MKOmMv8j" width="100%"></div></div>
 
@@ -275,8 +288,7 @@ dateCreated: 2023-11-20T14:41:28.828Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oRQf_1rHzuC6vLmNjHgzNQTBztezFyN3" height="200px"><figcaption></figcaption><b>tm275</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oRQf_1rHzuC6vLmNjHgzNQTBztezFyN3" width="100%"></div></div>
 
 
-<!--553--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18FJQj53B9UtRA-Nw8HU-h5Axe3K91aqq" height="200px"><figcaption></figcaption><b>tm553</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18FJQj53B9UtRA-Nw8HU-h5Axe3K91aqq" width="100%"></div></div>
+
 
 
 <!--587--> 
