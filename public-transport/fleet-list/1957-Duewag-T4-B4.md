@@ -2,7 +2,7 @@
 title: Duewag T4 - B4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:08:53.776Z
+date: 2024-01-06T10:40:20.035Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:09:29.551Z
@@ -185,9 +185,8 @@ T4
 ## 4213
 <!--4213-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SsqmsT9_aeTbzgWfaXLslPRdcdGwGswM" height="200px"><figcaption><b>TM22</b> 📷 Frederik Buchleitner ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SsqmsT9_aeTbzgWfaXLslPRdcdGwGswM" width="100%"></div></div>
-<!--4213-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vlgNVAkHi8eUNbDYBS4GACgFZ6gQmkmt" height="200px"><figcaption><b>TM22</b> 📷 Hilsner Keld ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vlgNVAkHi8eUNbDYBS4GACgFZ6gQmkmt" width="100%"></div></div>
-
+<!--4213--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ofD8fOTDAym8mAcSlxKUl0TJaERk1iyy" height="200px"><figcaption></figcaption><b>tm4213 line22</b> 📷 Hilsner Keld</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ofD8fOTDAym8mAcSlxKUl0TJaERk1iyy" width="100%"></div></div>
 
 <!--4213-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/13/29/84/1329846.jpg" height="200px"><figcaption> <b>4213 и 4283</b> 📷 Jan Šlehofer </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/13/29/84/1329846.jpg" width="100%"></div></div>
