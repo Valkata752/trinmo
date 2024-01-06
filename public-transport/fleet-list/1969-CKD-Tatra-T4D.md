@@ -2,7 +2,7 @@
 title: ČKD Tatra T4D
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-27T11:10:44.881Z
+date: 2024-01-06T11:17:24.078Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:06:00.914Z
@@ -116,7 +116,9 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 
 ## 1020
 <!--1020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1q8OPb4NNX6Xu0I71wDdsT5xQUF0QrB4o" height="200px"><figcaption><b>936</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1q8OPb4NNX6Xu0I71wDdsT5xQUF0QrB4o" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YcasoYWHWsnnx1_o565OGHGqXh-fKuFl" height="200px"><figcaption></figcaption><b>tm1020 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YcasoYWHWsnnx1_o565OGHGqXh-fKuFl" width="100%"></div></div>
+<!--1020--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G2kYfouk4HATAD7nvRWWoW3N-GhX6G29" height="200px"><figcaption></figcaption><b>tm1020 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G2kYfouk4HATAD7nvRWWoW3N-GhX6G29" width="100%"></div></div>
 <!--1020--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/kBIAYAUg41XgZdKSRKaWUd1sRis0gsjm4np3F_ntCFxRRi0VxMA2FWlFq6UGZvxdFOI=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://lh3.googleusercontent.com/kBIAYAUg41XgZdKSRKaWUd1sRis0gsjm4np3F_ntCFxRRi0VxMA2FWlFq6UGZvxdFOI=w2400" target="_blank" title="1020"> <img src="https://lh3.googleusercontent.com/kBIAYAUg41XgZdKSRKaWUd1sRis0gsjm4np3F_ntCFxRRi0VxMA2FWlFq6UGZvxdFOI=w2400" width="100%"></a></div></div>
 <!--1020--> 
@@ -124,7 +126,13 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 
 ## 1021
 <!--1021--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IHjhHD7QudNaRjKZlvS_YSbsZ4gixJtk" height="200px"><figcaption><b>936</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IHjhHD7QudNaRjKZlvS_YSbsZ4gixJtk" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=150ehqMe4iH76zIFXmW3b-pded03LhJnN" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=150ehqMe4iH76zIFXmW3b-pded03LhJnN" width="100%"></div></div>
+
+<!--1021--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sqN-UOR5Nj1sW8otGvpdr1MjhgtktGW6" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sqN-UOR5Nj1sW8otGvpdr1MjhgtktGW6" width="100%"></div></div>
+
+<!--1021--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XQ3v-sLFWTN2CsfSnltw6EkgrXF-MMOj" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XQ3v-sLFWTN2CsfSnltw6EkgrXF-MMOj" width="100%"></div></div>
 <!--1021--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/8J_w6_vvPqPF3jGytox4obatImrfQt-ava87Yd7IEnlC-2mVMW8eA-3IC1adwwjHjtY=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Stefan Holtge </figcaption></figure></button><div class="dropdown-content"> <img src="https://lh6.googleusercontent.com/8J_w6_vvPqPF3jGytox4obatImrfQt-ava87Yd7IEnlC-2mVMW8eA-3IC1adwwjHjtY=w2400" width="100%"></div></div>
 <!--1021--> 
@@ -134,9 +142,13 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 <!--1021--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/03/54/72/354728.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/03/54/72/354728.jpg" width="100%"></div></div>
 
+## 1023
+<!--1023--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oKOCqLiosBRW9ezCiFY5yV4swpAZCEhB" height="200px"><figcaption></figcaption><b>tm1023 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oKOCqLiosBRW9ezCiFY5yV4swpAZCEhB" width="100%"></div></div>
+
 ## 1028
-<!--1028--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1t6SvBV0lAoJ0q2BVzYtqX_6CNXNrnuWu" height="200px"><figcaption><b>TM8</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1t6SvBV0lAoJ0q2BVzYtqX_6CNXNrnuWu" width="100%"></div></div>
+<!--1028, 1075--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" height="200px"><figcaption></figcaption><b>tm1028, tm1075 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" width="100%"></div></div>
 <!--1028--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/nzRZFgOtYYmnHWxEWAT_CgO19a0PZhH2V1eR_RbjE3CFbzQuuyvN5V-43Iy7k1PE0Tg=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://lh4.googleusercontent.com/nzRZFgOtYYmnHWxEWAT_CgO19a0PZhH2V1eR_RbjE3CFbzQuuyvN5V-43Iy7k1PE0Tg=w2400" target="_blank" title="1028"> <img src="https://lh4.googleusercontent.com/nzRZFgOtYYmnHWxEWAT_CgO19a0PZhH2V1eR_RbjE3CFbzQuuyvN5V-43Iy7k1PE0Tg=w2400" width="100%"></a></div></div>
 <!--1028--> 
@@ -150,17 +162,18 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 
 ## 1039
 <!--1039--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LiGdi27BekQuwNfOz9iRiqFaMLkJ4yW2" height="200px"><figcaption><b>TM8</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LiGdi27BekQuwNfOz9iRiqFaMLkJ4yW2" width="100%"></div></div>
-<!--1039--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nguJUWfr3dkluD5UnLj7yfq4-2rSAAAW" height="200px"><figcaption><b>TM8</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nguJUWfr3dkluD5UnLj7yfq4-2rSAAAW" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aa5Xab1B9Jcm-KAOpE5NHPoLmcaeBmHJ" height="200px"><figcaption></figcaption><b>tm1039 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aa5Xab1B9Jcm-KAOpE5NHPoLmcaeBmHJ" width="100%"></div></div>
+
+<!--1039, 1130--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" height="200px"><figcaption></figcaption><b>tm1039, tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" width="100%"></div></div>
 
 ## 1047
 <!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UZqpvKovNlK4FTH_fuUgATjOi55W48Ns" height="200px"><figcaption><b>TM5</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UZqpvKovNlK4FTH_fuUgATjOi55W48Ns" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UV8ICBFgusJabzfJOCVepsAwuVadkMYN" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UV8ICBFgusJabzfJOCVepsAwuVadkMYN" width="100%"></div></div>
 <!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Oqc-2Ro8Z9i7ZprxKna3GF_eMl9v6KYT" height="200px"><figcaption><b>TM5</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Oqc-2Ro8Z9i7ZprxKna3GF_eMl9v6KYT" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-AdeusjJtNuK5wHBAzE2jmxihvGCmARY" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-AdeusjJtNuK5wHBAzE2jmxihvGCmARY" width="100%"></div></div>
 <!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Wj1ky_2oa_p_FvHqhZOlVtMfP-dq5uc-" height="200px"><figcaption><b>TM5</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Wj1ky_2oa_p_FvHqhZOlVtMfP-dq5uc-" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bCA6qZDExKXiYasGR-qlrrIO7JmEhGHw" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bCA6qZDExKXiYasGR-qlrrIO7JmEhGHw" width="100%"></div></div>
 
 ## 1051
 <!--1051--> 
@@ -179,8 +192,8 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/03/53/79/353798.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://transphoto.org/photo/03/53/79/353798.jpg" target="_blank" title="1055"> <img src="https://transphoto.org/photo/03/53/79/353798.jpg" width="100%"></a></div></div>
 
 ## 1075
-<!--1028--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1t6SvBV0lAoJ0q2BVzYtqX_6CNXNrnuWu" height="200px"><figcaption><b>TM8</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1t6SvBV0lAoJ0q2BVzYtqX_6CNXNrnuWu" width="100%"></div></div>
+<!--1028, 1075--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" height="200px"><figcaption></figcaption><b>tm1028, tm1075 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" width="100%"></div></div>
 <!--1075--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/tOxhOt4JNpfInMVjO2lQPRS893S-o3fDuRshCRHRB-BUxjXSJTeoedPVFsbfTvgHd3U=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/tOxhOt4JNpfInMVjO2lQPRS893S-o3fDuRshCRHRB-BUxjXSJTeoedPVFsbfTvgHd3U=w2400" target="_blank" title="1075"> <img src="https://lh6.googleusercontent.com/tOxhOt4JNpfInMVjO2lQPRS893S-o3fDuRshCRHRB-BUxjXSJTeoedPVFsbfTvgHd3U=w2400" width="100%"></a></div></div>
 <!--1075--> 
@@ -209,8 +222,11 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 
 ## 1094
 <!--1094--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JyXE6g0cgjGLMHFMSK8oy3egLg_3TgJw" height="200px"><figcaption><b>TM8</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JyXE6g0cgjGLMHFMSK8oy3egLg_3TgJw" width="100%"></div></div>
-
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cEV1F_C5J6eicGK-HGBLCl6AGTf7Bxs9" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cEV1F_C5J6eicGK-HGBLCl6AGTf7Bxs9" width="100%"></div></div>
+<!--1094--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DnMFd3ZyYTtfAUwW1w3uNStLdKBsBzTo" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DnMFd3ZyYTtfAUwW1w3uNStLdKBsBzTo" width="100%"></div></div>
+<!--1094--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1O98Nf2PoO7JBbH7CCVdMKT7Ug0u3wc4v" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1O98Nf2PoO7JBbH7CCVdMKT7Ug0u3wc4v" width="100%"></div></div>
 <!--1094-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/iS7-fno_g5Y1RuyTmhUM06WQCr9_lgytgR8ByFhN4ars3ifqYBBR5pGTW9fYCId8XC4=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://lh3.googleusercontent.com/iS7-fno_g5Y1RuyTmhUM06WQCr9_lgytgR8ByFhN4ars3ifqYBBR5pGTW9fYCId8XC4=w2400" target="_blank" title="1094"> <img src="https://lh3.googleusercontent.com/iS7-fno_g5Y1RuyTmhUM06WQCr9_lgytgR8ByFhN4ars3ifqYBBR5pGTW9fYCId8XC4=w2400" width="100%"></a></div></div>
 <!--1094-->
@@ -231,6 +247,13 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 
 
 ## 1130
+<!--1039, 1130--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" height="200px"><figcaption></figcaption><b>tm1039, tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" width="100%"></div></div>
+<!--1130--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lmYyrLilqx450L1qhjWUQjcP5b7TdqqR" height="200px"><figcaption></figcaption><b>tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lmYyrLilqx450L1qhjWUQjcP5b7TdqqR" width="100%"></div></div>
+
+<!--1130--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jqB_feGugDPyDPAD-3ihAv4F5iNRb1LY" height="200px"><figcaption></figcaption><b>tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jqB_feGugDPyDPAD-3ihAv4F5iNRb1LY" width="100%"></div></div>
 <!--1130--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/Y9La503wz0DoaCPs-LklCCZrpJ-vQvpktQcuZTlKKs1RvIp44HNblFwhblzyLFXkt5M=w2400" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев</figcaption></figure></button><div class="dropdown-content"><a href="https://lh3.googleusercontent.com/Y9La503wz0DoaCPs-LklCCZrpJ-vQvpktQcuZTlKKs1RvIp44HNblFwhblzyLFXkt5M=w2400" target="_blank" title="1130"> <img src="https://lh3.googleusercontent.com/Y9La503wz0DoaCPs-LklCCZrpJ-vQvpktQcuZTlKKs1RvIp44HNblFwhblzyLFXkt5M=w2400" width="100%"></a></div></div>
 
