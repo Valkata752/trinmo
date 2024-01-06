@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Olle S. Nevius
+title: Фотограф - Olle S. Nevius - 1978
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T11:31:33.323Z
+date: 2024-01-06T17:52:26.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
