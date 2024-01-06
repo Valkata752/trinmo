@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:11:03.995Z
+date: 2024-01-06T10:41:11.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -170,8 +170,8 @@ dateCreated: 2022-05-19T22:07:36.950Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/37/03/437038.jpg" height="200px"><figcaption> <b>Депо</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/37/03/437038.jpg" width="100%"></div></div>
 
 ## 4410
-<!--4410-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y-k4Vh1EsKU6w86fmQaRlEF77iRFT_b" height="200px"><figcaption><b>TM22</b> 📷 Hilsner Keld ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y-k4Vh1EsKU6w86fmQaRlEF77iRFT_b" width="100%"></div></div>
+<!--4410--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xttntYPpXk_74dXJXkDKSu3cQlNqFWTC" height="200px"><figcaption></figcaption><b>tm4410 line22</b> 📷 Hilsner Keld</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xttntYPpXk_74dXJXkDKSu3cQlNqFWTC" width="100%"></div></div>
 <!--4410-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jNvpd5Li1MQNXOBrUHhNw8klkiyL4nG9" height="200px"><figcaption><b>TM23</b> 📷 Christian Wenger ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jNvpd5Li1MQNXOBrUHhNw8klkiyL4nG9" width="100%"></div></div>
 <!--4410-->
