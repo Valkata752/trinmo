@@ -2,7 +2,7 @@
 title: Duewag GT6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:40:49.036Z
+date: 2024-01-06T11:29:05.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:08:38.003Z
@@ -98,6 +98,8 @@ dateCreated: 2022-05-19T22:08:38.003Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kmLetvUJR8OkIHT6JwVhvycq1x9QQg_c" height="200px"><figcaption><b>TM22</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kmLetvUJR8OkIHT6JwVhvycq1x9QQg_c" width="100%"></div></div>
 <!--4233--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/06/22/70/622707.jpg" height="200px"><figcaption> <b>ТМ22</b> 📷 Palal </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/06/22/70/622707.jpg" width="100%"></div></div>
+<!--4233--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mPwGr2n6TZxkq5Bz3zCRhq29F0__n1CV" height="200px"><figcaption></figcaption><b>tm4233 line22</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mPwGr2n6TZxkq5Bz3zCRhq29F0__n1CV" width="100%"></div></div>
 
 ## 4234
 <!--4234-->
