@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T17:30:51.788Z
+date: 2024-01-06T00:29:00.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -432,10 +432,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 - [➡️*Столичен общински вестник - 1931*](/literature/stolichen-obshtinski-vestnik-1931)
 {.links-list}
 
+21.11.1931 (брой 19 и 20) - **Освещаване на трамвайната линия в Иван Вазов** - На 8 т. м.
+
 ### 1930
 
 - [➡️*Столичен общински вестник - 1930*](/literature/stolichen-obshtinski-vestnik-1930)
 {.links-list}
+
+
 
 ### 1929
 - [➡️*Столичен общински вестник - 1929*](/literature/stolichen-obshtinski-vestnik-1929)
