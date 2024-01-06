@@ -2,7 +2,7 @@
 title: Duewag GT6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:09:30.989Z
+date: 2024-01-06T10:40:49.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:08:38.003Z
@@ -84,8 +84,8 @@ dateCreated: 2022-05-19T22:08:38.003Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VL7o5xLoaFB-si0PlF1Kf5VuWqnJImkk" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VL7o5xLoaFB-si0PlF1Kf5VuWqnJImkk" width="100%"></div></div>
 <!--4232--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E14Nzr_fMQ8YyZb_R29Sg70OxI1_0gua" width="100%"></div></div>
-<!--4232-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QTjR22CAcgZBThgAk-lwEp48yheiCLT8" height="200px"><figcaption><b>TM22</b> 📷 Hilsner Keld ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QTjR22CAcgZBThgAk-lwEp48yheiCLT8" width="100%"></div></div>
+<!--4232--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1f9fJiKOzewiB-_uA5K2vAJ0z5ZPC7whj" height="200px"><figcaption></figcaption><b>tm4232 line22</b> 📷 Hilsner Keld</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1f9fJiKOzewiB-_uA5K2vAJ0z5ZPC7whj" width="100%"></div></div>
 <!--4232-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PrcMyN2HxgVzzS9uKPxGNv45TrYvgq4W" height="200px"><figcaption><b>TM22</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PrcMyN2HxgVzzS9uKPxGNv45TrYvgq4W" width="100%"></div></div>
 
