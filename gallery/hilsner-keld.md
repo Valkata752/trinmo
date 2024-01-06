@@ -2,16 +2,13 @@
 title: Фотограф - Hilsner Keld
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:48:39.762Z
+date: 2024-01-06T10:48:57.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T12:47:35.754Z
 ---
 
 ## 02.2008
-## Tabs {.tabset}
-###
-
 
 ## Tabs {.tabset}
 ### Т8М-300 (България 1300)
