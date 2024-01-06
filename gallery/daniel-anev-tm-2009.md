@@ -2,16 +2,18 @@
 title: Фотограф - Даниел Анев - Трамваи 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:32:33.083Z
+date: 2024-01-06T16:33:42.042Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
 ---
 
-**Архив по години:** | [2011](/gallery/daniel-anev-2011) | [2010](/gallery/daniel-anev-2010) | [2009](/gallery/daniel-anev-2009) |
+**Архив по години - трамваи:** |  [2011 - Трамваи](/gallery/daniel-anev-bus-2011) |   [2010 - Трамваи](/gallery/daniel-anev-bus-2010) |   [2009 - Трамваи](/gallery/daniel-anev-bus-2009) | 
+**Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |
+**Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
+
 
 ---
-
 ## T8M-700IT
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wH6a5IVvAuIHd65tz1ZQJfWh3MEHiWA-" height="200px"><figcaption></figcaption><b>a line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wH6a5IVvAuIHd65tz1ZQJfWh3MEHiWA-" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iuI0t39YQ7BZ50bKptxU8Tymmp8TWOzn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iuI0t39YQ7BZ50bKptxU8Tymmp8TWOzn" width="100%"></div></div>
