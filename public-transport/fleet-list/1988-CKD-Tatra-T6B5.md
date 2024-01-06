@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-20T16:45:28.498Z
+date: 2024-01-06T10:12:30.638Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -168,12 +168,15 @@ dateCreated: 2022-05-19T22:00:29.696Z
 ### 4104
 <!--4104-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16HmjeJzA7jxfT1RhmDs51A_3LyXRunBq" height="200px"><figcaption><b>депо</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16HmjeJzA7jxfT1RhmDs51A_3LyXRunBq" width="100%"></div></div>
-<!--4104-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yrM6qcqZrneecu8lgi5ThPesI1GbGZrM" height="200px"><figcaption><b>депо</b> 📷 joka-vide.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yrM6qcqZrneecu8lgi5ThPesI1GbGZrM" width="100%"></div></div>
+<!--4104--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OVreD4qYeKd17kL5j7rBgOEq8CTmu95-" height="200px"><figcaption></figcaption><b>tm4104</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OVreD4qYeKd17kL5j7rBgOEq8CTmu95-" width="100%"></div></div>
 
 ### 4105
-<!--4105-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1p7OQ2OXCNwekEB-hwxe0I4X4CeVTRjuQ" height="200px"><figcaption><b>TM20</b> 📷 joka-vide.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1p7OQ2OXCNwekEB-hwxe0I4X4CeVTRjuQ" width="100%"></div></div>
+<!--4105--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18rgxtovqcUA-vIEs5zjSsfqXTN5cHYlq" height="200px"><figcaption></figcaption><b>tm4105 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18rgxtovqcUA-vIEs5zjSsfqXTN5cHYlq" width="100%"></div></div>
+<!--4105,4128--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" height="200px"><figcaption></figcaption><b>tm4105 tm4128 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" width="100%"></div></div>
+
 
 ### 4107
 <!--4107-->
@@ -208,18 +211,20 @@ dateCreated: 2022-05-19T22:00:29.696Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rGc6mUShGXhly28KrmCfpibzny67yB_LVMt7dLyH0T0B5CydmNXXti3pL5iguyNaMTtyFuT2uJUM7dldMxn8hnC9uU=w2560-h1190" height="200px"><figcaption> <b>TM20</b> 📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AFGJ81rGc6mUShGXhly28KrmCfpibzny67yB_LVMt7dLyH0T0B5CydmNXXti3pL5iguyNaMTtyFuT2uJUM7dldMxn8hnC9uU=w2560-h1190" width="100%"></div></div>
 
 ### 4121
-<!--4121-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zkjSg3M15F4x10vOGj6eF1L_WjI48uel" height="200px"><figcaption><b>TM20</b> 📷 joka-vide.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zkjSg3M15F4x10vOGj6eF1L_WjI48uel" width="100%"></div></div>
+<!--4121--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NRdK15xaBJN2geHIr0JfFSyNSn-zIK8-" height="200px"><figcaption></figcaption><b>tm4121 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NRdK15xaBJN2geHIr0JfFSyNSn-zIK8-" width="100%"></div></div>
 <!--4121+4110--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52401879157_072f8eff47_k.jpg" height="200px"><figcaption> <b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196388478@N06/52401879157" target="_blank" title="4121+4110"> <img src="https://live.staticflickr.com/65535/52401879157_072f8eff47_k.jpg" width="100%"></a></div></div>
 
  ### 4128
+ <!--4105,4128--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" height="200px"><figcaption></figcaption><b>tm4105 tm4128 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GXqZnGfnJkKMZQH4PA3YeWinz1Xnbkf8" width="100%"></div></div>
 <!--4128+4126--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51052311373_340f2ab750_k.jpg" height="200px"><figcaption> <b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51052311373/" target="_blank" title="4128+4126"> <img src="https://live.staticflickr.com/65535/51052311373_340f2ab750_k.jpg" width="100%"></a></div></div>
 
 ### 4131
-<!--4121-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Oki-WVTKw2lFrAhITotOYK5JXaFOSINq" height="200px"><figcaption><b>депо</b> 📷 joka-vide.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Oki-WVTKw2lFrAhITotOYK5JXaFOSINq" width="100%"></div></div>
+<!--4131--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1amHMFU4LgPKxU15FTgP2X5r2hfg94fSA" height="200px"><figcaption></figcaption><b>tm4131 line20</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1amHMFU4LgPKxU15FTgP2X5r2hfg94fSA" width="100%"></div></div>
 
 ### 4134
 <!--4134-->
