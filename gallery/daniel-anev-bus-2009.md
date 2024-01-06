@@ -2,17 +2,18 @@
 title: Фотограф - Даниел Анев - Автобуси 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T16:22:51.914Z
+date: 2024-01-06T16:27:04.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T16:22:51.914Z
 ---
 
-**Архив по години:** | [2011](/gallery/daniel-anev-2011) | [2010](/gallery/daniel-anev-2010) | [2009](/gallery/daniel-anev-2009) |
+**Архив по години - трамваи:** |  [2011 - Трамваи](/gallery/daniel-anev-bus-2011) |   [2010 - Трамваи](/gallery/daniel-anev-bus-2010) |   [2009 - Трамваи](/gallery/daniel-anev-bus-2009) | 
+**Архив по години - тролейбуси:** |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |  [2011 - Тролейбуси](/gallery/daniel-anev-tb-2011) |
+**Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
+
 
 ---
-
-
 
 ## Ikarus 280
 ## Tabs {.tabset}
