@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T08:22:00.793Z
+date: 2024-01-07T08:30:34.320Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:33:39.184Z
@@ -51,6 +51,22 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-8IPI-IAof5w-DA3ULEiWKWne87McBDK" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-8IPI-IAof5w-DA3ULEiWKWne87McBDK" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sp9OiLiDsdQho7Exsb7og8nJFEqnUHG" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sp9OiLiDsdQho7Exsb7og8nJFEqnUHG" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18YrWujr-eCRlajTwjuWjCCQIf35grZ6z" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18YrWujr-eCRlajTwjuWjCCQIf35grZ6z" width="100%"></div></div>
+
+##  T8M-700
+## Tabs {.tabset}
+###
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BAHYcI4xcanuI1i8RSyc0Nvjp3P9nlA_" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BAHYcI4xcanuI1i8RSyc0Nvjp3P9nlA_" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W4hPE2kSalHgz2XMS5UYICANg74qljVb" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1W4hPE2kSalHgz2XMS5UYICANg74qljVb" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q1-skQjaaqSH1LWnxVEsNZmXcur-zral" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q1-skQjaaqSH1LWnxVEsNZmXcur-zral" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17rnZmZmc_f-YckdR-WNexBtKpQ_MiAqr" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17rnZmZmc_f-YckdR-WNexBtKpQ_MiAqr" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=111Ad8Ue67o2U9JlGgimJNw-YYG0xze9O" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=111Ad8Ue67o2U9JlGgimJNw-YYG0xze9O" width="100%"></div></div>
+
+
+##  T8K-503
+## Tabs {.tabset}
+###
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1u4Jkkmjmoq0o1mRezMpJROJC9W5whyl0" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1u4Jkkmjmoq0o1mRezMpJROJC9W5whyl0" width="100%"></div></div>
+
 
 ## T6M-700
 ## Tabs {.tabset}
@@ -111,6 +127,10 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oPwCJDALKaikRIH95MJx0pN1yEdOrzun" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oPwCJDALKaikRIH95MJx0pN1yEdOrzun" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qvj4Q8MZFIQzneYDT4E8NgSPSnBNBmH_" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qvj4Q8MZFIQzneYDT4E8NgSPSnBNBmH_" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Jpo8gOZfqOuI04BsZaUqtfkItpRCo3AF" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Jpo8gOZfqOuI04BsZaUqtfkItpRCo3AF" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KmWv19doLLNONihvuoxzeQJ3z4AMd11i" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KmWv19doLLNONihvuoxzeQJ3z4AMd11i" width="100%"></div></div>
+
+
+
 
 
 ## Mercedes O345
@@ -126,12 +146,17 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kMwlnfhM4hwKqnUCCj9cR2_Rrs9dnRIR" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kMwlnfhM4hwKqnUCCj9cR2_Rrs9dnRIR" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19w_GKzN9SceEhHOgEbAZ_qbxSmWTVDwX" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19w_GKzN9SceEhHOgEbAZ_qbxSmWTVDwX" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HeN8Rm97KAfjIP8HaJeF3YD0vyejIWmP" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HeN8Rm97KAfjIP8HaJeF3YD0vyejIWmP" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AS4RawKh0hBz24VtRIJXinsEDgOgA6OB" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AS4RawKh0hBz24VtRIJXinsEDgOgA6OB" width="100%"></div></div>
+
+
 
 ## Mercedes O305G
 ## Tabs {.tabset}
 ###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aToOT31U_YHo6E2SgJ3q2BHbDtq6mDGC" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aToOT31U_YHo6E2SgJ3q2BHbDtq6mDGC" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CcxuoqqfGzMyxPtax2GGLHJheCv757j7" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CcxuoqqfGzMyxPtax2GGLHJheCv757j7" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NCW-YLuaOvHoezCRDGmsyZbTVB-SKY9X" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NCW-YLuaOvHoezCRDGmsyZbTVB-SKY9X" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RD-pJnD2pf3OCl9dC0ZRmkWIeC3ptBOT" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RD-pJnD2pf3OCl9dC0ZRmkWIeC3ptBOT" width="100%"></div></div>
 
 ## Ikarus 280
 ## Tabs {.tabset}
@@ -159,6 +184,8 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1b4Nj3oSr4RzrTg5nOt3vaIxNM6VwfYWG" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1b4Nj3oSr4RzrTg5nOt3vaIxNM6VwfYWG" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15Xmm7UyQA-FoQq33AKsRAIXZHUZcHRrR" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15Xmm7UyQA-FoQq33AKsRAIXZHUZcHRrR" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LgAOYomiTVrX3Q_FOijPNhH5vSkNNTUm" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LgAOYomiTVrX3Q_FOijPNhH5vSkNNTUm" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13yIgEiFypNRrHcWsWmj2HKdG0bz0izYn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13yIgEiFypNRrHcWsWmj2HKdG0bz0izYn" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" width="100%"></div></div>
 
 
 ## Mercedes O305G Heuliez
@@ -213,9 +240,11 @@ dateCreated: 2024-01-07T06:33:39.184Z
 ###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vZXLaWpJCYtW0tS0ZHbnrYtVo0-jPYbg" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vZXLaWpJCYtW0tS0ZHbnrYtVo0-jPYbg" width="100%"></div></div>
 
-
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KiRirVEfxmTltitjEHE0NT3CykzmXHxi" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KiRirVEfxmTltitjEHE0NT3CykzmXHxi" width="100%"></div></div>
 
 ## Ikarus 280T
+## Tabs {.tabset}
+###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JePPJPHbY8k64cMqwhXRsm-v-YG850Wx" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JePPJPHbY8k64cMqwhXRsm-v-YG850Wx" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yz0XFzKURaTQJ55AQtg4jTZUVUWAXwux" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yz0XFzKURaTQJ55AQtg4jTZUVUWAXwux" width="100%"></div></div>
 
@@ -223,69 +252,53 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L2vZavdAFDEJQH7APSqVfjQWhH6pE_cb" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L2vZavdAFDEJQH7APSqVfjQWhH6pE_cb" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1odllB3_c6tiDgKi5yLVYclpJT9IWWcfO" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1odllB3_c6tiDgKi5yLVYclpJT9IWWcfO" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xMwesn3G3yRpNFmxWipgU6nPP3CE8Wvx" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xMwesn3G3yRpNFmxWipgU6nPP3CE8Wvx" width="100%"></div></div>
-
-
-## Ikarus 280T Facelift
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iZYFftsaQWoHzIOFXYTSHfDgWq0Tufbf" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iZYFftsaQWoHzIOFXYTSHfDgWq0Tufbf" width="100%"></div></div>
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_IHY9W0izkGpQiv-LH8AhhboUcmd_-pn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_IHY9W0izkGpQiv-LH8AhhboUcmd_-pn" width="100%"></div></div>
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AJBlrQ-IuuyETGz2_Q8U6I1P-SGzUeRK" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AJBlrQ-IuuyETGz2_Q8U6I1P-SGzUeRK" width="100%"></div></div>
-
-
-## 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" width="100%"></div></div>
-
-
-
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ql84zSzdD_nJwkfMF8RkNX022-QL5Zsc" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ql84zSzdD_nJwkfMF8RkNX022-QL5Zsc" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Rr4iPIBoYbz4ZlKnrx426OuKzXA7qRVQ" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Rr4iPIBoYbz4ZlKnrx426OuKzXA7qRVQ" width="100%"></div></div>
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19RHK4weo6PSU-qMSa1hBuj63iWtGYcIx" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19RHK4weo6PSU-qMSa1hBuj63iWtGYcIx" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tVG1HTIfTYsDQfxiXoLavEMS193_SrfM" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tVG1HTIfTYsDQfxiXoLavEMS193_SrfM" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s5V6JjVrk8tiTKzKH2HgHUYGc2_TVcRP" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s5V6JjVrk8tiTKzKH2HgHUYGc2_TVcRP" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KiRirVEfxmTltitjEHE0NT3CykzmXHxi" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KiRirVEfxmTltitjEHE0NT3CykzmXHxi" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ye6t2De5cfFNjLAamoBhoJFkuhidPnLq" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ye6t2De5cfFNjLAamoBhoJFkuhidPnLq" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uOLKS7f0m1yr_tyGrWDytX2OdvAqx63v" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uOLKS7f0m1yr_tyGrWDytX2OdvAqx63v" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FJOv6W-v3dsvK0f8EMoO8RY5UAkLnGnn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FJOv6W-v3dsvK0f8EMoO8RY5UAkLnGnn" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Q1-skQjaaqSH1LWnxVEsNZmXcur-zral" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Q1-skQjaaqSH1LWnxVEsNZmXcur-zral" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17rnZmZmc_f-YckdR-WNexBtKpQ_MiAqr" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17rnZmZmc_f-YckdR-WNexBtKpQ_MiAqr" width="100%"></div></div>
-
-
-##  T8M-700
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BAHYcI4xcanuI1i8RSyc0Nvjp3P9nlA_" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BAHYcI4xcanuI1i8RSyc0Nvjp3P9nlA_" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W4hPE2kSalHgz2XMS5UYICANg74qljVb" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1W4hPE2kSalHgz2XMS5UYICANg74qljVb" width="100%"></div></div>
-
-
-##  T8K-503
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1u4Jkkmjmoq0o1mRezMpJROJC9W5whyl0" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1u4Jkkmjmoq0o1mRezMpJROJC9W5whyl0" width="100%"></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KmWv19doLLNONihvuoxzeQJ3z4AMd11i" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KmWv19doLLNONihvuoxzeQJ3z4AMd11i" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AS4RawKh0hBz24VtRIJXinsEDgOgA6OB" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AS4RawKh0hBz24VtRIJXinsEDgOgA6OB" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=111Ad8Ue67o2U9JlGgimJNw-YYG0xze9O" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=111Ad8Ue67o2U9JlGgimJNw-YYG0xze9O" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NCW-YLuaOvHoezCRDGmsyZbTVB-SKY9X" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NCW-YLuaOvHoezCRDGmsyZbTVB-SKY9X" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RD-pJnD2pf3OCl9dC0ZRmkWIeC3ptBOT" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RD-pJnD2pf3OCl9dC0ZRmkWIeC3ptBOT" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1v-KjW1B_3TH7NZm4HwL1St4i55S0Y2gz" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1v-KjW1B_3TH7NZm4HwL1St4i55S0Y2gz" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" width="100%"></div></div>
+
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HQctv5Tk-Adwg6ge1Vl5QpgjOG5BZlQL" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HQctv5Tk-Adwg6ge1Vl5QpgjOG5BZlQL" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WVGvor51Sv3Q7VPgRr_xmDSpvEbOCl8K" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WVGvor51Sv3Q7VPgRr_xmDSpvEbOCl8K" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1krzsnQYHIJtclJ-661B9bugVtO63JUPM" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1krzsnQYHIJtclJ-661B9bugVtO63JUPM" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xiHOw6NlBWQ11fST2be4RbC0oPKigQqo" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xiHOw6NlBWQ11fST2be4RbC0oPKigQqo" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13yIgEiFypNRrHcWsWmj2HKdG0bz0izYn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13yIgEiFypNRrHcWsWmj2HKdG0bz0izYn" width="100%"></div></div>
+
+
+## Ikarus 280T Facelift
+## Tabs {.tabset}
+###
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iZYFftsaQWoHzIOFXYTSHfDgWq0Tufbf" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iZYFftsaQWoHzIOFXYTSHfDgWq0Tufbf" width="100%"></div></div>
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_IHY9W0izkGpQiv-LH8AhhboUcmd_-pn" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_IHY9W0izkGpQiv-LH8AhhboUcmd_-pn" width="100%"></div></div>
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1AJBlrQ-IuuyETGz2_Q8U6I1P-SGzUeRK" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1AJBlrQ-IuuyETGz2_Q8U6I1P-SGzUeRK" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" width="100%"></div></div>
+
+
+## ddd
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" width="100%"></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
