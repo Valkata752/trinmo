@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T09:44:59.289Z
+date: 2024-01-07T14:44:52.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -55,6 +55,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 90те
+- [Thiery Hamal *1999*](/gallery/thiery-hamal)
 - [Wilfried Wolf :de: *1998*](/gallery/wilfried-wolf)
 - [Theo Stolz*1996, 1997*](/gallery/theo-stolz)
 - [Klaus Mundt :de: *1996, 1997*](/gallery/klaus-mundt)
