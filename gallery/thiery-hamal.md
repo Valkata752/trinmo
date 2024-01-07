@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Thiery Hamal
+title: Фотограф - Thierry Hamal
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T14:50:45.009Z
+date: 2024-01-07T17:18:47.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T14:50:45.009Z
