@@ -1,8 +1,8 @@
 ---
-title: Фотограф - Focus1965
+title: Фотограф -  Alex Krakowsky
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-19T16:00:46.468Z
+date: 2024-01-07T21:32:19.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:15:17.091Z
