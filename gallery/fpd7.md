@@ -2,7 +2,7 @@
 title: Фотограф - FPD7
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-02T15:53:15.786Z
+date: 2024-01-07T21:41:17.732Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:26:51.047Z
@@ -13,6 +13,11 @@ dateCreated: 2023-11-12T11:26:51.047Z
 ### 
 <!--3--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14luF-mUErh5gRq7KJasuP03Aq3DGeqpU" height="200px"><figcaption></figcaption>3</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14luF-mUErh5gRq7KJasuP03Aq3DGeqpU" width="100%"></div></div>
+
+<!--34--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1fw4wk-O2IybswHFmGr8r8VgJ4pWEQktz" height="200px"><figcaption></figcaption>34</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1fw4wk-O2IybswHFmGr8r8VgJ4pWEQktz" width="100%"></div></div>
+
+
 
 <!--41+441--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LsG9REuNdh39mC13QndYqZEYmrgKUV9_" height="200px"><figcaption></figcaption>41+441</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LsG9REuNdh39mC13QndYqZEYmrgKUV9_" width="100%"></div></div>
