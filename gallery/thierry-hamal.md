@@ -2,13 +2,13 @@
 title: Фотограф - Thierry Hamal
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T17:19:04.187Z
+date: 2024-01-07T17:19:20.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T14:50:45.009Z
 ---
 
-> Снимки предоставени лично от Thiery Hamal на Trinmo!
+> Снимки предоставени лично от Thierry Hamal на Trinmo!
 {.is-info}
 
 ## Duewag GT8
