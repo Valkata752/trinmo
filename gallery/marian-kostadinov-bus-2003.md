@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Автобуси 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T13:45:47.307Z
+date: 2024-01-07T13:56:50.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T13:45:47.307Z
@@ -13,6 +13,63 @@ dateCreated: 2024-01-07T13:45:47.307Z
 **Архив по години - автобуси:** |  [2005 - Автобуси](/gallery/marian-kostadinov-bus-2005) |  [2004 - Автобуси](/gallery/marian-kostadinov-bus-2004) |  [2003 - Автобуси](/gallery/marian-kostadinov-bus-2003) |
 
 ---
+
+
+
+## Mercedes O305G  - Дружба
+## Tabs {.tabset}
+### 
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1QcvnfVNMNwTL5438lgQQIwofpZMlLWbe" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1QcvnfVNMNwTL5438lgQQIwofpZMlLWbe" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TjOTWo4dkMPCg1AaXlVKisl3vxzd_jc2" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TjOTWo4dkMPCg1AaXlVKisl3vxzd_jc2" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kJxe5S1J3Prn99S0Xbhcs-pl4G1Y_kRx" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kJxe5S1J3Prn99S0Xbhcs-pl4G1Y_kRx" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ztlgWBUxCU_lnOUuU3yB8a5Pm-VK5h03" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ztlgWBUxCU_lnOUuU3yB8a5Pm-VK5h03" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GlYlDcWM3veX2Wc2k4c2PpfB9CAZjonc" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GlYlDcWM3veX2Wc2k4c2PpfB9CAZjonc" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16WzzlEC-VARFzYOD7k57-KfSbIpe65Ia" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16WzzlEC-VARFzYOD7k57-KfSbIpe65Ia" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ihdvlTDShxHiIsxvzkXMTFAQNlfWzYgW" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ihdvlTDShxHiIsxvzkXMTFAQNlfWzYgW" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eoLa7187V8k5Yu5vJUlWwAb7bW-9mTna" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eoLa7187V8k5Yu5vJUlWwAb7bW-9mTna" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RmC9gJUxKCXcqX3s3yE9loTvsqSovE9L" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RmC9gJUxKCXcqX3s3yE9loTvsqSovE9L" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xeVX8PEI_S2i0lXBprXx2M9_d3YHHbTO" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xeVX8PEI_S2i0lXBprXx2M9_d3YHHbTO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hzN7qj6Ri0vk85XMV_SmA2s92dCeiaxc" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hzN7qj6Ri0vk85XMV_SmA2s92dCeiaxc" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UzjQSupDkhjINeBc5sn225YgaDG6uEz3" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UzjQSupDkhjINeBc5sn225YgaDG6uEz3" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ex3_5C30a-FvleJpj8odf1wb1VNJ7C-P" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ex3_5C30a-FvleJpj8odf1wb1VNJ7C-P" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nkPz46Zwyy-T89K8UJB0lXs_bJ2Zixlk" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nkPz46Zwyy-T89K8UJB0lXs_bJ2Zixlk" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BsW_OZDmWCm4m7f_zLGVgqbtEY0pjlaj" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BsW_OZDmWCm4m7f_zLGVgqbtEY0pjlaj" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=13q96GPOa0waGh-MI0Vty85rVSrpItAO_" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=13q96GPOa0waGh-MI0Vty85rVSrpItAO_" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hcs4F-I6zI246uFI8WZtg5seTqt_LmC0" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hcs4F-I6zI246uFI8WZtg5seTqt_LmC0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=10V7yLlrAscbAwTkRrTSw0H8aNtrLEBIx" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=10V7yLlrAscbAwTkRrTSw0H8aNtrLEBIx" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rmiFxaoBehVql55XuMD3XjLcYVL-3scV" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rmiFxaoBehVql55XuMD3XjLcYVL-3scV" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HddcKj4uLTbuTym_64p6EIFU1P722zJD" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HddcKj4uLTbuTym_64p6EIFU1P722zJD" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14VR-Vl_liMuA7C-rJqQ4kNzRQQFwdUs0" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14VR-Vl_liMuA7C-rJqQ4kNzRQQFwdUs0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uoAC0GijfJhsfl29YNAKg6cCFod6upxd" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uoAC0GijfJhsfl29YNAKg6cCFod6upxd" width="100%"></div></div>
+
+
+
+## Mercedes O305G  - Малашевци
+## Tabs {.tabset}
+### 
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uaUM-AfQSuzT3sfCfKI8g-ER07hx_8pQ" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uaUM-AfQSuzT3sfCfKI8g-ER07hx_8pQ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19Mov7oXEY9G21jk-PB6-XL0rLlyTkzj-" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19Mov7oXEY9G21jk-PB6-XL0rLlyTkzj-" width="100%"></div></div>
+
+
+## Mercedes O305G  - Земляне
+## Tabs {.tabset}
+### 
+
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JDOgABSwljNfLtisoyOS4Nd2HpkU8svt" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JDOgABSwljNfLtisoyOS4Nd2HpkU8svt" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vUQWjKEKJ5ebCUO2wUcPN0tdd5MxTHBt" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vUQWjKEKJ5ebCUO2wUcPN0tdd5MxTHBt" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14aRsACX0uEATtYVkWypRtFVyXklTvI0l" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14aRsACX0uEATtYVkWypRtFVyXklTvI0l" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hC5cEcO1VzC6Jsg6MLRU2TjK6d0H-Pd4" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hC5cEcO1VzC6Jsg6MLRU2TjK6d0H-Pd4" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nRSJXBvNIijytE97MoA0qGU4XWykZ0kK" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nRSJXBvNIijytE97MoA0qGU4XWykZ0kK" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1qFGDFVa_W0V_WD8e0qHpZkf6uJnvXzPi" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1qFGDFVa_W0V_WD8e0qHpZkf6uJnvXzPi" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yd18uMaxlPGQpb9UVfoFhOhaoMwF59au" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yd18uMaxlPGQpb9UVfoFhOhaoMwF59au" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tuFuTd_4AA_8uQtA22AJUsVZyKkiDtVF" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tuFuTd_4AA_8uQtA22AJUsVZyKkiDtVF" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14_HZ9voHvoijRtI8msbfZ_u_tURygNec" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14_HZ9voHvoijRtI8msbfZ_u_tURygNec" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CVz5HUqRW7xxRFj8rvV7XYD_rRSQOh4T" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CVz5HUqRW7xxRFj8rvV7XYD_rRSQOh4T" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uVPz5vRySJQW1JNwCFkUyQQAuVROSTnM" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uVPz5vRySJQW1JNwCFkUyQQAuVROSTnM" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xm4ADOK-ePmZIMKWed0qHF_tQ51uc87F" height="200px"><figcaption></figcaption><b>a line </b> 📷 Мариан Костадинов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xm4ADOK-ePmZIMKWed0qHF_tQ51uc87F" width="100%"></div></div>
+
 
 ## Ikarus 280 - 34**
 ## Tabs {.tabset}
