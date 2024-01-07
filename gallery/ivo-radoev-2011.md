@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2011
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T06:17:14.964Z
+date: 2024-01-07T06:28:04.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T18:12:22.624Z
@@ -13,6 +13,8 @@ dateCreated: 2024-01-06T18:12:22.624Z
 ---
 
 ## T6A2
+
+
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sER1TeoWAgUV1Sva2n7WhX081z1tRkjg" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sER1TeoWAgUV1Sva2n7WhX081z1tRkjg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Mi2jbqp4AVM99LcYmouOv3oPdl4CzLed" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Mi2jbqp4AVM99LcYmouOv3oPdl4CzLed" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tCym8QK6ZskewswF50rhe-KZnIDYdD2v" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tCym8QK6ZskewswF50rhe-KZnIDYdD2v" width="100%"></div></div>
