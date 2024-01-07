@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T08:34:22.666Z
+date: 2024-01-07T08:37:12.730Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:33:39.184Z
@@ -216,6 +216,7 @@ dateCreated: 2024-01-07T06:33:39.184Z
 ## 27TR
 ## Tabs {.tabset}
 ###
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17fBZvQf9egzaBQtlzjFp99HECi1wIbBg" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17fBZvQf9egzaBQtlzjFp99HECi1wIbBg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1H4nYrjsL8Dbn1AqFKK9DJSlSXcJ8wXQM" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1H4nYrjsL8Dbn1AqFKK9DJSlSXcJ8wXQM" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n6nakc2rsLJjBKXXv2dKHtw0q-HYHwD6" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n6nakc2rsLJjBKXXv2dKHtw0q-HYHwD6" width="100%"></div></div>
@@ -262,6 +263,8 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WVGvor51Sv3Q7VPgRr_xmDSpvEbOCl8K" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WVGvor51Sv3Q7VPgRr_xmDSpvEbOCl8K" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1krzsnQYHIJtclJ-661B9bugVtO63JUPM" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1krzsnQYHIJtclJ-661B9bugVtO63JUPM" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xiHOw6NlBWQ11fST2be4RbC0oPKigQqo" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xiHOw6NlBWQ11fST2be4RbC0oPKigQqo" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" width="100%"></div></div>
+
 
 
 ## Ikarus 280T Facelift
@@ -275,11 +278,6 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1a2FMY2kEAGyU3LAU0Km3AOfXjcaTCZpX" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_JBRuCtJkZTMoV_t26t4gOm7hHsZ6Laf" width="100%"></div></div>
 
-
-
-## ddd
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wu7FwCmdeIFK8IWoT9qbTV9eH1yx6WC8" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" width="100%"></div></div>
 
 
 
