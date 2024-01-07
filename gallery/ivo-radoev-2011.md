@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2011
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T06:15:06.417Z
+date: 2024-01-07T06:17:14.964Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T18:12:22.624Z
@@ -99,21 +99,17 @@ dateCreated: 2024-01-06T18:12:22.624Z
 ## Разни
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VWM7k4j8ByH6OhADUMaoSitD5cw3Xrhc" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VWM7k4j8ByH6OhADUMaoSitD5cw3Xrhc" width="100%"></div></div>
 
-## Следващо
-
-
-
-
-
-
-
-
-
-
-
-
+## Следващо Д
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Y0JDjP7PHWSB9aptiePOXLKT9C3mC9-F" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Y0JDjP7PHWSB9aptiePOXLKT9C3mC9-F" width="100%"></div></div>
+
+
+
+
+
+
+
+
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PF5ZXObBax61tsI-WySzXqPyl1f-mWlf" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PF5ZXObBax61tsI-WySzXqPyl1f-mWlf" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GfRkywhVO-p83itxuyVZHr0hU2xmL07U" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GfRkywhVO-p83itxuyVZHr0hU2xmL07U" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-9gV0XR8qcXN3xQWvOYKZmTM_UyH13y_" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-9gV0XR8qcXN3xQWvOYKZmTM_UyH13y_" width="100%"></div></div>
