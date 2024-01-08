@@ -2,7 +2,7 @@
 title: Фотограф - Olaf Guettler
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-08T11:55:22.287Z
+date: 2024-01-08T11:55:34.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:01:29.809Z
@@ -73,7 +73,7 @@ dateCreated: 2023-11-19T16:01:29.809Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1OrTsCbAuoOI_z3cbKwBPdYaU2PQIu7z_"></td>
-<td><b>tm954 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София) </a><br>📌 Завива от бул. Христо Ботев към ул. Пиротска.<br> 📷 Olaf Guettler<br></td></tr>
+<td><b>tm954 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт) </a><br>📌 Завива от бул. Христо Ботев към ул. Пиротска.<br> 📷 Olaf Guettler<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
  
