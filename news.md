@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T08:41:01.481Z
+date: 2024-01-08T15:53:28.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -12,6 +12,10 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 
 ## 08.01.2023
+
+
+- [:camera: Първи ден на автобусна линия 288 в София.  *Зоопарка - Автостанция Гео Милев*](/bg/news/20240108-parvi-den-linia-288)
+{.links-list}
 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1j5llldm4Xzns_8GATDBWT2WDtIKHZGRx"></td>
