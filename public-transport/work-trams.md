@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-08T11:46:15.968Z
+date: 2024-01-08T11:50:12.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -199,7 +199,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### Инфо
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=99999999999999"></td>
+<td><img src="https://drive.google.com/uc?id=1He7OlJQ6kTDySKJT0Vvwi1deqrWJCW5i"></td>
 <td>Инфо</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
