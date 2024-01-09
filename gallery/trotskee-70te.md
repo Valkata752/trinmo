@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-09T18:50:55.607Z
+date: 2024-01-09T18:53:31.178Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
@@ -60,7 +60,19 @@ dateCreated: 2024-01-05T16:03:02.937Z
 <td><b>tm864</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
-  
+
+
+ ## Tabs {.tabset}
+### Т6М-901 (Космонавт)
+
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1YO86VCXfPaUBauWuDvFhsJ9FFk640Y7I"></td>
+<td><b>tm932 tm5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-901 (Космонавт)</a><br>📌 бул. Мария Луиза (Централна гара)<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+
  ## Tabs {.tabset}
 ### Т4М-701 (Комсомолец)
 
