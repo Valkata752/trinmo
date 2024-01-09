@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 60те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T23:02:51.095Z
+date: 2024-01-09T16:04:25.141Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T14:30:07.843Z
@@ -26,7 +26,24 @@ dateCreated: 2024-01-05T14:30:07.843Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=18cXijWDYCNOBsMJzZM9iAuSYvAoTUXqc"></td>
 <td><b>tm223 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
-  
+
+
+## 1965
+## Tabs {.tabset}
+### 
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1qz4URxdujhcbrLTRc9VSFp1hC1VCtdZ-"></td>
+<td><b>tm604</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a><br>📌 бул.Мария Луиза <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1QEak7UrlccWj-ALA-J44gm_cojDlyYXP"></td>
+<td><b>tm69+tm419 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80) </a> и <a href="/bg/public-transport/fleet-list/1929-Energie">Energie (401-432)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
+
+
 ## 1964
 ## Tabs {.tabset}
 ### 
