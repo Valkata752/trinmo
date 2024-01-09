@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-09T18:43:20.727Z
+date: 2024-01-09T18:50:55.607Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
@@ -77,6 +77,13 @@ dateCreated: 2024-01-05T16:03:02.937Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=13cF-QEAeVC-4hcm3iIQUK1asNMEayd0g"></td>
+<td><b>tm221 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1U99AOdTmaoFd-WV-pmG3KGxdhO9G6TQW"></td>
 <td><b>tm221 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
@@ -89,9 +96,35 @@ dateCreated: 2024-01-05T16:03:02.937Z
 </a><br>📌 неизв. <br> 📷 The Leeds Transport Society<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1PDrtS6HxZHff9JxDG73qEl00LK-Ue1TJ"></td>
+<td><b>tm238 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
   
 ## Tabs {.tabset}
 ### ДТО Мотриси серия № 251/277
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=17GM2epfjTBFXf9mFQtPV6J7049dOSKE0"></td>
+<td><b>tm252+452 line6</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1IDsqHnKPrR6dbrvtYGjKMqrHnakUAO30"></td>
+<td><b>tm259 line6</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1S2br5XTPyPWwundiIGvdgu5RaT707Thd"></td>
@@ -99,13 +132,33 @@ dateCreated: 2024-01-05T16:03:02.937Z
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1IkNwrKp0RiF-kkZMK0yYGP7M1hXsOYqR"></td>
+<td><b>tm270 line6</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
 ## Tabs {.tabset}
-### ДТО Мотриси серия № 31/50 (MAN)<!--следващ пост--> 
+### ДТО Мотриси серия № 31/50 (MAN)
+
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1tYAbtmXp4-ZQiVJXn-HdkA7aDKOlmASa"></td>
 <td><b>tm40 line9</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+## Tabs {.tabset}
+### Работни трамваи
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://drive.google.com/uc?id=1I10lVB5tHUzhAycvEYbwxsWy81x7cAAH"></td>
+<td><b>tm570</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
   
 ## 1970
 ## Tabs {.tabset}
