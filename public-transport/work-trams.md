@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-09T16:00:25.713Z
+date: 2024-01-09T18:54:56.464Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -150,6 +150,22 @@ dateCreated: 2023-05-14T08:08:07.415Z
   </tr>
   <td colspan=2 >ℹ️ Сдружение ГТИ</td>
 </table>
+
+### 570
+
+### Tabs {.tabset}
+
+#### 19??
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="https://drive.google.com/uc?id=1I10lVB5tHUzhAycvEYbwxsWy81x7cAAH"></td>
+    <td>тип трамвай: ????<br> </td>
+  </tr>
+  <td colspan=2 >ℹ️ </td>
+</table>
+
+
+
 
 
 ### 573
