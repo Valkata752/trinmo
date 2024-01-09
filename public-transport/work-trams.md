@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-08T11:50:12.532Z
+date: 2024-01-09T16:00:25.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -211,9 +211,9 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### 19??
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1T5dWGyU0llXocpMjaK2LVq3P57UllDN7"></td>
+<td><img src="https://drive.google.com/uc?id=1qz4URxdujhcbrLTRc9VSFp1hC1VCtdZ-"></td>
 <td>Мотриса за шлифоване набраздени трамвайни релси.</td></tr>
-  <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
+  <td colspan=2 >ℹ️ </td></table></div>
   
   
 
