@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-07T21:33:10.041Z
+date: 2024-01-10T08:11:13.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -96,6 +96,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [FPD7*1969*](/gallery/fpd7)
 - [Mike Cornwall*1969*](/gallery/mike-cornwall)
 - [Димитър Кацев и Николай Щерев :bulgaria:*1967*](/gallery/dimitar-katsev-nikolay-shterev)
+- [Michael Carter*1965*](/gallery/michael-carter)
 - [Pascal Pontremoli*1964*](/gallery/pascal-pontremoli)
 - [Dirk Hartmann*1960*](/gallery/dirk-hartmann)
 - [Paul Popper*1960*](/gallery/paul-popper)
