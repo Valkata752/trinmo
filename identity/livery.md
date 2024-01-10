@@ -2,7 +2,7 @@
 title: Ливреи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-23T00:58:56.710Z
+date: 2024-01-10T14:35:10.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T10:09:01.298Z
@@ -259,133 +259,44 @@ dateCreated: 2022-05-01T10:09:01.298Z
 
 Истанбул. 
 
-## T6M-700
+## Трамваи
 
-### Tabs {.tabset}
-
-#### 🧡 Оранжево
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1QvXSyHekG8JW_BSUkaMMcI8MWiyZ4MDD"></td>
-    <td><b>Оранжево</b><br>Всички трамваи</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Иво Радоев</td>
-</table>
+### Синьо жълто
 
 
-#### 💙💛 Синьо-Жълто
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="/подвижен-състав-галерия/1985-t6m-700/tm1_t6m-700.jpg"></td>
-    <td><b>Синьо-жълто</b><br>701, ....</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Kurt Rasmussen</td>
-</table>
-
-## T8M-700
-
-### Tabs {.tabset}
-
-#### 🧡💙🖤 Оранжево-Синьо-Сиво
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1-8RkJ29BShjLv4rmeXgh7W6-dZ0XBjID"></td>
-    <td><b>Синьо-жълто</b><br>928, ....</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Иво Раодев</td>
-</table>
-
-#### 100 години
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Kark_TM51hvU4bszMh6yN8mHw2jxLL7f"></td>
-    <td><b>Синьо-жълто</b><br>Само 927</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Мариан Костадинов</td>
-</table>
+### Синьо оранжево сиво
 
 
+### Оранжево
 
 
-#### 🧡 Оранжево
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Na94WZqgWONbtLr-B5GvcvPPDU8r4Vv8"></td>
-    <td><b>Оранжево</b><br>Всички трамваи</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Даниел Анев</td>
-</table>
-
-#### 💙💛 Синьо-Жълто
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48985508248_41b6b4220a_k.jpg"></td>
-    <td><b>Синьо-жълто</b><br>928, ....</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Владимир Симов</td>
-</table>
+### Жълто
 
 
-## T8К-503
-
-### Tabs {.tabset}
-
-#### 🧡 Оранжево
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1QvXSyHekG8JW_BSUkaMMcI8MWiyZ4MDD"></td>
-    <td><b>Оранжево</b><br>Всички трамваи</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Иво Радоев</td>
-</table>
+### Червено
 
 
-#### 💙💛 Синьо-Жълто
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="/подвижен-състав-галерия/1985-t6m-700/tm1_t6m-700.jpg"></td>
-    <td><b>Синьо-жълто</b><br>701, ....</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Kurt Rasmussen</td>
-</table>
+### Зелено
 
 
+## Автобуси
 
+### Бяло - електробуси
 
+### Бяло - газови
 
-## София 70
+### Изцяло оранжево
+Mercedes Conecto Lf, Yutong ZK6126HGA
 
-### Tabs {.tabset}
+### Оранжево с бял покрив
+Mercedes O345 Conecto и O345 Conecto G
+Mercedes O305, Mercedes O305G, Mercedes O305G Heuliez
 
-#### 🧡 Оранжево
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1s9VhYOpZWnIiIKy3a-x1tK2aW038HsMB"></td>
-    <td><b></b></td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
-</table>
-
-#### 💛 Жълто
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1z_VhfkZJoi6-nbuMGoFL4ZLbUd-yzZuI"></td>
-    <td><b></b></td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
-</table>
-
-#### 💙 Синьо
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1rrlgZyum_Xk-sMJhs5z4a-QwkemXG-3D"></td>
-    <td><b>Превозни средства с такова оцветяване:</b> 110</td>
-  </tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>Trotskee Travel</td>
-</table>
-
-
-
+### Зелено с тъмни зелени ленти (Истанбул)
+Mercedes O345G, Mercedes O345
+ 
+ ### Производители (без специално оцветяване)
+ Икаруси, Чавдари 11Г5, 11М3
 
 # Рекламите по превозните средства
 
