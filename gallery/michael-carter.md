@@ -2,7 +2,7 @@
 title: Фотограф Michael Carter
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-10T08:16:09.411Z
+date: 2024-01-10T08:17:00.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-10T08:16:09.411Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-10T08:16:09.411Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?id=1y2xxsV-2miqshn-7K6jk-Ljgy85UareP"></td>
-<td><b>tm40 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">MAN-Siemens (81-92)</a><br>📌пл. Св. Неделя <br> 📷 Michael Carter</td></tr>
+<td><b>tm40 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌пл. Св. Неделя <br> 📷 Michael Carter</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
