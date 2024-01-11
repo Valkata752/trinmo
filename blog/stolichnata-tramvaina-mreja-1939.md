@@ -2,7 +2,7 @@
 title: Столичната трамвайна мрежа - 1939
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T13:35:25.961Z
+date: 2024-01-11T10:27:39.385Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-20T08:29:02.176Z
@@ -138,7 +138,7 @@ dateCreated: 2022-05-20T08:29:02.176Z
 - От трамвай № 9 частта от бул. „М. Луиза" до ул. „Орландовска" се премества 900 м.
 **Всичко 9.358 м.**
 
-<br><img src="https://drive.google.com/uc?id=1MzTV9DTLFnIVDQnzie7M_9pfVKEfs8cO">
+<br><img src="https://lh3.google.com/u/0/d/1MzTV9DTLFnIVDQnzie7M_9pfVKEfs8cO">
 
 ## Нов градоустройствен план
 В новия градоустройствен план на Голяма София се предвиждат нови трамвайни линии с дължини както следва:
