@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T17:12:20.349Z
+date: 2024-01-11T10:20:12.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -14,7 +14,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1_SRIvtB9ptnhCyMzhT6PwmGk_gY_Uxy2"></td>
+<td><img src="https://lh3.google.com/u/0/d/1_SRIvtB9ptnhCyMzhT6PwmGk_gY_Uxy2"></td>
 <td><b>Tatra T6A2</b><br> За трамвайната мрежа в София с междурелсие 1009 mm са поръчани от ČKD Praha 40 мотриси от типа T6A2B и след 1991 започва тяхната експлоатация.  </td></tr>
   <td colspan=2 >ℹ️ ČKD Praha Tatra Smíchov 1852-1992</td></table></div>
   
@@ -127,7 +127,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 ## Чертеж
 
-<img src="https://drive.google.com/uc?id=1u801Q9JyrQEjPyqFLAArclzASKSKdQgn">
+<img src="https://lh3.google.com/u/0/d/1u801Q9JyrQEjPyqFLAArclzASKSKdQgn">
 
 
 # Снимки
@@ -148,13 +148,13 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <!--2031--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49648496958_3caa4d4b52_k.jpg" height="200px"><figcaption> <b>TM3</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/49648496958/" target="_blank" title="2031"> <img src="https://live.staticflickr.com/65535/49648496958_3caa4d4b52_k.jpg" width="100%"></a></div></div>
 <!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oZj6eOtzjFywUJCSbjVhtk8Nv0S_Zxdj" height="200px"><figcaption><b>TM5</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oZj6eOtzjFywUJCSbjVhtk8Nv0S_Zxdj" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1oZj6eOtzjFywUJCSbjVhtk8Nv0S_Zxdj" height="200px"><figcaption><b>TM5</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1oZj6eOtzjFywUJCSbjVhtk8Nv0S_Zxdj" width="100%"></div></div>
 <!--2025-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aypDaDXlDuj9STaOR2Iv6NnydEGve_UK" height="200px"><figcaption><b>TM11</b> 📷 Петко Драгов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aypDaDXlDuj9STaOR2Iv6NnydEGve_UK" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1aypDaDXlDuj9STaOR2Iv6NnydEGve_UK" height="200px"><figcaption><b>TM11</b> 📷 Петко Драгов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1aypDaDXlDuj9STaOR2Iv6NnydEGve_UK" width="100%"></div></div>
 <!--2025--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" height="200px"><figcaption><b>TM14</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" height="200px"><figcaption><b>TM14</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" width="100%"></div></div>
 <!--2026-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" height="200px"><figcaption><b>TM15</b> 📷 kamim.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" height="200px"><figcaption><b>TM15</b> 📷 kamim.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" width="100%"></div></div>
 
 <!--2003--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" height="200px"><figcaption> <b>TM19</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" width="100%"></div></div>
@@ -164,15 +164,15 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <!--2027--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" height="200px"><figcaption> <b>TM2</b> 📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" target="_blank" title="2027"> <img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" width="100%"></a></div></div>
 <!--2013--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" height="200px"><figcaption><b>ТМ5</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" height="200px"><figcaption><b>ТМ5</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" width="100%"></div></div>
  <!--2037-2038--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51109340632_49f1d4298e_k.jpg" height="200px"><figcaption><b>TM5 </b>📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/51109340632/in/album-72157677479664231/" target="_blank" title="2037-2038"> <img src="https://live.staticflickr.com/65535/51109340632_49f1d4298e_k.jpg" width="100%"></a></div></div>
  <!--2037--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/7368/27670054701_f3d6fd56ab_k.jpg" height="200px"><figcaption> <b>TM7A</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"> <img src="https://live.staticflickr.com/7368/27670054701_f3d6fd56ab_k.jpg" width="100%"></div></div>
 <!--2001-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nJDvP5_Rto-N9A1f2jIQO48E5yRDOmNC" height="200px"><figcaption><b>TM8</b> 📷 Сава Ташев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nJDvP5_Rto-N9A1f2jIQO48E5yRDOmNC" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1nJDvP5_Rto-N9A1f2jIQO48E5yRDOmNC" height="200px"><figcaption><b>TM8</b> 📷 Сава Ташев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1nJDvP5_Rto-N9A1f2jIQO48E5yRDOmNC" width="100%"></div></div>
  <!--2035-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bM38HHzvknVuW6uxOOzWJNoKFqJcKc56" height="200px"><figcaption><b>TM9</b> 📷 Sludge G ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bM38HHzvknVuW6uxOOzWJNoKFqJcKc56" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1bM38HHzvknVuW6uxOOzWJNoKFqJcKc56" height="200px"><figcaption><b>TM9</b> 📷 Sludge G ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1bM38HHzvknVuW6uxOOzWJNoKFqJcKc56" width="100%"></div></div>
  <!--2023--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52086287016_cfcfaa48d6_h.jpg" height="200px"><figcaption><b>TM10 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52086287016/in/album-72157704389416642/" target="_blank" title="2023"> <img src="https://live.staticflickr.com/65535/52086287016_cfcfaa48d6_h.jpg" width="100%"></a></div></div>
 
@@ -183,16 +183,16 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 ### Единични
 <!--3002--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" height="200px"><figcaption><b>TM4</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" height="200px"><figcaption><b>TM4</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1tSKimUfQIT-IXn-RU2E_U-uwnVkSpmnO" width="100%"></div></div>
  
  <!--3031--> 
  <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" height="200px"><figcaption> <b>3031</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405503751/" target="_blank" title="3031"> <img src="https://live.staticflickr.com/65535/50405503751_062beb5a65_k.jpg" width="100%"></a></div></div>
  <!--3005-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" height="200px"><figcaption><b>TM8</b> 📷 Петър М. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" height="200px"><figcaption><b>TM8</b> 📷 Петър М. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1Z3Fmd8Eeq1kn6cuchwl-3LOC6AX2nViV" width="100%"></div></div>
 <!--3020--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/51137834923/" target="_blank" title="2040"> <img src="https://live.staticflickr.com/65535/51137834923_52e138abaa_k.jpg" width="100%"></a></div></div>
 <!--3007--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2" width="100%"></div></div>
 
 ## Tabs {.tabset}
 ### Състави
