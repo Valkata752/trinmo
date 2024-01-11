@@ -1,8 +1,8 @@
 ---
-title: Фотограф Alekxander Naumenkov
+title: Фотограф Alexander Naumenkov
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T21:04:02.945Z
+date: 2024-01-11T21:04:55.217Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T19:20:58.518Z
