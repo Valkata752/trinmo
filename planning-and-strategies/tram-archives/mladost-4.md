@@ -2,13 +2,13 @@
 title: Планове за трамвай до ж.к. Младост 4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-28T16:11:06.613Z
+date: 2024-01-11T10:30:11.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-24T13:42:12.813Z
 ---
 
-<img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl">
+<img src="https://lh3.google.com/u/0/d/1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl">
 
 
 ## Чертежи
@@ -33,24 +33,24 @@ dateCreated: 2023-10-24T13:42:12.813Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1mlVdFnUSZMANJlf-qTFN1r2wPxTAqBKQ"></td>
-<td><img src="https://drive.google.com/uc?id=13MM4pf5-z7_E8_xR3DvzHaRMZhUgTjjW"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1mlVdFnUSZMANJlf-qTFN1r2wPxTAqBKQ"></td>
+<td><img src="https://lh3.google.com/u/0/d/13MM4pf5-z7_E8_xR3DvzHaRMZhUgTjjW"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1986 г. / 2003 г. </td></table></div>
   
 ## Tabs {.tabset}
 
 
 ### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" height="200px"><figcaption><b>18.06.2004</b><br>📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" height="200px"><figcaption><b>18.06.2004</b><br>📷 Николай Петракиев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1vDF6pV9ka_gn_J73PTW7Tk2VqUY7GKfs" width="100%"></div></div>
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/16eAHoXF1ovdlK5qNSO-pcWn7eNpPM_Gr" width="100%"></div></div>
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" height="200px"><figcaption><b>19.03.2007</b><br>📷 Велизар Гергинов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1R_cRmi2153hkwjQcaVuunCJ48DckAJdq" width="100%"></div></div>
 
 
 
 ## Съществуващо положение
-<img src="https://drive.google.com/uc?id=108m7wNSMpenYqACpDxou4gXlCGn-LK7z">
+<img src="https://lh3.google.com/u/0/d/108m7wNSMpenYqACpDxou4gXlCGn-LK7z">
 
   
   ## Обръщаелно колело в Младост 4
@@ -60,8 +60,8 @@ dateCreated: 2023-10-24T13:42:12.813Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1qnWkw3JwTLBy4yh0BH34IQckt4PtPl4n"></td>
-<td><img src="https://drive.google.com/uc?id=16qiL3AKpJ7oUiAkk8sQSo7ikN1OENVKO"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1qnWkw3JwTLBy4yh0BH34IQckt4PtPl4n"></td>
+<td><img src="https://lh3.google.com/u/0/d/16qiL3AKpJ7oUiAkk8sQSo7ikN1OENVKO"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1986 г. / 2003 г. </td></table></div>
   
   
