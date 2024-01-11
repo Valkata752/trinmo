@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Трамваи 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T18:51:24.180Z
+date: 2024-01-11T18:53:04.043Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
@@ -119,16 +119,17 @@ dateCreated: 2024-01-01T14:29:41.589Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1WMaqE9Lu2zmtR5UD8DRhcg-e7OSxBBAy" height="200px"><figcaption></figcaption><b>tm2041+2042 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1WMaqE9Lu2zmtR5UD8DRhcg-e7OSxBBAy" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1wLWyFDQOuoZUoOZv_q2g2Gb7YJz6epKf" height="200px"><figcaption></figcaption><b>tm2041+2042 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1wLWyFDQOuoZUoOZv_q2g2Gb7YJz6epKf" width="100%"></div></div>
 
-### 2043
+### 2043+2044
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" height="200px"><figcaption></figcaption><b>tm2043+tm2044 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1k-N5nH3v_4vPSg9b3sgg4yonN8f3__0M" height="200px"><figcaption></figcaption><b>tm2043+tm2044 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1k-N5nH3v_4vPSg9b3sgg4yonN8f3__0M" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1k-N5nH3v_4vPSg9b3sgg4yonN8f3__0M" height="200px"><figcaption></figcaption><b>tm2043+tm2044 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1k-N5nH3v_4vPSg9b3sgg4yonN8f3__0M" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" height="200px"><figcaption></figcaption><b>tm2043+tm2044 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" width="100%"></div></div>
 
-### 2045
+### 2045+2046
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/15fComLDK3U98UiL3SbKUBaAGpESwpuIM" height="200px"><figcaption></figcaption><b>tm2045+2046 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/15fComLDK3U98UiL3SbKUBaAGpESwpuIM" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1ZfWXSoujHL8NA5GVSuEMuZKzMtL1ZNEq" height="200px"><figcaption></figcaption><b>tm2045+2046 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1ZfWXSoujHL8NA5GVSuEMuZKzMtL1ZNEq" width="100%"></div></div>
 
-### 2047
+### 2047+2048
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/149Rq7Qa7jHVAdC4UnlpyXICJ8rpzGgc-" height="200px"><figcaption></figcaption><b>tm2047+2048 line9 tm2029 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/149Rq7Qa7jHVAdC4UnlpyXICJ8rpzGgc-" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1_Xk3i4HFyVS7si1J75R1HvtIxDGtP7Ah" height="200px"><figcaption></figcaption><b>tm2047+2048 line9 tm2029 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1_Xk3i4HFyVS7si1J75R1HvtIxDGtP7Ah" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1gfwd8lRJ7bsWH0ZKhrJ-rSN4__DBqWPQ" height="200px"><figcaption></figcaption><b>tm2047+2048 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1gfwd8lRJ7bsWH0ZKhrJ-rSN4__DBqWPQ" width="100%"></div></div>
@@ -136,7 +137,7 @@ dateCreated: 2024-01-01T14:29:41.589Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1wkJJzc4hZbTEvRAhjVTLxtaFujh6MtKR" height="200px"><figcaption></figcaption><b>tm2047+2048 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1wkJJzc4hZbTEvRAhjVTLxtaFujh6MtKR" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1ULm8MqefzM2PsWAuz1o5Umyzc_elOBWe" height="200px"><figcaption></figcaption><b>tm2047+2048 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1ULm8MqefzM2PsWAuz1o5Umyzc_elOBWe" width="100%"></div></div>
 
-### 2049
+### 2049+2050
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1zKZ9SrfFC5SRmZjlTI4LlUalQGdQ-V_M" height="200px"><figcaption></figcaption><b>tm2049+tm2050 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1zKZ9SrfFC5SRmZjlTI4LlUalQGdQ-V_M" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1mvQNCtKohjyTJ2Ls2HUR9oKEp1rOz8GG" height="200px"><figcaption></figcaption><b>tm2049+tm2050 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1mvQNCtKohjyTJ2Ls2HUR9oKEp1rOz8GG" width="100%"></div></div>
 
@@ -156,7 +157,7 @@ dateCreated: 2024-01-01T14:29:41.589Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1VOvv_pOfruN5SRqcEalEsCGA3ImEOZzg" height="200px"><figcaption></figcaption><b>tm2055 line8 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1VOvv_pOfruN5SRqcEalEsCGA3ImEOZzg" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1zHBxXVkq4kpYAXkCokYXD_z8RDniwkoS" height="200px"><figcaption></figcaption><b>tm2055 line10 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1zHBxXVkq4kpYAXkCokYXD_z8RDniwkoS" width="100%"></div></div>
 
-### 2057
+### 2057+2056
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1PYsebxB_nAT9ZRnyq_wsO6QLUTMDRcYH" height="200px"><figcaption></figcaption><b>tm2057+2056 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1PYsebxB_nAT9ZRnyq_wsO6QLUTMDRcYH" width="100%"></div></div>
 
 
@@ -165,15 +166,12 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ###  2040
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1yUElBCLTY4vli27umqEghQcHb1DxPUMN" height="200px"><figcaption></figcaption><b>tm2040 line10 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1yUElBCLTY4vli27umqEghQcHb1DxPUMN" width="100%"></div></div>
 
-### 2039
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" height="200px"><figcaption></figcaption><b>tm2043+tm2044 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1LgTMLLrmeLlj9fnNwLrlEFbDFyi9ypUj" width="100%"></div></div>
-
 
 ### 2039
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1rA7tKQ0VEpsx9boEN-EtUbDmlptDGq2w" height="200px"><figcaption></figcaption><b>tm2039 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1rA7tKQ0VEpsx9boEN-EtUbDmlptDGq2w" width="100%"></div></div>
 
-### 2037
+### 2037+2038
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1FweUnHn3OWNZzqUkvMSjG05uwe_UF3Qm" height="200px"><figcaption></figcaption><b>tm2037+tm2038 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1FweUnHn3OWNZzqUkvMSjG05uwe_UF3Qm" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/19ONmBTpoHF_EUlaCyXLGryMa0ugosOhs" height="200px"><figcaption></figcaption><b>tm2037+tm2038 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/19ONmBTpoHF_EUlaCyXLGryMa0ugosOhs" width="100%"></div></div>
 
@@ -189,7 +187,7 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ### 2034
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1-95it5VPngOagFRlMHYBikMvP1kiAKO6" height="200px"><figcaption></figcaption><b>tm2034 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1-95it5VPngOagFRlMHYBikMvP1kiAKO6" width="100%"></div></div>
 
-### 2031
+### 2031+2032
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1T0LWiMlOo6ZSUDhY1eN-VI4cZFzivKrj" height="200px"><figcaption></figcaption><b>tm2031+2032 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1T0LWiMlOo6ZSUDhY1eN-VI4cZFzivKrj" width="100%"></div></div>
 
 ### 2030
@@ -199,7 +197,7 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ### 2029
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/15dj3JgE22eXkjxgUM4Gdjaywi1z3s4ot" height="200px"><figcaption></figcaption><b>tm2029 line10 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/15dj3JgE22eXkjxgUM4Gdjaywi1z3s4ot" width="100%"></div></div>
 
-### 2027
+### 2027+2028
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1pdXS1VMrLacCnL0KiWZHEB3hvF9UWczN" height="200px"><figcaption></figcaption><b>tm2027 line9 tm2040 line10 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1pdXS1VMrLacCnL0KiWZHEB3hvF9UWczN" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1heXifgAbec0I8kFO5AaWcwWWyQ4P-uqJ" height="200px"><figcaption></figcaption><b>tm2027+tm2028 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1heXifgAbec0I8kFO5AaWcwWWyQ4P-uqJ" width="100%"></div></div>
 
@@ -232,12 +230,12 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ### 2019
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1NSYJ3VJShXEljtNyuX0psDxAsURYc5hz" height="200px"><figcaption></figcaption><b>tm2019 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1NSYJ3VJShXEljtNyuX0psDxAsURYc5hz" width="100%"></div></div>
 
-### 2017
+### 2017+2018
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1wQ4KR8gVZ7j9L_gOyhBKkJxoa-glPBD_" height="200px"><figcaption></figcaption><b>tm2017+2018 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1wQ4KR8gVZ7j9L_gOyhBKkJxoa-glPBD_" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1of92d9bTj-GEbtt82YDBBSJE4r5TWd0b" height="200px"><figcaption></figcaption><b>tm2017+2018 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1of92d9bTj-GEbtt82YDBBSJE4r5TWd0b" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1PtvftZ4xgeAZ7e6fDqlmkszT18REmzFE" height="200px"><figcaption></figcaption><b>tm2017+2018 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1PtvftZ4xgeAZ7e6fDqlmkszT18REmzFE" width="100%"></div></div>
 
-### 2015
+### 2015+2016
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1ZqtpqRcSs9_mpon9ITjzV1liEO4qPvEZ" height="200px"><figcaption></figcaption><b>tm2015, tm2057+tm2056 line9 line </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1ZqtpqRcSs9_mpon9ITjzV1liEO4qPvEZ" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1frlk8bC22KMvKnLMdBW3FSRkqd3_Rs-Y" height="200px"><figcaption></figcaption><b>tm2015+2016 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1frlk8bC22KMvKnLMdBW3FSRkqd3_Rs-Y" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1GMDivJ0lZjvf7rXieJigvDBfZ1RQ_EVj" height="200px"><figcaption></figcaption><b>tm2015+2016 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1GMDivJ0lZjvf7rXieJigvDBfZ1RQ_EVj" width="100%"></div></div>
@@ -272,11 +270,11 @@ dateCreated: 2024-01-01T14:29:41.589Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1cqc61iy3ROzIGQsDdu2yzUQGLSCn6RXv" height="200px"><figcaption></figcaption><b>tm2005 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1cqc61iy3ROzIGQsDdu2yzUQGLSCn6RXv" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1uzUAQK6VPSawmbbVZAZRA2O6uug3uBuT" height="200px"><figcaption></figcaption><b>tm2005 line18 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1uzUAQK6VPSawmbbVZAZRA2O6uug3uBuT" width="100%"></div></div>
 
-### 2003
+### 2003+2004
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1_jy3MD2L3fsRyLnAmBQWxhIFhiHb2YQH" height="200px"><figcaption></figcaption><b>tm2003+2004 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1_jy3MD2L3fsRyLnAmBQWxhIFhiHb2YQH" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1fmjgbZMAcKJ-AlkAdP-8r0a3HCI3-8Hh" height="200px"><figcaption></figcaption><b>tm2003+2004 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1fmjgbZMAcKJ-AlkAdP-8r0a3HCI3-8Hh" width="100%"></div></div>
 
-### 2001
+### 2001+2002
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1uJWvWTQYUCtSseC_vRMuS_YpYjdjeg35" height="200px"><figcaption></figcaption><b>tm2001+2002 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1uJWvWTQYUCtSseC_vRMuS_YpYjdjeg35" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1NFbO77oAuTYQqF7HLoGuK_UgjLbGIf-G" height="200px"><figcaption></figcaption><b>tm2001+2002 line9 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1NFbO77oAuTYQqF7HLoGuK_UgjLbGIf-G" width="100%"></div></div>
 
