@@ -2,7 +2,7 @@
 title: Фотограф J. Slehofer
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T09:58:10.466Z
+date: 2024-01-11T22:32:03.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T13:46:55.792Z
@@ -59,7 +59,7 @@ dateCreated: 2023-11-19T13:46:55.792Z
 
 
 <!--2909--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1_ECgks7PkTHne1vLTepdMhV73WBderre" height="200px"><figcaption></figcaption>2909</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1_ECgks7PkTHne1vLTepdMhV73WBderre" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/files/images/tb2909%20line9%20sofia21p.jpg" height="200px"><figcaption></figcaption>2909</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/files/images/tb2909%20line9%20sofia21p.jpg" width="100%"></div></div>
 
 <!--M2--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1JOZXPNqWey9z_TEVqkmLGZ6QcA8hmjOR" height="200px"><figcaption></figcaption>M2</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1JOZXPNqWey9z_TEVqkmLGZ6QcA8hmjOR" width="100%"></div></div>
