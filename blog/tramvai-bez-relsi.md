@@ -2,7 +2,7 @@
 title: Трамвай безъ релси
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-05T18:27:06.142Z
+date: 2024-01-11T10:27:32.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T00:09:26.179Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-04T00:09:26.179Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1PDZXcR8btUhwyYxjhosRKxq5rYRf1S7E"></td>
+<td><img src="https://lh3.google.com/u/0/d/1PDZXcR8btUhwyYxjhosRKxq5rYRf1S7E"></td>
 <td> <b>Трамвай безъ релси</b><br> Корица на статията</td></tr>
   <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
   
@@ -29,7 +29,7 @@ dateCreated: 2023-12-04T00:09:26.179Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1RWXIILemox2UuNDSpN7SUm_Dkm83hiVU"></td>
+<td><img src="https://lh3.google.com/u/0/d/1RWXIILemox2UuNDSpN7SUm_Dkm83hiVU"></td>
 <td>Цялото горнобанско население, събрало се в празднично облекло и настроение на средселския площад, както и големият красноречив надпис на арката: „Да пребъде Столичната голяма община!“ – са най-непосредственият и внушителен израз на голямата радост и благодарност на Горна-баня. Множеството посреща с шумна радост и нестихващо „ура“ първия „трамвай без релси“, както сам народът го нарича. </td></tr>
   <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
   
@@ -40,7 +40,7 @@ dateCreated: 2023-12-04T00:09:26.179Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1MKB32Vj67d_W7sxafTJEtfW_gJqo4idS"></td>
+<td><img src="https://lh3.google.com/u/0/d/1MKB32Vj67d_W7sxafTJEtfW_gJqo4idS"></td>
 <td> След обичайния водосвет г. инж. Иванов застава с ножица в ръка пред трицветната лента и с пожелание, новата тролейбусна линия да помогне всестранното преуспяване на Горна-баня, прерязва тая символична преграда, като обявява тържествено тролейбусната линия за пусната в движение. Говорят след това местните представители. С възторжени речи те изказват „официално“ голямата радост, благодарност и признателност на населението.</td></tr>
   <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
   
