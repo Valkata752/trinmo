@@ -2,7 +2,7 @@
 title: Ремонт на коловози по бул. Илиянско шосе
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-13T21:26:49.925Z
+date: 2024-01-11T10:22:24.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T13:44:14.761Z
@@ -48,7 +48,7 @@ dateCreated: 2023-08-03T13:44:14.761Z
 с код 6698 „Бул. Рожен – временна“ на бул. „Рожен“ на 40.00 метра след ул. „Илиянско шосе“ в посока изход от София;
 с код 6699 „Стадион Локомотив-временна“ на бул. „Рожен“ на 40.00 метра преди ул. „Петър Панайотов“ в посока изход от София.
 
-<img src="https://drive.google.com/uc?id=1GU7EU-OgJiA-ZuHVOGxnytaWx17zkeOj">
+<img src="https://lh3.google.com/u/0/d/1GU7EU-OgJiA-ZuHVOGxnytaWx17zkeOj">
 
 ## 08.08.2023 - промяна (ЦГМ-2418)
 
@@ -60,19 +60,19 @@ dateCreated: 2023-08-03T13:44:14.761Z
 
 ##### 10.08.2023
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SLzBZ5AGyAQISCMsQcXNcSsvcJNpiWsc" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SLzBZ5AGyAQISCMsQcXNcSsvcJNpiWsc" width="100%"></div></div> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SLzBZ5AGyAQISCMsQcXNcSsvcJNpiWsc" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SLzBZ5AGyAQISCMsQcXNcSsvcJNpiWsc" width="100%"></div></div> 
 <!--2--> 
- <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SLTgSrguZnGEfbC6Tk_7K3g0N05kruSK" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SLTgSrguZnGEfbC6Tk_7K3g0N05kruSK" width="100%"></div></div>
+ <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SLTgSrguZnGEfbC6Tk_7K3g0N05kruSK" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SLTgSrguZnGEfbC6Tk_7K3g0N05kruSK" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SLOHlgWwSGs-v8WpJjpCri9vs0zyfAOf" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SLOHlgWwSGs-v8WpJjpCri9vs0zyfAOf" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SLOHlgWwSGs-v8WpJjpCri9vs0zyfAOf" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SLOHlgWwSGs-v8WpJjpCri9vs0zyfAOf" width="100%"></div></div>
 <!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SKvGhtfjt23vIG6FCYF2mMTBsMuOyFk9" height="200px"><figcaption>📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SKvGhtfjt23vIG6FCYF2mMTBsMuOyFk9" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SKvGhtfjt23vIG6FCYF2mMTBsMuOyFk9" height="200px"><figcaption>📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SKvGhtfjt23vIG6FCYF2mMTBsMuOyFk9" width="100%"></div></div>
 <!--5--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SBdWQORt5djHZBOZNo8YJMi3UEZaQnK6" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SBdWQORt5djHZBOZNo8YJMi3UEZaQnK6" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SBdWQORt5djHZBOZNo8YJMi3UEZaQnK6" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SBdWQORt5djHZBOZNo8YJMi3UEZaQnK6" width="100%"></div></div>
 <!--6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SB99yiYKSTnuIGSK-jwnpg8QhzYLhbtA" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SB99yiYKSTnuIGSK-jwnpg8QhzYLhbtA" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SB99yiYKSTnuIGSK-jwnpg8QhzYLhbtA" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SB99yiYKSTnuIGSK-jwnpg8QhzYLhbtA" width="100%"></div></div>
 <!--7--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SRNUeepFsnky3KfOE4sTucaUU0qr9lo9" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SRNUeepFsnky3KfOE4sTucaUU0qr9lo9" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SRNUeepFsnky3KfOE4sTucaUU0qr9lo9" height="200px"><figcaption> 📷 quilombo </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1SRNUeepFsnky3KfOE4sTucaUU0qr9lo9" width="100%"></div></div>
 
 ### 08.08.2023 - нова спирка (ЦГМ-2434)
 От 12:00 часа на 15.08.2023 г. автобусите от линия № 12ТМ ще спират на съществуващата спирка с код: 0539 – „модна къща Агресия“ за автобусни линии № 26, 27 и 85 на бул. "Рожен" в посока автостанция Илиянци.
