@@ -2,7 +2,7 @@
 title: Фотограф Alekxander Naumenkov
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T21:00:58.798Z
+date: 2024-01-11T21:04:02.945Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T19:20:58.518Z
@@ -13,6 +13,8 @@ dateCreated: 2024-01-11T19:20:58.518Z
 
 
 ## 2010
+## Tabs {.tabset}
+###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1ftTku_Sg7wXZunN3GX5mXCgRg7NQXLR6" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1ftTku_Sg7wXZunN3GX5mXCgRg7NQXLR6" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1kn7bCPyak-xWIZcISvrj87Dkovmh594Q" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1kn7bCPyak-xWIZcISvrj87Dkovmh594Q" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1T1yj4FLq2y3poAztcYdtsI6onTKauwzX" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1T1yj4FLq2y3poAztcYdtsI6onTKauwzX" width="100%"></div></div>
@@ -52,6 +54,8 @@ dateCreated: 2024-01-11T19:20:58.518Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Ldd56zBzUBVi9YZl89aEYSh3ShzmZguT" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1Ldd56zBzUBVi9YZl89aEYSh3ShzmZguT" width="100%"></div></div>
 
 ## 2007
+## Tabs {.tabset}
+###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Qq8HZus-aTjQEFgud-bSVAkd-mQu4QjD" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1Qq8HZus-aTjQEFgud-bSVAkd-mQu4QjD" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1_OWiwkfq1NXEiQVYXN-uvSitKg8BL4VC" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1_OWiwkfq1NXEiQVYXN-uvSitKg8BL4VC" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1h4QsMxWHwjtPzt24GBClbkzeUNi0O9mm" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1h4QsMxWHwjtPzt24GBClbkzeUNi0O9mm" width="100%"></div></div>
@@ -74,6 +78,8 @@ dateCreated: 2024-01-11T19:20:58.518Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1WVQdvwBsPK8Su_ZYz2uO-2FolcjTc1NH" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1WVQdvwBsPK8Su_ZYz2uO-2FolcjTc1NH" width="100%"></div></div>
 
 ## 2004
+## Tabs {.tabset}
+###
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1sFLYGr6RqIiIsuzIOURauCQx3sxQ2Imc" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1sFLYGr6RqIiIsuzIOURauCQx3sxQ2Imc" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1gg2aHzSPhysdTVkMd7OnwV_q8L3pjnpa" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1gg2aHzSPhysdTVkMd7OnwV_q8L3pjnpa" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/18tFGEsRJ5FjiL1zqiuCNYldAUtKwVWQ7" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Alexander Naumenkov</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/18tFGEsRJ5FjiL1zqiuCNYldAUtKwVWQ7" width="100%"></div></div>
