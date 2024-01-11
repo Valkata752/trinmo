@@ -2,7 +2,7 @@
 title: Удължаване на трамвай 4 до гара Искър
 description: Транспорт, инфраструктура и мболност
 published: true
-date: 2023-11-08T17:31:33.028Z
+date: 2024-01-11T10:30:24.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-06T06:52:10.052Z
@@ -16,8 +16,8 @@ dateCreated: 2023-11-06T06:52:10.052Z
 1934-1966 г. – на карта от 1934 г. се вижда, че трасето вече е удължено до настоящето Румънското посолство. То е удвоено, а не еднопосочно.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1LLWD74T1PxY0sifPL4c2CFpnB20Ul3Sr"></td>
-<td><img src="https://drive.google.com/uc?id=1igSV0IEK8IDwBGuAfnq_fPxDn4CtY-Hx"></tr>
+<td><img src="https://lh3.google.com/u/0/d/1LLWD74T1PxY0sifPL4c2CFpnB20Ul3Sr"></td>
+<td><img src="https://lh3.google.com/u/0/d/1igSV0IEK8IDwBGuAfnq_fPxDn4CtY-Hx"></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>Изградено е и обръщало, на чието място в момента е изградена църква. </td></table></div>
   
   
@@ -26,8 +26,8 @@ dateCreated: 2023-11-06T06:52:10.052Z
 Трасето е удължено до настоящата автостанция Гео Милев. Старото обръщало до румънското посолство се запазва като резервно.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1RSB36HsXud-amft09k_6K941m2YQzIKq"></td>
-<td><img src="https://drive.google.com/uc?id=1IhkuszTz-7w0LW59S15C_6tWQMUcO1Uc"></tr>
+<td><img src="https://lh3.google.com/u/0/d/1RSB36HsXud-amft09k_6K941m2YQzIKq"></td>
+<td><img src="https://lh3.google.com/u/0/d/1IhkuszTz-7w0LW59S15C_6tWQMUcO1Uc"></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1966 г. - 2017 г.</td></table></div>
   
   
@@ -38,7 +38,7 @@ dateCreated: 2023-11-06T06:52:10.052Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1u5XbbnDc7gRj-w2KUCyoSPTyDJjr1HKb"></td>
+<td><img src="https://lh3.google.com/u/0/d/1u5XbbnDc7gRj-w2KUCyoSPTyDJjr1HKb"></td>
 <td>В план от 1972 г. се вижда проектът за удължаване на трамвайното трасе до ул. „Димитър Пешев“. По бул. „Искърско шосе“, то е трябвало да бъде централно разположено, между двете автомобилни платна, за разлика от настоящата реализация на нормално релсовото трасе (за линии 22 и 23).  </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>stara-sofia </td></table></div>
   
@@ -47,7 +47,7 @@ dateCreated: 2023-11-06T06:52:10.052Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1fRFluVsyJunBVRQmVzbIyJF-S7M0rO--"></td>
+<td><img src="https://lh3.google.com/u/0/d/1fRFluVsyJunBVRQmVzbIyJF-S7M0rO--"></td>
 <td>Планът така и не реализиран, в началото на 80-те в плановете започва да се появяват планове за нормалнорелсов трамвай, но схемите продължава да се наричат „Удължаване на трасе на трамвай 4“.  </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a> </td></table></div>
 
@@ -64,7 +64,7 @@ dateCreated: 2023-11-06T06:52:10.052Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1igSV0IEK8IDwBGuAfnq_fPxDn4CtY-Hx"></td>
+<td><img src="https://lh3.google.com/u/0/d/1igSV0IEK8IDwBGuAfnq_fPxDn4CtY-Hx"></td>
 <td>В план на „Местност Гео Милев – Подуене Редута част“ от 1984 г. се вижда, че е имало алтернативни варианти за трасе на „широкия“ трамвай. </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a> </td></table></div>
   
