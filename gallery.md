@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-10T08:11:13.068Z
+date: 2024-01-11T16:22:42.141Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -47,10 +47,6 @@ dateCreated: 2022-07-01T07:02:10.622Z
 **Архив по години - автобуси:** |  [2005 - Автобуси](/gallery/marian-kostadinov-bus-2005) |  [2004 - Автобуси](/gallery/marian-kostadinov-bus-2004) |  [2003 - Автобуси](/gallery/marian-kostadinov-bus-2003) |
 
 ---
-
-
-**Архив по години:** | [2005](/gallery/marian-kostadinov-2005) | [2004](/gallery/marian-kostadinov-2004) | [2003](/gallery/marian-kostadinov-2003) |
-
 - [Jan Šlehofer :czech_republic: *2004*](/gallery/j-slehofer)
 {.links-list}
 
