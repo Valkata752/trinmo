@@ -2,7 +2,7 @@
 title: Спиркознаци
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T18:38:54.905Z
+date: 2024-01-11T12:30:48.137Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:43:35.487Z
@@ -361,7 +361,7 @@ dateCreated: 2022-05-01T09:43:35.487Z
   <img src="/инфраструктура/спиркознаци/двоен-3.jpg" height="300px"></button><div class="dropdown-content">
  <img src="/инфраструктура/спиркознаци/двоен-3.jpg" width="100%"></div></div>
 <!--spirkoznak--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" height="300px"><figcaption> <b>спиркознак</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" height="300px"><figcaption> <b>спиркознак</b> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A" width="100%"></div></div>
  <!--спиркознак-->
 <div class="dropdown"><button class="imgbtn">
   <img src="/инфраструктура/спиркознаци/двоен-5.jpg" height="300px"></button><div class="dropdown-content">
