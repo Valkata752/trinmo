@@ -2,14 +2,14 @@
 title: Допълнителни автобусни линии и тяхното таксуване 
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-29T11:17:40.210Z
+date: 2024-01-11T10:24:40.330Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-29T10:58:33.825Z
 ---
 
-<table style="width:100%"><tr><td>ℹ️ Въведените наскоро допълнителни автобусни линии в София създават прецедент в начина, по който се таксуват пътниците, които ги ползват.<br></td><td rowspan="2"><div class="dropdown"><button class="imgbtn"><img src="https://drive.google.com/uc?id=1bn4vPTHQIyd9dOO7Og3Ux7KzUMLOKzQ1" width="300px"></button><div class="dropdown-content">
- <img src="https://drive.google.com/uc?id=1bn4vPTHQIyd9dOO7Og3Ux7KzUMLOKzQ1" width="100%"></div></div></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/news/20230806-avtobusi-dovejdashti"><b>Допълнителни автобусни линии 802, 803, 804 и 805</b></a></td></tr></table>  
+<table style="width:100%"><tr><td>ℹ️ Въведените наскоро допълнителни автобусни линии в София създават прецедент в начина, по който се таксуват пътниците, които ги ползват.<br></td><td rowspan="2"><div class="dropdown"><button class="imgbtn"><img src="https://lh3.google.com/u/0/d/1bn4vPTHQIyd9dOO7Og3Ux7KzUMLOKzQ1" width="300px"></button><div class="dropdown-content">
+ <img src="https://lh3.google.com/u/0/d/1bn4vPTHQIyd9dOO7Og3Ux7KzUMLOKzQ1" width="100%"></div></div></td></tr><tr><td>ℹ️ <a href="http://trinmo.org/bg/news/20230806-avtobusi-dovejdashti"><b>Допълнителни автобусни линии 802, 803, 804 и 805</b></a></td></tr></table>  
  
 
 > § 4б. на [Закона за автомобилните превози](https://lex.bg/laws/ldoc/2134681088) разпорежда, че Правата за пътуване по вътрешноградския транспорт с ценови облекчения, предоставени със закони и актове на Министерския съвет, **се отнасят само за основните градски линии.**
@@ -20,7 +20,7 @@ dateCreated: 2023-09-29T10:58:33.825Z
 
 |Съобщение на ЦГМ|[Закона за автомобилните превози](https://lex.bg/laws/ldoc/2134681088)|
 |---|---|
-|<img src="https://drive.google.com/uc?id=1_nawzEtTMMXArLXx2gB0z1ZYunLEFHet">|35. на  (нова - ДВ, бр. 99 от 2003 г., в сила от 12.12.2003 г., предишна т. 34 - ДВ, бр. 92 от 2005 г., в сила от 18.11.2005 г.) **"Допълнителни автобусни линии"** са линиите с режим на движение, осигуряващ възможност за спиране, слизане и качване по желание на пътниците на разрешените за това места, **допълващи основните линии на градския транспорт**, без да ги дублират напълно. |
+|<img src="https://lh3.google.com/u/0/d/1_nawzEtTMMXArLXx2gB0z1ZYunLEFHet">|35. на  (нова - ДВ, бр. 99 от 2003 г., в сила от 12.12.2003 г., предишна т. 34 - ДВ, бр. 92 от 2005 г., в сила от 18.11.2005 г.) **"Допълнителни автобусни линии"** са линиите с режим на движение, осигуряващ възможност за спиране, слизане и качване по желание на пътниците на разрешените за това места, **допълващи основните линии на градския транспорт**, без да ги дублират напълно. |
  
  
 ## Решение на СОС
