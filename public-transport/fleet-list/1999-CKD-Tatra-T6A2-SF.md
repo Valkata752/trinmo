@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T11:24:09.730Z
+date: 2024-01-11T10:20:40.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:19.722Z
@@ -188,7 +188,7 @@ dateCreated: 2022-05-19T21:58:19.722Z
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър Мънъри</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/49162447272/" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" width="100%"></a></div></div>
 <!--2051-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
 
 
 ## Tabs {.tabset}
