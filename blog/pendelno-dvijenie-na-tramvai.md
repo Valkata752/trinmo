@@ -2,7 +2,7 @@
 title: Пенделно движение на трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-23T20:04:03.349Z
+date: 2024-01-11T10:26:39.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T07:09:17.038Z
@@ -20,27 +20,27 @@ dateCreated: 2023-05-19T07:09:17.038Z
 
 
 <!--703-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eX7G7tXAr6feMdzgTffJrOg87Uki3pXH" height="200px"><figcaption><b>703</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eX7G7tXAr6feMdzgTffJrOg87Uki3pXH" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1eX7G7tXAr6feMdzgTffJrOg87Uki3pXH" height="200px"><figcaption><b>703</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1eX7G7tXAr6feMdzgTffJrOg87Uki3pXH" width="100%"></div></div>
 <!--707-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L1xjXMZrcaRxTEZRYI_tTg9nABVsx-gh" height="200px"><figcaption><b>707</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L1xjXMZrcaRxTEZRYI_tTg9nABVsx-gh" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1L1xjXMZrcaRxTEZRYI_tTg9nABVsx-gh" height="200px"><figcaption><b>707</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1L1xjXMZrcaRxTEZRYI_tTg9nABVsx-gh" width="100%"></div></div>
 <!--802-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YPjb1H7N41I09LevCeT--_XWqYtYzL-h" height="200px"><figcaption><b>802</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YPjb1H7N41I09LevCeT--_XWqYtYzL-h" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1YPjb1H7N41I09LevCeT--_XWqYtYzL-h" height="200px"><figcaption><b>802</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1YPjb1H7N41I09LevCeT--_XWqYtYzL-h" width="100%"></div></div>
 <!--807-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1J_738j24TkCroi7CbOPCSmiKDfZs-4_8" height="200px"><figcaption><b>807</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1J_738j24TkCroi7CbOPCSmiKDfZs-4_8" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1J_738j24TkCroi7CbOPCSmiKDfZs-4_8" height="200px"><figcaption><b>807</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1J_738j24TkCroi7CbOPCSmiKDfZs-4_8" width="100%"></div></div>
 <!--804-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1fs3gHBHOdlhRzNIbpIYjsPmF_96xTO5u" height="200px"><figcaption><b>804+819</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1fs3gHBHOdlhRzNIbpIYjsPmF_96xTO5u" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1fs3gHBHOdlhRzNIbpIYjsPmF_96xTO5u" height="200px"><figcaption><b>804+819</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1fs3gHBHOdlhRzNIbpIYjsPmF_96xTO5u" width="100%"></div></div>
 <!--809-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1swbiVLAEGKIYU2Pe2dWsEbAmZ6TRTyol" height="200px"><figcaption><b>809</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1swbiVLAEGKIYU2Pe2dWsEbAmZ6TRTyol" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1swbiVLAEGKIYU2Pe2dWsEbAmZ6TRTyol" height="200px"><figcaption><b>809</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1swbiVLAEGKIYU2Pe2dWsEbAmZ6TRTyol" width="100%"></div></div>
 <!--811-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1om4ZN_76nM59iJjoYWfArEb8-sVsj7tZ" height="200px"><figcaption><b>811</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1om4ZN_76nM59iJjoYWfArEb8-sVsj7tZ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1om4ZN_76nM59iJjoYWfArEb8-sVsj7tZ" height="200px"><figcaption><b>811</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1om4ZN_76nM59iJjoYWfArEb8-sVsj7tZ" width="100%"></div></div>
 <!--815-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1fqJee3Z2v3WoSYYO_lTluYs7F9Mksns6" height="200px"><figcaption><b>815</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1fqJee3Z2v3WoSYYO_lTluYs7F9Mksns6" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1fqJee3Z2v3WoSYYO_lTluYs7F9Mksns6" height="200px"><figcaption><b>815</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1fqJee3Z2v3WoSYYO_lTluYs7F9Mksns6" width="100%"></div></div>
 <!--819-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19sIrULnVZsaFiua9xlVXeOGRpCr_TQu2" height="200px"><figcaption><b>819+804</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19sIrULnVZsaFiua9xlVXeOGRpCr_TQu2" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/19sIrULnVZsaFiua9xlVXeOGRpCr_TQu2" height="200px"><figcaption><b>819+804</b> 📷 Иван Кацев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/19sIrULnVZsaFiua9xlVXeOGRpCr_TQu2" width="100%"></div></div>
 <!--819-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1v40VbbHkPggXVt5RT5gzrzoNP8FxK8mQ" height="200px"><figcaption><b>819</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1v40VbbHkPggXVt5RT5gzrzoNP8FxK8mQ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1v40VbbHkPggXVt5RT5gzrzoNP8FxK8mQ" height="200px"><figcaption><b>819</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1v40VbbHkPggXVt5RT5gzrzoNP8FxK8mQ" width="100%"></div></div>
 <!--824-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14WNya5JqfN4Kc93MmqeuNYsnHg_5mroG" height="200px"><figcaption><b>824</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14WNya5JqfN4Kc93MmqeuNYsnHg_5mroG" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/14WNya5JqfN4Kc93MmqeuNYsnHg_5mroG" height="200px"><figcaption><b>824</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/14WNya5JqfN4Kc93MmqeuNYsnHg_5mroG" width="100%"></div></div>
 
 
 ## TM23
@@ -53,11 +53,11 @@ dateCreated: 2023-05-19T07:09:17.038Z
 
 
 <!--4234-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=118-FFgeetMQMI34uT69APjBCtKenPew0" height="200px"><figcaption><b>4234+4240</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=118-FFgeetMQMI34uT69APjBCtKenPew0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/118-FFgeetMQMI34uT69APjBCtKenPew0" height="200px"><figcaption><b>4234+4240</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/118-FFgeetMQMI34uT69APjBCtKenPew0" width="100%"></div></div>
 <!--4240-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pEVsdapIb_d-848DIqMp2v3_ARlc29Yi" height="200px"><figcaption><b>4240+4234</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pEVsdapIb_d-848DIqMp2v3_ARlc29Yi" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1pEVsdapIb_d-848DIqMp2v3_ARlc29Yi" height="200px"><figcaption><b>4240+4234</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1pEVsdapIb_d-848DIqMp2v3_ARlc29Yi" width="100%"></div></div>
 <!--4240-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YGVCu_7jZFOb7wmCwj7O6mF0zK_k4qi5" height="200px"><figcaption><b>4240+4234</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YGVCu_7jZFOb7wmCwj7O6mF0zK_k4qi5" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1YGVCu_7jZFOb7wmCwj7O6mF0zK_k4qi5" height="200px"><figcaption><b>4240+4234</b> 📷 Иво Радоев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1YGVCu_7jZFOb7wmCwj7O6mF0zK_k4qi5" width="100%"></div></div>
 
 
 ## TM6
@@ -66,7 +66,7 @@ dateCreated: 2023-05-19T07:09:17.038Z
 {.is-info}
 
 <!--429-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gviJCQjy1pB8a3557GvsglxjYAx6hx75" height="200px"><figcaption><b>429+?</b> 📷 Theo Stolz ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gviJCQjy1pB8a3557GvsglxjYAx6hx75" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1gviJCQjy1pB8a3557GvsglxjYAx6hx75" height="200px"><figcaption><b>429+?</b> 📷 Theo Stolz ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1gviJCQjy1pB8a3557GvsglxjYAx6hx75" width="100%"></div></div>
 
 
 ## Авария
@@ -74,4 +74,4 @@ dateCreated: 2023-05-19T07:09:17.038Z
 {.is-info}
 
 <!--2052-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" height="200px"><figcaption><b>2052+</b> 📷 R. Seelig ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" height="200px"><figcaption><b>2052+</b> 📷 R. Seelig ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" width="100%"></div></div>
