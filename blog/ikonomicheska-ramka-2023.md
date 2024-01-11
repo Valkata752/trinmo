@@ -2,7 +2,7 @@
 title: Защо не бе приета икономическата рамка на транспорта за 2023 г.?
 description: Трансппорт, инфраструктура и мобилност
 published: true
-date: 2023-10-19T10:15:36.353Z
+date: 2024-01-11T10:24:23.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T09:22:14.793Z
@@ -33,8 +33,8 @@ dateCreated: 2023-10-19T09:22:14.793Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1ol7wm0ZENOTH26eTg-ItjRNXQisxWKnz"></td>
-<td><img src="https://drive.google.com/uc?id=1ZryNYq81aY8YedhrEdIadfI4lOcqW7Ml"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1ol7wm0ZENOTH26eTg-ItjRNXQisxWKnz"></td>
+<td><img src="https://lh3.google.com/u/0/d/1ZryNYq81aY8YedhrEdIadfI4lOcqW7Ml"></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/economics-and-society/economic-framework"><b>Проект - 2023 | Приета - 2022 </b></a></td></table></div>
   
 
@@ -70,7 +70,7 @@ dateCreated: 2023-10-19T09:22:14.793Z
   
 ## Юли 2022 (Решение 706 на СОС)
 
-<img src="https://drive.google.com/uc?id=1h8jXUB6VNt6p2MvZMSBmsjkgmzjyCqJy">
+<img src="https://lh3.google.com/u/0/d/1h8jXUB6VNt6p2MvZMSBmsjkgmzjyCqJy">
 
 
 <iframe src="https://drive.google.com/file/d/1sDWKSScs_cPItXq7NFKp3fHrWoP6NkRU/preview" width="100%" height="480"></iframe>
