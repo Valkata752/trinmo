@@ -2,25 +2,25 @@
 title: Нощен градски транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-21T16:16:39.727Z
+date: 2024-01-11T10:25:47.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-24T11:32:45.780Z
 ---
 
 ## 2023
-<img src="https://drive.google.com/uc?id=1Zb2z3tsHZNnCZk-_pZJZZIkIASJTNqL_">
+<img src="https://lh3.google.com/u/0/d/1Zb2z3tsHZNnCZk-_pZJZZIkIASJTNqL_">
 
 ### 23.12.2023
 > [**N3**](/bg/public-transport/bus-routes-1968-sega/N3) ж.к. Овча купел 2 - ж.к. Левски Г обслужвана от АП-1 Земляне
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1z2As2uM30poB--jlh4xo846JOGi-fMvi">
+<img src="https://lh3.google.com/u/0/d/1z2As2uM30poB--jlh4xo846JOGi-fMvi">
 
 > [**N4**](/bg/public-transport/bus-routes-1968-sega/N4) ж.к. Гоце Делчев - ж.к. Дружба 2 обслужвана от АП-3 Дружба
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1kg0NmaSdnw0S-p6sHGiDmF8xuWH_iHq9">
+<img src="https://lh3.google.com/u/0/d/1kg0NmaSdnw0S-p6sHGiDmF8xuWH_iHq9">
 
 ### 01.11.2023
 > [**N1**](/bg/public-transport/bus-routes-1968-sega/N1) ж.к. Люлин 1,2 - ж.к. Младост 4 обслужвана от АП-2 Малашевци
@@ -28,7 +28,7 @@ dateCreated: 2023-07-24T11:32:45.780Z
 > [**N2**](/bg/public-transport/bus-routes-1968-sega/N2) ж.к. Обеля 2 - Студентски град обслужвана от АП-2 Малашевци
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG">
+<img src="https://lh3.google.com/u/0/d/1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG">
 
 
 
@@ -44,7 +44,7 @@ dateCreated: 2023-07-24T11:32:45.780Z
 > [**N4**](/bg/public-transport/bus-routes-1968-sega/N4) ж.к. Гоце Делчев - ж.к. Дружба 2  обслужвана от АП-3 Дружба
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1VXjMjJVSOfFhDuUdIXI30uSsaiDBDGEv" width="100%">
+<img src="https://lh3.google.com/u/0/d/1VXjMjJVSOfFhDuUdIXI30uSsaiDBDGEv" width="100%">
 
 До 31.12.2018 год., се организира транспортно обслужване на Столицата за времето от 00:00 до 04:00 часа (нощно движение) по 4 автобусни маршрута със следните параметри:
 
