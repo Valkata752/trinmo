@@ -2,7 +2,7 @@
 title: Защо в Германия има фалишиви спирки?
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-19T15:17:34.292Z
+date: 2024-01-11T10:26:12.007Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T15:10:19.773Z
@@ -14,7 +14,7 @@ dateCreated: 2023-06-19T15:10:19.773Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1w1vtEJpNulScWX9KSxxPMacsdkSPI5D1"></td>
+    <td style="width:400px"><img src="https://lh3.google.com/u/0/d/1w1vtEJpNulScWX9KSxxPMacsdkSPI5D1"></td>
     <td><b>Често хората, страдащи от деменция или болест на Алцхаймер, живеят в миналото</b><br>Попадайки в болница или дом за стари хора, те се опитват да избягат. Спирката се оказва тяхното спасение – само трябва да отидат под навеса и да изчакат следващия автобус за вкъщи. Но един истински автобус би ги закарал в неизвестна посока, а откриването на изгубил се стар човек в големия град е доста трудна задача. </td>
   </tr>
   <td colspan=2 >ℹ️ https://de.wikipedia.org/wiki/Scheinbushaltestelle ⭐</td>
