@@ -2,13 +2,13 @@
 title: Трамвай по бул. Драган Цанков
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-17T16:44:21.753Z
+date: 2024-01-11T10:30:30.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-16T12:57:34.137Z
 ---
 
-  <img src="https://drive.google.com/uc?id=1zriL-tULDSUaiA_9Y7HOtmyBuOv_Xjc-">
+  <img src="https://lh3.google.com/u/0/d/1zriL-tULDSUaiA_9Y7HOtmyBuOv_Xjc-">
   
   
 Днес единственото място по бул. „Драган Цанков“, на което минава трамвай, е в началото му при Строителния техникум. Дълги години такъв преминава и между ТВ кулата и бул. „Д-р Г. М. Димитров“. Трамвай е трябвало да преминава по цялата му дължина, ако изграденият за това тунел е бил използван по първоначалното си предназначение…
@@ -21,11 +21,11 @@ dateCreated: 2023-11-16T12:57:34.137Z
 ## Какво се е реализирало
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1jlzTnwe1UOSG7B4qgwOHQfNtkPFLd_a0"></td>
+<td><img src="https://lh3.google.com/u/0/d/1jlzTnwe1UOSG7B4qgwOHQfNtkPFLd_a0"></td>
 <td>Реулационен план от 1967 – обръщателно колело при КАТ </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
-  <img src="https://drive.google.com/uc?id=1TRkoQEIsdfbTXfAPwjwYDUrKl1Vf3-h_">
+  <img src="https://lh3.google.com/u/0/d/1TRkoQEIsdfbTXfAPwjwYDUrKl1Vf3-h_">
    
   
 - Изграждане на тунела
@@ -38,8 +38,8 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 ### От вестниците
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1v4J23JseJO5nql03kPui_W10MBENSBO6"></td>
-<td><img src="https://drive.google.com/uc?id=1t7xyG5LdMM7yysMkk9N_N4IlG3Hn11YT">
+<td><img src="https://lh3.google.com/u/0/d/1v4J23JseJO5nql03kPui_W10MBENSBO6"></td>
+<td><img src="https://lh3.google.com/u/0/d/1t7xyG5LdMM7yysMkk9N_N4IlG3Hn11YT">
  </tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/vecherni-novini-1985"><b>Вечерни новини брой 259 - 1985.11.05</b></a></td></table></div>
   
@@ -51,7 +51,7 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 ### 1980 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1hd4P-TsmmMhB5BF1eJcujTBAlyRU5imm"></td>
+<td><img src="https://lh3.google.com/u/0/d/1hd4P-TsmmMhB5BF1eJcujTBAlyRU5imm"></td>
 <td>В ПУП-ЗРП на м. “Лозенец” се предвижда премахване на трамвайното трасе по ул. „Граф Игнатиев“ и на юг по бул. „Христо Смирненски“, пл. „Журналист“, Семинарията, бул. „Джеймс Баучер“, към ТВ кула... В този план това не е отразено, но вероятно трасетата е трябвало да бъдат заменени с подпаважния трамвай в тунела под Борисовата градина и под ул. „Гурко“. На кръстовището на бул. „Евлоги и Христо Георгиеви“ и „Драган Цанков“ е планирано вкарването на пешеходното пресичане под земята, подобно на бул. „Васил Левски“ и ул. „Гурко“, както и на други кръстовища в града по това време. Бул. „Драган Цанков“ е трябвало да бъде разширен и да бъде с две платна за движение. </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
@@ -59,14 +59,14 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 ### 1995 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1XdHzNlGbGlNtF33N2jmpTl1lgxwxdN9i"></td>
+<td><img src="https://lh3.google.com/u/0/d/1XdHzNlGbGlNtF33N2jmpTl1lgxwxdN9i"></td>
 <td>В ПУП, приет през тази година, проектът е изменен и трамвайното движение е трябвало да излиза от тунела над земята между двете платна на бул. „Драган Цанков“ и да се свързва със съществуващото трасе по ул. „Граф Игнатиев“. Тази регулация е запазена и в действащия до днес план, както можете да видите в iSofMap.
 Интересно е, че има различия между плана за регулация и този за застрояване – в този за застрояване, въпреки че е приет с този за регулация, липсва изходът на трамвайния тунел. Предвиденият пешеходен подлез на кръстовището на бул. „Драган Цанков“ и ул. „Кирил Видински“ е запазен, но в двата плана е показан в различна конфигурация на изходите. </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
   
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=18ZhZTUEaWEXchSaU4vghAyjBOKJEsmpx"></td>
+<td><img src="https://lh3.google.com/u/0/d/18ZhZTUEaWEXchSaU4vghAyjBOKJEsmpx"></td>
 <td>В ПУП-ЗП на „ЦГЧ зона Г“ от неизвестна година, трамвайното трасе от ул. „Граф Игнатиев“ напред по „Драган Цанков“ е само загатнато.
 Изход на тунела при Интерпред
 В планове от края на 80-те и началото на 90-те могат да се проследят идеите за трасето по бул. „Драган Цанков“ при изхода на тунела от другата му страна – при Интерпред и Руското посолство. Изходът на тунела над земята е трябвало да бъде на мястото на настоящата метростанция „Ф. Ж. Кюри“ – между руското посолство и Интерпред.
@@ -77,13 +77,13 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 ###  1989 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1S86OGDvMtoDN-CXKx-l_D8IBXaHV4mpJ"></td>
+<td><img src="https://lh3.google.com/u/0/d/1S86OGDvMtoDN-CXKx-l_D8IBXaHV4mpJ"></td>
 <td>Изходът на тунела е по-близо до Руското посолство и не се предвижда промяна в профила на надлез „Дървеница“ – трамваите ще се движат в югозападната му част.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
   
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=
+<td><img src="https://lh3.google.com/u/0/d/
 1RBRTQst2ATBcR2ZrIZUxnoe32J6BPxBa
 "></td>
 <td>От другата страна на надлез „Дървеница“ се е предвиждало разширяване на обръщалото при КАТ –София с възможност за обръщане на посоката на движение както обратно към центъра, така и на юг към Младост, Дървеница и Симеоново. </tr>
@@ -94,7 +94,7 @@ dateCreated: 2023-11-16T12:57:34.137Z
 
 ### 1992 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1z8dI0kom-z6T6mzIxinrJHiVEJLBD20i"></td>
+<td><img src="https://lh3.google.com/u/0/d/1z8dI0kom-z6T6mzIxinrJHiVEJLBD20i"></td>
 <td>В план от 1992 г. има промяна в планираното за разположението на трамвайното трасе – то се измества по средата на надлез „Дървеница“ между двете автомобилни платна. Мястото на изхода от тунела се запазва. </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
   
