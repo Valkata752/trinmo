@@ -2,7 +2,7 @@
 title: Разчитане на VIN номера
 description: Транспорт, инфраструткура и мобилност
 published: true
-date: 2023-09-07T13:25:27.679Z
+date: 2024-01-11T10:25:07.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T13:12:49.191Z
@@ -40,7 +40,7 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
   
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1JiVJYWmBvcd79Zu83EWqKtkX2YuC-2j4"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1JiVJYWmBvcd79Zu83EWqKtkX2YuC-2j4"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div> 
 
  
@@ -52,7 +52,7 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 
  <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1P-sloLaYJ2i1F9ef3E636Pj52pAfl5aV"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1P-sloLaYJ2i1F9ef3E636Pj52pAfl5aV"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
 
@@ -60,7 +60,7 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1cNbJjHzB9Rw12ZA7JViJED_sxZguw5n2"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1cNbJjHzB9Rw12ZA7JViJED_sxZguw5n2"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
   
 ## Чехия
@@ -69,13 +69,13 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 ### Skoda 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1mEYOQpVR2j1vEWwD1YRAHcS0MDwmKRJF"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1mEYOQpVR2j1vEWwD1YRAHcS0MDwmKRJF"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>    
   
 ### Tedom 
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1_v98dSSXujbupuiZO12-kUPEb1VR2pxh"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
   ## Унагрия
@@ -85,7 +85,7 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
 #### Solaris
   <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1hSFX7-kGXInoBJEuheRl8sIWPhAiMBAB"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1hSFX7-kGXInoBJEuheRl8sIWPhAiMBAB"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
 
 
@@ -99,5 +99,5 @@ VIS 10-17 (Vehicle Identification Section) – отличителна (иден�
     
  <div class="table-responsive"><table style="width:100%"><tr>
 <td><span> ВИН номер</span><br></td>
-<td><img src="https://drive.google.com/uc?id=1LXP_kOIxWmgXwf53G25KY63RcRT3gp2C"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/1LXP_kOIxWmgXwf53G25KY63RcRT3gp2C"></td></tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>  
