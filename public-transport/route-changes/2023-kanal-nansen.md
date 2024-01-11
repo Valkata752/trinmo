@@ -2,7 +2,7 @@
 title: Реконструкция на уличен канал по ул. Фритьоф Нансен
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-13T21:24:12.721Z
+date: 2024-01-11T10:22:30.361Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-11T08:25:08.223Z
@@ -20,7 +20,7 @@ dateCreated: 2023-07-11T08:25:08.223Z
 
 Автобусите ще спират на всички съществуващи автобусни и тролейбусни спирки в променения участък на маршрута с изключение на спирка с код 2601 „Ул. Ген. Гурко“ на ул. „Ген. Гурко“ – крайна за електробусни линии № 84 и 184.
 
-<img src="https://drive.google.com/uc?id=1K0iPBFKTgAZCIZttvKtIvpIGzYPVdZv8">
+<img src="https://lh3.google.com/u/0/d/1K0iPBFKTgAZCIZttvKtIvpIGzYPVdZv8">
 
 ### 03.07.2023 - промяна спирка (ЦГМ-2395)
 
@@ -38,4 +38,4 @@ dateCreated: 2023-07-11T08:25:08.223Z
 с код 2330 „Хотел Хемус“ на бул. „Черни връх“ за автобусна линия № 94.
 
 
-<img src="https://drive.google.com/uc?id=1pJmet0cJLVMboOnRZOzEbNns4b10nBbl">
+<img src="https://lh3.google.com/u/0/d/1pJmet0cJLVMboOnRZOzEbNns4b10nBbl">
