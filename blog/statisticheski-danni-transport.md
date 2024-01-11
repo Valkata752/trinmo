@@ -2,7 +2,7 @@
 title: Статистически данни за транспорта от 1931 г. до 1947 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T10:22:58.946Z
+date: 2024-01-11T10:24:08.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T09:29:20.600Z
@@ -16,15 +16,15 @@ dateCreated: 2023-12-24T09:29:20.600Z
 ## Tabs {.tabset}
 
 ### кн. 1-2
-<img src="https://drive.google.com/uc?id=1axZPS3I9ol_Dgam2h5KZHc1dvR5ij_fZ">
+<img src="https://lh3.google.com/u/0/d/1axZPS3I9ol_Dgam2h5KZHc1dvR5ij_fZ">
 
 
 ### кн. 3-4
-<img src="https://drive.google.com/uc?id=1Pw0s1go9lKQruEWL6-F_IrzpEF2tT-vD">
+<img src="https://lh3.google.com/u/0/d/1Pw0s1go9lKQruEWL6-F_IrzpEF2tT-vD">
 
 
 ### кн. 5-6
-<img src="https://drive.google.com/uc?id=1rY8dXGYIzRk89bK8Ls1P7U9LCRjKL4DT">
+<img src="https://lh3.google.com/u/0/d/1rY8dXGYIzRk89bK8Ls1P7U9LCRjKL4DT">
 
 
 ## 1946
@@ -32,24 +32,24 @@ dateCreated: 2023-12-24T09:29:20.600Z
 ## Tabs {.tabset}
 
 ### кн. 1-2
-<img src="https://drive.google.com/uc?id=1vPmqU4ZOo_xsvPDI21t-aiqZGGGeja8n">
+<img src="https://lh3.google.com/u/0/d/1vPmqU4ZOo_xsvPDI21t-aiqZGGGeja8n">
 
 ### кн. 3-4
-<img src="https://drive.google.com/uc?id=190968w1YztJgfy6R1H-5h-aKXpebzFxX">
+<img src="https://lh3.google.com/u/0/d/190968w1YztJgfy6R1H-5h-aKXpebzFxX">
 
 
 ### кн. 7-12
-<img src="https://drive.google.com/uc?id=1pSMiyjOntcGglldizN_55IvXumoyEVS1">
+<img src="https://lh3.google.com/u/0/d/1pSMiyjOntcGglldizN_55IvXumoyEVS1">
 
 
 ## 1945
 ## Tabs {.tabset}
 
 ### кн. 1-2
-<img src="https://drive.google.com/uc?id=1wj_WQMoToQW495h_fHMK7peNctVMXqMu">
+<img src="https://lh3.google.com/u/0/d/1wj_WQMoToQW495h_fHMK7peNctVMXqMu">
 
 ### кн. 3-4
-<img src="https://drive.google.com/uc?id=1FqeP5AJPXY-WQNjai29Ps__-uMdjXBBW">
+<img src="https://lh3.google.com/u/0/d/1FqeP5AJPXY-WQNjai29Ps__-uMdjXBBW">
 
 
 
@@ -57,31 +57,31 @@ dateCreated: 2023-12-24T09:29:20.600Z
 ## Tabs {.tabset}
 
 ### кн. 1-2
-<img src="https://drive.google.com/uc?id=18hAa8fqPNso0XXa-itoMh6MuT80iTgoD">
+<img src="https://lh3.google.com/u/0/d/18hAa8fqPNso0XXa-itoMh6MuT80iTgoD">
 
 
 ## 1942
 ## Tabs {.tabset}
 
 ### кн. 1
-<img src="https://drive.google.com/uc?id=16GP6a9Kxt6uJdneOebcZCoqCwL1IiTjw">
+<img src="https://lh3.google.com/u/0/d/16GP6a9Kxt6uJdneOebcZCoqCwL1IiTjw">
 
 ### кн. 3-4
 Статистически данни - общински трамваи и автобуси
 
 
-<img src="https://drive.google.com/uc?id=12Gxi9uM-kTPvZt4P4X98WV7hcHlrRoqZ">
+<img src="https://lh3.google.com/u/0/d/12Gxi9uM-kTPvZt4P4X98WV7hcHlrRoqZ">
 
 ### кн. 506
-<img src="https://drive.google.com/uc?id=1IJEFXPEsstntC4ELnI5ahRQnHw6lXBPh">
+<img src="https://lh3.google.com/u/0/d/1IJEFXPEsstntC4ELnI5ahRQnHw6lXBPh">
 
 
 ### кн. 7-8
-<img src="https://drive.google.com/uc?id=10DSHdEScTqRbdDKdvtrMvDmbmHLtHM_8">
+<img src="https://lh3.google.com/u/0/d/10DSHdEScTqRbdDKdvtrMvDmbmHLtHM_8">
 
 
 ### кн. 9-10
-<img src="https://drive.google.com/uc?id=1ZTbDMU7fpSxYj6gxYtlAcey8QPZeKGhV">
+<img src="https://lh3.google.com/u/0/d/1ZTbDMU7fpSxYj6gxYtlAcey8QPZeKGhV">
 
 
 
@@ -89,95 +89,95 @@ dateCreated: 2023-12-24T09:29:20.600Z
 ## Tabs {.tabset}
 
 ### кн. 1
-<img src="https://drive.google.com/uc?id=1oRQbTVOFZ9xIKMluReIHuyMp4aMTkHh8">
+<img src="https://lh3.google.com/u/0/d/1oRQbTVOFZ9xIKMluReIHuyMp4aMTkHh8">
 
 
 ### кн. 2-3
-<img src="https://drive.google.com/uc?id=1c0Vm3nCVgPeyKkLoHQKwv-TKpoa46DYo">
+<img src="https://lh3.google.com/u/0/d/1c0Vm3nCVgPeyKkLoHQKwv-TKpoa46DYo">
 
 
 
 ### кн. 4
-<img src="https://drive.google.com/uc?id=138XUQvrcfcwcA2JLO4nyhRHuSqOhP1Jd">
+<img src="https://lh3.google.com/u/0/d/138XUQvrcfcwcA2JLO4nyhRHuSqOhP1Jd">
 
 
 ### кн. 5
-<img src="https://drive.google.com/uc?id=1rdQq1RuG6nH7ynl7hx54JcDavI4CTFY3">
+<img src="https://lh3.google.com/u/0/d/1rdQq1RuG6nH7ynl7hx54JcDavI4CTFY3">
 
 
 ### кн. 6
-<img src="https://drive.google.com/uc?id=1_PVR_-wHJuvOyY_MstaCKaW9rZyX4R_G">
+<img src="https://lh3.google.com/u/0/d/1_PVR_-wHJuvOyY_MstaCKaW9rZyX4R_G">
 
 
 ### кн. 7
-<img src="https://drive.google.com/uc?id=17faxjhByZL98VRKkDmFfeETMoLUai5bJ">
+<img src="https://lh3.google.com/u/0/d/17faxjhByZL98VRKkDmFfeETMoLUai5bJ">
 
 
 ### кн. 8
-<img src="https://drive.google.com/uc?id=1luQpaWEKdASjfgnbZpgUAQmHZLT1eA3N">
+<img src="https://lh3.google.com/u/0/d/1luQpaWEKdASjfgnbZpgUAQmHZLT1eA3N">
 
 
 ### кн. 9-10
-<img src="https://drive.google.com/uc?id=1dvu_NHpaVziOQp79i8USWHCpt5YYcf0P">
+<img src="https://lh3.google.com/u/0/d/1dvu_NHpaVziOQp79i8USWHCpt5YYcf0P">
 
 
 ## 1940
 ## Tabs {.tabset}
 
 ### кн. 1
-<img src="https://drive.google.com/uc?id=10_4fG7RsmC2Rk10SKgMWp0ZEciPyHrgV">
+<img src="https://lh3.google.com/u/0/d/10_4fG7RsmC2Rk10SKgMWp0ZEciPyHrgV">
 
 ### кн. 2
 
-<img src="https://drive.google.com/uc?id=18qVdu22Waq5PdVOyxIJHFiuLE0yB0nef">
+<img src="https://lh3.google.com/u/0/d/18qVdu22Waq5PdVOyxIJHFiuLE0yB0nef">
 
 ### кн. 4
-<img src="https://drive.google.com/uc?id=1nJtyI-Zjp8L6K4J0IDs3jkfBC1oGKzr4">
+<img src="https://lh3.google.com/u/0/d/1nJtyI-Zjp8L6K4J0IDs3jkfBC1oGKzr4">
 
 ### кн. 6
-<img src="https://drive.google.com/uc?id=1m0ylpwx7IdwnSWmtYBjRHYP1X42yl9Aq">
+<img src="https://lh3.google.com/u/0/d/1m0ylpwx7IdwnSWmtYBjRHYP1X42yl9Aq">
 
 ### кн. 8
-<img src="https://drive.google.com/uc?id=1m0ylpwx7IdwnSWmtYBjRHYP1X42yl9Aq">
+<img src="https://lh3.google.com/u/0/d/1m0ylpwx7IdwnSWmtYBjRHYP1X42yl9Aq">
 
 
 ## 1939
 ## Tabs {.tabset}
 
 ### кн. 1
-<img src="https://drive.google.com/uc?id=1e_7gAsWdXUusLuBi1BCW-uqMEsMV1iBk">
+<img src="https://lh3.google.com/u/0/d/1e_7gAsWdXUusLuBi1BCW-uqMEsMV1iBk">
 
 ### кн. 2
-<img src="https://drive.google.com/uc?id=1QFQh3PzebIIoIr-j1sQCp6XgB3GWT8hN">
+<img src="https://lh3.google.com/u/0/d/1QFQh3PzebIIoIr-j1sQCp6XgB3GWT8hN">
 
 ### кн. 3
-<img src="https://drive.google.com/uc?id=1UEub_b-x3iM-fMj3HBD6TzG_rC2e_dKy">
+<img src="https://lh3.google.com/u/0/d/1UEub_b-x3iM-fMj3HBD6TzG_rC2e_dKy">
 
 ### кн. 4
-<img src="https://drive.google.com/uc?id=1B3mzgjvj-SmLlBpwlDm_ZfimL-IWAulM">
+<img src="https://lh3.google.com/u/0/d/1B3mzgjvj-SmLlBpwlDm_ZfimL-IWAulM">
 
 
 ### кн. 5
-<img src="https://drive.google.com/uc?id=1dLaU4C8AsVU-LVvU9PW3VYM7bDrGtJh8">
+<img src="https://lh3.google.com/u/0/d/1dLaU4C8AsVU-LVvU9PW3VYM7bDrGtJh8">
 
 ### кн. 6
-<img src="https://drive.google.com/uc?id=1I1s11DmOXuALL00zhGSeKyXrLoHuwbg-">
+<img src="https://lh3.google.com/u/0/d/1I1s11DmOXuALL00zhGSeKyXrLoHuwbg-">
 
 
 ### кн. 7
-<img src="https://drive.google.com/uc?id=1_jSAijZb_N_keFbnkr30pHe5jV7wH76d">
+<img src="https://lh3.google.com/u/0/d/1_jSAijZb_N_keFbnkr30pHe5jV7wH76d">
 
 
 ### кн. 8
-<img src="https://drive.google.com/uc?id=1aM3mwN-JAz65qqMzoOG4Azq99S1OHc33">
+<img src="https://lh3.google.com/u/0/d/1aM3mwN-JAz65qqMzoOG4Azq99S1OHc33">
 
 
 
 ### кн. 9
-<img src="https://drive.google.com/uc?id=1eNoyYcN4ZMNNWgG29FtPMUUv3T6XmYso">
+<img src="https://lh3.google.com/u/0/d/1eNoyYcN4ZMNNWgG29FtPMUUv3T6XmYso">
 
 ### кн. 10
-<img src="https://drive.google.com/uc?id=1R-ffcEZxWIZP86t1pYLocunMl15gE_jI">
+<img src="https://lh3.google.com/u/0/d/1R-ffcEZxWIZP86t1pYLocunMl15gE_jI">
 
 
 
@@ -185,68 +185,68 @@ dateCreated: 2023-12-24T09:29:20.600Z
 ## Tabs {.tabset}
 
 ### кн. 1
-<img src="https://drive.google.com/uc?id=1QRHbAvPbHlNDArQZcqTUxFTBODi-b0a2">
+<img src="https://lh3.google.com/u/0/d/1QRHbAvPbHlNDArQZcqTUxFTBODi-b0a2">
 
 ### кн. 2
-<img src="https://drive.google.com/uc?id=15KBhsdKQL2bn53ASurXCRG5_GTKr7_Nj">
+<img src="https://lh3.google.com/u/0/d/15KBhsdKQL2bn53ASurXCRG5_GTKr7_Nj">
 
 ### кн. 3
-<img src="https://drive.google.com/uc?id=1FC2LXqTgbgAI2mD9BCCk69Ajq5-gh24K">
+<img src="https://lh3.google.com/u/0/d/1FC2LXqTgbgAI2mD9BCCk69Ajq5-gh24K">
 
 ### кн. 4
-<img src="https://drive.google.com/uc?id=1w887U8xToC5Z5gDTC7lYtyhluZGfYNkL">
+<img src="https://lh3.google.com/u/0/d/1w887U8xToC5Z5gDTC7lYtyhluZGfYNkL">
 
 
 ### кн. 5
-<img src="https://drive.google.com/uc?id=1UpJNAKCjhgfzPwCSPPcRZxGHANGfE-wy">
+<img src="https://lh3.google.com/u/0/d/1UpJNAKCjhgfzPwCSPPcRZxGHANGfE-wy">
 
 
 ### кн. 6
-<img src="https://drive.google.com/uc?id=1WDuKF9o11YcK5cLjMi934AFC7KIK7uKd">
+<img src="https://lh3.google.com/u/0/d/1WDuKF9o11YcK5cLjMi934AFC7KIK7uKd">
 
 ### кн. 7
-<img src="https://drive.google.com/uc?id=11aCr_4F8gwUnuZrm8tQXy23CA8s1BefK">
+<img src="https://lh3.google.com/u/0/d/11aCr_4F8gwUnuZrm8tQXy23CA8s1BefK">
 
 ### кн. 8
-<img src="https://drive.google.com/uc?id=1m2cqT2rjjpIbGH9ht2WOuyPHv83IEENA">
+<img src="https://lh3.google.com/u/0/d/1m2cqT2rjjpIbGH9ht2WOuyPHv83IEENA">
 
 ### кн. 9
-<img src="https://drive.google.com/uc?id=1R0UBkLulp96t3x8sUmrqfPsPabgnCMZH">
+<img src="https://lh3.google.com/u/0/d/1R0UBkLulp96t3x8sUmrqfPsPabgnCMZH">
 
 ### кн. 10
-<img src="https://drive.google.com/uc?id=1eiikHXAmyBRfCvdF7JlqGa34H_LlFEo0">
+<img src="https://lh3.google.com/u/0/d/1eiikHXAmyBRfCvdF7JlqGa34H_LlFEo0">
 
 ## 1937
 ## Tabs {.tabset}
 
 ### кн. 3
-<img src="https://drive.google.com/uc?id=12ujeAepd7pUpQIQN0lPacV3dvh1ECHZy">
+<img src="https://lh3.google.com/u/0/d/12ujeAepd7pUpQIQN0lPacV3dvh1ECHZy">
 
 ### кн. 4
-<img src="https://drive.google.com/uc?id=1Tqsh-8YAxSUPg4LTGK1lAypfKNYxWCop">
+<img src="https://lh3.google.com/u/0/d/1Tqsh-8YAxSUPg4LTGK1lAypfKNYxWCop">
 
 ### кн. 5
-<img src="https://drive.google.com/uc?id=1ndxyipgGgOq4zdUn-kFE3TJiCN7Q61T5">
+<img src="https://lh3.google.com/u/0/d/1ndxyipgGgOq4zdUn-kFE3TJiCN7Q61T5">
 
 ### кн. 6
-<img src="https://drive.google.com/uc?id=1NTASxgv_EC5QWWMCzxl3o2-wVnZtH2fE">
+<img src="https://lh3.google.com/u/0/d/1NTASxgv_EC5QWWMCzxl3o2-wVnZtH2fE">
 
 ### кн. 7
-<img src="https://drive.google.com/uc?id=1lGpK29HF1EgTI7mWBTVuE4qCtCtBbWCC">
+<img src="https://lh3.google.com/u/0/d/1lGpK29HF1EgTI7mWBTVuE4qCtCtBbWCC">
 
 ### кн. 8
-<img src="https://drive.google.com/uc?id=1hjlv0e3okuL2rcKl5RSOD8ElZjOYNkwF">
+<img src="https://lh3.google.com/u/0/d/1hjlv0e3okuL2rcKl5RSOD8ElZjOYNkwF">
 
 
 ### кн. 9
-<img src="https://drive.google.com/uc?id=1qIl9ry5HOcbaxifGbvg5YndQwUHPaBww">
+<img src="https://lh3.google.com/u/0/d/1qIl9ry5HOcbaxifGbvg5YndQwUHPaBww">
 
 ### кн. 10
-<img src="https://drive.google.com/uc?id=1iN7H2ogJf9CR2Ed-ERFATaEEV6BM-4TO">
+<img src="https://lh3.google.com/u/0/d/1iN7H2ogJf9CR2Ed-ERFATaEEV6BM-4TO">
 
 ## 1931 - 1937
 ## Tabs {.tabset}
 
 ### 1931-1937
-<img src="https://drive.google.com/uc?id=1E-zffT08cMD77CxycJ3N-nC7VZ8JQk3R">
-<img src="https://drive.google.com/uc?id=1WLC4FTs1JpaLE0Fwkw0hpDr1fszrT-6j">
+<img src="https://lh3.google.com/u/0/d/1E-zffT08cMD77CxycJ3N-nC7VZ8JQk3R">
+<img src="https://lh3.google.com/u/0/d/1WLC4FTs1JpaLE0Fwkw0hpDr1fszrT-6j">
