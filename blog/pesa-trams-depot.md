@@ -2,7 +2,7 @@
 title: Защо новите трамваи Песа си стоят в депото
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-01T09:31:39.709Z
+date: 2024-01-11T10:24:31.796Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-01T08:31:59.977Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-01T08:31:59.977Z
 ## Pesa Swing
 <div class="table-responsive"><table style="width:100%"><tr>
 <td>В София има доставени 67 броя <a href="/bg/public-transport/fleet-list/2013-Pesa-122NASF"><b>Pesa-122NASF</b></a><br>От тях към днешна дата излизат само 44 броя, което е недопустимо.</td>
-<td><img src="https://drive.google.com/uc?id=15i-Ymy1xsN1G3UrV6Vckpa0WXZr1JRiu"></td></tr>
+<td><img src="https://lh3.google.com/u/0/d/15i-Ymy1xsN1G3UrV6Vckpa0WXZr1JRiu"></td></tr>
   <td colspan=2 >📷 <a href=""><b></b></a> Милен Ненков</td></table></div>
   
 | брой | Спечелила фирма | Избран модел | Договор или решение | Сума | на брой |
