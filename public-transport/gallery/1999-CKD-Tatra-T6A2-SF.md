@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T11:24:57.571Z
+date: 2024-01-11T10:20:31.152Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T15:42:38.104Z
@@ -22,11 +22,11 @@ dateCreated: 2023-12-15T15:42:38.104Z
 <!--2041+2042--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52609385540_37701d8ffd_k.jpg" height="200px"><figcaption> <b>2041+2042 - TM4</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197172963@N03/52609385540/" target="_blank" title="2041+2042"> <img src="https://live.staticflickr.com/65535/52609385540_37701d8ffd_k.jpg" width="100%"></a></div></div>
 <!--2041--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" height="200px"><figcaption></figcaption><b>tm2041 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" height="200px"><figcaption></figcaption><b>tm2041 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1cIFY0HNqS6Eaxa5vjn5Kjk-lgq3iJoKJ" width="100%"></div></div>
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48985487776" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" width="100%"></a></div></div>
 <!--2041--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2041 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2041 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
 
 <!--2041--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър Мънъри</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/49162447272/" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" width="100%"></a></div></div>
@@ -57,9 +57,9 @@ dateCreated: 2023-12-15T15:42:38.104Z
 <!--2043+2044--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52735055524_ce46b8bbbf_k.jpg" height="200px"><figcaption> <b>2043+2044 - TM4</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52735055524/" target="_blank" title="2043+2044"> <img src="https://live.staticflickr.com/65535/52735055524_ce46b8bbbf_k.jpg" width="100%"></a></div></div>
 <!--2043--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1Yj0PmbtcLOCaFStugJIDDyVV9xjbmPfR" width="100%"></div></div>
 <!--2043--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" height="200px"><figcaption></figcaption><b>tm2043 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1junjGajKHKIfMPoXCVEnjWGFL8LMXPPB" width="100%"></div></div>
 <!--2043--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52626881324_aeddb92224_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52626881324/" target="_blank" title="2043"> <img src="https://live.staticflickr.com/65535/52626881324_aeddb92224_k.jpg" width="100%"></a></div></div>
 
@@ -139,7 +139,7 @@ dateCreated: 2023-12-15T15:42:38.104Z
 ## Tabs {.tabset}
 ### 2051
 <!--2051-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
 <!--2051-->
 <div class="dropdown"><button class="imgbtn"><figure>
   <img src="https://live.staticflickr.com/65535/52179591115_e9d79a6899_b.jpg" height="200px"><figcaption><b>TM19 </b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content">
@@ -149,7 +149,7 @@ dateCreated: 2023-12-15T15:42:38.104Z
 ## Tabs {.tabset}
 ### 2052
 <!--2052-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" height="200px"><figcaption><b>Авария</b> 📷 R. Seelig ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" height="200px"><figcaption><b>Авария</b> 📷 R. Seelig ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1s0Ydfm2qH2o6Klt1MwutDX3LXoAjbqGE" width="100%"></div></div>
 <!--2052+2051--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52651906661_f847fc33b6_k.jpg" height="200px"><figcaption> <b>2052+2051 - TM4</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52651906661/" target="_blank" title="2052+2051"> <img src="https://live.staticflickr.com/65535/52651906661_f847fc33b6_k.jpg" width="100%"></a></div></div>
 
