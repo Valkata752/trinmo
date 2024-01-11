@@ -2,7 +2,7 @@
 title: Международен панаир Пловдив
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T14:33:16.921Z
+date: 2024-01-11T10:29:47.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-22T15:45:51.292Z
@@ -15,7 +15,7 @@ dateCreated: 2023-09-22T15:45:51.292Z
 ## Electric bus E-centro
 Electric bus E-centro, на производителя: Otokar Otomotiv ve Savunma Sanayi A.S. Turkyie - представен от Булавто АД България. Същия спечели златен медал на панаира.
 
-<img src="https://drive.google.com/uc?id=1jBsz1RWQeqoKXEisPowo4uOECAAIx8xq">
+<img src="https://lh3.google.com/u/0/d/1jBsz1RWQeqoKXEisPowo4uOECAAIx8xq">
 
 
 ## SOR EBN12
@@ -31,14 +31,14 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 
 ##  Tabs {.tabset}
 ### Снимка
-<img src="https://drive.google.com/uc?id=1q0HBxcOw-06fX84rRwwcKWZhq0F8ahJb">
+<img src="https://lh3.google.com/u/0/d/1q0HBxcOw-06fX84rRwwcKWZhq0F8ahJb">
 
 ### Технически данни
-<img src="https://drive.google.com/uc?id=1lGOUYtpwtYbApljB2xv48VeS8GazB83k">
+<img src="https://lh3.google.com/u/0/d/1lGOUYtpwtYbApljB2xv48VeS8GazB83k">
 
 
 ### Рекламен банер
-<img src="https://drive.google.com/uc?id=1XlJL1bLVdvKEVTK3rKfuh_52Uz1mHu0p">
+<img src="https://lh3.google.com/u/0/d/1XlJL1bLVdvKEVTK3rKfuh_52Uz1mHu0p">
 
 
 # Truck expo 2022
@@ -47,13 +47,13 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 
 ##  Tabs {.tabset}
 ### Снимка
-<img src="https://drive.google.com/uc?id=1EehohJ2QNy68mVJELO8equjcNSy69q6v">
+<img src="https://lh3.google.com/u/0/d/1EehohJ2QNy68mVJELO8equjcNSy69q6v">
 
 ## Isuzu
 
 ##  Tabs {.tabset}
 ### Снимка
-<img src="https://drive.google.com/uc?id=10R2_aqq-clDrEdhI2S84yueFhrfJBMpP">
+<img src="https://lh3.google.com/u/0/d/10R2_aqq-clDrEdhI2S84yueFhrfJBMpP">
 
 
 
@@ -64,13 +64,13 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 {.is-info}
 
 ## Yutong
-<img src="https://drive.google.com/uc?id=1QwJL4U882lbviZt8Lo3fodagNz2DzlcO">
+<img src="https://lh3.google.com/u/0/d/1QwJL4U882lbviZt8Lo3fodagNz2DzlcO">
 
 
 # Truck expo 2018
 
 ## Otokar
-<img src="https://drive.google.com/uc?id=1Q0YeLaI0gqsmfgDuJUSgtcGREfcCkk0y">
+<img src="https://lh3.google.com/u/0/d/1Q0YeLaI0gqsmfgDuJUSgtcGREfcCkk0y">
 
 
 # Truck expo 2017
@@ -80,9 +80,9 @@ Electric bus E-centro, на производителя: Otokar Otomotiv ve Savun
 
 
 ## Karsan
-<img src="https://drive.google.com/uc?id=1ujG98CYke9Ul8-B4U6-GcyV2XaQSncLR">
+<img src="https://lh3.google.com/u/0/d/1ujG98CYke9Ul8-B4U6-GcyV2XaQSncLR">
 
 ## Isuzu
-<img src="https://drive.google.com/uc?id=1hSQkoJzqLZboFQXdY8Z6cDResgabnhOo">
+<img src="https://lh3.google.com/u/0/d/1hSQkoJzqLZboFQXdY8Z6cDResgabnhOo">
 
 
