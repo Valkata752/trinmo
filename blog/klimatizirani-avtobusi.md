@@ -2,7 +2,7 @@
 title: Защо не се движат всички климатизирани автобуси?
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-22T12:27:44.705Z
+date: 2024-01-11T10:25:57.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-22T11:39:41.802Z
