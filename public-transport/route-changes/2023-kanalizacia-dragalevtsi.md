@@ -2,7 +2,7 @@
 title: Доизграждане на канализация в Драгалевци
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:22:13.301Z
+date: 2024-01-12T10:47:06.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T13:24:49.447Z
@@ -23,7 +23,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 с код 2597 „Ж.к. Водолей“ на бул. „Черни връх“;
 с код 0510 „Гробищен парк Драгалевци“.
 
-<img src="https://lh3.google.com/u/0/d/1A-jG-ObjOPEY9RP_cbvseFGQD7Ykb46J">
+<img src="https://drive.google.com/uc?export=view&id=1A-jG-ObjOPEY9RP_cbvseFGQD7Ykb46J">
 
 ## [2] 13.03.2023 Промяна (ЦГМ-2281)
 
@@ -34,7 +34,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 Автобусите от линии № 64, 66, 68 и 98 ще продължават да спират на съществуващата спирка с код 1457 „Разклона за кв. Драгалевци“ на СОП за автобусни линии № 109 и 111 и на временната спирка с код 6671 „Гробищен парк Драгалевци – временна“ на ул. „Папрат“ след левия завой от ул. „Константин Помянов“ преди ул. „Глухарче“.
 
 
-<img src="https://lh3.google.com/u/0/d/1LLIOcLYekSJMsRXEHm5HXzCXN1OIP01d">
+<img src="https://drive.google.com/uc?export=view&id=1LLIOcLYekSJMsRXEHm5HXzCXN1OIP01d">
 
 ### [2.1] 10.04.2023 удължаване (ЦГМ-2308)
 До 31.05.2023 г. включително маршрутите на автобусни линии № 64, 66, 68 и 98 в посока Зоопарка остават променени
@@ -58,7 +58,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 
 За автобусни линии № 64, 66, 68 и 98 се разкрива временна спиркас код 6689 „Гробищен парк Драгалевци-временна“ на ул. „Цветарска“ след кръстовището с ул. „Лешникова гора“ .
 
-<img src="https://lh3.google.com/u/0/d/1yZxJ49m1LuH6hQzeOny6KZEpburUyG2v">
+<img src="https://drive.google.com/uc?export=view&id=1yZxJ49m1LuH6hQzeOny6KZEpburUyG2v">
 
 
 ### [3.1] 26.06.2023 удължаване (ЦГМ-2376)
@@ -98,7 +98,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 
 За автобусни линии № 64, 66, 68 и 98 се разкрива временна спирка с код 6695 „Гробищен парк Драгалевци-временна“ на бул. „Черни връх“ преди десния завой към ул. „Лешникова гора“. Спирката е сигнализирана с временен знак.
 
-<img src="https://lh3.google.com/u/0/d/1wDOPYU8Z7NjdgP6dbLrywrzwaM1iSqwx">
+<img src="https://drive.google.com/uc?export=view&id=1wDOPYU8Z7NjdgP6dbLrywrzwaM1iSqwx">
 
 ## [5] 04.09.2023 Промяна (ЦГМ-2452)
 
@@ -112,7 +112,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 
 В променения участък автобусите от линии № 64, 66, 68 и 98 спират на спирка с код 0509 „Гробищен парк Драгалевци“ след десния завой от ул. „Константин Помянов“ в посока ул. „Лешникова гора“.
 
-<img src="https://lh3.google.com/u/0/d/1YwbvuVpnUp1zRt2zWnE_flP7wmXQBMEt">
+<img src="https://drive.google.com/uc?export=view&id=1YwbvuVpnUp1zRt2zWnE_flP7wmXQBMEt">
 
 
 ## [6] 11.09.2023 Промяна (ЦГМ-2461)
@@ -130,7 +130,7 @@ dateCreated: 2023-04-07T13:24:49.447Z
 с код 6694 „Гробищен парк Драгалевци-временна“ на бул. „Черни връх“  след ул. „Лешникова гора“ в посока Зоопарка
 с код 6695 „Гробищен парк Драгалевци-временна“ на бул. „Черни връх“ преди ул. „Лешникова гора“ в посока изход от София
 
-<img src="https://lh3.google.com/u/0/d/1cbb-SXqJF0s-YxtSpt6MoZrNc3PzzqS_">
+<img src="https://drive.google.com/uc?export=view&id=1cbb-SXqJF0s-YxtSpt6MoZrNc3PzzqS_">
 
 
 ## [7] 14.11.2023 Промяна (ЦГМ-2523)
