@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:12:36.492Z
+date: 2024-01-12T09:58:14.322Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -19,7 +19,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 Първият вестник на Столична общна е почнал да излиза, под име **"Столичен бюлетин"** през 1899 година и е продължил до 1904 - шест години. През 1915 година е възобновен с ие **"Софийски общински вестник"** до 1917 г. и спира в своята четвърта годишнина. През 1925 година е възобновен с име **"Столичен общински вестник"** с една годишнина и възобновен със същото име през 1927 година.
 
 ## сп. София (1953-1991)
-<img src="https://lh3.google.com/u/0/d/1ASnmUMV-0IBrh5gI4kX3xWAtPbW0oUjN">
+<img src="https://drive.google.com/uc?export=view&id=1ASnmUMV-0IBrh5gI4kX3xWAtPbW0oUjN">
 
 ## Tabs {.tabset}
 
@@ -197,7 +197,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 ## сп. Сердика (1937-1952)
-<img src="https://lh3.google.com/u/0/d/1eLWxB_8sLpknYx-VTX4GLQO5pX_JiPMj">
+<img src="https://drive.google.com/uc?export=view&id=1eLWxB_8sLpknYx-VTX4GLQO5pX_JiPMj">
 
 ## Tabs {.tabset}
 
@@ -398,7 +398,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ## Столичен общински вестник (1925 - 1936)
 
-<img src="https://lh3.google.com/u/0/d/1eF7dwKdPDskIF9wA4P6oJC5D9MF0p6td">
+<img src="https://drive.google.com/uc?export=view&id=1eF7dwKdPDskIF9wA4P6oJC5D9MF0p6td">
 
 
 ## Tabs {.tabset}
@@ -673,7 +673,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ## Софийски общински вестник (1914-1918)
 
-<img src="https://lh3.google.com/u/0/d/1eFsHSohl_0qmzj5DkdueN61v7KQL_MCM">
+<img src="https://drive.google.com/uc?export=view&id=1eFsHSohl_0qmzj5DkdueN61v7KQL_MCM">
 
 ## Tabs {.tabset}
 
@@ -1159,35 +1159,35 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## 1964
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8"></td>
 <td>Указател - 1964</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1978
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9"></td>
 <td>Пътеводител - 1978</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1981
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1INyd34jukzsGhTqRYTgjm0wjheiTvX4y"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1INyd34jukzsGhTqRYTgjm0wjheiTvX4y"></td>
 <td>Справочник - 1981</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1983
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I"></td>
 <td>Справочник - 1983</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
 
 ## 1935
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/11NQx9UQZx3QMo2tdOEwA9vR5-n4_n9IK"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=11NQx9UQZx3QMo2tdOEwA9vR5-n4_n9IK"></td>
 <td>Пътеводител - 1935</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1935-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
@@ -1195,7 +1195,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## 1910
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1mkB9GPe_Ddc27ouQVRhJyQLX2CEjeE-s"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1mkB9GPe_Ddc27ouQVRhJyQLX2CEjeE-s"></td>
 <td>Пътеводител - 1910</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1910-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
@@ -1252,7 +1252,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 "Софийското метро" е любителско издание, насочено към феновете на метрото и транспортните ентусиасти. В него се публикува актуална и интересна информация, свързана със столичното метро и метрополитените по света. Изданието не е обвързано по никакъв начин с "Метрополитен" ЕАД. 
 <!--1--> 
-<button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1tnw1Bk9OK9N7u7AExCIwCNHWZ5vFOJGT" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/18oKP5B5riCmNna2KIiDU6f5AvIChzTne" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1VrHrihKdptl928Dc5-U9e2R53Tr6Vkxv" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Lw6vsKES7fOF3M37s9FJ2MJuovtpC5Zn" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1bZWDyOMltXqeXjM8z7QanTyS6AA9WO1H" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1ehATRGNPNdwY_1zB7Rop8b_k_nauUYw0" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1JsoQgIm0ZCem8wyPBSNFmhBwg3urNgj3" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div>
+<button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1tnw1Bk9OK9N7u7AExCIwCNHWZ5vFOJGT" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=18oKP5B5riCmNna2KIiDU6f5AvIChzTne" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1VrHrihKdptl928Dc5-U9e2R53Tr6Vkxv" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Lw6vsKES7fOF3M37s9FJ2MJuovtpC5Zn" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1bZWDyOMltXqeXjM8z7QanTyS6AA9WO1H" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ehATRGNPNdwY_1zB7Rop8b_k_nauUYw0" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1JsoQgIm0ZCem8wyPBSNFmhBwg3urNgj3" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div>
 
 # Чуждестранна литература
 
