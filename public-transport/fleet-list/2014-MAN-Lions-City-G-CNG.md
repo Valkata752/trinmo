@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T20:52:58.001Z
+date: 2024-01-12T20:58:46.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:06:00.604Z
