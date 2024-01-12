@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2018
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-01T00:04:14.471Z
+date: 2024-01-12T21:38:58.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T22:42:17.406Z
@@ -229,7 +229,7 @@ dateCreated: 2023-02-28T22:42:17.406Z
 ## Tabs {.tabset}
 ### 2**
 <!--3158--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53184851222_2d8a460644_k.jpg" height="200px"><figcaption><b>A204</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/198506535@N07/53184851222/" target="_blank" title="3158"> <img src="https://live.staticflickr.com/65535/53184851222_2d8a460644_k.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53276564737_52fec4593c_o.jpg" height="200px"><figcaption><b>A204</b> 📷 Калоян Петров</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/195267478@N08/53276564737/" target="_blank" title="3158"> <img src="https://live.staticflickr.com/65535/53276564737_52fec4593c_o.jpg" width="100%"></a></div></div>
 
 <!--3141--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/53136080974_d759e5b6fa_k.jpg" height="200px"><figcaption><b>A213</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/53136080974/" target="_blank" title="3141"> <img src="https://live.staticflickr.com/65535/53136080974_d759e5b6fa_k.jpg" width="100%"></a></div></div>
