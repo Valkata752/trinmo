@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T21:11:49.608Z
+date: 2024-01-12T21:14:07.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:06:00.604Z
@@ -301,6 +301,8 @@ dateCreated: 2022-05-19T21:06:00.604Z
 
 ## Tabs {.tabset}
 ### 1*
+<!--3127--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52604713202_43e6bd8157_o.jpg" height="200px"><figcaption> <b>А14</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52604713202/" target="_blank" title="3127"> <img src="https://live.staticflickr.com/65535/52604713202_43e6bd8157_o.jpg" width="100%"></a></div></div>
 
 ## Tabs {.tabset}
 ### 2*
