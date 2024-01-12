@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2019
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T09:55:28.012Z
+date: 2024-01-12T09:32:55.833Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T12:31:50.894Z
@@ -21,24 +21,24 @@ dateCreated: 2024-01-01T12:31:50.894Z
 
 
 <!--1161--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1dDlwrVpslkB57VssES2o14EXcPQkzzc8" height="200px"><figcaption></figcaption><b>a1161 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1dDlwrVpslkB57VssES2o14EXcPQkzzc8" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1dDlwrVpslkB57VssES2o14EXcPQkzzc8" height="200px"><figcaption></figcaption><b>a1161 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1dDlwrVpslkB57VssES2o14EXcPQkzzc8" width="100%"></div></div>
 
 ## Mercedes Intouro
 ## Tabs {.tabset}
 ### 
 
 <!--1303--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" height="200px"><figcaption></figcaption><b>a1303 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" height="200px"><figcaption></figcaption><b>a1303 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" width="100%"></div></div>
 
 <!--1306--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" height="200px"><figcaption></figcaption><b>a1306 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" height="200px"><figcaption></figcaption><b>a1306 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" width="100%"></div></div>
 
 <!--1306--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" height="200px"><figcaption></figcaption><b>a1306 line66</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" height="200px"><figcaption></figcaption><b>a1306 line66</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" width="100%"></div></div>
 
 ## BMC Procity
 ## Tabs {.tabset}
 ### 
 
 <!--1401--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" height="200px"><figcaption></figcaption><b>a1401 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" height="200px"><figcaption></figcaption><b>a1401 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" width="100%"></div></div>
