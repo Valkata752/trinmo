@@ -2,7 +2,7 @@
 title: Фотограф: H E C Piercy
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:07:20.675Z
+date: 2024-01-12T07:10:19.759Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:47:00.001Z
@@ -18,28 +18,28 @@ dateCreated: 2023-11-20T13:47:00.001Z
 ###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1jg-P2vuuXMRw9QLKfT_HzmcHFGDBztMM"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1jg-P2vuuXMRw9QLKfT_HzmcHFGDBztMM"></td>
 <td><b>tm34 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1-SDqKKLXlKPA08_rB_sFKEM2qbn5uda4"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1-SDqKKLXlKPA08_rB_sFKEM2qbn5uda4"></td>
 <td><b>tm49</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj"></td>
 <td><b>tm72+422 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj"></td>
 <td><b>tm80 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
@@ -48,14 +48,14 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn"></td>
 <td><b>tm112</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1929-Nivelle-ASEA">Nivelle-ASEA (106-115)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g"></td>
 <td><b>tm112</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1929-Nivelle-ASEA">Nivelle-ASEA (106-115)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
@@ -63,7 +63,7 @@ dateCreated: 2023-11-20T13:47:00.001Z
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/11avFl9aqsGhCgkh3sDygx67ehfKx83Qb"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=11avFl9aqsGhCgkh3sDygx67ehfKx83Qb"></td>
 <td><b>tm463 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-431-479">ДТО Ремаркета серия № 431/479
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
@@ -71,7 +71,7 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1mycUs4D7rQkUt-pwf9Jkps2462mPlE2w"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1mycUs4D7rQkUt-pwf9Jkps2462mPlE2w"></td>
 <td><b>tm709</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
@@ -79,14 +79,14 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1hK7RT1L24Xg2fibUn0D4Tovzaz0yz8A8"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1hK7RT1L24Xg2fibUn0D4Tovzaz0yz8A8"></td>
 <td><b>tm927 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/13Ec1dEBYJFAKoTp2H8DerZ9q6IX2yCkG"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=13Ec1dEBYJFAKoTp2H8DerZ9q6IX2yCkG"></td>
 <td><b>tm9XX</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
