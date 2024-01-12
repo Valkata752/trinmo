@@ -2,7 +2,7 @@
 title: Строителство на метро в Левски
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:22:18.919Z
+date: 2024-01-12T10:46:59.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T07:13:38.589Z
@@ -32,7 +32,7 @@ dateCreated: 2023-08-17T07:13:38.589Z
 За маршрутите на автобусни линии № 78 и 120 се закриват спирки с кодове 0179 и 0181 „Бл. 28 ж.к. Левски-Г“.
 
 
-<br><img src="https://lh3.google.com/u/0/d/1tVS9EhpdvIHL8QDqInu72c-iOrfDfJBS">
+<br><img src="https://drive.google.com/uc?export=view&id=1tVS9EhpdvIHL8QDqInu72c-iOrfDfJBS">
 
 
 
@@ -94,7 +94,7 @@ dateCreated: 2023-08-17T07:13:38.589Z
 Спирка с код 1753 „Ул. Витиня“ за автобусна линия № 78 и за тролейбусни линии№ 1 и 3 се измества с 15.00 метра назад от съществуващото си местоположение (спирката остава ситуирана между източното и западното пътни платна на ул. „Витиня“). 
 
 
-<br><img src="https://lh3.google.com/u/0/d/1CWfplFF__SWopVn9rqRXRFXy-9GoYw2i">
+<br><img src="https://drive.google.com/uc?export=view&id=1CWfplFF__SWopVn9rqRXRFXy-9GoYw2i">
 
 
 ### [3.1] 03.10.2022 - удължаване (ЦГМ-2194)
@@ -183,7 +183,7 @@ dateCreated: 2023-08-17T07:13:38.589Z
 с код 1825 „Ул. Ангел войвода“ на ул. „Васил Кънчев“ за автобусна линия № 90 в посока АТ Малашевци
 с код 2154 „Ул. Резбарска“ на ул. „Васил Кънчев“ за автобусна линия № 90 в посока АТ Малашевци
 
-<img src="https://lh3.google.com/u/0/d/1eleZDVv5yBXeFxDCRghVTxdrHhMYhOjA">
+<img src="https://drive.google.com/uc?export=view&id=1eleZDVv5yBXeFxDCRghVTxdrHhMYhOjA">
 
 
 ### [6.1] 14.09.2023 - удължаване (ЦГМ-2467)
