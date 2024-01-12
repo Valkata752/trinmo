@@ -2,7 +2,7 @@
 title: Фотограф -  Alex Krakowsky
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T09:59:23.468Z
+date: 2024-01-12T09:26:31.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:15:17.091Z
@@ -12,14 +12,14 @@ dateCreated: 2023-11-12T11:15:17.091Z
 ## Tabs {.tabset}
 ###
 <!--2618--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" height="200px"><figcaption></figcaption>2618</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" height="200px"><figcaption></figcaption>2618</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1vSkB9F1RZw0lNztWm7SCQGDi4e-PMGMJ" width="100%"></div></div>
 <!--124--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1D5KMgBngoy9NC_c0ZJskpArI9r3t2TqZ" height="200px"><figcaption></figcaption>124</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1D5KMgBngoy9NC_c0ZJskpArI9r3t2TqZ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1D5KMgBngoy9NC_c0ZJskpArI9r3t2TqZ" height="200px"><figcaption></figcaption>124</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1D5KMgBngoy9NC_c0ZJskpArI9r3t2TqZ" width="100%"></div></div>
 <!--136--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/17tMf6QwVbkUsdQuTihpPYLlDRur-k9Hl" height="200px"><figcaption></figcaption>136</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/17tMf6QwVbkUsdQuTihpPYLlDRur-k9Hl" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=17tMf6QwVbkUsdQuTihpPYLlDRur-k9Hl" height="200px"><figcaption></figcaption>136</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=17tMf6QwVbkUsdQuTihpPYLlDRur-k9Hl" width="100%"></div></div>
 <!--320--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1vvOKAFud0r7Wt0mUr5S_eYbh8bk2Ilka" height="200px"><figcaption></figcaption>320</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1vvOKAFud0r7Wt0mUr5S_eYbh8bk2Ilka" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1vvOKAFud0r7Wt0mUr5S_eYbh8bk2Ilka" height="200px"><figcaption></figcaption>320</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1vvOKAFud0r7Wt0mUr5S_eYbh8bk2Ilka" width="100%"></div></div>
 <!--410--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1mV88lunKJ2lwLnxcfJSYQ5vYTtd8mzLK" height="200px"><figcaption></figcaption>410</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1mV88lunKJ2lwLnxcfJSYQ5vYTtd8mzLK" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mV88lunKJ2lwLnxcfJSYQ5vYTtd8mzLK" height="200px"><figcaption></figcaption>410</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mV88lunKJ2lwLnxcfJSYQ5vYTtd8mzLK" width="100%"></div></div>
 <!--442--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1fW5j-6ScJttzHLQ9F-lwge2fbMCwzTMZ" height="200px"><figcaption></figcaption>442</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1fW5j-6ScJttzHLQ9F-lwge2fbMCwzTMZ" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1fW5j-6ScJttzHLQ9F-lwge2fbMCwzTMZ" height="200px"><figcaption></figcaption>442</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1fW5j-6ScJttzHLQ9F-lwge2fbMCwzTMZ" width="100%"></div></div>
