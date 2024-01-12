@@ -2,7 +2,7 @@
 title: Маршрутни промени година по година
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T14:18:37.317Z
+date: 2024-01-12T10:02:11.722Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T08:26:01.877Z
@@ -13,19 +13,15 @@ dateCreated: 2022-05-06T08:26:01.877Z
 
 ## 2024
 
+<table style="width:100%"><tr><td><span style="color:#81C784"> 08.01.2024 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/288">288</a> автост. Гео Милев - Зоопарка</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr>
+  
 <table style="width:100%"><tr><td><span style="color:#64B5F6"> 06.01.2024 | Променя се маршрута на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/120">120</a> вместо по ул. Сребърна, по ул. Филип Кутев </span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
+</table>
 
 
 
 
 ## 2023
-
-### Предстоящи
-
-<table style="width:100%"><tr><td><span style="color:#81C784">най-късно 31.12.2023 | Разкрива се автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/288">288</a> автост. Гео Милев - Зоопарка</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
-
-### Действащи
 
 <table style="width:100%"><tr><td><span style="color:#81C784"> 23.12.2023 | Възстанояване на автобусна линия <a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a> ж.к. Гоце Делчев - ж.к. Дружба 2</span></td></tr><tr><td>ℹ️ <b><a href="http://trinmo.org/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-712-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 712 от 27.07.2023 година</a></b></td></tr></table>
 
