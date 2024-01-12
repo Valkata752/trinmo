@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:23:12.445Z
+date: 2024-01-12T10:01:05.304Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -18,7 +18,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 {.links-list}
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1j5llldm4Xzns_8GATDBWT2WDtIKHZGRx"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1j5llldm4Xzns_8GATDBWT2WDtIKHZGRx"></td>
 <td>От 08.01.2024 г. се разкрива нова автобусна линия № 288</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/public-transport/bus-routes-1968-sega/288">Повече информация...</a></td></table></div>
   
@@ -30,7 +30,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 Започва изграждането на стартовата площадка за работа на тунелопробивната машина за строителство на тунелите на участъка от метрото през район „Слатина“. В близост до нея ще бъде  изградена и  новата метростанция № 6 заедно с буферен паркинг за 250 автомобила. Стартовата площадка, през която ще влезе тунелопробивната машина, ще бъде изградена в близост до локалното платно на бул. „Цариградско шосе“ между бензиностанция OMV и "Макдоналдс".
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1urC_OPNCQUPAjrmZhgFcdEFfKlwwkK3h"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1urC_OPNCQUPAjrmZhgFcdEFfKlwwkK3h"></td>
 <td>От 6 януари 2024 г. се въвеждат промени в маршрутите на тролеите, обслужващи линия № 5, автобусите от линии №№ 84, 184 и 73, както и автобусите от нощната линия Н1.</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/public-transport/route-changes/2024-stroitelstvo-metro-sv-anna">Повече информация... </a></td></table></div>
   
@@ -38,7 +38,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 ## 06.01.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1ZiN4FuVDICziievNATlm8qM51b9rY8jt"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1ZiN4FuVDICziievNATlm8qM51b9rY8jt"></td>
 <td>Считано от 06.01.2024 год. се променя маршрута на автобусна линия № 120</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/public-transport/bus-routes-1968-sega/120">Повече информация...</a></td></table></div>
   
@@ -62,19 +62,19 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 ## 23.12.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1z2As2uM30poB--jlh4xo846JOGi-fMvi"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1z2As2uM30poB--jlh4xo846JOGi-fMvi"></td>
 <td>Считано от от 23.12.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N3">N3</a> се завръща след тригодишно отсъствие.</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1kg0NmaSdnw0S-p6sHGiDmF8xuWH_iHq9"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1kg0NmaSdnw0S-p6sHGiDmF8xuWH_iHq9"></td>
 <td>Считано от от 23.12.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N4">N4</a> се завръща след тригодишно отсъствие.</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
   
 ## 27.11.2023
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1JlwIPw3fcS7dUuzGPGVwKSPXCU5N7V6T"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1JlwIPw3fcS7dUuzGPGVwKSPXCU5N7V6T"></td>
 <td>Нискоемисионната зона (НЕЗ) за автомобили в София ще влезе в сила на 1 декември 2023 г. и ще е валидна до 29 февруари 2024 г. Зоната се въвежда в т.нар. "малък ринг", който обхваща бул. “Васил Левски”, бул. “Патриарх Евтимий”, бул. “Ген. Скобелев”, ул. “Опълченска” и бул. “Сливница”.
 
 НЕЗ беше приета от предишния Общински съвет в края на миналата 2022 г. в изпълнение на решение на Софийския градски съд. Тогава Съдът постанови, че Столичната община трябва да предприеме мерки за въвеждането на нискоемисионни зони като част от мерките за подобряване на качеството на въздуха особено през зимните месеци. </td></tr>
@@ -87,13 +87,13 @@ dateCreated: 2022-04-25T15:43:04.754Z
 {.links-list}
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1WVX_kd5h04gbWilcGpTKA-aKgYzcZZO7"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1WVX_kd5h04gbWilcGpTKA-aKgYzcZZO7"></td>
 <td>Първата копка ще се състоя на 27.11.2023 г., понеделник, от 13:00 часа, срещу зала „Арена София“. С нея ще беше поставено началото на изграждането на две от общо шестте планирани метростанции – станция 5, която ще бъде на бул. „Асен Йорданов“ (срещу зала „Арена София“) и станция 6, която ще е под локалното платно на бул. „Цариградско шосе“, срещу УМБАЛ „Св. Анна“ </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/sofia-metro">Повече информация</a></td></table></div>
   
 ## 26.11.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1QXKJMIageyjHvnvcDW2wb4HZGmmV4jmy"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1QXKJMIageyjHvnvcDW2wb4HZGmmV4jmy"></td>
 <td>Към момента градският транспорт изпълнява редовните си маршрути с изключение на временно скъсените трамвайни линии №№ 10 и 23. Трамвай № 10 ще се движи от ж.к. “Западен парк“ до площад "Журналист" до разчистването на трасето в лесопарковата част и възстановяване на контактната мрежа от паднали клони. Осигуряват се заместващи автобуси от днес, повече информация можете да видите на приложената карта. </td></tr>
   <td colspan=2 >ℹ️ <a href="https://www.sofia.bg/en/w/Информация-за-обстановката-към-9.30-часа-27-ноември">Столична община</a></td></table></div>
   
@@ -105,15 +105,15 @@ dateCreated: 2022-04-25T15:43:04.754Z
 👏 От днес официално първата стъпка от премахването на ненужните букви от номерата на линиите е направена!
 🚌⚡️ И двата вида електробусни линии са вече в категория автобуси. 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td>Преди...<br><img src="https://lh3.google.com/u/0/d/1sum2l6jxb-_NAihnTIc6ydUlG7UW-xs1"></td>
-<td>След...<br><img src="https://lh3.google.com/u/0/d/1CgdgRb0BDjJJbr0RstPPDWrKmbaZg7Jp"></td></tr>
+<td>Преди...<br><img src="https://drive.google.com/uc?export=view&id=1sum2l6jxb-_NAihnTIc6ydUlG7UW-xs1"></td>
+<td>След...<br><img src="https://drive.google.com/uc?export=view&id=1CgdgRb0BDjJJbr0RstPPDWrKmbaZg7Jp"></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/politics/sofia-council-decisions#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-no-711-%D0%BE%D1%82-27072023-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0">Решение № 711 от 27.07.2023 година</a></td></table></div>
   
   
   
 ## 14.11.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1_n69yN722DxIXdPUxJPxa9fumtx-EbqY"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1_n69yN722DxIXdPUxJPxa9fumtx-EbqY"></td>
 <td>Нова пешеходна зона около храм "Александър Невски"</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/news/20231114-nova-peshehodna-zona">Повече информация...</a></td></table></div>
   
@@ -124,7 +124,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 ## 02.11.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1JqS-HVUJeDkgwSwMHxpzXGT_qeIjI8dO"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1JqS-HVUJeDkgwSwMHxpzXGT_qeIjI8dO"></td>
 <td>Започнаха проби по ремонтираното трасе към Княжево!</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/public-transport/route-changes/2022-rekonstrukcia-tsar-boris_iii">Повече информация...</a></td></table></div>
   
@@ -132,7 +132,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 
 ## 01.11.2023
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG"></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1JFffcxPsmWKE41rEzDaD6wVI1FsWk4gG"></td>
 <td>Считано от от 01.11.2023 линии <a href="/bg/public-transport/bus-routes-1968-sega/N1">N1</a> и <a href="/bg/public-transport/bus-routes-1968-sega/N2">N2</a> се завръщат след тригодишно отсъствие.</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/blog/noshten-transport-prez-godinite">Повече информация...</a></td></table></div>
   
