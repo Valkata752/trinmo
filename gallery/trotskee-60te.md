@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 60те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:38:31.195Z
+date: 2024-01-15T09:26:43.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T14:30:07.843Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-05T14:30:07.843Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB"></td>
+<td><img src="http:// 46.10.181.183:1518/trinmo/files/gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Trotskee/60%d1%82%d0%b5/tm83%201967.jpg"></td>
 <td><b>tm83</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">MAN-Siemens (81-92)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
