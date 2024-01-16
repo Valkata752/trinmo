@@ -2,7 +2,7 @@
 title: Тролейбуси в България
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T21:22:00.776Z
+date: 2024-01-16T21:16:41.688Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T21:03:48.762Z
