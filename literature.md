@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:58:14.322Z
+date: 2024-01-16T21:21:44.593Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1283,23 +1283,29 @@ Köhler, Günter H.: Stippvisite in Sofia / 4 1997 25
 
 ### 80те
 Hans Lehnhart: Veränderungen in Sofia / 10 1989 32
-Jiri HertI: Obusse in Bulgarien / 10 1989 17
-Sofia 1986 / 8 1986 39
+- [🚎 Тролейбуси в България *1989*](/literature/1989-troleibusi-v-bulgaria)
+- [:train::trolleybus::bus: София *8 1986 39*](/literature/1986-sofia)
+{.links-list}
+
+
 Verkehrsneuigkeiten aus den Balkanländern / 11/12 1985 445
 Verkehrsneuigkeiten aus den Balkanländern / 10 1983 428
-Der öffentliche Nahverkehr in Sofia 1981 / 11/12 1981 454
+
+- [:train::trolleybus::bus: Обществен транспорт в София *11/12 1981 454*](/literature/1981-obshtestven-transport-v-sofia)
+{.links-list}
 
 ### 70те
-- [🚎 Тролейбуси в България *9 1977 349*](/literature/stadtverkehr-obus-in-bulgarien)
+- [:train::trolleybus::bus: Обществен транспорт в София *8 1971 272*](/literature/1971-obshtestven-transport-v-sofia)
 {.links-list}
- 
-Der öffentliche Verkehr in Sofia / 8 1971 272
+
 
 
 
 ### 60те
-Der öffentliche Verkehr in Bulgarien / 11/12 1969 357
-Der öffentliche Verkehr in Bulgarien / 5/6 1966 149
+- [:train::trolleybus::bus: Обществен транспорт в София *11/12 1969 357*](/literature/1969-obshtestven-transport-v-sofia)
+- [:train::trolleybus::bus: Обществен транспорт в София *5/6 1966 149*](/literature/1966-obshtestven-transport-v-sofia)
+{.links-list}
+
 
 
 
