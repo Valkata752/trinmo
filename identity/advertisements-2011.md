@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2011 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-08T06:36:02.003Z
+date: 2024-01-17T19:28:07.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T20:17:52.836Z
@@ -19,6 +19,18 @@ dateCreated: 2023-08-07T20:17:52.836Z
 |**BanBao** | | | 2001|  |   | 
 |**Nivea** | | | 2002|  |   | 
 |**tuk.bg** | | | 4237|  |   | 
+|**WESTERN UNION** | | | 2003 |  |   | 
+|**SERDIKA CENTER** | | | 914 |  |   | 
+|**blizoo** | | | 2007 |  |   | 
+|**ТУРЦИЯ** | | | | 2703 |   | 
+|**Diplomat** | | | 2047 |  |   | 
+|**CHIPPOLINO** | | | 4108/4110 |  |   | 
+|**tuk.bg** | | | 4130 |  |   | 
+|**PALMS CASINO** | | | 4240 |  |   | 
+|**restART** | | | 2001|  |   | 
+|**Cervantes** | | | 2006 |  |   | 
+|**Playlife** | | | 2010 |  |   | 
+|**SERDIKA CENTER** | | | 4129/4109 |  |   | 
 {.dense}
  
 
