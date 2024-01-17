@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2003 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-17T19:53:33.395Z
+date: 2024-01-17T19:58:08.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T20:36:13.108Z
@@ -17,7 +17,7 @@ dateCreated: 2023-08-07T20:36:13.108Z
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Tegola Canadese** | | |  | 923, 926 |   | 
 | **СТРОНГ - ЕС СОТ** | | |  | 708 |   | 
-| **Benetton** | | |  | 710, 723, 822, 2026+2025 |   |
+| **Benetton** | | |  | 710, 723, 822, 2026+2025, 4121+4123 |   |
 | **Jolly** | | |  | 815 |   |
 | **Каприз** | | |  | 818, 822 |   |
 | **Nikas** | | |  | 319, 828 |   |
@@ -27,17 +27,12 @@ dateCreated: 2023-08-07T20:36:13.108Z
 | **Belana червена** | | |  | 904, 916, 924, 934 |   |
 | **Тандем В** | | |  | 908, 932, 2024+2023 |   |
 | **Pfanner** | | |  | 935 |   |
-| **TNT** | | |  | 909, 935 |   |
+| **TNT** | | |  | 909, 935, 4140+4132 |   |
 | **Maggi** | | |  | 912 |   |
 | **100 години градски транспорт в София** | | |  | 927 |   |
 | **Swatch** | | |  | 938, 1094 |   |
 | **кафе Choice** | | |  | 1075 |   |
 | **Brother** | | |  | 1095 |   |
+| **Sunsilk** | | |  |  | 3647   |
 {.is-info}
  
-
-## Tegola
-<!--923-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=191ilOP8ag77pRRDGopDAhSpQDcvbhji_" height="200px"><figcaption><b>923</b> 📷 Мариан Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=191ilOP8ag77pRRDGopDAhSpQDcvbhji_" width="100%"></div></div>
-<!--926--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WCrq10khm0g_sGvvtgUUhBt91CHWbObB" height="200px"><figcaption><b>926</b> 📷 Мариан Костадинов  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WCrq10khm0g_sGvvtgUUhBt91CHWbObB" width="100%"></div></div>
