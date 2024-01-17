@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2005 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-17T20:30:22.219Z
+date: 2024-01-17T20:31:54.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T06:35:55.516Z
@@ -16,10 +16,11 @@ dateCreated: 2023-08-08T06:35:55.516Z
 
 |реклама| от |  до |    :train:   |    :trolleybus:   |   :bus:  |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **Reiffeisen** | | | 4232, 4238  |   | |
+| **Reiffeisen** | | | 4232, 4238  |   |  351, 3654 |
 | **Аико** | | |   |   | 2231 |
 | **Mr. Bricolage** | | |   |   | 2244 |
-| **Praktiker** | | |   | 1421  | 3462 |
+| **Praktiker** | | |   | 1421  | 365, 3462 |
 | **Varchev** | | |   | 1209  |  |
 | **Nestlee Fitness** | | |   | 1428  |  |
 | **Sanitex** | | |   | 2507  |  |
+| **Nescafe Frappe** | | |   |   | 2155  |
