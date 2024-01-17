@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2005 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-17T20:39:52.099Z
+date: 2024-01-17T20:49:11.152Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T06:35:55.516Z
@@ -30,3 +30,4 @@ dateCreated: 2023-08-08T06:35:55.516Z
 | **LZ** | | | 911 |   |  |
 | **Mentos** | | | 912 |   |  |
 | **Bose** | | | 924 |   |  |
+{.is-info}
