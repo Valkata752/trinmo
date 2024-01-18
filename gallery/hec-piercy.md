@@ -2,7 +2,7 @@
 title: Фотограф: H E C Piercy
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-18T21:22:39.813Z
+date: 2024-01-18T21:23:54.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:47:00.001Z
@@ -48,7 +48,7 @@ dateCreated: 2023-11-20T13:47:00.001Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20H%20E%20C%20Piercy/tm112%20(2).jpg"></td>
 <td><b>tm112</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1929-Nivelle-ASEA">Nivelle-ASEA (106-115)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
