@@ -2,7 +2,7 @@
 title: Заменяемост на двумоторни контролери
 description: 
 published: true
-date: 2024-01-18T17:32:08.630Z
+date: 2024-01-18T17:33:22.343Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T17:21:38.100Z
