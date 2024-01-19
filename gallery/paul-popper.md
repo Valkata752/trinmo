@@ -2,7 +2,7 @@
 title: Фотограф - Paul Popper
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:38:38.615Z
+date: 2024-01-19T08:40:45.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T22:18:47.080Z
@@ -11,15 +11,28 @@ dateCreated: 2023-12-07T22:18:47.080Z
 ##  1960
 ## Tabs {.tabset}
 ###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Paul%20Popper/37+437%201960.jpg"></td>
+<td><b>tm37+tm437</b><br> 🚋 <a href="">
+</a><br>📌 неизв. <br> 📷 Paul Popper<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Paul%20Popper/49%20%20271%20%2001.07.1960.jpg"></td>
+<td><b>tm49, tm271</b><br> 🚋 <a href="">
+</a><br>📌 неизв. <br> 📷 Paul Popper<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Paul%20Popper/tm%201960.jpg"></td>
+<td><b>???</b><br> 🚋 <a href="">
+</a><br>📌 неизв. <br> 📷 Paul Popper<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--37+437--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Lmm6yPDyCC9Xdga4wVyKyC8p54Cb-0b1" height="200px"><figcaption></figcaption>37+437</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Lmm6yPDyCC9Xdga4wVyKyC8p54Cb-0b1" width="100%"></div></div>
-
-
-<!--49, 271--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1LkoA7Lt8h9ZQ_kcxGFzPT8eW8xDXhToZ" height="200px"><figcaption></figcaption>49, 271</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1LkoA7Lt8h9ZQ_kcxGFzPT8eW8xDXhToZ" width="100%"></div></div>
-
-
-<!--неизв.--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1LQ6EfoE7BkbNnCwn_dIuwNOWpxjWOWCU" height="200px"><figcaption></figcaption>неизв.</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1LQ6EfoE7BkbNnCwn_dIuwNOWpxjWOWCU" width="100%"></div></div>
 
