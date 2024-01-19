@@ -2,7 +2,7 @@
 title: Фотограф - Champlin
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:27:16.062Z
+date: 2024-01-19T17:55:40.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:26:09.399Z
@@ -19,20 +19,20 @@ dateCreated: 2023-11-20T13:26:09.399Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1s3KthAyoLOm507yVQBQUNqQ9x6E4FIGP"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm127%20line21%201990%20.jpg"></td>
 <td><b><b>tm127 line21 </b></b><br>📌 ул. Алабин <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1UTp5sem5B6LiyR4GISs-rKJK2k0NLgiR"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm740%20line3.jpg"></td>
 <td><b><b>tm740 line3 </b></b><br>📌 ? <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1RktJXGgsWsgXlOwxZnzkZdjaOL74gfMd"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm785%20line7.jpg"></td>
 <td><b><b>tm785 line7 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -44,7 +44,7 @@ dateCreated: 2023-11-20T13:26:09.399Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1b5dLsM7VQXrf00XjkS1w2dZ0GOHyEuyl"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm816%20line14.jpg"></td>
 <td><b><b>tm816 line4 </b></b><br>📌 пл. Св. Неделя <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -52,14 +52,14 @@ dateCreated: 2023-11-20T13:26:09.399Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1VtzJBWidp_L5LsRjgiNOcA_DDuUMmvZb"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm845%20line1%20(1).jpg"></td>
 <td><b><b>tm845 line1 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1GwFLqnfsOWWGl4yjzH6q7Fe3cDvNljLU"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Champlin/tm845%20line1.jpg"></td>
 <td><b><b>tm845 line1 </b></b><br>📌 бул. Витоша <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
