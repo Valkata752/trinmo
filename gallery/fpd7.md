@@ -2,7 +2,7 @@
 title: Фотограф - FPD7
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:39:34.374Z
+date: 2024-01-19T10:41:07.021Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:26:51.047Z
@@ -11,38 +11,73 @@ dateCreated: 2023-11-12T11:26:51.047Z
 ##  1969
 ##  Tabs {.tabset}
 ### 
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=14luF-mUErh5gRq7KJasuP03Aq3DGeqpU" height="200px"><figcaption></figcaption>3</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=14luF-mUErh5gRq7KJasuP03Aq3DGeqpU" width="100%"></div></div>
 
-<!--34--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1fw4wk-O2IybswHFmGr8r8VgJ4pWEQktz" height="200px"><figcaption></figcaption>34</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1fw4wk-O2IybswHFmGr8r8VgJ4pWEQktz" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm3%20line8%20%2007.%201969.jpg"></td>
+<td><b>tm3 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-
-
-<!--41+441--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1LsG9REuNdh39mC13QndYqZEYmrgKUV9_" height="200px"><figcaption></figcaption>41+441</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1LsG9REuNdh39mC13QndYqZEYmrgKUV9_" width="100%"></div></div>
-
-<!--41+441--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1x9jFfDMXQ6OO68j5Gt60Y8rrLT4zb0q3" height="200px"><figcaption></figcaption>112+412</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1x9jFfDMXQ6OO68j5Gt60Y8rrLT4zb0q3" width="100%"></div></div>
-
-
-<!--114+410--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1xWRWwT9zDtwEA7ASMNTT6NqKw5GQClHS" height="200px"><figcaption></figcaption>114+410</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1xWRWwT9zDtwEA7ASMNTT6NqKw5GQClHS" width="100%"></div></div>
-
-<!--236+536--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=165XP4jfVMeR8jLTAP4GEzsNHFxSORwbo" height="200px"><figcaption></figcaption>236+536</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=165XP4jfVMeR8jLTAP4GEzsNHFxSORwbo" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm34%20line6%201969.JPG"></td>
+<td><b>tm34 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
-<!--240+540--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1QM-klZJZRVOgfsdxc6BGeL0aIwOE_kGn" height="200px"><figcaption></figcaption>240+540</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1QM-klZJZRVOgfsdxc6BGeL0aIwOE_kGn" width="100%"></div></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm41%20tm441%2007.1969.jpg"></td>
+<td><b>tm41+tm441</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm112%20tm412%20%2007.1969.jpg"></td>
+<td><b>tm112+tm412</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
-<!--258+478--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1EwwnjAh8Dod0us1i-o94IJTygcU7aXWI" height="200px"><figcaption></figcaption>258+478</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1EwwnjAh8Dod0us1i-o94IJTygcU7aXWI" width="100%"></div></div>
-<!--818--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XGksldwcnxh7GluuFx1rJZfbdl1EHbOD" height="200px"><figcaption></figcaption>818</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XGksldwcnxh7GluuFx1rJZfbdl1EHbOD" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm114%20tm410%20%2007.1969.jpg"></td>
+<td><b>tm114+tm410</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm114%20tm410%20%2007.1969.jpg"></td>
+<td><b>tm114+tm410</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm236%20tm536%20%2007.1969.jpg"></td>
+<td><b>tm236+tm536</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm240%20tm540%201969.jpg"></td>
+<td><b>tm240+tm540</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm818%201969.jpg"></td>
+<td><b>tm818</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--947--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Z3grsZRx5A1zE6c3rWIWUqJ8_aYJ3vOs" height="200px"><figcaption></figcaption>947</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Z3grsZRx5A1zE6c3rWIWUqJ8_aYJ3vOs" width="100%"></div></div>
-
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm947%201969.jpg"></td>
+<td><b>tm947</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
