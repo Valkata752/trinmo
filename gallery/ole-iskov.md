@@ -2,7 +2,7 @@
 title: Фотограф - Ole Iskov
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:45:03.728Z
+date: 2024-01-19T17:04:50.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:09:07.278Z
@@ -11,17 +11,37 @@ dateCreated: 2023-11-19T16:09:07.278Z
 ##  09.1976
 ## Tabs {.tabset}
 ###
-<!--264--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1bK2kpAcuH66GPTX4fsLEVlyTAlibeNNZ" height="200px"><figcaption></figcaption>264</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1bK2kpAcuH66GPTX4fsLEVlyTAlibeNNZ" width="100%"></div></div>
 
-<!--274--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=18mvZts4qVkuZpE_yAhK3IEDEM-CAeQwI" height="200px"><figcaption></figcaption>274</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=18mvZts4qVkuZpE_yAhK3IEDEM-CAeQwI" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ole%20Iskov/tb264%20line2.jpg"></td>
+<td><b>tb264 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--303+304--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=16JBYfahs0M1sPbLjK5gsSWBVtCkGSEz5" height="200px"><figcaption></figcaption>303+304</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=16JBYfahs0M1sPbLjK5gsSWBVtCkGSEz5" width="100%"></div></div>
 
-<!--307+308--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1m5fRRQhGyFPKrUm39atnjS-E0HespxFE" height="200px"><figcaption></figcaption>307+308</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1m5fRRQhGyFPKrUm39atnjS-E0HespxFE" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ole%20Iskov/tb274%20line2.jpg"></td>
+<td><b>tb274 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--328--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1_sN7-yF6ZDvUBP7GzOMWCmfBrRwQAfYm" height="200px"><figcaption></figcaption>328</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1_sN7-yF6ZDvUBP7GzOMWCmfBrRwQAfYm" width="100%"></div></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ole%20Iskov/tb303%20tb304%20line3.jpg"></td>
+<td><b>tb303+tb304 line3</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ole%20Iskov/tb307%20tb308%20line3.jpg"></td>
+<td><b>tb307+tb308 line3</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ole%20Iskov/tb328%20line2.jpg"></td>
+<td><b>tb328 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
