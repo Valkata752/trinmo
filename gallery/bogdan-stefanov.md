@@ -2,7 +2,7 @@
 title: Фотограф Богдан Стефанов
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:45:36.059Z
+date: 2024-01-19T17:23:38.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T18:20:40.888Z
@@ -13,8 +13,8 @@ dateCreated: 2023-12-30T18:20:40.888Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1AizZjLznNAZ8xdFqoev7LkizZO3F0eSB"></td>
-<td><img src="https://drive.google.com/uc?export=view&id=1xGgOwCFLm7gsgECc9RKAp9U0L3k1SEPr"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/RASTENONESTAREE1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/RASTENONESTAREE2.jpg"></td></tr>
   <td colspan=2 >ℹ️ Издание по случай София - 100 години столица и 1300 години Българска държава.</td></table></div>
   
 
@@ -26,57 +26,57 @@ dateCreated: 2023-12-30T18:20:40.888Z
 ###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1bPU69aAge8pCo-Y1iyUAEtuqcFNIli0U"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20tm108%20line4.jpg"></td>
 <td><b>tm108 line4</b><br>📌 Централни хали<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1rOcByw76Hq-_KeQuYEr3e8YPgCFVbWzP"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20tm164%20line4.jpg"></td>
 <td><b>tm164 line4</b><br>📌 Централни хали<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1d9O_g4IuIYU7ZNe7FwVmiWvTVhN7wWHn"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/tm164%20line4.jpg"></td>
 <td><b>tm786 line3</b><br>📌 Централни хали<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1iXbdsCpJNsQtDYNftu2rso8bElYsUp4A"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20%d1%81%d0%bf%d0%b8%d1%80%d0%ba%d0%be%d0%b7%d0%bd%d0%b0%d0%ba.jpg"></td>
 <td><b>спиркознак</b><br>📌 Софийски университет<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1BGKB5f4qfFVGhXXNjJFKOQ1sX8ljD-3d"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20tm666%20line7.jpg"></td>
 <td><b>tm666 line7</b><br>📌 бул. Мария Луиза<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1FwuVLOvWWvnFkndm13HavU0cGwcxM-nP"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20tm855%20line2.jpg"></td>
 <td><b>tm855 line2</b><br>📌 пл. Гарибалди<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1unLrV-7MI1jEHzJ4Sq9fK2yWv_JoywhH"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20tm878.jpg"></td>
 <td><b>tm878</b><br>📌 бул. Граф Игнатиев<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1i-EkMUr-BC4jfl2brjPXxsBNkJFpwErK"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20a1414.jpg"></td>
 <td><b>a1414</b><br>📌 пл. Народно събрание<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1GYpsxWWcvtsgKH9P4RE3bQrBCG5pWrzK"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201979%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%20%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2/%d0%91%d0%be%d0%b3%d0%b4%d0%b0%d0%bd%20%d0%a1%d1%82%d0%b5%d1%84%d0%b0%d0%bd%d0%be%d0%b2%20sofiiski%20universitet.jpg"></td>
 <td><br>📌 Софийски университет<br> 📷 Богдан Стефанов <br>Фотоалбум София: „София прес“, 1979.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
