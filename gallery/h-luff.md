@@ -2,7 +2,7 @@
 title: Фотограф - H. Luff
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:46:25.738Z
+date: 2024-01-19T17:34:14.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:02:28.357Z
@@ -15,11 +15,21 @@ dateCreated: 2023-11-20T14:02:28.357Z
 ## 1984-86
 ## Tabs {.tabset}
 ###
-<!--203--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1yRAKx42cI_fyr3tQllHNiwFWns-_wWiK" height="200px"><figcaption></figcaption>203</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1yRAKx42cI_fyr3tQllHNiwFWns-_wWiK" width="100%"></div></div>
 
-<!--205--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1jJT1ofXaTIiQV6VVuzpPxrGSpFA-fUR6" height="200px"><figcaption></figcaption>205</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1jJT1ofXaTIiQV6VVuzpPxrGSpFA-fUR6" width="100%"></div></div>
-
-<!--Testow--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=14GA3KwM5d2eI6MnD0RUX9-ditmRhuMJZ" height="200px"><figcaption></figcaption>Тестов</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=14GA3KwM5d2eI6MnD0RUX9-ditmRhuMJZ" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20H.%20Luff/tb203%20depot.jpg"></td>
+<td><b>tb203</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 H. Luff</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20H.%20Luff/tb203%20depot.jpg"></td>
+<td><b>tb205</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 H. Luff</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+    
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20H.%20Luff/tb2500%20scan0005.jpg"></td>
+<td><b>tb2500</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 H. Luff</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
