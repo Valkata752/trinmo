@@ -2,7 +2,7 @@
 title: Фотограф - Ohoboho
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T08:44:22.113Z
+date: 2024-01-19T10:48:48.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T15:07:34.589Z
@@ -15,9 +15,23 @@ dateCreated: 2023-12-02T15:07:34.589Z
 
 ## Tabs {.tabset}
 ###
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1HoeTPrHdFiYfn3yBvvzAsZQ5KsbOXcVr" height="200px"><figcaption></figcaption>136</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1HoeTPrHdFiYfn3yBvvzAsZQ5KsbOXcVr" width="100%"></div></div>
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1pi58OctEFzKtnoWY2l6yWyIqyDKsWwul" height="200px"><figcaption></figcaption>303</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1pi58OctEFzKtnoWY2l6yWyIqyDKsWwul" width="100%"></div></div>
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ZruYT8mxDI8Giq5K0A-_havdNR7Liy-e" height="200px"><figcaption></figcaption>746</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ZruYT8mxDI8Giq5K0A-_havdNR7Liy-e" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ohoboho%20(flickr)/tm136%20line2.jpg"></td>
+<td><b>tm136 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ohoboho</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ohoboho%20(flickr)/tm746%20line3.jpg"></td>
+<td><b>tm746 line3</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ohoboho</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Ohoboho%20(flickr)/tb303%20line2.jpg"></td>
+<td><b>tb303 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ohoboho</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
