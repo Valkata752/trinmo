@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevius - 1978
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-19T17:27:26.449Z
+date: 2024-01-19T17:29:45.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
@@ -64,7 +64,7 @@ dateCreated: 2023-11-20T10:50:05.669Z
 ## Tabs {.tabset}
 ### 9TR
 <!--XXX--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mgVfok3jwCrnBlea9fa25iPS5cstpMcO" height="200px"><figcaption></figcaption><b>tbXXX</b> 📷 Olle S Nevius </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mgVfok3jwCrnBlea9fa25iPS5cstpMcO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Olle%20S%20Nevenius/1978/tb%20skoda%209tr%20line3%20Scan901.jpg" height="200px"><figcaption></figcaption><b>tbXXX</b> 📷 Olle S Nevius </figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Olle%20S%20Nevenius/1978/tb%20skoda%209tr%20line3%20Scan901.jpg" width="100%"></div></div>
 
 <!--219--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Olle%20S%20Nevenius/1978/tb219%20Scan904.jpg" height="200px"><figcaption></figcaption><b>tb219</b> 📷 Olle S Nevius </figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Olle%20S%20Nevenius/1978/tb219%20Scan904.jpg" width="100%"></div></div>
