@@ -2,7 +2,7 @@
 title: Фотограф - FPD7
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-19T10:41:07.021Z
+date: 2024-01-19T10:41:49.003Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:26:51.047Z
@@ -38,13 +38,6 @@ dateCreated: 2023-11-12T11:26:51.047Z
 <td><b>tm112+tm412</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20FPD7/tm114%20tm410%20%2007.1969.jpg"></td>
-<td><b>tm114+tm410</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 FPD7</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
