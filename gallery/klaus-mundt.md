@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:04:06.077Z
+date: 2024-01-20T08:07:16.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:12:52.460Z
@@ -346,7 +346,7 @@ dateCreated: 2023-11-20T21:12:52.460Z
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm822%20line2%201996-08-19.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm840%20line19%201996-08-19.jpg"></td>
 <td><b>tm840 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
