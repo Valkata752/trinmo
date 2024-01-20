@@ -2,12 +2,16 @@
 title: Фотограф - Theo Stolz - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:37:21.376Z
+date: 2024-01-20T08:39:05.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
 ---
 
+- [Виж и другата му галерия *1996*](/gallery/theo-stolz-1996)
+{.links-list}
+
+---
 ## Tabs {.tabset}
 ### 
    <!--следващ пост--> 
