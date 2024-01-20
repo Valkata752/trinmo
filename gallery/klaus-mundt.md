@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T07:57:18.245Z
+date: 2024-01-20T08:04:06.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:12:52.460Z
@@ -243,86 +243,145 @@ dateCreated: 2023-11-20T21:12:52.460Z
 ## 1996
 ## Tabs {.tabset}
 ### 
-
-<!--2999--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1gpH0Yx4MDkvhe79QCi8isAQ4H0Z96bH4" height="200px"><figcaption></figcaption>2999</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1gpH0Yx4MDkvhe79QCi8isAQ4H0Z96bH4" width="100%"></div></div>
-
-
-<!--3620--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1-4AX3NZxexItzM_GL5OSg0K7v-XfUGII" height="200px"><figcaption></figcaption>3620</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1-4AX3NZxexItzM_GL5OSg0K7v-XfUGII" width="100%"></div></div>
-
-
-<!--A12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1-1ZZa5RHpqfA1ggU03y6vXCN4udB3uU4kj" height="200px"><figcaption></figcaption>A12</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1-1ZZa5RHpqfA1ggU03y6vXCN4udB3uU4kj" width="100%"></div></div>
-
-<!--88--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1fcWXnrX0Xh02G3KyybsA96VbhzYa2QxY" height="200px"><figcaption></figcaption>88</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1fcWXnrX0Xh02G3KyybsA96VbhzYa2QxY" width="100%"></div></div>
-
-<!--88--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=14iCKz1IN0vU-vY2K8i5X23yGe2dU_eLP" height="200px"><figcaption></figcaption>88</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=14iCKz1IN0vU-vY2K8i5X23yGe2dU_eLP" width="100%"></div></div>
-
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/a2999%20depot%201996-08-19.jpg"></td>
+<td><b>a2999</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/a3620%201996-08-19.jpg"></td>
+<td><b>a3620</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/avariina%2012%201996-08-19%2012.jpg"></td>
+<td><b>aварийна 12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm88%20depot%201996-08-19%20(2).jpg"></td>
+<td><b>tm88</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm88%20depot%201996-08-19%2088%20(1).jpg"></td>
+<td><b>tm88</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### 
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm139%20depot%201996-08-19.jpg"></td>
+<td><b>tm139</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm141%20depot%201996-08-19.jpg"></td>
+<td><b>tm141</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm183%20depot%201996-08-19.jpg"></td>
+<td><b>tm183</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm190%20line%205%201996-08-19.jpg"></td>
+<td><b>tm190 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm205%20depot%201996-08-19.jpg"></td>
+<td><b>tm205</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm240%20depot%201996-08-19.jpg"></td>
+<td><b>tm240</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm314%20depot%20coca%20cola%201996-08-19.jpg"></td>
+<td><b>tm314</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm320%20line1%201996-08-19.jpg"></td>
+<td><b>tm320 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm538%20depot%201996-08-19.jpg"></td>
+<td><b>tm538</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm772%20line7%201996-08-19.jpg"></td>
+<td><b>tm772 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm822%20line2%201996-08-19.jpg"></td>
+<td><b>tm822 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm822%20line2%201996-08-19.jpg"></td>
+<td><b>tm840 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm841%20depot%201996-08-19.jpg"></td>
+<td><b>tm841</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm859%20line19%201996-08-19.jpg"></td>
+<td><b>tm859 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm4104%20depot%201996-08-19.jpg"></td>
+<td><b>tm4104</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-<!--139--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Dc5D-fZD0WWaaM-SmhCpAIH9I1_uV8D4" height="200px"><figcaption></figcaption>139</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Dc5D-fZD0WWaaM-SmhCpAIH9I1_uV8D4" width="100%"></div></div>
-
-
-<!--141--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1vgrwLpdEsQxr64I2z1W7thcuXOXrwGIW" height="200px"><figcaption></figcaption>141</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1vgrwLpdEsQxr64I2z1W7thcuXOXrwGIW" width="100%"></div></div>
-
-
-<!--183--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1kJTPaj5Ez5T2sJnRsVQSwCYfEMSlwpfE" height="200px"><figcaption></figcaption>183</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1kJTPaj5Ez5T2sJnRsVQSwCYfEMSlwpfE" width="100%"></div></div>
-
-
-<!--190--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ay8kfxCJNMcr8FIYPCfjuGfWtwet-R5T" height="200px"><figcaption></figcaption>190</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ay8kfxCJNMcr8FIYPCfjuGfWtwet-R5T" width="100%"></div></div>
-
-
-<!--205--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1kr-0my_Kbc7V-RHFjzje-j93A0HF-o9X" height="200px"><figcaption></figcaption>205</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1kr-0my_Kbc7V-RHFjzje-j93A0HF-o9X" width="100%"></div></div>
-
-<!--240--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mkOjYbKw7uwOJA7hS2t51JM7v_29fsaC" height="200px"><figcaption></figcaption>240</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mkOjYbKw7uwOJA7hS2t51JM7v_29fsaC" width="100%"></div></div>
-
-<!--314--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1aeHSYgFyz98Ww8F2a2YK6p8FmHmJpGd9" height="200px"><figcaption></figcaption>314</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1aeHSYgFyz98Ww8F2a2YK6p8FmHmJpGd9" width="100%"></div></div>
-
-<!--320--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1PI3gTPZ-3ygkUpUh4_s2F0tJVWREw2VO" height="200px"><figcaption></figcaption>320</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1PI3gTPZ-3ygkUpUh4_s2F0tJVWREw2VO" width="100%"></div></div>
-
-<!--538--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13gqZxKy-dhlnkSZvqMi2O2WVsf4cW64j" height="200px"><figcaption></figcaption>538</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13gqZxKy-dhlnkSZvqMi2O2WVsf4cW64j" width="100%"></div></div>
-
-<!--538--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13gqZxKy-dhlnkSZvqMi2O2WVsf4cW64j" height="200px"><figcaption></figcaption>538</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13gqZxKy-dhlnkSZvqMi2O2WVsf4cW64j" width="100%"></div></div>
-
-
-<!--772--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1wEqhi5u0E72PSa2YaX2zlKPXAr6bHgWO" height="200px"><figcaption></figcaption>772</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1wEqhi5u0E72PSa2YaX2zlKPXAr6bHgWO" width="100%"></div></div>
-
-
-<!--822--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1nnSoRoQ7dnpJRExlm3XxXVpR2zYqT_1U" height="200px"><figcaption></figcaption>822</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1nnSoRoQ7dnpJRExlm3XxXVpR2zYqT_1U" width="100%"></div></div>
-
-<!--840--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1U6T05TMOVpA_hMCzYPt8881Xgipw6m4B" height="200px"><figcaption></figcaption>840</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1U6T05TMOVpA_hMCzYPt8881Xgipw6m4B" width="100%"></div></div>
-
-<!--841--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Y68_TpdFgSI3UIcYD8xhjfCaj4F3gBDw" height="200px"><figcaption></figcaption>841</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Y68_TpdFgSI3UIcYD8xhjfCaj4F3gBDw" width="100%"></div></div>
-
-
-<!--859--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1cDXRWazgC7YjE0UpJMoP06YrpShJ20xK" height="200px"><figcaption></figcaption>859</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1cDXRWazgC7YjE0UpJMoP06YrpShJ20xK" width="100%"></div></div>
-
-<!--4104--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1TgyD2N6vOeoADnobybAxOOlz1TO36__Q" height="200px"><figcaption></figcaption>4104</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1TgyD2N6vOeoADnobybAxOOlz1TO36__Q" width="100%"></div></div>
-
-
-<!--4206--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=19DAqcz8FdRzSwytibdfpbBd_RI0Hrn9a" height="200px"><figcaption></figcaption>4206</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=19DAqcz8FdRzSwytibdfpbBd_RI0Hrn9a" width="100%"></div></div>
-
-
-<!--4409--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ib6aGBT5JQFL9w3bqJxMwghhTVd-NPi2" height="200px"><figcaption></figcaption>4409</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ib6aGBT5JQFL9w3bqJxMwghhTVd-NPi2" width="100%"></div></div>
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm4206%20tm4211%20line%2021%201996-08-19.jpg"></td>
+<td><b>tm4206, tm4211 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Klaus%20Mundt%20-%20hinerkduetz/1996/tm4409%20depot%201996-08-19.jpg"></td>
+<td><b>tm4409</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
