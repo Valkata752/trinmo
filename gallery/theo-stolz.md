@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:23:57.535Z
+date: 2024-01-20T08:32:07.337Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
@@ -176,132 +176,238 @@ dateCreated: 2023-11-19T16:24:27.252Z
   <td colspan=2 >ℹ️ </td></table></div>
   
   
-
-<!--430--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1werol8kNCEkif3O5EzeO4blSZeNTNrtG" height="200px"><figcaption></figcaption>430</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1werol8kNCEkif3O5EzeO4blSZeNTNrtG" width="100%"></div></div>
-
-<!--448--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1xP_BJY1VuD2KtiZjQunOsXBt0xj9oniX" height="200px"><figcaption></figcaption>448</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1xP_BJY1VuD2KtiZjQunOsXBt0xj9oniX" width="100%"></div></div>
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm430%20Theo%20Stolz%2004.01.1997.jpg"></td>
+<td><b>tm430</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm448%20line12%20Theo%20Stolz%2002.05.1997.jpg"></td>
+<td><b>tm448 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 ## Tabs {.tabset}
 ### Т6М-700
-
-<!--725--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1wwvNMF3CPr6pDObh_SZuIU5l8mIU1r_4" height="200px"><figcaption></figcaption>725</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1wwvNMF3CPr6pDObh_SZuIU5l8mIU1r_4" width="100%"></div></div>
-
-
-<!--804--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=16VHK_JAeLXDDsZZwkjStb25Ejl47A10i" height="200px"><figcaption></figcaption>804</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=16VHK_JAeLXDDsZZwkjStb25Ejl47A10i" width="100%"></div></div>
-
-
-<!--806--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1lLJm0DvEaPxJfBzxcN3a7fWFUeqTl3gt" height="200px"><figcaption></figcaption>806</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1lLJm0DvEaPxJfBzxcN3a7fWFUeqTl3gt" width="100%"></div></div>
-
-<!--813--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13RG6vnTv7SphwspOTGldVUFSjvcV08sS" height="200px"><figcaption></figcaption>813</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13RG6vnTv7SphwspOTGldVUFSjvcV08sS" width="100%"></div></div>
-
-
-<!--821--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1qLuyoF2Nlhgg-qDlrCXWClrDpFAp2OMW" height="200px"><figcaption></figcaption>821</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1qLuyoF2Nlhgg-qDlrCXWClrDpFAp2OMW" width="100%"></div></div>
-
-<!--831--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1e87v4jvrXJ_5U4Nu2lBZTQHv-WLeINFw" height="200px"><figcaption></figcaption>831</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1e87v4jvrXJ_5U4Nu2lBZTQHv-WLeINFw" width="100%"></div></div>
-
-<!--833--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1063tQI8QnSJ1M_LQjSQfhN1OqtVLBe71" height="200px"><figcaption></figcaption>833</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1063tQI8QnSJ1M_LQjSQfhN1OqtVLBe71" width="100%"></div></div>
-
-<!--838--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1JzuwBBCJTTuHBD7v4zOVpqsRK1LYV6La" height="200px"><figcaption></figcaption>838</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1JzuwBBCJTTuHBD7v4zOVpqsRK1LYV6La" width="100%"></div></div>
-
-<!--843--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13saiSuDuLnr9jYrKBad0b-17h4_I7kFS" height="200px"><figcaption></figcaption>843</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13saiSuDuLnr9jYrKBad0b-17h4_I7kFS" width="100%"></div></div>
-
-<!--844--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1wpyeYbu639nKysGeRw-abLne1HsazZ3v" height="200px"><figcaption></figcaption>844</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1wpyeYbu639nKysGeRw-abLne1HsazZ3v" width="100%"></div></div>
-
-<!--847--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1twSkwLpTHLB1rwcjMhKlZz8mjJifshdD" height="200px"><figcaption></figcaption>847</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1twSkwLpTHLB1rwcjMhKlZz8mjJifshdD" width="100%"></div></div>
-
-<!--848--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1QpVi-R27PsD19dKbSKHrmda50L8aKmBE" height="200px"><figcaption></figcaption>848</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1QpVi-R27PsD19dKbSKHrmda50L8aKmBE" width="100%"></div></div>
-
-<!--862--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1_VDRINqma6U8nsboORf6wRXmQGjEJkCk" height="200px"><figcaption></figcaption>862</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1_VDRINqma6U8nsboORf6wRXmQGjEJkCk" width="100%"></div></div>
-
-<!--900--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=18ERsaz98X-GV81BwMDs8sh-cuBFrG238" height="200px"><figcaption></figcaption>900</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=18ERsaz98X-GV81BwMDs8sh-cuBFrG238" width="100%"></div></div>
-
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm725%20line2%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm725 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm804%20line2%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm804 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm806%20line10%20Theo%20Stolz%2004.01.1997.jpg"></td>
+<td><b>tm806 line10</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm813%20line2%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm813 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm821%20line10%20Theo%20Stolz%2004.01.1997.jpg"></td>
+<td><b>tm821 line10</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm831%20line10%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm831 line10</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm833%20line12%20Theo%20Stolz%2025.07.1997.jpg"></td>
+<td><b>tm833 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm838%20tm12%20Coca%20Cola%20Theo%20Stolz%2004.01.1997.jpg"></td>
+<td><b>tm838 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm843%20line12%20Coca%20Cola%20Theo%20Stolz%2001.05.1997.jpg"></td>
+<td><b>tm843 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm844%20line19%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm844 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm847%20line12%20Theo%20Stolz%2001.05.1997.jpg"></td>
+<td><b>tm847 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm848%20line19%20%d0%9c%d1%83%d1%80%d0%b0%20Mura%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm848 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm862%20Theo%20Stolz%2004.01.1997.jpg"></td>
+<td><b>tm862</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm900%20line7%20Ford%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm900 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Tabs {.tabset}
 ### Тatra T6A2
 
-<!--2005--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1DH5lZ0PnZlPkrSoLgB15fSCr9XH5SAzK" height="200px"><figcaption></figcaption>2005</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1DH5lZ0PnZlPkrSoLgB15fSCr9XH5SAzK" width="100%"></div></div>
-
-<!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=11zc-VJlUF4kKuBgvM9x4uLyUZOCw0Dop" height="200px"><figcaption></figcaption>2008</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=11zc-VJlUF4kKuBgvM9x4uLyUZOCw0Dop" width="100%"></div></div>
-
-<!--2022--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ULUtoVJe3yf3J-k4UCner5UbWYza8SEj" height="200px"><figcaption></figcaption>2022</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ULUtoVJe3yf3J-k4UCner5UbWYza8SEj" width="100%"></div></div>
-
-<!--2024--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ZP_mxrx0Av1qFfHmYkV0AlXx3RmxXfMP" height="200px"><figcaption></figcaption>2024</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ZP_mxrx0Av1qFfHmYkV0AlXx3RmxXfMP" width="100%"></div></div>
-
-
-<!--2027--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=10vFch08v_D6KReKx_9cOSpWTs2AfHuZj" height="200px"><figcaption></figcaption>2027</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=10vFch08v_D6KReKx_9cOSpWTs2AfHuZj" width="100%"></div></div>
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm2005%20line9%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm2005 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm2008%20line9%20Theo%20Stolz%2025.07.1997.jpg"></td>
+<td><b>tm2008 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm2022%20line5%20Theo%20Stolz%2003.05.1997.jpg"></td>
+<td><b>tm2022 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm2024%20line9%20Theo%20Stolz%2002.05.1997.jpg"></td>
+<td><b>tm2024 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm2027%20line9%20Theo%20Stolz%2001.05.1997.jpg"></td>
+<td><b>tm2027 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 
 ## Tabs {.tabset}
 ### Т6МD-1000
 
-<!--4028--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1WMBbeeThhOBHFLKsJEdhu7mtIlhpcPBB" height="200px"><figcaption></figcaption>4028</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1WMBbeeThhOBHFLKsJEdhu7mtIlhpcPBB" width="100%"></div></div>
-
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4028%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4028</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 ## Tabs {.tabset}
 ### Duewag T4-B4
-
-<!--4201--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1V3VFR_6i03KJN-s_qxLY679mNroVQAWO" height="200px"><figcaption></figcaption>4201</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1V3VFR_6i03KJN-s_qxLY679mNroVQAWO" width="100%"></div></div>
-
-<!--4213--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mLKL53cRFWb_YHTKxitnzC05HGg6S5qP" height="200px"><figcaption></figcaption>4213</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mLKL53cRFWb_YHTKxitnzC05HGg6S5qP" width="100%"></div></div>
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4201%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4201</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4213%20line22%20lanczos3.jpg"></td>
+<td><b>tm4213 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 ## Tabs {.tabset}
 ### Duewag GT6
 
-<!--4231--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Bhi8O16ehpJs83PnFFYrlOPSNxlCEM38" height="200px"><figcaption></figcaption>4231</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Bhi8O16ehpJs83PnFFYrlOPSNxlCEM38" width="100%"></div></div>
-
-<!--4238--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=158H3YKfJPd0ljC6I0UwOTscxz4hkK1RM" height="200px"><figcaption></figcaption>4238</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=158H3YKfJPd0ljC6I0UwOTscxz4hkK1RM" width="100%"></div></div>
-
-<!--4283--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1isWGyGFFTkWyRio5tYG41KVrDb6NYmyn" height="200px"><figcaption></figcaption>4283</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1isWGyGFFTkWyRio5tYG41KVrDb6NYmyn" width="100%"></div></div>
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4231%20line22%20lanczos3.jpg"></td>
+<td><b>tm4231 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4238%20line22%20Theo%20Stolz%2025.07.1997.jpg"></td>
+<td><b>tm4238 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4283%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4283 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
 
 ## Tabs {.tabset}
 ### Duewag GT8
-
-<!--4401--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XoO1N8MegY1zpL4puzbjtdgAkhjd_ZU7" height="200px"><figcaption></figcaption>4401</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XoO1N8MegY1zpL4puzbjtdgAkhjd_ZU7" width="100%"></div></div>
-
-<!--4412--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" height="200px"><figcaption></figcaption>4412</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1C6HxrKEAPgak6I1qGjc_zDmF00Ycx-tv" width="100%"></div></div>
-
-<!--4413--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ZwG7YkK3lMay-1SUDBNJ69bKHF9BbZin" height="200px"><figcaption></figcaption>4413</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ZwG7YkK3lMay-1SUDBNJ69bKHF9BbZin" width="100%"></div></div>
-
-
-<!--4415--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ynKQncuf-_RXoszyWn6gDU1XalXcF--0" height="200px"><figcaption></figcaption>4415</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ynKQncuf-_RXoszyWn6gDU1XalXcF--0" width="100%"></div></div>
-
-
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4401%20line22%20lanczos3.jpg"></td>
+<td><b>tm4401 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4412%20line22%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4412 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4413%20line22%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4413 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Theo%20Stolz/1997/tm4415%20line22%20Theo%20Stolz%2030.04.1997.jpg"></td>
+<td><b>tm4415 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## 1996
 ## Tabs {.tabset}
