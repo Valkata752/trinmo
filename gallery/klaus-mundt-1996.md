@@ -2,12 +2,16 @@
 title: Фотограф - Klaus Mundt - 1996
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:36:21.268Z
+date: 2024-01-20T08:39:50.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T08:35:11.246Z
 ---
 
+- [Виж и другата му галерия *1997*](/gallery/klaus-mundt-1997)
+{.links-list}
+
+---
 ## Tabs {.tabset}
 ### 
   <!--следващ пост--> 
