@@ -2,7 +2,7 @@
 title: Фотограф - Thierry Hamal
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T08:02:49.257Z
+date: 2024-01-21T08:10:50.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T14:50:45.009Z
@@ -367,31 +367,93 @@ dateCreated: 2024-01-07T14:50:45.009Z
 ## Tatra T6B5
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11m8LHIVYeYKw_8plf744sBw5NdXHJWEq" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11m8LHIVYeYKw_8plf744sBw5NdXHJWEq" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1TqPrOs6-L793qaTyQj_tzUzQHFhnj-H3" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1TqPrOs6-L793qaTyQj_tzUzQHFhnj-H3" width="100%"></div></div>
+ 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4116_20_.jpg"></td>
+<td><b>tm4116 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4128_20_.jpg"></td>
+<td><b>tm4128 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
+  
 
 
 ## Duewag T4-B4
 ## Tabs {.tabset}
 ### 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1RBFNqqJoEoxzwXSLiK8Lz_e8e4_w4I1v" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1RBFNqqJoEoxzwXSLiK8Lz_e8e4_w4I1v" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1cswXXFI5gADbOjdZB4-NWpQa_PAYn__q" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1cswXXFI5gADbOjdZB4-NWpQa_PAYn__q" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4231_22_.jpg"></td>
+<td><b>tm4231 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4240_22_.jpg"></td>
+<td><b>tm4240 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
 
 
 
 ## Duewag GT6
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1UiV7mJGBsp4g0dVigBwReqTqODPLq728" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1UiV7mJGBsp4g0dVigBwReqTqODPLq728" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1_8eknAD7twO7-LIhIEe173bTbybn4GW4" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1_8eknAD7twO7-LIhIEe173bTbybn4GW4" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4203_21_.jpg"></td>
+<td><b>tm4203 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4203_21__1.jpg"></td>
+<td><b>tm4203 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
 
 ## Duewag GT8
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/14QB9_lQUU0vMKVHNRHd7ReLdRAqE-eXn" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/14QB9_lQUU0vMKVHNRHd7ReLdRAqE-eXn" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/16pTI2GUDykS2TTRssqOzgjCrNRfiH-2A" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/16pTI2GUDykS2TTRssqOzgjCrNRfiH-2A" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1C8E1oJktpsQ_pnlDcGsIgd9-lutU_ZSS" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1C8E1oJktpsQ_pnlDcGsIgd9-lutU_ZSS" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1KRGUAwxfXMmhqyjkEbe1bkpL9lAO41fB" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1KRGUAwxfXMmhqyjkEbe1bkpL9lAO41fB" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1xBlXTHtjQjsxPLH3n8AUfP22TuIo-1R_" height="400px"><figcaption></figcaption><b>tm line </b> 📷 Thiery Hamal</figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1xBlXTHtjQjsxPLH3n8AUfP22TuIo-1R_" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4410_22_.jpg"></td>
+<td><b>tm4410 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4411_22_.jpg"></td>
+<td><b>tm4411 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4411_22_.jpg"></td>
+<td><b>tm4411 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4412_22_.jpg"></td>
+<td><b>tm4412 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20Thiery%20Hamal/tm4415_22_.jpg"></td>
+<td><b>tm4415 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
