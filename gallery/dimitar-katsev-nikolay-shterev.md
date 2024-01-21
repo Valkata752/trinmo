@@ -2,7 +2,7 @@
 title: Фотографи Димитър Кацев и Николай Щерев
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-19T09:10:56.452Z
+date: 2024-01-21T16:55:59.359Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-30T22:46:08.136Z
@@ -18,69 +18,69 @@ dateCreated: 2023-12-30T22:46:08.136Z
 ###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/bul.%20vasil%20levski.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/bul.%20vasil%20levski.jpg"></td>
 <td><b></b>📌 бул. Маршал Толбухин (сегашен бул.Васил Левски)<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/centralni%20hali.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/centralni%20hali.jpg"></td>
 <td><b></b>📌 Централни хали<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/georgi%20dimitrov.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/georgi%20dimitrov.jpg"></td>
 <td><b></b>📌 бул. Г. Димитров (сегашен бул. Мария Луиза)<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/lagera.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/lagera.jpg"></td>
 <td><b></b>📌бул. IX септември (сегашен бул. Цар Борис III)<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/mtb%20tm4.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/mtb%20tm4.jpg"></td>
 <td><b></b>📌 неизв. <br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/sofiiski%20universitet.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/sofiiski%20universitet.jpg"></td>
 <td><b></b>📌Софийски Университет<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/stamboliiski.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/stamboliiski.jpg"></td>
 <td><b>Трите коловоза на Стамболийски!!!</b><br>📌 бул. Стамболийски<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/sv.%20nedelya.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/sv.%20nedelya.jpg"></td>
 <td><b></b>📌 пл. Света Неделя<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/sv.%20nedelya%202.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/sv.%20nedelya%202.jpg"></td>
 <td><b></b><b>Трите коловоза на пл. Св. Неделя!!!</b><br>📌<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
     <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/tm91%20line3.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/tm91%20line3.jpg"></td>
 <td><b>tm91 line3</b><br>📌 пам. Васил Левски<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%201967%20%d0%a4%d0%be%d1%82%d0%be%d0%b0%d0%bb%d0%b1%d1%83%d0%bc/zapaden%20park.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/fotoalbum-1967-sofia/zapaden%20park.jpg"></td>
 <td><b></b>📌 ж.к. Христо Михайлов (сегашен ж.к. Западен парк)<br> 📷 Димитър Кацев, Николай Щерев <br>Фотоалбум София: „Наука и изкуство“, 1967.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
