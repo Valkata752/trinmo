@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-02T10:45:55.375Z
+date: 2024-01-22T18:30:06.499Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -19,7 +19,7 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 ##
 <!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tfrwuCwBcUhwB8Uh-0obAHsdynuQSlwG" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Or5PigJE1t0wclgwD-i61jD1Jgzk0Fxi" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16hD_klLc6RUKZ2JfXGaKSv_AKzdtACGe" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W010RqXnEOAMmSgMt5kpMga0WRgybpYR" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ZMdDnj9-a8E15zPh95kjh9FzWIcxHnNu" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1t8DaqOAcFBmHZhfA4YSXFy90u3RaJGzP" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button></div>
+<button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/2005-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vqzPvsCV92qk5XaLYOWmWeBXzesqXfY4" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1999-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1998-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1991-02-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1968(1)cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1962-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button></div>
 
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
