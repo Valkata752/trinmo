@@ -2,7 +2,7 @@
 title: Годишни финансови отчети и доклади на дейността
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-15T09:27:42.350Z
+date: 2024-01-22T14:24:07.213Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-22T12:38:38.864Z
@@ -44,6 +44,9 @@ dateCreated: 2022-10-22T12:38:38.864Z
 
 
 ## Бизнес планове и програми на транспортните дружества
+
+
+**2023** Столичен електротранспорт|  [Бизнес план 2023](https://drive.google.com/file/d/11rB0tOR4F7tpJBH4WzZtmxs8BPmLW_a_/view?usp=sharing)
 
 **2021** Столичен електротранспорт|  [Бизнес план 2021](https://drive.google.com/file/d/1gJcwABOOxH86Ssycw8r6OG0wjDd6Bb8N/view?usp=sharing)
 
