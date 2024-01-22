@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-07T09:41:49.450Z
+date: 2024-01-22T16:15:35.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -28,7 +28,14 @@ dateCreated: 2023-09-30T11:25:42.499Z
 |6 Tatra 500 HB |6.12.2023 г. | |
 |7 SKODA SM 11| 20.12.2023 г.| |
 |8 JELCZ BERLIETT PR100 |3.01.2024 г.| |
+|9 AUTOSAN H-9 03 | 17.01.2024 г. | |
+|10 IKARUS 66 | 31.01.2024 г. | |
+|11 ROBUR GARANT |14.02.2024 г. | |
 {.dense}
+
+
+
+
 
 
 # :poland: Kultowe Autobusy PRL-u
