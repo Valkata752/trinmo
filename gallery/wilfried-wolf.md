@@ -2,7 +2,7 @@
 title: Фотограф - Wilfried Wolf
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:26:04.157Z
+date: 2024-01-22T11:38:33.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:58:08.531Z
@@ -12,19 +12,43 @@ dateCreated: 2023-11-20T21:58:08.531Z
 
 ## Tabs {.tabset}
 ### 
-<!--2062--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1LN7SURouBhBRvzr-e3wXTgWtj4bC9-uI" height="200px"><figcaption></figcaption>2062</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1LN7SURouBhBRvzr-e3wXTgWtj4bC9-uI" width="100%"></div></div>
-
-<!--2525--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1vmgmXwE7KpPnQBz7hUpP0u_Z0ZRzRkYX" height="200px"><figcaption></figcaption>2525</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1vmgmXwE7KpPnQBz7hUpP0u_Z0ZRzRkYX" width="100%"></div></div>
-
-
-<!--2632--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1rGrkQgb_7vsmNdfdpytcXTf88KKl9Jt1" height="200px"><figcaption></figcaption>2632</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1rGrkQgb_7vsmNdfdpytcXTf88KKl9Jt1" width="100%"></div></div>
-
-<!--2635--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1-XgmthN7Z2f_Zs08qbU_7LC0hjaARa48" height="200px"><figcaption></figcaption>2635</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1-XgmthN7Z2f_Zs08qbU_7LC0hjaARa48" width="100%"></div></div>
-
-
-<!--4008, 4015--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1f3QexglVTaVihZTyVr03pO2zXni21rfH" height="200px"><figcaption></figcaption>4008, 4015</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1f3QexglVTaVihZTyVr03pO2zXni21rfH" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tb2062%20tb2061%20depo.jpg"></td>
+<td><b>tb2062, tb2061</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tb2525.jpg"></td>
+<td><b>tb2525</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tb2632.jpg"></td>
+<td><b>tb2632</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tb2635.jpg"></td>
+<td><b>tb2635</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tm4008.jpg"></td>
+<td><b>tm4008</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wilfried-wolf/tm4015.jpg"></td>
+<td><b>tm4015</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Wilfried Wolf</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+    
+  
