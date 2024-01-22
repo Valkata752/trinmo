@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T17:13:04.581Z
+date: 2024-01-22T17:54:33.431Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -33,7 +33,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1PDZXcR8btUhwyYxjhosRKxq5rYRf1S7E"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-14.jpg"></td>
 <td> <b>Трамвай безъ релси</b><br> Статия за пускането на първия тролейбус в София в списание Сердика</td></tr>
   <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
   
@@ -42,7 +42,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1nu-fO7huUy0HIJyrejWJd_WX8y_kxGnk"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-13.jpg"></td>
 <td> Тролейбусът с табели "Служебень"</td></tr>
   <td colspan=2 >ℹ www.lostbulgaria.com</td></table></div>
   
@@ -50,7 +50,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1A2N8qnatySgftAS_wxEhxYw2u0hFFgap"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-12.jpg"></td>
 <td> <b>Хванат в кадър</b><br> Тролейбус 102 в цялата си прелест. <br>Виждат се и емайлираният номер и герб.</td></tr>
   <td colspan=2 >ℹ <a href=""></a></td></table></div>
   
@@ -67,7 +67,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1FAe2Vc-5ZlqTPyXRaC-fuYTmUK0ySt3r"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/eberswalde-3.jpg"></td>
 <td>На снимката са показани два тролейбуса от немския тип MPE 1 на кръстовището Freienwalder Straße/Saarstraße при разклона за артилерийските казарми.
 
 Тролейбусната контактна мрежа, която на снимката завива наляво, води по Saarstraße. Тролейбусната контактна мрежа от дясната страна на снимката води до казармите на артилерийски полк 75/I в посока към Sommerfelde.</td></tr>
@@ -84,7 +84,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1EqFbr_ygwagjkdFmUZtr4SBZYfbMA_9k"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/koblenz.jpg"></td>
 <td> Друг нестандартен модел е този за Кобленц, при който прътовете са поставени един върху друг.
 </td></tr>
   <td colspan=2 >ℹ obus-eberswalde.de</td></table></div>
@@ -98,7 +98,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1gGmw4O3-i7trHt2ROZ5ptlQVZUv3oWWR"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/graz-5.jpg"></td>
 <td> Историята на един от тях е по-интересна. Тролей №103 е произведен през 1940 и през 1941 е регистриран за движение. Изведен е от експлоатация през 1966. Продаден е с цел да се използва като склад, но няколко години по-късно е купен повторно от ентусиаст, за да бъде съхранен. През 1985 е прехвърлен в двора на трамвайния музей в града. Към момента не е ясно дали още се намира там.
 </td></tr>
   <td colspan=2 >ℹ styria-mobile.at/home/forum/index.php</td></table></div>
@@ -110,19 +110,19 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1El9nHaEiRatFd6AuqnmEvWLw-jzuHWbl"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/salzburg-10.jpg"></td>
 <td>На фона на крепост Хоензалцбург</td></tr>
   <td colspan=2 >ℹ https://www.krone.at/2252617 </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1pF3sNsfTD_lPJb-g9nX1MhW_29YtiLG7"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/dresden-1.jpg"></td>
 <td>Първата радиална тролейбусна линия А от Зигмудсплац до Обергнил.  </td></tr>
   <td colspan=2 >ℹ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1_DxxeV9ZhxagFkAvaaZkf5RLjBUPa1Zm"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/salzburg-7.jpg"></td>
 <td> Това е и единственият град, в който е документирано използването на тролей за превоз на товари - извън контактната мрежа, тролеят използва агрегат и може да тегли цели четири ремаркета.</td></tr>
   <td colspan=2 >ℹ </td></table></div>
   
@@ -130,7 +130,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1lYOkZfaOTtiAEy7g6YHXqQWRW3M6mfQ0"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/dresden-dvg.jpg"></td>
 <td>Откриване на тролейбусния транспорт в Дрезден (08 ноември 1947 г.) </td></tr>
   <td colspan=2 >ℹ снимка: Erich Höhne | <a href="https://www.deutschefotothek.de/documents/obj/70601640/df_hp_0009997_004">www.deutschefotothek.de</a></td></table></div>
   
@@ -155,7 +155,7 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/10mjNMFnGWhWGg58crOWwv-CbnyCqAf6u"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-15.jpg"></td>
 <td> Страхотна снимка на тролейбус MAN MPE 1 по линия Т до автобус <a href="/bg/public-transport/fleet-list/1935-praga-tn">Praga TN</a>.</td></tr>
   <td colspan=2 >ℹ От велосипеда до метрото</td></table></div>
   
@@ -190,18 +190,32 @@ lh3.google.com/u/0/d/
 # Галерия
 # Tabs {.tabset}
 ##
-<!--ТБ--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" height="200px"><figcaption><b>Официално представяне</b> <br> 📷 Sofia History Museum</figcaption></figure></button><div class="dropdown-content"><a href="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" target="_blank" title="MAN"> <img src="https://www.sofiahistorymuseum.bg/images/troley/1.jpg" width="100%"></a></div></div>
-  
-<!--ТБ--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofiahistorymuseum.bg/images/troley/3.jpg" height="200px"><figcaption><b>Официално представяне</b> <br> 📷 Sofia History Museum</figcaption></figure></button><div class="dropdown-content"><a href="https://www.sofiahistorymuseum.bg/images/troley/3.jpg" target="_blank" title="MAN"> <img src="https://www.sofiahistorymuseum.bg/images/troley/3.jpg" width="100%"></a></div></div>
-  
-  <!--ТБ--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://www.sofiahistorymuseum.bg/images/troley/4.jpg" height="200px"><figcaption><b>Официално представяне</b> <br> 📷 Sofia History Museum</figcaption></figure></button><div class="dropdown-content"><a href="https://www.sofiahistorymuseum.bg/images/troley/4.jpg" target="_blank" title="MAN"> <img src="https://www.sofiahistorymuseum.bg/images/troley/4.jpg" width="100%"></a></div></div>
-  
- <!--ТБ--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1Cvg1AoEmOEWHM4EvWecGKNb3EnVq6O2m" height="200px"><figcaption><b>Горна баня</b> <br> 100 години Градски транспорт</figcaption></figure></button><div class="dropdown-content"><a href="https://lh3.google.com/u/0/d/1Cvg1AoEmOEWHM4EvWecGKNb3EnVq6O2m" target="_blank" title="MAN"> <img src="https://lh3.google.com/u/0/d/1Cvg1AoEmOEWHM4EvWecGKNb3EnVq6O2m" width="100%"></a></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-16.jpg"></td>
+<td> Официално представяне.</td></tr>
+  <td colspan=2 >ℹ </td></table></div>
   
   
- 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-17.jpg"></td>
+<td> Официално представяне.</td></tr>
+  <td colspan=2 >ℹ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-18.jpg"></td>
+<td> Официално представяне.</td></tr>
+  <td colspan=2 >ℹ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tb101,%20tb102.jpg"></td>
+<td> От албум 100 години градски транспорт София..</td></tr>
+  <td colspan=2 >ℹ </td></table></div>
+  
   
