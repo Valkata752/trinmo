@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-16T21:21:44.593Z
+date: 2024-01-23T22:47:23.058Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -19,7 +19,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 Първият вестник на Столична общна е почнал да излиза, под име **"Столичен бюлетин"** през 1899 година и е продължил до 1904 - шест години. През 1915 година е възобновен с ие **"Софийски общински вестник"** до 1917 г. и спира в своята четвърта годишнина. През 1925 година е възобновен с име **"Столичен общински вестник"** с една годишнина и възобновен със същото име през 1927 година.
 
 ## сп. София (1953-1991)
-<img src="https://drive.google.com/uc?export=view&id=1ASnmUMV-0IBrh5gI4kX3xWAtPbW0oUjN">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/cover%20sofia.jpg">
 
 ## Tabs {.tabset}
 
@@ -197,7 +197,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 ## сп. Сердика (1937-1952)
-<img src="https://drive.google.com/uc?export=view&id=1eLWxB_8sLpknYx-VTX4GLQO5pX_JiPMj">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/cover.jpg">
 
 ## Tabs {.tabset}
 
@@ -398,7 +398,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ## Столичен общински вестник (1925 - 1936)
 
-<img src="https://drive.google.com/uc?export=view&id=1eF7dwKdPDskIF9wA4P6oJC5D9MF0p6td">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshtinski/cover.jpg">
 
 
 ## Tabs {.tabset}
@@ -673,7 +673,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 ## Софийски общински вестник (1914-1918)
 
-<img src="https://drive.google.com/uc?export=view&id=1eFsHSohl_0qmzj5DkdueN61v7KQL_MCM">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-sofiiski-obshtinski/cover.jpg">
 
 ## Tabs {.tabset}
 
@@ -703,7 +703,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 ## в-к Вечерни новини (1952 - 1992) 
-![](https://lh6.googleusercontent.com/IhDo4pGL5BuckGBf2DndH_Te3Bk195Ft_TNDcKl-VYUo-7SkaVyQlH8WwMRi4pFQSCYCBsaMbj1nwlfOvjW6Eda_8j4fQIA4VRlbHECBCEussEPdMgWdyy1gkTPQ4e5hCWGrhRUM)
+![](http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/cover.png)
 
                                            
 ## Tabs {.tabset}
