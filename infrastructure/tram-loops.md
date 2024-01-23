@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-08T17:46:12.814Z
+date: 2024-01-23T17:47:13.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -22,28 +22,19 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1979
-<div class="table-responsive">
-<table style="width:100%">
-  <tr>
-    <td><img src="https://lh6.googleusercontent.com/YS61W48Y1SRRcxTHsP9pAV0umQDoxihlDlSdDDxCPW5wdmutE9pjjxDleVG2naHLYIo=w2400"></td>
-    <td>ТМ1 от 1979 г. до 1980 г. <br><b>ТМ7 от 1979 г. до сега </b><br> ТМ17 от 06.2009г. до 03.2010г. <br> <b>ТМ27 от 2022 г. до сега </b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Старо наименование - Борово</td>
-</table>
-</div>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh6.googleusercontent.com/YS61W48Y1SRRcxTHsP9pAV0umQDoxihlDlSdDDxCPW5wdmutE9pjjxDleVG2naHLYIo=w2400"></td><td>ТМ1 от 1979 г. до 1980 г. <br><b>ТМ7 от 1979 г. до сега </b><br> ТМ17 от 06.2009г. до 03.2010г. <br> <b>ТМ27 от 2022 г. до сега </b></td></tr><td colspan=2 >ℹ️ Старо наименование - Борово</td></table></div>
 
 ## Гео Милев (1435мм)
 
 ## Tabs {.tabset}
 
 ### 1987
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/fY1Gr0xyJBf34XKQzAMrBu516UAD1r6pevAQoWYUKBZk6qpFhyorrPuFa1Z4NtDHOYw=w2400"></td>
-    <td>ТМ4 от 1965 до 06.1988 <br> ТМ10 от 1965 до 06.1988 <br> ТМ20 от 09.1987 до 09.1988 <br> ТМ21 от 09.1995 до 05.2002 <br><b>ТМ23 от 07.2010 до 10.2010 и от 06.2017 до сега</b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Използва се от ТМ20 при подбиване на релсовия път.</td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh4.googleusercontent.com/fY1Gr0xyJBf34XKQzAMrBu516UAD1r6pevAQoWYUKBZk6qpFhyorrPuFa1Z4NtDHOYw=w2400"></td><td>ТМ4 от 1965 до 06.1988 <br> ТМ10 от 1965 до 06.1988 <br> ТМ20 от 09.1987 до 09.1988 <br> ТМ21 от 09.1995 до 05.2002 <br><b>ТМ23 от 07.2010 до 10.2010 и от 06.2017 до сега</b></td></tr><td colspan=2 >ℹ️ Използва се от ТМ20 при подбиване на релсовия път.</td></table></div>
+
+  
+  
 
 
 ## депо Искър
@@ -51,39 +42,29 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1987
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="
-https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y0nJc2dBuyjOWvl8SixshA=w2400"></td>
-    <td><b>TM20 от 1987г. до сега </b> </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y0nJc2dBuyjOWvl8SixshA=w2400"></td><td><b>TM20 от 1987г. до сега</b></td></tr><td colspan=2 >ℹ️ </td></table></div>
+
 
 ## пл. Журналист
 
 ## Tabs {.tabset}
 
 ### 1929
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/YXlZHJHoXJfcz94eITKU5dGJy6RF3asC6HheNhfKIw2jjV9jgIljQgso61yP2E2SPCI=w2400"></td>
-    <td>TM2 от 03.1999 до 06.2000 и от 01.2004 до 01.2010 <br> TM8 от 03.1993 до 05.1994 <br> <b>TM12 от 1961 до 1994 г. и от 1999 г. до сега </b><br> TM14 от 1968г. до 1971г. и от 06.2000 до 04.2001<br> <b> TM18 от 1970 до 1982 и от 2013 до сега </b></td>
-  </tr>    
-  <td colspan=2 >ℹ️ Старо наименование - <b>пл. Йорданка Николова</b>, <b>пл. Йорданка Чанкова</b> и <b>пл. Руен</b></td>  
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh4.googleusercontent.com/YXlZHJHoXJfcz94eITKU5dGJy6RF3asC6HheNhfKIw2jjV9jgIljQgso61yP2E2SPCI=w2400"></td><td>TM2 от 03.1999 до 06.2000 и от 01.2004 до 01.2010 <br> TM8 от 03.1993 до 05.1994 <br> <b>TM12 от 1961 до 1994 г. и от 1999 г. до сега </b><br> TM14 от 1968г. до 1971г. и от 06.2000 до 04.2001<br> <b> TM18 от 1970 до 1982 и от 2013 до сега</b></td></tr><td colspan=2 >ℹ️ Старо наименование - <b>пл. Йорданка Николова</b>, <b>пл. Йорданка Чанкова</b> и <b>пл. Руен</b></td></table></div>
+
+
+
 
 ## Западен парк
 
 ## Tabs {.tabset}
 
 ### 1968
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/O6Q32_5Vk24U9mls3xVBlfI35WjmiebdAvHUrWpxh0we9GAhnWaYtRET07v2cAWw5yM=w2400"></td>
-    <td>ТМ8 от 01.1980 до 1989 г. и от 2002 до 04.2007 г. <br> <b>ТМ10 от 1962г. до сега </b> <br>ТМ11 от 1969 до 1970 г.<br> ТМ15 от 1968 до 1976 г. <br> </td>
-  </tr>
-  <td colspan=2 >ℹ️ Старо наимеонование - <b> ж.к. Христо Михайлов </b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh5.googleusercontent.com/O6Q32_5Vk24U9mls3xVBlfI35WjmiebdAvHUrWpxh0we9GAhnWaYtRET07v2cAWw5yM=w2400"></td><td>ТМ8 от 01.1980 до 1989 г. и от 2002 до 04.2007 г. <br> <b>ТМ10 от 1962г. до сега </b> <br>ТМ11 от 1969 до 1970 г.<br> ТМ15 от 1968 до 1976 г. </td></tr><td colspan=2 >ℹ️ Старо наименование - <b>ж.к. Христо Михайлов</b></td></table></div>
+
 
 ### Снимки
 <div class="dropdown"><button class="imgbtn">
@@ -100,12 +81,10 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1949
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/A7OaGFZLdkBEFzTgLD99ATRaVaWWngVTRz0JBvk5dVsKK-e1PFDFMREyjXJfk_b5Mrg=w2400"></td>
-    <td><b>ТМ3 от 1950 г. до сега</b><br> ТМ8 от 2000 до 2002г.<br> ТМ15 от 2005г. до 2009г. </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh4.googleusercontent.com/A7OaGFZLdkBEFzTgLD99ATRaVaWWngVTRz0JBvk5dVsKK-e1PFDFMREyjXJfk_b5Mrg=w2400"></td><td>ТМ3 от 1950 г. до сега<br> ТМ8 от 2000 до 2002г.<br> ТМ15 от 2005г. до 2009г. </td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
 
 
 ## Иван Вазов
@@ -113,12 +92,9 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/IjkJiftpKx8BVWaDXqN4HRlT7_mvAmKsqapE4UNKXzESih82ehtg09x0RMIuxHXbS-I=w2400"></td>
-    <td><b>TM1 от 1947 г. до сега </b> <br> <b>TM6 от 1928 до 1953 г. и от 2016г. до сега </b> <br> TM7 от 1958г. до 1979г.<br> TM14 от 1960 до 1966 г. <br> TM15 от 1980 до 1993г. <br> TM16 от 1966г. до 1973г. </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh4.googleusercontent.com/IjkJiftpKx8BVWaDXqN4HRlT7_mvAmKsqapE4UNKXzESih82ehtg09x0RMIuxHXbS-I=w2400"></td><td><b>TM1 от 1947 г. до сега </b> <br> <b>TM6 от 1928 до 1953 г. и от 2016г. до сега </b> <br> TM7 от 1958г. до 1979г.<br> TM14 от 1960 до 1966 г. <br> TM15 от 1980 до 1993г. <br> TM16 от 1966г. до 1973г. </td></tr><td colspan=2 >ℹ️ </td></table></div>
+
 
 
 ## автостанция Изток
@@ -126,12 +102,9 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1995
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/wODVw_W0kPIaS2ul6Zslspavht3kv6U-j7wg6VmwZa1tbS3nGeA7GMCrBEUx98xqWQU=w2400"></td>
-    <td>ТМ21 от 15.9.1995 до 2002г. <br><b> ТМ22 от 15.9.1995 г. до сега</b> </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td>
+  <img src="https://lh4.googleusercontent.com/wODVw_W0kPIaS2ul6Zslspavht3kv6U-j7wg6VmwZa1tbS3nGeA7GMCrBEUx98xqWQU=w2400"></td><td>ТМ21 от 15.9.1995 до 2002г.<br> ТМ22 от 15.9.1995 г. до сега </td></tr><td colspan=2 >ℹ️ </td></table></div>
+
 
 
 ## Илиянци
