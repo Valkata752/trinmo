@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-23T17:53:50.742Z
+date: 2024-01-23T17:54:52.522Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -117,17 +117,19 @@ dateCreated: 2023-01-18T15:24:02.204Z
 <div class="table-responsive"><table style="width:100%"><tr><td>
   <tr>
     <td style="width:400px"><img src="https://lh6.googleusercontent.com/M0GIJdt7ZL1RJ8KplLQq5d0zw7FkfCH9JQYk3yzqV89z5S5m4cvjXt69o3CZ2b2-LKs=w2400"></td>
-    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г.</td>
-  </tr>
-</table>
+    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г. </td></tr><td colspan=2 >ℹ️ </td></table></div></div>
+
+
+
 
 ###
 <div class="table-responsive"><table style="width:100%"><tr><td>
   <tr>
     <td style="width:400px"><img src="https://lh6.googleusercontent.com/M0GIJdt7ZL1RJ8KplLQq5d0zw7FkfCH9JQYk3yzqV89z5S5m4cvjXt69o3CZ2b2-LKs=w2400"></td>
-    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г.</td>
-  </tr>
-</table>
+    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г. </td></tr><td colspan=2 >ℹ️ </td></table></div></div>
+
+
+
 
 ## Княжево
 
