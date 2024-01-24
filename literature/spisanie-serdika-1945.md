@@ -2,7 +2,7 @@
 title: Списание Сердика - 1945 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-24T08:59:52.618Z
+date: 2024-01-24T07:52:07.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T08:45:00.280Z
@@ -10,33 +10,31 @@ dateCreated: 2023-12-24T08:45:00.280Z
 
 ## кн. 1 и 2, с. 61
 Какво наследихме - разрушени трамваи и депа
-
-<img src="https://drive.google.com/uc?id=1qjW8q-58R_g8ka9jW5XU_AN78Ln-QO2Q">
-<img src="https://drive.google.com/uc?id=1b9AAmmkbRW4CrjSHtJ1BkVloH4ma-4SG">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-1-2-p1.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-1-2-p2.jpg">
 
 ## кн. 1 и 2, с. 69
 Уличната мрежа
 
-<img src="https://drive.google.com/uc?id=1m0uhV_75ALvx9jZJtUaxJ5X9A7GVYt35">
-<img src="https://drive.google.com/uc?id=12JyvgluMkhbt2jOANmzZ24wAsB8vJVdy">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-1-2-p3.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-1-2-p4.jpg">
 
 ## кн. 1 и 2, с. 119
 Статистически данни - общински трамваи, автобуси и тролейбуси
 
-
-<img src="https://drive.google.com/uc?id=1wj_WQMoToQW495h_fHMK7peNctVMXqMu">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-1-2-p5.jpg">
 
 
 
 ## кн. 3 и 4, с. 36
 1-ви май (Манифестация на служители на трамваен транспорт)
-<img src="https://drive.google.com/uc?id=1lAJs64pfxf7lfd58tn--GMprCKz-NZ6N">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-3-4-p1.jpg">
 
 ## кн. 3 и 4, с. 78
 Статистически данни - общински трамваи, автобуси и тролейбуси
-<img src="https://drive.google.com/uc?id=1FqeP5AJPXY-WQNjai29Ps__-uMdjXBBW">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-3-4-p2.jpg">
 
 ## кн. 5 и 6, с. 4
 Снимка - трамвай
 
-<img src="https://drive.google.com/uc?id=15AzCI4G0ekBMwzbnMLNWQ5i695TByc9w">
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/1945-5-6.jpg">
