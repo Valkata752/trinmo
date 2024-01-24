@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:32:35.432Z
+date: 2024-01-24T07:35:33.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -192,6 +192,8 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ### 1959
 - [➡️ *Списание София - 1959*](/literature/spisanie-sofia-1959)
 {.links-list}
+
+бр. 3, с. 5 - **Електротранспорт**
 
 
 ### 1953
