@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T19:22:49.929Z
+date: 2024-01-24T19:31:03.282Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -399,20 +399,18 @@ dateCreated: 2022-04-30T18:10:10.812Z
 
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a58.jpg">
 
-### Автобусна линия 59
-
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a59.jpg">
-
-### Автобусни линии 60 и 61
+### Автобусна линия 60
 
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a60.jpg">
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a60-1.jpg">
+### Автобусни линии 61
 
-  
- 
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61.jpg">
 
-### Автобусна линия 62 (99)
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-1.jpg">
+
+
+### Автобусна линия 62
 
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a62.jpg">
 
