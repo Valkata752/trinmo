@@ -2,18 +2,14 @@
 title: Списание София - 1953 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:32:40.236Z
+date: 2024-01-24T07:33:24.016Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-07T15:20:43.940Z
 ---
 
 ## брой 1 - Софийския градски транспорт
-
-![](/литература/списания/софия/1953/sof_1953_kn1_0027-1.jpg)
-
-![](/литература/списания/софия/1953/sof_1953_kn1_0028-1.jpg)
-
-![](/литература/списания/софия/1953/sof_1953_kn1_0029-1.jpg)
-
-![](/литература/списания/софия/1953/sof_1953_kn1_0030-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1953_kn1_0027-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1953_kn1_0028-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1953_kn1_0029-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1953_kn1_0030-1.jpg"/>
