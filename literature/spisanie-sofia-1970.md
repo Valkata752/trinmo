@@ -2,50 +2,36 @@
 title: Списание София - 1970 год.
 description: 
 published: true
-date: 2024-01-24T06:49:34.934Z
+date: 2024-01-24T06:55:40.238Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:39:41.613Z
 ---
 
 ## брой 12 - Зимата и "транспортът"
-
-![](/литература/списания/софия/1970/sof_1970_kn12_0010-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn12_0012-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn12_0013-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn12_0010-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn12_0012-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn12_0013-1.jpg"/>
 
 ## брой 10 - Когато секундата се цени
-
-![](/литература/списания/софия/1970/sof_1970_kn10_0012-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn10_0013-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn10_0012-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn10_0013-1.jpg"/>
 
 ## брой 9 - Тролейбус 5 достигна "Младост"
-
-![](/литература/списания/софия/1970/sof_1970_kn9_0011-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn9_0011-1.jpg"/>
 
 ## брой 8 - с билет или с карта
-
-![](/литература/списания/софия/1970/sof_1970_kn8_0013-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn8_0014-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn8_0015-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn8_0013-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn8_0014-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn8_0015-1.jpg"/>
 
 ## брой 5 - С трамвай до Дървеница
-
-![](/литература/списания/софия/1970/sof_1970_kn5_0015-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn5_0015-1.jpg"/>
 
 ## брой 5 - Успехите са насърчителни
-
-![](/литература/списания/софия/1970/sof_1970_kn5_0012-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn5_0013-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn5_0012-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn5_0013-1.jpg"/>
 
 ## брой 3 - По новата линия
-
-![](/литература/списания/софия/1970/sof_1970_kn3_0010-1.jpg)
-
-![](/литература/списания/софия/1970/sof_1970_kn3_0011-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn3_0010-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1970_kn3_0011-1.jpg"/>
