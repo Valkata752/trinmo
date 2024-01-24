@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T19:38:49.701Z
+date: 2024-01-24T19:40:05.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -12,21 +12,21 @@ dateCreated: 2022-04-30T18:10:10.812Z
 
 ### Трамвайна линия 1
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm1.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm1.jpg" width="50%">
 
 ### Трамвайна линия 2
 
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm2.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm2.jpg" width="50%">
 
 ### Трамвайна линия 3
 
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm3.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm3.jpg" width="50%">
 
 ### Трамвайна линия 4
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm4.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/tm4.jpg" width="50%">
 
 ### Трамвайна линия 5
 
