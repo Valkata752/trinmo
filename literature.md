@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:35:33.868Z
+date: 2024-01-24T15:36:26.680Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1173,14 +1173,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## 1978
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1OL2Ht8uhroEJjQKWkrOdkzbb4dXFnyM9"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a0.jpg"></td>
 <td>Пътеводител - 1978</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1981
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1INyd34jukzsGhTqRYTgjm0wjheiTvX4y"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/korica.jpg"></td>
 <td>Справочник - 1981</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
   
