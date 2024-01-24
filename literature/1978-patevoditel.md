@@ -2,7 +2,7 @@
 title: 1978 Пътеводител
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:18:07.317Z
+date: 2024-01-24T20:03:37.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:09:30.342Z
@@ -12,49 +12,51 @@ dateCreated: 2022-04-30T18:09:30.342Z
 # 🚌 Автобуси 
 
 ## Линии A1, A2
-<img src="https://lh3.google.com/u/0/d/1Gqpy6eTKJHrDx98u1OKs8jJpR-ZcSQ4m">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a1-a2.jpg">
 
 ## Линии A3, A4
-<img src="https://lh3.google.com/u/0/d/17vp0FvfYkz1YP5KYZCdIHQ_JX__D4rZU">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a3-a4.jpg">
 
 ## Линии A5, A6
-<img src="https://lh3.google.com/u/0/d/1NDvFCFgfOCRn0uSAvlQDKUJb35rOUvW3">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a5-a6.jpg">
+
 
 
 ## Линии A7, A8
-<img src="https://lh3.google.com/u/0/d/1ytO4e75nWgi2nhPsTZcWirHiLAstZ1RH">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a7-a8.jpg">
+
 
 
 ## Линии A9, A10
-<img src="https://lh3.google.com/u/0/d/1MP3LbFuYrr--9QzqMETgyMhf8rcOhYCU">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a9-a10.jpg">
 
 
 ## Линии A11, A12
-<img src="https://lh3.google.com/u/0/d/1_JgbUra02m-mHJ-5d1L6NJVxYugSQIWI">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a11-a12.jpg">
 
 ## Линии A13, A14
-<img src="https://lh3.google.com/u/0/d/1S9WUmR9tP-JhyhBUksJY1wxwn3nfXyUn">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a13-a14.jpg">
 
 ## Линии A15, A16
-<img src="https://lh3.google.com/u/0/d/1LhFtrLTTUxZdwBE--nQFWTljb1qyYnmf">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a15-a16.jpg">
 
 ## Линии A17, A18
-<img src="https://lh3.google.com/u/0/d/1bizjPpjMcoJy1d9qijaOAVCRvT812-0x">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a17-a18.jpg">
 
 ## Линии A19, A20
-<img src="https://lh3.google.com/u/0/d/1x2lPwq2BYgRdtwmkGTS8vEj_Di6T7Koo">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a19-a20.jpg">
 
 ## Линии A21, A22
-<img src="https://lh3.google.com/u/0/d/1AHxK4TSSWAsr2lAL-bFkhcKQyF7ZNDiP">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a21-a22.jpg">
 
 ## Линии A23, A24
-<img src="https://lh3.google.com/u/0/d/1tlEu7pN85yTHTUixBqu7qidV49ks9qtz">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a23-a24.jpg">
 
 ## Линии A25, A26
-<img src="https://lh3.google.com/u/0/d/1mHZmSjMH9_fY1wxWDWXheX_kqVumEzNC">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a25-a26.jpg">
 
 ## Линии A27, A28
-<img src="https://lh3.google.com/u/0/d/1xUnCBH23rx-Mw8nw8hWUTM6cpf2Pipxb">
+<img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a27-a28.jpg">
 
 ## Линии A29, A30
 <img src="https://lh3.google.com/u/0/d/1gcEM3oaNdaZxdchJQvB9fzJObY8aRQd2">
