@@ -2,34 +2,26 @@
 title: Списание София - 1961 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:30:22.193Z
+date: 2024-01-24T07:31:26.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T09:42:32.548Z
 ---
 
 ## брой 2 - Още 4 трамвайни линии
-
-![](/литература/списания/софия/1961/sof_1961_kn2_0013-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn2_0013-1.jpg"/>
 
 ## брой 7 - Софийският околовръстен път
-
-![](/литература/списания/софия/1961/sof_1961_kn7_0014-1.jpg)
-
-![](/литература/списания/софия/1961/sof_1961_kn7_0015-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn7_0014-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn7_0015-1.jpg"/>
 
 ## брой 9 - Генералният план за реконструкцията на София
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn9_0008-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn9_0009-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn9_0010-1.jpg"/>
 
-![](/литература/списания/софия/1961/sof_1961_kn9_0008-1.jpg)
-
-![](/литература/списания/софия/1961/sof_1961_kn9_0009-1.jpg)
-
-![](/литература/списания/софия/1961/sof_1961_kn9_0010-1.jpg)
 
 ## брой 12 - Постановление за Общия градоустройствен план на София
-
-![](/литература/списания/софия/1961/sof_1961_kn12_0003-1.jpg)
-
-![](/литература/списания/софия/1961/sof_1961_kn12_0004-1.jpg)
-
-![](/литература/списания/софия/1961/sof_1961_kn12_0005-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn12_0003-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn12_0004-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1961_kn12_0005-1.jpg"/>
