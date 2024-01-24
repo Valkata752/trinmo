@@ -2,24 +2,19 @@
 title: Списание София - 1962 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:28:38.147Z
+date: 2024-01-24T07:30:00.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T09:42:16.406Z
 ---
 
 ## брой 1 - Градският транспорт и електроснабдяването
-
-![](/литература/списания/софия/1962/sof_1962_kn1_0004-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1962_kn1_0004-1.jpg"/>
 
 ## брой 5 - Проблеми на транспорта
-
-![](/литература/списания/софия/1962/sof_1962_kn5_0004-1.jpg)
-
-![](/литература/списания/софия/1962/sof_1962_kn5_0005-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1962_kn5_0004-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1962_kn5_0005-1.jpg"/>
 
 ## брой 11 - Автобусите на София
-
-![](/литература/списания/софия/1962/sof_1962_kn11_0013-1.jpg)
-
-![](/литература/списания/софия/1962/sof_1962_kn11_0014-1.jpg)
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1962_kn11_0013-1.jpg"/>
+<img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/sof_1962_kn11_0014-1.jpg"/>
