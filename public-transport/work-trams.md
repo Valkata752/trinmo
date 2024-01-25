@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-25T16:01:04.753Z
+date: 2024-01-25T16:15:36.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -88,11 +88,20 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1935
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.google.com/u/1/d/1p-AvNcJHnAY9hBP_Q-rDe1zXfiZiZXto=w1920-h854-iv1"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm555_depot.jpg"></td>
     <td>тип трамвай: MAN Siemens<br> Работен трамвай на Пенка Михайлова. </td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
 </table>
+
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm555_tm585_depot.jpg"></td>
+    <td>тип трамвай: MAN Siemens<br> Работен трамвай на Пенка Михайлова. </td>
+  </tr>
+  <td colspan=2 >ℹ️ Росен Димитров</td>
+</table>
+
 
 
 ### 561
@@ -102,13 +111,19 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 19??
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?export=view&id=1qo9GGvJXfep1A7tbZGASkJ-OQKvypMBc"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm561_depot.jpg"></td>
     <td>тип трамвай: Siemens или Charleroi - черно<br> Преработван</td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
 </table>
 
-
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm561_depot%20(1).jpg"></td>
+    <td>тип трамвай: Siemens или Charleroi - черно<br> Преработван</td>
+  </tr>
+  <td colspan=2 >ℹ️ Росен Димитров</td>
+</table>
 
 ### 562
 
@@ -117,7 +132,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1924
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.google.com/u/1/d/1RnjDTxyFsSAhLaMPoNuQ_HNo02fSPws0=w1920-h854-iv1"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm562_depot.jpg"></td>
     <td>тип трамвай: Siemens OSSB<br> Завод Красно село. Превозване на работници. Електрожен.</td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
@@ -132,7 +147,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1924
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://lh3.google.com/u/1/d/1DHwv8DhkK5hBI0b8iPxT34ErV5pLHRf8=w1920-h854-iv1"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm563_depot.jpg"></td>
     <td>тип трамвай: Siemens OSSB?<br> </td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
@@ -175,7 +190,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1924
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?export=view&id=1uzl73wJ87ucjYzwJjhKOf1LUMICYvr7m"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm573_depot.jpg"></td>
     <td>тип трамвай: Siemens OSSB<br> Завод Красно село. Превозване на работници. Електрожен.</td>
   </tr>
   <td colspan=2 >ℹ️ Росен Димитров</td>
@@ -190,7 +205,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1938
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?export=view&id=1H06jM-R6qIQNnUtA86VVdE7nhXLsVUUg"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm587.jpg"></td>
     <td>тип трамвай: старо шаси на неизв. трамвай.<br> Ремарке на ККМ на трамваите.</td>
   </tr>
   <td colspan=2 >ℹ️ joka-video.de ⭐</td>
@@ -217,7 +232,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://drive.google.com/uc?export=view&id=1He7OlJQ6kTDySKJT0Vvwi1deqrWJCW5i"></td>
 <td>Инфо</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ modern tramway magazine </td></table></div>
   
   
 
@@ -253,7 +268,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### 19??
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1EpYUWV4RRAP2uLakIvPjSXARlVirVZPD"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm621%20fig24.jpg"></td>
 <td>Реморке-стълба за поддържане на въздушната трамвайна мрежа.</td></tr>
   <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
   
