@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T20:25:46.447Z
+date: 2024-01-25T15:50:29.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -72,10 +72,12 @@ MAN-AEG притежава следните технико-експлоатац�
 
 
 ## 72	
-<!--72+422--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" height="200px"><figcaption></figcaption><b>tm72+422 line2</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HCKYvq1W04Ak8n5lllI-klOoBCrMqWbj" width="100%"></div></div>
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm72%20tm422%20line2.jpg"></td>
+<td><b>tm72+422 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)
+</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## 76
@@ -91,5 +93,9 @@ MAN-AEG притежава следните технико-експлоатац�
 
 
 ## 80	
-<!--80--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Ve9i68bF-FL9pNE6e4kXciPusiLssEKG" height="200px"><figcaption></figcaption><b>tm80 line12</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Ve9i68bF-FL9pNE6e4kXciPusiLssEKG" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm80%20line12.jpg"></td>
+<td><b>tm80 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)
+</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
