@@ -2,7 +2,7 @@
 title: MAN-Siemens (81-92)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:30:36.782Z
+date: 2024-01-25T15:55:32.487Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:34.657Z
@@ -155,10 +155,15 @@ MAN-Siemens притежава следните технико-експлоат�
 # Tabs {.tabset}
 ## 83/553
 ### 83
-<!--924-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB" height="200px"><figcaption><b>tm83</b> 📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WbggHtfmtAhG-jvXQExqdFDNVvUTn9PB" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/60s/83%20815.jpg"></td>
+<td><b>tm83</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">MAN-Siemens (81-92)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
+  
 <!--83-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1SwFxihiZ5fvxnujRgwtFbMadUPOPApl7" height="200px"><figcaption><b>TM3</b> 📷 Mike Cornwall ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1SwFxihiZ5fvxnujRgwtFbMadUPOPApl7" width="100%"></div></div>
+
 
 ### 553
 <!--553-->
