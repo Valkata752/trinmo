@@ -2,7 +2,7 @@
 title: Nivelle-ASEA (106-115)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T09:32:48.418Z
+date: 2024-01-25T15:51:50.207Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:05.175Z
@@ -78,10 +78,19 @@ Nivelle-ASEA притежава следните технико-експлоат
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HgfQF5Aul1Zxw-5kOycmjNbXoQq8NB03" height="200px"><figcaption><b>TM5</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HgfQF5Aul1Zxw-5kOycmjNbXoQq8NB03" width="100%"></div></div>
 
 ## 112
-<!--112--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" height="200px"><figcaption></figcaption><b>tm112</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uhdj_Qyjcgrx68RWvwLDi1WXZVFd32Zn" width="100%"></div></div>
-<!--112--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g" height="200px"><figcaption></figcaption><b>tm112</b> 📷 H E C Piercy </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1B8ypAzFKTtK4EIWh3OfamIPDhyauQs2g" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm112%20(2).jpg"></td>
+<td><b>tm112</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1929-Nivelle-ASEA">Nivelle-ASEA (106-115)
+</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm112.jpg"></td>
+<td><b>tm112</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1929-Nivelle-ASEA">Nivelle-ASEA (106-115)
+</a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
   
 ## 113
 <!--113--> 
