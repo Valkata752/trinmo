@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 80те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T21:22:30.647Z
+date: 2024-01-26T23:40:55.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:40.051Z
@@ -99,3 +99,13 @@ dateCreated: 2024-01-05T16:03:40.051Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/80s/tm448%20line12%201985.jpg"></td>
 <td><b>tm448 line12</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T6M-400">Т6М-400 (София 100)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+ ## Tabs {.tabset}
+### Skoda 9Tr
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/80s/tb199%20line6.JPG"></td>
+<td><b>tb199 line6</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1980-Skoda-9TrHT28">Skoda 9TrHT28</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
