@@ -2,7 +2,7 @@
 title: Фотограф - Jara prazsketramvaje.cz
 description: Транпорт, инфраструкутра и мобилност
 published: true
-date: 2024-01-12T09:29:51.670Z
+date: 2024-01-26T10:52:32.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T14:09:40.487Z
@@ -12,194 +12,348 @@ dateCreated: 2023-11-19T14:09:40.487Z
 
 ## Tabs {.tabset}
 ### 1980-T4M-50
-<!--84--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1miBsZBrYqz_Ca2XTrBq2aWmKXPPFNLT-" height="200px"><figcaption></figcaption><b>tm84</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1miBsZBrYqz_Ca2XTrBq2aWmKXPPFNLT-" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm84%20depot%20sofie-075.jpg"></td>
+<td><b>tm84</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
 
 ## Tabs {.tabset}
 ### 1970-T8M-730
-<!--174--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1qJzwdENQ-dODOa6geDszTpT9u5QIgYDm" height="200px"><figcaption></figcaption><b>tm174</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1qJzwdENQ-dODOa6geDszTpT9u5QIgYDm" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm174%20tm1055%20depot%20sofie-018.jpg"></td>
+<td><b>tm174</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### 1979-T8M-301
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm302%20line5%20sofie-025.jpg"></td>
+<td><b>tm302 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--302--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XCYqwjfIWxbvzbrRuJKyu7prKzqv2v4T" height="200px"><figcaption></figcaption><b>tm302 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XCYqwjfIWxbvzbrRuJKyu7prKzqv2v4T" width="100%"></div></div>
-
-
-<!--311--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" height="200px"><figcaption></figcaption><b>tm311</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1NdNsRD7_PFvVG2LIzIFwApWwUdgp3U9X" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm311%20line5%20sofie-045.jpg"></td>
+<td><b>tm311</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### 1979-T6M-400
-
-<!--403--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1SSioLup2etLIPT5k5yErjxgNrTFPowzz" height="200px"><figcaption></figcaption><b>tm403 line19</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1SSioLup2etLIPT5k5yErjxgNrTFPowzz" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm403%20line19%20sofie-046.jpg"></td>
+<td><b>tm403 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Tabs {.tabset}
 ### 1938-Ansaldo-Breda
-<!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" height="200px"><figcaption></figcaption><b>tm551</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm551%20depot%20sofie-066.jpg"></td>
+<td><b>tm551</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Tabs {.tabset}
 ### 1985-T6M-700
-<!--702--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1SgGn6tMJk4WjF8jrgdIiQipb5EzVA9kI" height="200px"><figcaption></figcaption><b>tm702 line6</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1SgGn6tMJk4WjF8jrgdIiQipb5EzVA9kI" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm702%20line6%20sofie-067.jpg"></td>
+<td><b>tm702 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--714--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1MnioIV4a3wiZqHmBTLn7aPUV50dC1qve" height="200px"><figcaption></figcaption><b>tm714 line12</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1MnioIV4a3wiZqHmBTLn7aPUV50dC1qve" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm714%20line12%20raifaissen%20sofie-068.jpg"></td>
+<td><b>tm714 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm715%20line6%20sofie-069.jpg"></td>
+<td><b>tm715 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm715%20line6%20sofie-070.jpg"></td>
+<td><b>tm715 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--715--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1pg6RoHIVULxnzLQPL6GpVPEtSYi2vwoT" height="200px"><figcaption></figcaption><b>tm715 line6</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1pg6RoHIVULxnzLQPL6GpVPEtSYi2vwoT" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm722%20line12%20Kit%20Kat%20sofie-071.jpg"></td>
+<td><b>tm722 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--715--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1I3R38TEhpYYhJ-7aMvTKChLAfI_yAjL-" height="200px"><figcaption></figcaption><b>tm715 line6</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1I3R38TEhpYYhJ-7aMvTKChLAfI_yAjL-" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm806%20line2%20sofie-072.jpg"></td>
+<td><b>tm806 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-<!--722--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Nh4jvVKQJ4NgxcQh2QcwHJcMjioo4YYE" height="200px"><figcaption></figcaption><b>tm722 line12</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Nh4jvVKQJ4NgxcQh2QcwHJcMjioo4YYE" width="100%"></div></div>
-
-<!--806--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1kfaVyptAFAhWjGknbH8xLXMajYMIw-Ji" height="200px"><figcaption></figcaption><b>tm806 line2</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1kfaVyptAFAhWjGknbH8xLXMajYMIw-Ji" width="100%"></div></div>
-
-<!--813--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=15IS27vH3KaeMeyE4LcBmQvqfUwohLCAM" height="200px"><figcaption></figcaption><b>tm813 line2</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=15IS27vH3KaeMeyE4LcBmQvqfUwohLCAM" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm813%20line2%20sofie-073.jpg"></td>
+<td><b>tm813 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
 ### 1990-T8M-700
 
-<!--925--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=16nIgoNN10AQolG2co8WsjWO_572_dXQs" height="200px"><figcaption></figcaption><b>tm925 line7</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=16nIgoNN10AQolG2co8WsjWO_572_dXQs" width="100%"></div></div>
 
-<!--925--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1VpbnHre0kfwnc7nT29Ta0S8yi-dkxa8I" height="200px"><figcaption></figcaption><b>tm925 line7</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1VpbnHre0kfwnc7nT29Ta0S8yi-dkxa8I" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm925%20line7%20sanitex%20sofie-076.jpg"></td>
+<td><b>tm925 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm925%20line7%20sanitex%20sofie-077.jpg"></td>
+<td><b>tm925 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--932--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mmksAuuoAkbQpFrHcApZmDNSH8XaqIYU" height="200px"><figcaption></figcaption><b>tm932 line1</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mmksAuuoAkbQpFrHcApZmDNSH8XaqIYU" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm932%20line1%20sofie-078.jpg"></td>
+<td><b>tm932 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-
-<!--936--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Cq4E_ciikGHKbHfFjrWfVEsZ20tQjGVw" height="200px"><figcaption></figcaption><b>tm936 line7</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Cq4E_ciikGHKbHfFjrWfVEsZ20tQjGVw" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm936%20line7%20sofie-079.jpg"></td>
+<td><b>tm936 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
 ### 1969-CKD-Tatra-T4D
-<!--1020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1YcasoYWHWsnnx1_o565OGHGqXh-fKuFl" height="200px"><figcaption></figcaption><b>tm1020 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1YcasoYWHWsnnx1_o565OGHGqXh-fKuFl" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1020%20line8%20sofie-001.jpg"></td>
+<td><b>tm1020 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1020%20line8%20sofie-002.jpg"></td>
+<td><b>tm1020 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1021%20line8%20sofie-003.jpg"></td>
+<td><b>tm1021 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+ 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1021%20line8%20sofie-004.jpg"></td>
+<td><b>tm1021 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1021%20line8%20sofie-005.jpg"></td>
+<td><b>tm1021 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1023%20line8%20sofie-007.jpg"></td>
+<td><b>tm1023 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1028%20tm1075%20line8.jpg"></td>
+<td><b>tm1028, tm1075 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1039%20line8%20sofie-009.jpg"></td>
+<td><b>tm1039 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1G2kYfouk4HATAD7nvRWWoW3N-GhX6G29" height="200px"><figcaption></figcaption><b>tm1020 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1G2kYfouk4HATAD7nvRWWoW3N-GhX6G29" width="100%"></div></div>
-
-
-<!--1021--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=150ehqMe4iH76zIFXmW3b-pded03LhJnN" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=150ehqMe4iH76zIFXmW3b-pded03LhJnN" width="100%"></div></div>
-
-<!--1021--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1sqN-UOR5Nj1sW8otGvpdr1MjhgtktGW6" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1sqN-UOR5Nj1sW8otGvpdr1MjhgtktGW6" width="100%"></div></div>
-
-<!--1021--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XQ3v-sLFWTN2CsfSnltw6EkgrXF-MMOj" height="200px"><figcaption></figcaption><b>tm1021 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XQ3v-sLFWTN2CsfSnltw6EkgrXF-MMOj" width="100%"></div></div>
-
-<!--1023--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1oKOCqLiosBRW9ezCiFY5yV4swpAZCEhB" height="200px"><figcaption></figcaption><b>tm1023 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1oKOCqLiosBRW9ezCiFY5yV4swpAZCEhB" width="100%"></div></div>
-
-
-<!--1028, 1075--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" height="200px"><figcaption></figcaption><b>tm1028, tm1075 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1yVDDcIJ3pvF5aSWT5pCe3pfAY9DaMoJe" width="100%"></div></div>
-
-
-<!--1039--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1aa5Xab1B9Jcm-KAOpE5NHPoLmcaeBmHJ" height="200px"><figcaption></figcaption><b>tm1039 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1aa5Xab1B9Jcm-KAOpE5NHPoLmcaeBmHJ" width="100%"></div></div>
-
-<!--1039, 1130--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" height="200px"><figcaption></figcaption><b>tm1039, tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=10cVjYAc_WrRmUybhTalyEzqlRzqbjLOY" width="100%"></div></div>
-
-
-<!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1UV8ICBFgusJabzfJOCVepsAwuVadkMYN" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1UV8ICBFgusJabzfJOCVepsAwuVadkMYN" width="100%"></div></div>
-
-<!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1-AdeusjJtNuK5wHBAzE2jmxihvGCmARY" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1-AdeusjJtNuK5wHBAzE2jmxihvGCmARY" width="100%"></div></div>
-
-<!--1047--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1bCA6qZDExKXiYasGR-qlrrIO7JmEhGHw" height="200px"><figcaption></figcaption><b>tm1047 line5</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1bCA6qZDExKXiYasGR-qlrrIO7JmEhGHw" width="100%"></div></div>
-
-<!--1094--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1cEV1F_C5J6eicGK-HGBLCl6AGTf7Bxs9" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1cEV1F_C5J6eicGK-HGBLCl6AGTf7Bxs9" width="100%"></div></div>
-
-<!--1094--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1DnMFd3ZyYTtfAUwW1w3uNStLdKBsBzTo" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1DnMFd3ZyYTtfAUwW1w3uNStLdKBsBzTo" width="100%"></div></div>
-
-<!--1094--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1O98Nf2PoO7JBbH7CCVdMKT7Ug0u3wc4v" height="200px"><figcaption></figcaption><b>tm1094 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1O98Nf2PoO7JBbH7CCVdMKT7Ug0u3wc4v" width="100%"></div></div>
-
-<!--1130--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1lmYyrLilqx450L1qhjWUQjcP5b7TdqqR" height="200px"><figcaption></figcaption><b>tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1lmYyrLilqx450L1qhjWUQjcP5b7TdqqR" width="100%"></div></div>
-
-<!--1130--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1jqB_feGugDPyDPAD-3ihAv4F5iNRb1LY" height="200px"><figcaption></figcaption><b>tm1130 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1jqB_feGugDPyDPAD-3ihAv4F5iNRb1LY" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1039%20tm1130%20line8%20sofie-008.jpg"></td>
+<td><b>tm1039, tm1130 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1047%20line5%20sofie-010.jpg"></td>
+<td><b>tm1047 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+ 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1047%20line5%20sofie-011.jpg"></td>
+<td><b>tm1047 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1047%20line5%20sofie-012.jpg"></td>
+<td><b>tm1047 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1094%20line8%20raifaissen%20sofie-013.jpg"></td>
+<td><b>tm1094 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1094%20line8%20raifaissen%20sofie-014.jpg"></td>
+<td><b>tm1094 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1094%20line8%20sofie-015.jpg"></td>
+<td><b>tm1094 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1130%20line8%20sofie-016.jpg"></td>
+<td><b>tm1130 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1130%20line8%20sofie-017.jpg"></td>
+<td><b>tm1130 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 
 ## Tabs {.tabset}
 ### 1990-CKD-Tatra-T6A2
-<!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=18zcswR3CeWidnsgX03iN1Q5XJ9o9ZQdI" height="200px"><figcaption></figcaption><b>tm2001+tm2002</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=18zcswR3CeWidnsgX03iN1Q5XJ9o9ZQdI" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2001%20tm2002%20AXN%20sofie-019.jpg"></td>
+<td><b>tm2001+tm2002</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1MK-WpWM_8jX8sFivSCcRIy6hhbhDs1Ci" height="200px"><figcaption></figcaption><b>tm2001+tm2002</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1MK-WpWM_8jX8sFivSCcRIy6hhbhDs1Ci" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2001%20tm2002%20AXN%20sofie-020.jpg"></td>
+<td><b>tm2001+tm2002</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--2006--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1k-sSBRZBvmf48foyylAzYFXbKCOiYbfL" height="200px"><figcaption></figcaption><b>tm2006 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1k-sSBRZBvmf48foyylAzYFXbKCOiYbfL" width="100%"></div></div>
-
-
-<!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=170rYz-QVHBQQeBgoHofmKs2OVrmu1wlF" height="200px"><figcaption></figcaption><b>tm2008 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=170rYz-QVHBQQeBgoHofmKs2OVrmu1wlF" width="100%"></div></div>
-
-
-<!--2010--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1WMV7nyP1kQQch2d7ogl6veMUrje-_rnT" height="200px"><figcaption></figcaption><b>tm2010 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1WMV7nyP1kQQch2d7ogl6veMUrje-_rnT" width="100%"></div></div>
-
-
-
-<!--2011--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1vnsS4K6PEDmVI0Rg3o8a04sFICftC-iz" height="200px"><figcaption></figcaption><b>tm2011 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1vnsS4K6PEDmVI0Rg3o8a04sFICftC-iz" width="100%"></div></div>
-
-
-<!--2025--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1OMk-ZBgXKNNiIl-wOd8PBXbLV-yhueDf" height="200px"><figcaption></figcaption><b>tm2025 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1OMk-ZBgXKNNiIl-wOd8PBXbLV-yhueDf" width="100%"></div></div>
-<!--2025--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XNCxaHbxoYoCv0encx3zVEms2_Jw490i" height="200px"><figcaption></figcaption><b>tm2025 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XNCxaHbxoYoCv0encx3zVEms2_Jw490i" width="100%"></div></div>
-
-
-<!--2026--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1XghD64-1yLmxYUtGbgvhJ1iAxmjlMRks" height="200px"><figcaption></figcaption><b>tm2026 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1XghD64-1yLmxYUtGbgvhJ1iAxmjlMRks" width="100%"></div></div>
-<!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" height="200px"><figcaption></figcaption><b>tm2029 line8</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1EvDSq_DqpotDt4XzY1-PitEyqUQkh24S" width="100%"></div></div>
-
-<!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" height="200px"><figcaption></figcaption><b>tm2029 line15</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1qfBfOiMzFn2d28orOgH38fuRTUpsec3k" width="100%"></div></div>
-
-<!--2029--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1tlSVbFuV1jgKIMLgCtYmN2g5dSsCbcuu" height="200px"><figcaption></figcaption><b>tm2029 line15</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1tlSVbFuV1jgKIMLgCtYmN2g5dSsCbcuu" width="100%"></div></div>
-
-
-
-
-<!--2030--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Y5XQXICQSwaQTTCfW9wJmgsHt6OtaLlo" height="200px"><figcaption></figcaption><b>tm2030 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Y5XQXICQSwaQTTCfW9wJmgsHt6OtaLlo" width="100%"></div></div>
-
-<!--2031--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1y9SShQFh9rdpFsvT4CTc05lUDdPR-t4a" height="200px"><figcaption></figcaption><b>tm2031 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1y9SShQFh9rdpFsvT4CTc05lUDdPR-t4a" width="100%"></div></div>
-<!--2031--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ytfALSaKEdeJCYimrV9Yg0w6jalvDSLG" height="200px"><figcaption></figcaption><b>tm2031 line9</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ytfALSaKEdeJCYimrV9Yg0w6jalvDSLG" width="100%"></div></div>
-
-<!--2035--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1LbiRu70jJulGDoqisAYkqHbG8yeSKQrG" height="200px"><figcaption></figcaption><b>tm2035 line14</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1LbiRu70jJulGDoqisAYkqHbG8yeSKQrG" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2006%20line14%20sofie-021.jpg"></td>
+<td><b>tm2006 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2008%20line14%20sofie-022.jpg"></td>
+<td><b>tm2008 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2010%20line18%20sofie-023.jpg"></td>
+<td><b>tm2010 line18</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2011%20line18%20CSAsofie-024.jpg"></td>
+<td><b>tm2011 line18</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2025%20line14%20sofie-026.jpg"></td>
+<td><b>tm2025 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+    
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2025%20line14%20vishneva%20sofie-027.jpg"></td>
+<td><b>tm2025 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2026%20line18%20sofie-028.jpg"></td>
+<td><b>tm2026 line18</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2029%20line8%20sofie-029.jpg"></td>
+<td><b>tm2026 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2029%20line15%20sofie-030.jpg"></td>
+<td><b>tm2029 line15</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2029%20line15%20sofie-031.jpg"></td>
+<td><b>tm2029 line15</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2030%20line18%20sofie-037.jpg"></td>
+<td><b>tm2030 line18</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2031%20line9%20vivatel%20sofie-034.jpg"></td>
+<td><b>tm2031 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2031%20tm9%20vivatel%20tm2014%20line9.jpg"></td>
+<td><b>tm2031 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2035%20line14%20sofie-035.jpg"></td>
+<td><b>tm2035 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 <!--2036--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1g7mzuhWFbZ9LO2OlFOzgRkkodIjwZmG3" height="200px"><figcaption></figcaption><b>tm2036 line18</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1g7mzuhWFbZ9LO2OlFOzgRkkodIjwZmG3" width="100%"></div></div>
