@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-05T07:23:42.538Z
+date: 2024-01-26T22:11:29.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -14,7 +14,7 @@ dateCreated: 2022-05-19T22:30:33.330Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1pDrDwa_kjOTvJNMuWEEm8bno8bwNS_K0"></td>
+<td><img src="https://forum.gtsofia.info/index.php?action=dlattach;topic=696.0;attach=136952;image"></td>
 <td><b>Нови чехословашки тролейбуси</b><br>Вносът на тролейбуси от този модел в София започва през 1964 г. Новопостъпващите партиди Škoda 9Tr трябва постепенно да заменят тролейбусите, произвеждани през 50-те години по съветски лиценз в завод "6-ти септември" от модела ТБ-51/55.</td></tr>
   <td colspan=2 >ℹ️ <b><a href=""></a>в-к "Транспортна искра" - 15.06.1964</b></td></table></div>
   
