@@ -2,7 +2,7 @@
 title: Фотограф - Константин Димитров
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-01-12T09:35:10.612Z
+date: 2024-01-26T11:36:36.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T12:48:34.001Z
@@ -11,28 +11,52 @@ dateCreated: 2023-12-08T12:48:34.001Z
 ## Mercedes O305
 ## Tabs {.tabset}
 ### Mercedes 13**
-<!--1303--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1bB8JjRdx_hecBKiekI_B8x9p52wH_AaE" height="200px"><figcaption></figcaption><b>a1303 line31</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1bB8JjRdx_hecBKiekI_B8x9p52wH_AaE" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1303%20line31.jpg"></td>
+<td><b>a1303 line31</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1329--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1nCITUtlRv5KkbUQxWqvvbObprhuJCmIx" height="200px"><figcaption></figcaption><b>a1329 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1nCITUtlRv5KkbUQxWqvvbObprhuJCmIx" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1329%20line56(1).jpg"></td>
+<td><b>a1329 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1329--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1X7vCtOxCSwCz89FWIdrsooSVsJZBmSoO" height="200px"><figcaption></figcaption><b>a1329 line77</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1X7vCtOxCSwCz89FWIdrsooSVsJZBmSoO" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1329%20line56.jpg"></td>
+<td><b>a1329 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ## Tabs {.tabset}
 ### Mercedes 16**
-<!--1669--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1P5DYSDLzwyP1aPIyNypUS7wogdZ3THP2" height="200px"><figcaption></figcaption><b>a1669 line44Б</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1P5DYSDLzwyP1aPIyNypUS7wogdZ3THP2" width="100%"></div></div>
 
-<!--1669--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1McTarSkE9DDQjw2nmORRxHtz_f4Oxt_i" height="200px"><figcaption></figcaption><b>a1669 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1McTarSkE9DDQjw2nmORRxHtz_f4Oxt_i" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1669%20line44b.jpg"></td>
+<td><b>a1669 line44Б</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1669%20line56.jpg"></td>
+<td><b>a1669 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1669--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1sIasyv6QQjS-uQ506Q-fcm7AFOuTOEGF" height="200px"><figcaption></figcaption><b>a1669 line59</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1sIasyv6QQjS-uQ506Q-fcm7AFOuTOEGF" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1669%20line59.jpg"></td>
+<td><b>a1669 line59</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1683--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1N8GosylvH4XdAl2rNTxS-L7d3_eTBmWD" height="200px"><figcaption></figcaption><b>a1683 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1N8GosylvH4XdAl2rNTxS-L7d3_eTBmWD" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/O305/a1683%20line56.jpg"></td>
+<td><b>a1683 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### Mercedes 17**
