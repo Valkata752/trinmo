@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:24:06.816Z
+date: 2024-01-26T23:41:47.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -391,12 +391,6 @@ dateCreated: 2023-12-31T13:46:34.785Z
   <!--1222--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/28ICM2jxlNuV8rAR9VHu67tWpX4Z9sSsFPHq0r-aSl6bm3_DPJz-WaYqDxAxGMgFThM=w2400" width="100%"></div></div>
 
-## 2150-2176
-## Tabs {.tabset}
 
-### 2163
-
-<!--2163--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" height="200px"><figcaption><b>ТБ7 </b>📷 Милан Христев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" width="100%"></div></div>
 
 
