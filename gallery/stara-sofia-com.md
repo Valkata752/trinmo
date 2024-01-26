@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T12:05:52.257Z
+date: 2024-01-26T12:08:45.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -53,6 +53,15 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/fig5.jpg"></td>
 <td><b>ТИС "Юнак"</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >Фиг. 5. Токоизправителна станция „Юнак"1933 г. <br>ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
+
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm2%20fig8.jpg"></td>
+<td><b>Автобус</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >Фиг. 8. Мотриса тип 1901 г. 2x18 KW, ръчна спирачка и спирачка с обратен ток, отворени платформи, тролей. В служба до 1928 г. <br>ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
+  
+  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -74,7 +83,38 @@ dateCreated: 2024-01-26T12:00:53.902Z
   
   
   
-## Снимки
+## Трамваи
+## Tabs {.tabset}
+###   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm1%20tm12%20tm19.jpg"></td>
+<td><b>tm1, tm12, tm19</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm1%20tm12%20tm19%20depot.jpg"></td>
+<td><b>tm1, tm12, tm19</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm2%20(1).jpg"></td>
+<td><b>tm2</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm2%20(2).jpg"></td>
+<td><b>tm2</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ 
+  
+
+## Тролейбуси
 ## Tabs {.tabset}
 ###   
  <!--следващ пост--> 
@@ -82,4 +122,8 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tb284%20line1.jpg"></td>
 <td><b>tb284</b><br> 🚎 <a href=""></a> <br>📌 ул. Регентска<br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
+  
+  
   
