@@ -2,7 +2,7 @@
 title: 40 години софийски трамваи 
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-14T12:10:37.016Z
+date: 2024-01-26T17:47:56.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-20T00:28:48.135Z
@@ -22,9 +22,12 @@ dateCreated: 2022-05-20T00:28:48.135Z
 
 Следващите данни дават кратък преглед за развоя на предприятието.
 
-
-<br><center><div class="dropdown"><button class="imgbtn"><figure><img src="https://1.bp.blogspot.com/-4AwMaHFtYYk/UUWNqAjRchI/AAAAAAAAJgQ/hqSkc81wMR4/s400/fig1.jpg" height="300px"><figcaption> <b>Фиг. 1. Сграда на Дирекцията на трамваите и осветлението. Зад нея в двора — техническото отделение.</b> 📷 stara-sofia</figcaption></figure></button><div class="dropdown-content"><img src="https://1.bp.blogspot.com/-4AwMaHFtYYk/UUWNqAjRchI/AAAAAAAAJgQ/hqSkc81wMR4/s400/fig1.jpg" width="100%"></div></div></center>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/40-godini-tramvai/fig1-dto.jpg"></td>
+<td><b></b><br> Фиг. 1. Сграда на Дирекцията на трамваите и осветлението. Зад нея в двора — техническото отделение </td></tr>
+  <td colspan=2 > <br>ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
+  
 
 
 ![](https://3.bp.blogspot.com/-CJPuz75aJZE/UUWNsftfU8I/AAAAAAAAJhY/gvBMF_XGXwI/s400/fig2.jpg)
