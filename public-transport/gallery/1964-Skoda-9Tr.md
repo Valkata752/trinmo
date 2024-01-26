@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:23:56.502Z
+date: 2024-01-26T22:24:06.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -299,6 +299,9 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><b>tb274 line2, tb315</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+
+## Tabs {.tabset}
+### 316
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/bva-bulgarian-visiual-archive/tb316%20line3.jpg"></td>
