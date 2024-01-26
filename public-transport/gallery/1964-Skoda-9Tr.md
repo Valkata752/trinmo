@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:17:54.374Z
+date: 2024-01-26T22:18:24.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -24,7 +24,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><b><b>tb202 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+## Tabs {.tabset}
 ### 205
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -33,7 +33,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
   <td colspan=2 >ℹ️ </td></table></div>
   
   
-
+## Tabs {.tabset}
 ### 212
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
