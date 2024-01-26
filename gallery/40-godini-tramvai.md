@@ -2,13 +2,13 @@
 title: Архив 40 години трамваен транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T18:04:12.041Z
+date: 2024-01-26T18:09:00.745Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T17:43:39.129Z
 ---
 
-- [Цялата статия *40 години трамваен транспорт*](/bg/literature/anniversary/40-years-public-transport)
+- [:scroll: Цялата статия *40 години трамваен транспорт*](/bg/literature/anniversary/40-years-public-transport)
 {.links-list}
 
 ---
