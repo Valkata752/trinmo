@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:06:30.268Z
+date: 2024-01-26T22:17:54.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -16,6 +16,23 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## 200-299
 ## Tabs {.tabset}
+
+### 202
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/202%201965.jpg"></td>
+<td><b><b>tb202 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+### 205
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/205%201965.jpg"></td>
+<td><b><b>tb205 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ### 212
 <!--следващ пост--> 
@@ -41,8 +58,13 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tb219%20Scan904.jpg"></td>
 <td><b>tb219</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
- <!--219--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/dRN4Lz1N8lkf-NfF1DLmrxoNEhzkCl1h17gyOLZjpQJKqC2fjJb50881zsYYhDlqZYM=w2400" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/219%202%201965.jpg"></td>
+<td><b><b>tb219 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb219%20line4%20tb323%20line2.jpg"></td>
@@ -59,8 +81,13 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 224
- <!--224--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/lJCklSuVep4kUauUk9G5HoBa0q-tQJd7on2hKsYMDmmNDNX1Dajb4R_n7VEikmcu4Qw=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/lJCklSuVep4kUauUk9G5HoBa0q-tQJd7on2hKsYMDmmNDNX1Dajb4R_n7VEikmcu4Qw=w2400" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/224%201975.jpg"></td>
+<td><b><b>tb224 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
 
 ## Tabs {.tabset}
 ### 234
@@ -121,7 +148,14 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><b>tb264 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+## Tabs {.tabset}
+### 265
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/265%203%201978.jpg"></td>
+<td><b><b>tb265 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## Tabs {.tabset}
 ### 270
 
@@ -188,6 +222,15 @@ dateCreated: 2023-12-31T13:46:34.785Z
   <td colspan=2 >ℹ️ </td></table></div>
   </div>
 
+## Tabs {.tabset}
+### 295
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/295%201970.jpg"></td>
+<td><b><b>tb295 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 300-399
 ## Tabs {.tabset}
 
@@ -261,6 +304,15 @@ dateCreated: 2023-12-31T13:46:34.785Z
  <!--323--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" width="100%"></div></div>
 
+## Tabs {.tabset}
+### 327
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/327%201974.jpg"></td>
+<td><b><b>tb327 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### 328
  <!--следващ пост--> 
