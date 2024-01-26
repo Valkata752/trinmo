@@ -2,14 +2,15 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T18:08:36.848Z
+date: 2024-01-26T20:16:04.582Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
 ---
 
 ## 20те
-  
+- [Александър Бахчевански :bulgaria: *2024*](/gallery/aleksander-bahchevansky-2024)
+- [Любомир Николов :bulgaria: *2024*](/gallery/lubomir-nikolov-2024)
 - [Александър Бахчевански :bulgaria: *2023*](/gallery/aleksander-bahchevansky-2023)
 {.links-list}
 
