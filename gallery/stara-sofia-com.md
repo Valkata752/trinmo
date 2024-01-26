@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T12:13:43.020Z
+date: 2024-01-26T17:41:11.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -93,14 +93,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><b>tm1, tm12, tm19</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
 
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm1%20tm12%20tm19%20depot.jpg"></td>
-<td><b>tm1, tm12, tm19</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div> 
-  
-
- <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm2%20(1).jpg"></td>
 <td><b>tm2</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
@@ -182,6 +175,67 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm5%20ul.%20tsar%20osvoboditel.jpg"></td>
 <td><b>tm5 </b><br> 🚋 <a href=""></a> <br>📌 ул. Цар Освободител<br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm6.jpg"></td>
+<td><b>tm6 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm6%20lavov%20most.jpg"></td>
+<td><b>tm6</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm7.jpg"></td>
+<td><b>tm7</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm7%20narodno%20sabranie.jpg"></td>
+<td><b>tm7</b><br> 🚋 <a href=""></a> <br>📌 пл. Народно събрание<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm7%20tm52%20sv.%20nedelya.jpg"></td>
+<td><b>tm7, tm52</b><br> 🚋 <a href=""></a> <br>📌 Св. Неделя<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+    
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm8%20narodno%20sabranie.jpg"></td>
+<td><b>tm8</b><br> 🚋 <a href=""></a> <br>📌 пл. Народно събрание<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm8%20ul.%20targovska.jpg"></td>
+<td><b>tm8</b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm9%20lineknqjevskata.jpg"></td>
+<td><b>tm9 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm9%20pl.%20vasil%20levski%20(1).jpg"></td>
+<td><b>tm9</b><br> 🚋 <a href=""></a> <br>📌 пам. Левски<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
+  
+  
+  
+  
+  
   
   
 ## Тролейбуси
