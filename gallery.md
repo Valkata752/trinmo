@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:38:02.588Z
+date: 2024-01-26T11:47:48.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -109,3 +109,6 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
 {.links-list}
 
+## stara-sofia.bg
+- [stara-sofia.bg :bulgaria:*различни години*](/gallery/stara-sofia-bg)
+{.links-list}
