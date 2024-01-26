@@ -2,7 +2,7 @@
 title: Фотограф Atilla Kozalik
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T11:30:02.986Z
+date: 2024-01-26T11:30:33.005Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T19:11:16.005Z
@@ -11,81 +11,6 @@ dateCreated: 2024-01-11T19:11:16.005Z
 > 2011 г.
 {.is-info}
 
-
-## Duewag GT6
-## Tabs {.tabset}
-### 4212
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4212%202011.jpg"></td>
-<td><b>tm4212 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
-
-
-## Duewag T4-B4
-## Tabs {.tabset}
-### 
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4214%202011.jpg"></td>
-<td><b>tm4214 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4214%202011%201.jpg"></td>
-<td><b>tm4214 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4235%202011.jpg"></td>
-<td><b>tm4235 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4239%202011.jpg"></td>
-<td><b>tm4239 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
-  
-
-## Duewag GT8
-## Tabs {.tabset}
-### 
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011.jpg"></td>
-<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%201.jpg"></td>
-<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%202.jpg"></td>
-<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%203.jpg"></td>
-<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4413%202011.jpg"></td>
-<td><b>tm4413 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-    
-  
-  
 
 ## T6M-400
 ## Tabs {.tabset}
@@ -206,3 +131,81 @@ dateCreated: 2024-01-11T19:11:16.005Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/tm4137%20line20.jpg"></td>
 <td><b>tm4137 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
+## Duewag GT6
+## Tabs {.tabset}
+### 4212
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4212%202011.jpg"></td>
+<td><b>tm4212 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+
+## Duewag T4-B4
+## Tabs {.tabset}
+### 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4214%202011.jpg"></td>
+<td><b>tm4214 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4214%202011%201.jpg"></td>
+<td><b>tm4214 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4235%202011.jpg"></td>
+<td><b>tm4235 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4239%202011.jpg"></td>
+<td><b>tm4239 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+
+## Duewag GT8
+## Tabs {.tabset}
+### 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011.jpg"></td>
+<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%201.jpg"></td>
+<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%202.jpg"></td>
+<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4405%202011%203.jpg"></td>
+<td><b>tm4405 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/attila-kozalik/4413%202011.jpg"></td>
+<td><b>tm4413 line23</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Atilla Kozalik</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+    
+  
+  
+  
