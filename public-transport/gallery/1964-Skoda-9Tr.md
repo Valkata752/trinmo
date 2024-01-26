@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:18:24.376Z
+date: 2024-01-26T22:23:56.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -171,7 +171,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ole-iskov/tb274%20line2.jpg"></td>
-<td><b>tb274 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+<td><b>tb274 line2, tb315</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
@@ -293,17 +293,34 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 315
-  <!--315--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/PgngRsAILLmyHlW4Z8ZRj7ce8jVHEY4FGYVWTPfa5BIDV80Qzaj5-GVPwvr09YRi0oU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Ole Iskov</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/PgngRsAILLmyHlW4Z8ZRj7ce8jVHEY4FGYVWTPfa5BIDV80Qzaj5-GVPwvr09YRi0oU=w2400" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ole-iskov/tb274%20line2.jpg"></td>
+<td><b>tb274 line2, tb315</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bva-bulgarian-visiual-archive/tb316%20line3.jpg"></td>
+<td><b>tb316 line3</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Български визуален архив</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## Tabs {.tabset}
 ### 323
-<!--219, 323--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" height="200px"><figcaption></figcaption><b>tb219 line4, tb323 line2</b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb219%20line4%20tb323%20line2.jpg"></td>
+<td><b><b>tb219 line4, tb323 line2 </b></b><br>📌 Мотописта <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
- <!--323--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/rfGoO9XdXVOyBaFTu3hlRJYMkjFxHiI7uQSb_C1nm51qpzWPTB4IC5ejkZM9OCYltzg=w2400" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bva-bulgarian-visiual-archive/tb323%20line2.jpg"></td>
+<td><b>tb323 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Български визуален архив</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
 ## Tabs {.tabset}
 ### 327
 <!--следващ пост--> 
