@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T11:28:38.313Z
+date: 2024-01-26T19:48:16.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -14,13 +14,11 @@ dateCreated: 2022-05-19T22:00:29.696Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1BxZIwCUephNvexV9af0vu3IhjB9XZC2Z"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/ckd-praha-tatra-sm%c3%adchov-1852-1992/t6b5.jpg"></td>
     <td><b>Tatra T6B5</b><br> След провалът на шестосните мотриси Т6МД-1000, произведени от ТРАМКАР за нуждите на новата линия 20, която става първата линия на нормално междурелсие в София се взима решение за поръчка на 37 броя T6B5, които започват работа през 1989 г. </td>
   </tr>
-  <td colspan=2 >ℹ️ ČKD Praha Tatra Smíchov 1852-1992 ⭐</td>
+  <td colspan=2 >ℹ️ ČKD Praha Tatra Smíchov 1852-1992</td>
 </table>
-
-
 
 Към 2022 г. мотрисите ежедневно се експлоатират по линия 20 в композиции от по два трамвая.
 
