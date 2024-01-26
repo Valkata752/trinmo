@@ -2,7 +2,7 @@
 title: Фотограф - Jara prazsketramvaje.cz
 description: Транпорт, инфраструкутра и мобилност
 published: true
-date: 2024-01-26T11:05:10.154Z
+date: 2024-01-26T11:10:49.859Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T14:09:40.487Z
@@ -10,8 +10,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
 
 ##  03.2006
 
+## 1980-T4M-50
 ## Tabs {.tabset}
-### 1980-T4M-50
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm84%20depot%20sofie-075.jpg"></td>
@@ -19,17 +20,18 @@ dateCreated: 2023-11-19T14:09:40.487Z
   <td colspan=2 >ℹ️ </td></table></div>
   
 
-
+## 1970-T8M-730
 ## Tabs {.tabset}
-### 1970-T8M-730
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm174%20tm1055%20depot%20sofie-018.jpg"></td>
 <td><b>tm174</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+## 1979-T8M-301
 ## Tabs {.tabset}
-### 1979-T8M-301
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm302%20line5%20sofie-025.jpg"></td>
@@ -42,18 +44,18 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <td><b>tm311</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+## 1979-T6M-400
 ## Tabs {.tabset}
-### 1979-T6M-400
+### 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm403%20line19%20sofie-046.jpg"></td>
 <td><b>tm403 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-
+## 1938-Ansaldo-Breda
 ## Tabs {.tabset}
-### 1938-Ansaldo-Breda
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm551%20depot%20sofie-066.jpg"></td>
@@ -61,9 +63,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   <td colspan=2 >ℹ️ </td></table></div>
   
 
-
+## 1985-T6M-700
 ## Tabs {.tabset}
-### 1985-T6M-700
+### 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm702%20line6%20sofie-067.jpg"></td>
@@ -107,10 +109,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <td><b>tm813 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+## 1990-T8M-700
 ## Tabs {.tabset}
-### 1990-T8M-700
-
+### 
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -137,9 +138,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <td><b>tm936 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+## 1969-CKD-Tatra-T4D
 ## Tabs {.tabset}
-### 1969-CKD-Tatra-T4D
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1020%20line8%20sofie-001.jpg"></td>
@@ -250,9 +251,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   <td colspan=2 >ℹ️ </td></table></div>
 
 
-
+## 1990-CKD-Tatra-T6A2
 ## Tabs {.tabset}
-### 1990-CKD-Tatra-T6A2
+### 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2001%20tm2002%20AXN%20sofie-019.jpg"></td>
@@ -366,9 +367,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
 <td><b>tm2040 line18</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+## 1999-CKD-Tatra-T6A2-SF
 ## Tabs {.tabset}
-### 1999-CKD-Tatra-T6A2-SF
+### 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm2041%20line5%20sofie-039.jpg"></td>
@@ -397,9 +398,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   
   
 
-
+## Т6МД-1000
 ## Tabs {.tabset}
-### Т6МД-1000
+### 
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -409,9 +410,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   
   
 
-
+## 1987-CKD-Tatra-T6B5
 ## Tabs {.tabset}
-### 1987-CKD-Tatra-T6B5
+###
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -532,9 +533,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   
   
 
-
+## Duewag GT6
 ## Tabs {.tabset}
-### GT6
+### 
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -544,8 +545,9 @@ dateCreated: 2023-11-19T14:09:40.487Z
   
   
 
+## Duewag GT8
 ## Tabs {.tabset}
-### GT8
+### 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm4413%20line22%20sofie-065.jpg"></td>
