@@ -2,16 +2,13 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T17:41:11.493Z
+date: 2024-01-26T17:43:34.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
 ---
 
-- [Виж и другата му галерия *1996*](/gallery/klaus-mundt-1996)
-{.links-list}
 
----
 ## Площади и улици
 ## Tabs {.tabset}
 ### 
@@ -230,12 +227,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><b>tm9</b><br> 🚋 <a href=""></a> <br>📌 пам. Левски<br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
   
-  
-  
-  
-  
-  
-  
+
   
   
 ## Тролейбуси
