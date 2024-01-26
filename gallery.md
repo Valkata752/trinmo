@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T11:48:44.725Z
+date: 2024-01-26T18:08:36.848Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -107,6 +107,10 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 50те
 - [Фотоалбум София :bulgaria:*1959*](/gallery/sofia-1959)
 - [H E C Piercy*1950/60*](/gallery/hec-piercy)
+{.links-list}
+
+## 40те
+- [40 години трамваен транспорт*1941*](/bg/gallery/40-godini-tramvai)
 {.links-list}
 
 ## Стара София
