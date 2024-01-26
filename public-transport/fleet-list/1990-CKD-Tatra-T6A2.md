@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:58:59.653Z
+date: 2024-01-26T19:38:33.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -134,6 +134,55 @@ dateCreated: 2022-05-19T22:00:08.386Z
 - [➡️ Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1990-CKD-Tatra-T6A2)
 {.links-list}
 ---
+
+## Красна поляна
+## Tabs {.tabset}
+
+### 1999 
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2003_9__1.jpg"></td>
+<td><b>tm2003+tm2004 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2003_9__2.jpg"></td>
+<td><b>tm2003+tm2004 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2007_9_.jpg"></td>
+<td><b>tm2007+tm2008 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2015_9_.jpg"></td>
+<td><b>tm2015+tm2016 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2007_9__1.jpg"></td>
+<td><b>tm2007+tm2008 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm2020_9_.jpg"></td>
+<td><b>tm2020+tm2021 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+
+
 
 
 
