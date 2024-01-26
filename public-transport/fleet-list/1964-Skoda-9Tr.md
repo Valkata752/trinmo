@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:11:29.500Z
+date: 2024-01-26T22:19:26.789Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -145,6 +145,9 @@ dateCreated: 2022-05-19T22:30:33.330Z
 1973 - 10 бр.
 1978 - 30 бр.
 1979 - 4 бр.
+
+## Производствени серии
+<img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/9tr%20modifikatsii.jpg">
 
 
 # Списък
