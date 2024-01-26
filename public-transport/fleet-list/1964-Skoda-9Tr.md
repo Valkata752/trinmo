@@ -2,7 +2,7 @@
 title: Škoda 9Tr
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T22:19:26.789Z
+date: 2024-01-26T22:28:10.529Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:33.330Z
@@ -430,61 +430,99 @@ dateCreated: 2022-05-19T22:30:33.330Z
  
 ## Tabs {.tabset}
 ### ТБ1
-<!--312--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" height="200px"><figcaption></figcaption><b>tb312 line1</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OAXsksjmHb4QrJnkj7lJTcJpabsWnQNe" width="100%"></div></div>
-
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/gisberta-yakla/tb312%20line1.jpg"></td>
+<td><b>tb312 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a><br>📌 пл. Александър Невски<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
 ### ТБ2
- <!--270--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Pedro Gonzalez Esquerdo</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" width="100%"></div></div>
-<!--274-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" height="200px"><figcaption><b>ТБ2</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FMIc5UokkDvkgUoQw24xF4pX1HqQNHB_" width="100%"></div></div>
-<!--283-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_8GuLtbMYBuA7FdoTYuIXkpGrhVb4dI7" width="100%"></div></div>
- <!--283--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/fsfQN-Wm-JFwO42KTEwoeCNs43WCDGNriLuGLMCNrwa9L2Ops-KN967n1_Ti8HUxfTc=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/fsfQN-Wm-JFwO42KTEwoeCNs43WCDGNriLuGLMCNrwa9L2Ops-KN967n1_Ti8HUxfTc=w2400" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pedro-gonzales/tb270-line2-08.1976.jpg"></td>
+<td><b>tb270 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Pedro Gonzalez Esquerdo</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb274%20line2.jpg"></td>
+<td><b><b>tb274 line2 </b></b><br>📌 обръщателно колело на Мотописта <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ## Tabs {.tabset}
 ### ТБ3
-<!--215--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" height="200px"><figcaption></figcaption><b>tb215 line3 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NZTsvL0v3XvjgWJCWOZFOYKIiNiLQlGt" width="100%"></div></div>
-<!--238--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" height="200px"><figcaption></figcaption><b>tb238 line3</b> 📷 Gisberta Yakla </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=147_egdsM-JbLFj9eedB8DO3WRnai_hqT" width="100%"></div></div>
-<!--303-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" height="200px"><figcaption><b>ТБ3</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb215%20line3.jpg"></td>
+<td><b><b>tb215 line3 </b></b><br>📌 Сервиз Москвич, на мястото на сегашната станция Изток <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/gisberta-yakla/tb238%20line3.jpg"></td>
+<td><b>tb238 line3</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a><br>📌 неизв.<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ole-iskov/tb303%20tb304%20line3.jpg"></td>
+<td><b>tb303+tb304 line3</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ole Iskov</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
 ### ТБ4
-<!--219, 323--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" height="200px"><figcaption></figcaption><b>tb219 line4, tb323 line2</b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mxYKm5u7gRYck7MnfdwvTfbPS-5QuPBh" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb219%20line4%20tb323%20line2.jpg"></td>
+<td><b><b>tb219 line4, tb323 line2 </b></b><br>📌 Мотописта <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb223%20line4.jpg"></td>
+<td><b><b>tb223 line4 </b></b><br>📌 пл. Сточна гара <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--223--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1E8V6ZAwJV87yxHm2TUbM4o8J48cSkf65" height="200px"><figcaption></figcaption><b>tb223 line4 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1E8V6ZAwJV87yxHm2TUbM4o8J48cSkf65" width="100%"></div></div>
-
-<!--238--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1drlnfmuNtBPIJjjOPLNovIuUFc9gOXvG" height="200px"><figcaption></figcaption><b>tb238 line4 </b> 📷 Bohdan Turzanski</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1drlnfmuNtBPIJjjOPLNovIuUFc9gOXvG" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb238%20line4.jpg"></td>
+<td><b><b>tb238 line4,tm277 </b></b><br>📌 Софийски университет <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Tabs {.tabset}
 ### ТБ6
-<!--293-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" height="200px"><figcaption><b>ТБ6</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vwRFtMuJ6ein4gxmAvBgDQxHarscQ1aR" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tb292_line6_tm130_line1.jpg"></td>
+<td><b>tb292 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Росен Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  </div>
+  
 ## Tabs {.tabset}
 
 ### ТБ7
-<!--2163--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" height="200px"><figcaption><b>ТБ7 </b>📷 Милан Христев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/milan-hristev/2163.jpg"></td>
+<td><b><b>tb2163 line7 </b></b><br>📌  <br> 📷 Милан Христев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ## Tabs {.tabset}
 
 ###  ТБУ
-<!--212-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБУ</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/boris-miladinov/9TR/tb212%20198z.jpg"></td>
+<td><b><b>tb212 lineУ, tb305+tb306 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 
