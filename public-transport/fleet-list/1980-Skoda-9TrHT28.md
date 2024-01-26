@@ -2,7 +2,7 @@
 title: Škoda 9TrHT28
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-03-19T17:27:40.829Z
+date: 2024-01-26T23:43:21.207Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T22:05:16.170Z
@@ -170,18 +170,32 @@ dateCreated: 2023-03-17T22:05:16.170Z
 <img src="https://lh4.googleusercontent.com/d3kOghRJLx1S4_URMatnpXHper8JvcZ6JDnTTiD9SzkJVd7b6EaHDnhZnXxg6FMnUgA=w2400" height="500px">
 
 # Снимки
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1964-Skoda-9Tr)
+{.links-list}
 
+ 
 ## 100-199
 ## Tabs {.tabset}
 
 ### 199
- <!--199--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/D5YarwiqHHDr3AHdiFMGcamjyLU5ZlHChdBm1vdhAQmd0uxMrhg2562yhTGZZzz1lV8=w2400" height="200px"><figcaption><b>ТБ6 </b>📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/D5YarwiqHHDr3AHdiFMGcamjyLU5ZlHChdBm1vdhAQmd0uxMrhg2562yhTGZZzz1lV8=w2400" width="100%"></div></div>
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/80s/tb199%20line6.JPG"></td>
+<td><b>tb199 line6</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1980-Skoda-9TrHT28">Skoda 9TrHT28</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## 2151-2176
 ## Tabs {.tabset}
 
 ### 2163
 
-<!--2163--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Милан Христев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/8jjwR-uhXPYeF4ZEIIISUKJyyMKStQEDFTWsBJMntbsAnXWBIajq7cjtblAeZlb9RkM=w2400" width="100%"></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/milan-hristev/2163.jpg"></td>
+<td><b>tb2163 line7</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1980-Skoda-9TrHT28">Skoda 9TrHT28</a><br>📌 неизв. <br> 📷 Милан Христев<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
