@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:56:21.150Z
+date: 2024-01-26T21:14:18.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -137,6 +137,21 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <!--303-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" height="200px"><figcaption><b>ТБ3</b> 📷 Ole Iskov ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1mRzlv3aVlaaDLgH3AUj-NrLt-Pc9yEAl" width="100%"></div></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/philippe-nemery/tb303+tb304%20line3%20(1).jpg"></td>
+<td><b>	tb303+tb304 line3</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> <br>📌 пл. Александър Невски<br> 📷 Philippe Nemery</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/philippe-nemery/tb303+tb304%20line3.jpg"></td>
+<td><b>	tb303+tb304 line3</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> <br>📌 пам. Васил Левски<br> 📷 Philippe Nemery</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+  
+  
 ## Tabs {.tabset}
 ### 305/306
 <!--305-->
@@ -190,6 +205,15 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <!--340-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1iTL9pXYBEH0cXNpVWNKm5osIsibZM0mZ" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1iTL9pXYBEH0cXNpVWNKm5osIsibZM0mZ" width="100%"></div></div>
 
+## Tabs {.tabset}
+### 345
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/philippe-nemery/tb345%20line3.jpg"></td>
+<td><b>	tb303+tb304 line3</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> <br>📌 ул. Московска<br> 📷 Philippe Nemery</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### 348
 <!--348--> 
