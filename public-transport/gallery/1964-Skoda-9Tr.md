@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T21:44:51.552Z
+date: 2024-01-26T22:06:30.268Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -18,8 +18,12 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ## Tabs {.tabset}
 
 ### 212
-<!--212-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБУ</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/boris-miladinov/9TR/tb212%20198z.jpg"></td>
+<td><b><b>tb212 lineУ, tb305+tb306 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## Tabs {.tabset}
 ### 215
@@ -63,7 +67,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tb234%20line2%20tb274%20Scan905.jpg"></td>
-<td><b>tb234 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tb234 line2, tm274</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
@@ -77,7 +81,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb238%20line4.jpg"></td>
-<td><b><b>tb238 line4 </b></b><br>📌 Софийски университет <br> 📷 Bohdan Turzanski</td></tr>
+<td><b><b>tb238 line4,tm277 </b></b><br>📌 Софийски университет <br> 📷 Bohdan Turzanski</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
@@ -92,8 +96,13 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 247
- <!--247--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/NvsmS_Wm4ncTaEbitvOod2pGqs70xU0lBZTwcPUYhGKwBrGuFvcdY16oVxH3SGBi8LU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Борислав Харизанов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/NvsmS_Wm4ncTaEbitvOod2pGqs70xU0lBZTwcPUYhGKwBrGuFvcdY16oVxH3SGBi8LU=w2400" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/borislav-harizanov/tb247-197z.jpg"></td>
+<td><b>tb274 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Борислав Харизанов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 ## Tabs {.tabset}
@@ -115,9 +124,13 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 270
- <!--270--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" height="200px"><figcaption><b>ТБ2 </b>📷 Pedro Gonzalez Esquerdo</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/SWl4lWxzkTMliZi8_jnuQQ81ySeBI7H7esr5ZenLoxOyuQ_fDEe3zp0gyk2Jv40K2TQ=w2400" width="100%"></div></div>
 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pedro-gonzales/tb270-line2-08.1976.jpg"></td>
+<td><b>tb270 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Pedro Gonzalez Esquerdo</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Tabs {.tabset}
 ### 274
@@ -133,13 +146,20 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><b><b>tb274 line2 </b></b><br>📌 обръщателно колело на Мотописта <br> 📷 Bohdan Turzanski</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-<!--274-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" height="200px"><figcaption><b>ТБ2</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1G6OdbQ1Jx2gf8O_D2rlUfUNJMK16OcFk" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tb234%20line2%20tb274%20Scan905.jpg"></td>
+<td><b>tb234 line2, tm274</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## Tabs {.tabset}
 ### 277
- <!--277--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/BbJvTynXjcHnOKR9cODiWbu2_LaG6nofYRgOAxdZ6j_xJcwiBH92VrBgLMDfxfxC1zU=w2400" height="200px"><figcaption><b>ТБ? </b>📷 Bohdan Turzanski</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/BbJvTynXjcHnOKR9cODiWbu2_LaG6nofYRgOAxdZ6j_xJcwiBH92VrBgLMDfxfxC1zU=w2400" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tb238%20line4.jpg"></td>
+<td><b><b>tb238 line4,tm277 </b></b><br>📌 Софийски университет <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div></div>
 
 ## Tabs {.tabset}
 ### 283
@@ -153,10 +173,11 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 ## Tabs {.tabset}
 ### 284
-<!--284-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" height="200px"><figcaption><b>ТБ?</b> 📷 Olle S. Nevius ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1OI9T6lky52wo6lQJsYva053iUs0V0tLj" width="100%"></div></div>
- <!--284--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/V1SGL51EkDswHwi5iLr4xv6gWP32iIIJDyvVrB_RJxVPr8dVfvQPbLU8-4W40TUAJ4w=w2400" height="200px"><figcaption><b>ТБ? </b>📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/V1SGL51EkDswHwi5iLr4xv6gWP32iIIJDyvVrB_RJxVPr8dVfvQPbLU8-4W40TUAJ4w=w2400" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tb284-line1.jpg"></td>
+<td><b>tb284 line1</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 stara-sofia</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### 292
@@ -197,11 +218,19 @@ dateCreated: 2023-12-31T13:46:34.785Z
   
 ## Tabs {.tabset}
 ### 305/306
-<!--305-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" height="200px"><figcaption><b>ТБ3</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1D7ZudjLcXOXocCpBeqU8Zdo0cNm1SZcd" width="100%"></div></div>
-<!--306-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13JfZfFAvb8cH2VasQsDcE_yBY1IkyHT3" height="200px"><figcaption><b>ТБ3</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13JfZfFAvb8cH2VasQsDcE_yBY1IkyHT3" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/boris-miladinov/9TR/tb212%20198z.jpg"></td>
+<td><b><b>tb212 lineУ, tb305+tb306 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/boris-miladinov/9TR/tb306%20line3%20198z.jpg"></td>
+<td><b><b>tb305+tb306 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### 307/308
  <!--следващ пост--> 
