@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T16:33:11.370Z
+date: 2024-01-26T21:39:45.302Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
@@ -290,3 +290,16 @@ dateCreated: 2024-01-05T16:03:02.937Z
 <td><b>tm841</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1965-T6M-801">Т6М-801 (София)
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+   
+  
+## Tabs {.tabset}
+### Škoda 9Tr 
+ 
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1974/tb333%20line2%201974.jpg"></td>
+<td><b>tb333 line2</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Trotskee Travel</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
