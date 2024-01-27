@@ -2,7 +2,7 @@
 title: Фотограф - Bohdan Turzanski
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:10:23.055Z
+date: 2024-01-27T00:13:24.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T12:29:08.543Z
