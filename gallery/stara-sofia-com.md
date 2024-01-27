@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T22:01:17.044Z
+date: 2024-01-27T23:19:13.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
