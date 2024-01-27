@@ -2,7 +2,7 @@
 title: Архив Изгубената България
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T23:48:57.645Z
+date: 2024-01-27T23:52:04.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T23:39:00.881Z
@@ -189,9 +189,53 @@ dateCreated: 2024-01-27T23:39:00.881Z
   <td colspan=2 >ℹ️ </td></table></div> 
   
   
-  
-  
+## Площади и улици
+## Tabs {.tabset}
+### 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20bul.%20dondukov%20(1).jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 бул. Ал. Дондуков<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20bul.%20dondukov.jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 бул. Ал. Дондуков<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20bul.%20georgi%20dimitrov%20(maria%20luiza).jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 бул. Г. Димитров<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20bul.%20maria%20luiza.jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 бул. Мария Луиза<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20hristo%20botev%20stambolov.jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 бул. Христо Ботев<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20knqjevo.jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 Княжево<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm%20pl.%20banski.jpg"></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 пл. Бански<br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
 ## Тролейбуси
 ## Tabs {.tabset}
 ### 
