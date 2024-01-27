@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:39:38.475Z
+date: 2024-01-27T21:40:43.007Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -427,7 +427,17 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><b>tm24 </b><br> 🚋 <a href=""></a> <br>📌 Княжево <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm25-graf-ignatiev.jpg"></td>
+<td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌 ул. Граф Игнатиев <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm25-maria-luiza.jpg"></td>
+<td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌 бул. Мария Луиза <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
 ## Тролейбуси
 ## Tabs {.tabset}
 ###   
