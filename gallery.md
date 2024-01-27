@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T13:27:47.973Z
+date: 2024-01-27T23:18:35.101Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -116,13 +116,18 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## Държавни архиви
-- [www.archives.government.bg :bulgaria:*различни години*](/gallery/archives-goverment-bg)
+- [www.archives.government.bg :bulgaria:*различни години*](/gallery/archives-goverment)
 {.links-list}
 
 ## ФотоТрезор
-- [phototresor.com  :bulgaria:*различни години*](/gallery/phototresor-com)
+- [phototresor.com  :bulgaria:*различни години*](/gallery/phototresor)
 {.links-list}
 
+## Изгубената България
+- [lostbulgaria.com :bulgaria:*различни години*](/gallery/lostbulgaria)
+{.links-list}
+
+
 ## Стара София
-- [stara-sofia.com :bulgaria:*различни години*](/gallery/stara-sofia-com)
+- [stara-sofia.com :bulgaria:*различни години*](/gallery/stara-sofia)
 {.links-list}
