@@ -2,7 +2,7 @@
 title: Фотограф - Bohdan Turzanski
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:07:19.264Z
+date: 2024-01-27T00:08:49.721Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T12:29:08.543Z
@@ -101,4 +101,14 @@ dateCreated: 2023-11-20T12:29:08.543Z
 <td><b><b>tm139 line5</b></b><br>📌 пл. Руски паметник <br> 📷 Bohdan Turzanski</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
- 
+
+## Tabs {.tabset}
+### T8M-730 (София-70)
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bohdan-turzanski/tm236%20line5.jpg"></td>
+<td><b><b>tm236 line5</b></b><br>🚎 <a href="/bg/public-transport/fleet-list/1951-T4M-221">T4M-221 (Република)</a><br>📌 пл. Руски паметник <br> 📷 Bohdan Turzanski</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+   
+   
+   
