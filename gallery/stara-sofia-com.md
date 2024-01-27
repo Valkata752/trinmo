@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:08:16.492Z
+date: 2024-01-27T21:33:30.474Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -251,6 +251,120 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm14-tm18-pl-banski.jpg"></td>
 <td><b>tm14, tm18 </b><br> 🚋 <a href=""></a> <br>📌 пл. Бански <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm15-orlov-most.jpg"></td>
+<td><b>tm15 </b><br> 🚋 <a href=""></a> <br>📌 пл. Орлов мост <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm15-tm16-orlov-most.jpg"></td>
+<td><b>tm15, tm16 </b><br> 🚋 <a href=""></a> <br>📌 пл. Орлов мост <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm15-tm22-pl-banski.jpg"></td>
+<td><b>tm15, tm22 </b><br> 🚋 <a href=""></a> <br>📌 пл. Бански <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm16-line9.jpg"></td>
+<td><b>tm16 line9 </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm16-narodno-sabranie-(1).jpg"></td>
+<td><b>tm16 </b><br> 🚋 <a href=""></a> <br>📌 пл. Народно събрание <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm16-narodno-sabranie.jpg"></td>
+<td><b>tm16 </b><br> 🚋 <a href=""></a> <br>📌 пл. Народно събрание <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm16-tsar-osvoboditel.jpg"></td>
+<td><b>tm16 </b><br> 🚋 <a href=""></a> <br>📌 бул. Цар Освободител <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm17-lineknqjevskata.jpg"></td>
+<td><b>tm17 lineКняжевската </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm18-tsar-osvoboditel.jpg"></td>
+<td><b>tm18 </b><br> 🚋 <a href=""></a> <br>📌 бул. Цар Освободител <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm18-ul-targovska.jpg"></td>
+<td><b>tm18 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm19-bul-dondukov.jpg"></td>
+<td><b>tm19 </b><br> 🚋 <a href=""></a> <br>📌 бул. Ал. Дондуков <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm19-pl-batenberg-line1.jpg"></td>
+<td><b>tm19 </b><br> 🚋 <a href=""></a> <br>📌 пл. Батенберг <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+    
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm19-sv-kral.jpg"></td>
+<td><b>tm19 </b><br> 🚋 <a href=""></a> <br>📌 пл. Св. Крал <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+  
+    
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm19-tm21-dondukov.jpg"></td>
+<td><b>tm19, tm21 </b><br> 🚋 <a href=""></a> <br>📌 бул. Ал. Дондуков <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+  
+    
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm19.jpg"></td>
+<td><b>tm19 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm20.jpg"></td>
+<td><b>tm20 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm20.jpg"></td>
+<td><b>tm21, tm19 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm20.jpg"></td>
+<td><b>tm21, tm25 lineКняжевската </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
   
   
   
