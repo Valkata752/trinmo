@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T20:16:04.582Z
+date: 2024-01-27T00:26:57.305Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -65,6 +65,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Rob Crandall *1995*](/gallery/rob-crandall)
 - [Luc Koenot :belgium: *1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
+- [Ligne De Crête :fr: *1992*](/gallery/ligne-de-crete)
 - [Champlin :fr: *1990*](/gallery/champlin)
 - [Martin Haman*1990*](/gallery/martin-haman)
 {.links-list}
