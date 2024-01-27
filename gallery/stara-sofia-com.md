@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:46:28.600Z
+date: 2024-01-27T21:47:22.609Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -471,6 +471,14 @@ dateCreated: 2024-01-26T12:00:53.902Z
 ## Площади и улици
 ## Tabs {.tabset}
 ### 
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/depo-krasno-selo.jpg"></td>
+<td><b>Депо</b><br> 🚋 <a href=""></a> <br>📌 депо Красно село<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/sofiyski-pazar.jpg"></td>
@@ -498,7 +506,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/trase-car-boris-iii.jpg"></td>
-<td><b>Трамвайнотрасе</b><br> 🚋 <a href=""></a> <br>📌 бул. Цар Борис III<br> 📷 www.stara-sofia.com</td></tr>
+<td><b>Трамвайно трасе</b><br> 🚋 <a href=""></a> <br>📌 бул. Цар Борис III<br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
