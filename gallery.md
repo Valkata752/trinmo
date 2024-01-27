@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T10:15:34.445Z
+date: 2024-01-27T13:27:47.973Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -117,6 +117,10 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## Държавни архиви
 - [www.archives.government.bg :bulgaria:*различни години*](/gallery/archives-goverment-bg)
+{.links-list}
+
+## ФотоТрезор
+- [phototresor.com  :bulgaria:*различни години*](/gallery/phototresor-com)
 {.links-list}
 
 ## Стара София
