@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T23:23:01.928Z
+date: 2024-01-27T23:36:34.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -20,7 +20,7 @@ dateCreated: 2023-02-12T15:35:39.100Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1U4WcAMrnHJp2TAnDR_Y0_3OwRz3QK8X7"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/autobusy-prvn%c3%ad-republiky-protektor%c3%a1tu-1918-1945/Screenshot%202020-12-13%20233307.jpg"></td>
 <td> Готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.</td></tr>
   <td colspan=2 >ℹ️ Autobusy první republiky a protektorátu: 1918-1945</td></table></div>
   
