@@ -2,7 +2,7 @@
 title: Държавен архив
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T11:01:25.610Z
+date: 2024-01-27T11:12:01.882Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:17:52.821Z
@@ -82,9 +82,26 @@ dateCreated: 2024-01-27T10:17:52.821Z
 
 
 
+## Албуми със снимки ‒ градове
+> ф. № 720, оп. 5, а.е. 85
+> 85.22. София (1956−1985, 124 стр.)
+{.is-info}
 
 
 
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p01.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p02.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p03.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p04.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p05.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p06.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p07.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p08.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p09.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p10.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p11.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p12.jpg">
+<img src="http://46.10.181.183:1518/trinmo/gallery/arhives-goverment-bg/085.22-p13.jpg">
 
 
 
