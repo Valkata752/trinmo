@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:40:43.007Z
+date: 2024-01-27T21:43:24.007Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -39,7 +39,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
   
 
   
-## Трамваи
+## Трамваи (1-25)
 ## Tabs {.tabset}
 ###   
  <!--следващ пост--> 
@@ -437,7 +437,67 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm25-maria-luiza.jpg"></td>
 <td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌 бул. Мария Луиза <br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>     
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
+## Трамваи (8*)
+## Tabs {.tabset}
+### 
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm82-line2.jpeg"></td>
+<td><b>tm82 line2 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm84-line3.jpg"></td>
+<td><b>tm84 line3 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm85-line3.jpg"></td>
+<td><b>tm85 line3 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm88.jpg"></td>
+<td><b>tm88 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+
+## Трамваи (1**)
+## Tabs {.tabset}
+### 
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm88.jpg"></td>
+<td><b>tm109 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm110-line5.jpg"></td>
+<td><b>tm110 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm113-line5.jpg"></td>
+<td><b>tm113 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+
 ## Тролейбуси
 ## Tabs {.tabset}
 ###   
