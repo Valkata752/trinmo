@@ -2,43 +2,14 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:43:24.007Z
+date: 2024-01-27T21:46:28.600Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
 ---
 
 
-## Площади и улици
-## Tabs {.tabset}
-### 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/sofiyski-pazar.jpg"></td>
-<td><b>Софийския пазар</b><br> 🚋 <a href=""></a> <br>📌 бул. Княгиния Мария Луиза<br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ scan1754</td></table></div>
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/lavov-most.jpg"></td>
-<td><b>Лъвовия мостъ</b><br> 🚋 <a href=""></a> <br>📌 Лъвов мост<br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ scan1747</td></table></div>
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/sv-nedelya.jpg"></td>
-<td><b>площадъ св. Кралъ и ул. Мария Луиза</b><br> 🚋 <a href=""></a> <br>📌 пл. Св. Неделя<br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ scan1756</td></table></div>
-
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/ul-regentska.jpg"></td>
-<td><b>улица Регентска</b><br> 🚋 <a href=""></a> <br>📌 ул. Регентска<br> 📷 www.stara-sofia.com</td></tr>
-  <td colspan=2 >ℹ️ scan1757</td></table></div>
-
-  
-
-  
+ 
 ## Трамваи (1-25)
 ## Tabs {.tabset}
 ###   
@@ -479,7 +450,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm88.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm109-line5.jpg"></td>
 <td><b>tm109 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
@@ -497,7 +468,42 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><b>tm113 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
+## Площади и улици
+## Tabs {.tabset}
+### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/sofiyski-pazar.jpg"></td>
+<td><b>Софийския пазар</b><br> 🚋 <a href=""></a> <br>📌 бул. Княгиния Мария Луиза<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ scan1754</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/lavov-most.jpg"></td>
+<td><b>Лъвовия мостъ</b><br> 🚋 <a href=""></a> <br>📌 Лъвов мост<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ scan1747</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/sv-nedelya.jpg"></td>
+<td><b>площадъ св. Кралъ и ул. Мария Луиза</b><br> 🚋 <a href=""></a> <br>📌 пл. Св. Неделя<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ scan1756</td></table></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/ul-regentska.jpg"></td>
+<td><b>улица Регентска</b><br> 🚋 <a href=""></a> <br>📌 ул. Регентска<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ scan1757</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/trase-car-boris-iii.jpg"></td>
+<td><b>Трамвайнотрасе</b><br> 🚋 <a href=""></a> <br>📌 бул. Цар Борис III<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+  
 ## Тролейбуси
 ## Tabs {.tabset}
 ###   
