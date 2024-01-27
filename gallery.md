@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:26:57.305Z
+date: 2024-01-27T10:15:34.445Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -113,6 +113,10 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 40те
 - [40 години трамваен транспорт*1941*](/bg/gallery/40-godini-tramvai)
+{.links-list}
+
+## Държавни архиви
+- [www.archives.government.bg :bulgaria:*различни години*](/gallery/archives-goverment-bg)
 {.links-list}
 
 ## Стара София
