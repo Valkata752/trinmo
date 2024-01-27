@@ -2,7 +2,7 @@
 title: Тролейбуси в система много единици (СМЕ)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:39:22.255Z
+date: 2024-01-27T00:41:47.606Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T00:35:51.571Z
@@ -12,6 +12,15 @@ dateCreated: 2024-01-27T00:35:51.571Z
 > Времето за закачане / разкачане по проект е 10 - 15 мин.
 {.is-info}
 
+### 258+259
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/gisberta-yakla/tb258%20%20tb259%20depo.jpg"></td>
+<td><b>tb258+tb259</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a><br>📌 неизв.<br> 📷 Gisberta Yakla<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+### 303+304
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ole-iskov/tb303%20tb304%20line3.jpg"></td>
@@ -29,7 +38,9 @@ dateCreated: 2024-01-27T00:35:51.571Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/philippe-nemery/tb303+tb304%20line3.jpg"></td>
 <td><b>	tb303+tb304 line3</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1964-Skoda-9Tr">Škoda 9Tr</a> <br>📌 пам. Васил Левски<br> 📷 Philippe Nemery</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+ 
+
+### 305+306 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/boris-miladinov/9TR/tb212%20198z.jpg"></td>
