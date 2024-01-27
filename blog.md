@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:47:22.248Z
+date: 2024-01-27T08:34:49.970Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:trolleybus::trolleybus: Тролейбуси в система много единици (СМЕ) *Петър Мънъри*](/bg/blog//trolleybusi-v-sme)
+- [:trolleybus::trolleybus: Тролейбуси в система много единици (СМЕ) *Петър Мънъри*](/bg/blog//trolleybusi-v-sme) 
 - [:movie_camera: Актьорски изяви на возила от градския Транспорт на София *Петър Мънъри*](/bg/blog/sofia-public-transport-in-movies)
 - [:train::czech_republic:  Трамваите Татра *Петър Мънъри*](/bg/blog/tatra-trams)
 - [:chart_with_upwards_trend::train::bus::trolleybus:  Статистически данни за транспорта от 1937г. до 1947г. *Петър Мънъри*](/bg/blog/statisticheski-danni-transport)
