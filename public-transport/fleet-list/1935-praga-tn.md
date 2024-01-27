@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-03T23:33:23.664Z
+date: 2024-01-27T23:23:01.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -138,6 +138,8 @@ dateCreated: 2023-02-12T15:35:39.100Z
  <!--2120--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/yRJD0rzk7SFNVOM-CltOX5rGUHcncbls9FQf2xeU6hpZrPELXYLxAyywdCfR1JNqsCs=w2400" height="200px"><figcaption><b>Сф2120</b>📷 Форумъ Аспиринъ Аспиринъ</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/yRJD0rzk7SFNVOM-CltOX5rGUHcncbls9FQf2xeU6hpZrPELXYLxAyywdCfR1JNqsCs=w2400" width="100%"></div></div>
 
- <!--неизв.--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/PAnoHfYWHp8cSfqhgL36Z4S8HCrzgB14FUr0tlVJhDpZVyfkDGAt5hNCBpJcWHp36oo=w2400" height="200px"><figcaption><b>неизв.</b>📷 lostbulgaria.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/PAnoHfYWHp8cSfqhgL36Z4S8HCrzgB14FUr0tlVJhDpZVyfkDGAt5hNCBpJcWHp36oo=w2400" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/%d0%a1%d0%a4%20%d0%a5%d0%a5%d0%a5%d0%a5.jpg"></td>
+<td><b>aPraga lineE</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1935-praga-tn">Praga TN</a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
