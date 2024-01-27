@@ -2,7 +2,7 @@
 title: Тролейбуси в система много единици (СМЕ)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:46:00.827Z
+date: 2024-01-27T00:47:13.743Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T00:35:51.571Z
