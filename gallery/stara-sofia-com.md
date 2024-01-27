@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:57:48.597Z
+date: 2024-01-27T22:01:17.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -93,7 +93,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm5-ul-dyakon-ignatii.jpg"></td>
 <td><b>tm5 </b><br> 🚋 <a href=""></a> <br>📌 ул. Дякон Игнатии (ул. Левски)  <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ Министерството на войната, трамвайната линия по улица "Дякон Игнатий" и огражденията на строящия се Народен театър,
-началото на 20 век / scan3691
+началото на 20 век / scan3691</td></table></div> 
     
 
  <!--следващ пост--> 
@@ -338,7 +338,7 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-tm19.jpg"></td>
 <td><b>tm21, tm19 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-tm25-lineknqjevskata.jpg"></td>
@@ -388,7 +388,8 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-pl-banski.jpg"></td>
 <td><b>tm23 </b><br> 🚋 <a href=""></a> <br>📌 пл.Бански <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>    
-  
+ 
+    
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-ul-targovska.jpg"></td>
