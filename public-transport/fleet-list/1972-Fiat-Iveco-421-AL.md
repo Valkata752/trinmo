@@ -2,7 +2,7 @@
 title: Fiat Iveco 421 AL
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-17T23:28:24.990Z
+date: 2024-01-27T00:24:51.383Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:52:57.059Z
@@ -12,9 +12,9 @@ dateCreated: 2022-05-19T21:52:57.059Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1JjH9iIUcJW48lltITI4oa6SQ-3hNWlHN"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1992/br53-1992.03.19-(1).jpg"></td>
 <td><b>Автобуси от Торино по столичните улици</b><br></td></tr>
-  <td colspan=2 >ℹ️ <b><a href=""></a></b>в-к Вечерни новини брой 53 1992.03.19</td></table></div>
+  <td colspan=2 >ℹ️ <b><a href="/bg/literature/vecherni-novini-1992">в-к Вечерни новини брой 53 1992.03.19</a></b></td></table></div>
   
 # Списък
 
@@ -74,6 +74,17 @@ dateCreated: 2022-05-19T21:52:57.059Z
   
 # Tabs {.tabset}
 ## 3718
-<!--3718--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" height="200px"><figcaption> <b>a3718 line404</b> 📷 Сканирано от Metan</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kwcqfdkj9mXvET-v-XMVPqAsrGCF-arG" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Fiat-Iveco/a3718%20line404%201992.jpg"></td>
+<td><b><b>a3718 line404</b></b><br>📌 <br> 📷 Неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+# Tabs {.tabset}
+## 3727
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ligne-de-crete/a3727.jpg"></td>
+<td><b><b>a3727</b></b><br>📌 <br> 📷 Ligne De Crête</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
