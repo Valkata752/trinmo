@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:52:34.396Z
+date: 2024-01-27T21:55:49.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -386,6 +386,14 @@ dateCreated: 2024-01-26T12:00:53.902Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-ul-targovska.jpg"></td>
 <td><b>tm23 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>      
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm24-ul-dyakon-ignatii.jpg"></td>
+<td><b>tm24 </b><br> 🚋 <a href=""></a> <br>📌 ул. Дякон Игнатии (ул. Левски)  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ Зимата на 1902 г. - вдясно е оградата на градската градина, вляво - Министерство на войната,
+а дървената тараба след него огражда мястото, където няколко години по-късно ще се издига Народният театър
+</td></table></div>   
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
