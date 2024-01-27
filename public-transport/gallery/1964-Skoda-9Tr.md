@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:41:10.001Z
+date: 2024-01-27T08:50:31.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -30,6 +30,14 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/205%201965.jpg"></td>
 <td><b><b>tb205 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ ## Tabs {.tabset}
+### 209
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bva-bulgarian-visiual-archive/bva-10602%20tb209.jpg"></td>
+<td><b><b>tb209 </b></b><br>📌  <br> 📷 Българески визуален архив</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -185,6 +193,13 @@ dateCreated: 2023-12-31T13:46:34.785Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tb234%20line2%20tb274%20Scan905.jpg"></td>
 <td><b>tb234 line2, tm274</b><br> 🚎 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bva-bulgarian-visiual-archive/bva-10462%20tb274.jpg"></td>
+<td><b><b>tb274 </b></b><br>📌  <br> 📷 Българески визуален архив</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
   
 ## Tabs {.tabset}
 ### 277
