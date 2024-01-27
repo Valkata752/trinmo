@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T21:33:30.474Z
+date: 2024-01-27T21:39:38.475Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -355,18 +355,77 @@ dateCreated: 2024-01-26T12:00:53.902Z
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm20.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-tm19.jpg"></td>
 <td><b>tm21, tm19 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm20.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-tm25-lineknqjevskata.jpg"></td>
 <td><b>tm21, tm25 lineКняжевската </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-ul-targovska.jpg"></td>
+<td><b>tm21 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm22-tm15.jpg"></td>
+<td><b>tm22, tm15 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm22-tm26-ul-targovska.jpg"></td>
+<td><b>tm22, tm26 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm22-tm54-knqjevo.jpg"></td>
+<td><b>tm22, tm54 </b><br> 🚋 <a href=""></a> <br>📌 Княжево <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm22-ul-pirotska.jpg"></td>
+<td><b>tm22 </b><br> 🚋 <a href=""></a> <br>📌 ул.Пиротска <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-dondukov---targovska.jpg"></td>
+<td><b>tm23 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска / бул. Ал. Дондуков <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-pl-banski.jpg"></td>
+<td><b>tm23 </b><br> 🚋 <a href=""></a> <br>📌 пл.Бански <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm23-ul-targovska.jpg"></td>
+<td><b>tm23 </b><br> 🚋 <a href=""></a> <br>📌 ул. Търговска <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm24-tm5.jpg"></td>
+<td><b>tm24 </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm24-lineknqjevskata.jpg"></td>
+<td><b>tm24 </b><br> 🚋 <a href=""></a> <br>📌 Княжево <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
   
   
 ## Тролейбуси
