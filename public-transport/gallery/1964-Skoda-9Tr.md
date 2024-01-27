@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:13:34.327Z
+date: 2024-01-27T00:41:10.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -235,8 +235,11 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ## Tabs {.tabset}
 
 ### 303/304
-<!--303-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1sEwSWV4uuSNfnOqd6TsCelqgCXL7XFiq" height="200px"><figcaption><b>ТБ2</b> 📷 ohoboho ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=11sEwSWV4uuSNfnOqd6TsCelqgCXL7XFiq" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ohoboho/tb303%20line2.jpg"></td>
+<td><b>tb303 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ohoboho</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
