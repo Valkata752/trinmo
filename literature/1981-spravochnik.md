@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T19:49:17.967Z
+date: 2024-01-28T17:45:47.765Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -14,20 +14,44 @@ dateCreated: 2022-04-30T18:10:10.812Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_007.jpg">
 
 ## Трамвайни линии
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_009.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_011.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_013.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_015.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_017.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_019.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_021.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_023.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_025.jpg">
+
+### TM1 и ТМ2
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_009.jpg">
+
+### TM3 и ТМ4
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_011.jpg">
+
+### TM5 и ТМ6
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_013.jpg">
+
+### TM7, ТМ8 и ТМ9
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_015.jpg">
+
+### TM9а и ТМ10
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_017.jpg">
+
+### TM11 и ТМ12
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_019.jpg">
+
+### TM13 и ТМ14
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_021.jpg">
+
+### TM15 и ТМ16
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_023.jpg">
+
+### TM17 и ТМ18
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_025.jpg">
 
 ## Тролейбусни линии
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_027.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_029.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_031.jpg">
+
+### TM19 и ТБ1
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_027.jpg">
+
+### TБ1 и ТБ2
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_029.jpg">
+
+### TБ3 и ТБ6
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_031.jpg">
 
 
 ## Автобусни линии
