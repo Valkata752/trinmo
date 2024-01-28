@@ -2,7 +2,7 @@
 title: Софийското метро - брой 7
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-10T11:02:11.544Z
+date: 2024-01-28T08:20:38.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T11:02:08.217Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-10T11:02:08.217Z
 
 
 <h2><span class="text-small">Софийското метро - брой 7</span>
-<iframe src="https://drive.google.com/file/d/1S3icr3vmAiLzeKgytiUrhMzlJ4J91_St/preview"
+<iframe src="https://drive.google.com/file/d/1CkpUDzxXvmw8JbndTu04u2oy75DVLMQs/preview"
     frameBorder="0"
     scrolling="auto"
     width="100%"
