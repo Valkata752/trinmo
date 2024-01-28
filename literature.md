@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T09:51:55.073Z
+date: 2024-01-28T17:21:49.945Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1298,7 +1298,7 @@ COBISS.BG-ID - 1123268068
 ## 1964
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1cs3cbWEL0NG3ETu7lbll4IeUdYlJUTH8"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1964-ukazatel/cover.jpg"></td>
 <td>Указател - 1964</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
   
@@ -1319,7 +1319,7 @@ COBISS.BG-ID - 1123268068
 ## 1983
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/00-00.jpg"></td>
 <td>Справочник - 1983</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
 
