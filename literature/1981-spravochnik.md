@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T17:56:38.095Z
+date: 2024-01-28T18:08:19.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -97,58 +97,167 @@ dateCreated: 2022-04-30T18:10:10.812Z
 
 ### А24 и А25
 <br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_059.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_061.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_063.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_065.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_067.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_069.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_071.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_073.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_075.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_077.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_079.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_081.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_083.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_085.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_087.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_089.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_091.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_093.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_095.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_097.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_099.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_101.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_103.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_105.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_107.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_109.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_111.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_113.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_115.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_117.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_119.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_121.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_123.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_125.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_127.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_129.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_131.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_133.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_135.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_137.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_139.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_141.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_143.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_145.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_147.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_149.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_151.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_153.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_155.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_157.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_159.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_161.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_163.jpg">
+
+### А25а и А26
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_061.jpg">
+
+### А26а и А27
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_063.jpg">
+
+### А29 и А30
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_065.jpg">
+
+### А31 и А32
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_067.jpg">
+
+### А33 и А34
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_069.jpg">
+
+### А35 и А36
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_071.jpg">
+
+### А37 и А38
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_073.jpg">
+
+### А39 и А40
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_075.jpg">
+
+### А40 и А41
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_077.jpg">
+
+### А42 и А43
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_079.jpg">
+
+### А43
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_081.jpg">
+
+### А44 и А44а
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_083.jpg">
+
+### А45 и А46
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_085.jpg">
+
+### А47 и А48
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_087.jpg">
+
+### А49 и А50
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_089.jpg">
+
+### А51, А52 и А53
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_091.jpg">
+
+### А55 и А56
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_093.jpg">
+
+### А57 и А58
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_095.jpg">
+
+### А59, А60 и А61
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_097.jpg">
+
+### А61 и А62
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_099.jpg">
+
+### А62 и А63
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_101.jpg">
+
+### А64 и А65
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_103.jpg">
+
+### А66, А67 и А68
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_105.jpg">
+
+### А68 и А69
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_107.jpg">
+
+### А70 и А71
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_109.jpg">
+
+### А72 и А73
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_111.jpg">
+
+### А75 и А76
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_113.jpg">
+
+### А77 и А79
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_115.jpg">
+
+### А80 и А81
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_117.jpg">
+
+### А83 и А84
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_119.jpg">
+
+### А85 и А86
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_121.jpg">
+
+### А87 и А88
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_123.jpg">
+
+### А89 и А90
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_125.jpg">
+
+### А91 и А91а
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_127.jpg">
+
+### А92 и А93
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_129.jpg">
+
+### А94 и А95
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_131.jpg">
+
+### А96 и А97
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_133.jpg">
+
+### А98, А99 и А100
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_135.jpg">
+
+### А101 и А103
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_137.jpg">
+
+### А104, А105 и А106
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_139.jpg">
+
+### А107, А108 и А109
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_141.jpg">
+
+### А110 и А111
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_143.jpg">
+
+### А112 и А117
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_145.jpg">
+
+### А118 и А119
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_147.jpg">
+
+### А120, А121 и А200
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_149.jpg">
+
+### А209, А211 и А213
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_151.jpg">
+
+### А215 и А216
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_153.jpg">
+
+### А242, А260 и А261
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_155.jpg">
+
+### А266 и А270
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_157.jpg">
+
+### А280 и А283
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_159.jpg">
+
+### А284, А285, А304 и А305
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_161.jpg">
+
+### А306, А335 и А461
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_163.jpg">
+
+
+
+## Автостанции
+<br>
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_165.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_167.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_169.jpg">
