@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T00:05:26.345Z
+date: 2024-01-28T00:06:08.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -135,13 +135,6 @@ dateCreated: 2023-02-12T15:35:39.100Z
  
  <!--2120--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/yRJD0rzk7SFNVOM-CltOX5rGUHcncbls9FQf2xeU6hpZrPELXYLxAyywdCfR1JNqsCs=w2400" height="200px"><figcaption><b>Сф2120</b>📷 Форумъ Аспиринъ Аспиринъ</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/yRJD0rzk7SFNVOM-CltOX5rGUHcncbls9FQf2xeU6hpZrPELXYLxAyywdCfR1JNqsCs=w2400" width="100%"></div></div>
-
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/40-godini-tramvai/fig24-tm621.jpg"></td>
-<td><b></b>Фиг. 24. Реморке-стълба за поддържане на въздушната трамвайна мрежа.</td></tr>
-  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
-  
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
