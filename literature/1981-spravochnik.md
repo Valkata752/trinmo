@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T17:45:47.765Z
+date: 2024-01-28T17:56:38.095Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -55,20 +55,48 @@ dateCreated: 2022-04-30T18:10:10.812Z
 
 
 ## Автобусни линии
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_033.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_035.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_037.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_039.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_041.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_043.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_045.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_047.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_049.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_051.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_053.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_055.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_057.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_059.jpg">
+
+### TБ7, ТБ8 и А1
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_033.jpg">
+
+### А2
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_035.jpg">
+
+### А3 и А4
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_037.jpg">
+
+### А5 и А5а
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_039.jpg">
+
+### А6 и А7
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_041.jpg">
+
+### А8, А9 и А10
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_043.jpg">
+
+### А11 и А12
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_045.jpg">
+
+### А13 и А14
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_047.jpg">
+
+### А14 и А15
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_049.jpg">
+
+### А16 и А17
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_051.jpg">
+
+### А18 и А19
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_053.jpg">
+
+### А20 и А21
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_055.jpg">
+
+### А22 и А23
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_057.jpg">
+
+### А24 и А25
+<br><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_059.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_061.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_063.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_065.jpg">
