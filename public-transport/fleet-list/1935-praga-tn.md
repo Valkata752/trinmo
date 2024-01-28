@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T00:03:59.216Z
+date: 2024-01-28T00:05:26.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -148,7 +148,8 @@ dateCreated: 2023-02-12T15:35:39.100Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/40-godini-tramvai/fig25-avtobus-1935.jpg"></td>
 <td><b></b>Фиг. 25. Първите автобуси на Д.Т.О., тип 1935 г., бензинов мотор 100 к.с., дървена каруцерия</td></tr>
   <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
-
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/%d0%a1%d0%a4%20%d0%a5%d0%a5%d0%a5%d0%a5.jpg"></td>
