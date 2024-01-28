@@ -2,43 +2,45 @@
 title: 1983 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:18:00.275Z
+date: 2024-01-28T17:28:11.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-22T22:06:57.386Z
 ---
 
-<img src="https://lh3.google.com/u/0/d/1KO5fl_cMHXwWs_kkf0e74zLnsk38JU-I">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/00-00.jpg">
 
-<img src="https://lh3.google.com/u/0/d/1hWjoC8hKmhwWYFsWeARAUewNT0URTlDy">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/0-1.jpg">
+
 
 ## Съдържание
 <br>
-<img src="https://lh3.google.com/u/0/d/1Wz_6D97JYrQeWiJ66dKYBzfbU_d5pLf_">
-<img src="https://lh3.google.com/u/0/d/14OcjpdGi0EF_ab1so8SmPNQFRq3eY1e6">
-<img src="https://lh3.google.com/u/0/d/1MYEzEy-crxVRcdKvoh4ZxCYZmGtYt-Lt">
-<img src="https://lh3.google.com/u/0/d/1xbfrFpsKLw2XLxSo38BPLMA15rT4Mdeg">
-<img src="https://lh3.google.com/u/0/d/1ZXQhywvAVLYInBTfr3sXqlbGeBtvybCs">
-<img src="https://lh3.google.com/u/0/d/15RZ--IxTjatL2rcH3mwxyWtqo4VJOdxY">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/2-3.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/4-5.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/6-7.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/8-9.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/10-11.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/12-13.jpg">
 
 ## :train: Трамвайни линии
 <br>
 
 ### TM1
 <br>
-<img src="https://lh3.google.com/u/0/d/1LGbgfi-cz9dob62zzdOkZLarOFHbN6gC">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/14-15.jpg">
+
 
 ### TM2/TM3
 <br>
-<img src="https://lh3.google.com/u/0/d/11ad37zgynrhiui1H41FWq7E_gI3lma4z">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/16-17.jpg">
 
 ### TM4/TM5
 <br>
-<img src="https://lh3.google.com/u/0/d/1jComX-Idbw238Kb-TIluotsmm9xgYWDg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/18-19.jpg">
 
 ### TM6/TM7
 <br>
-<img src="https://lh3.google.com/u/0/d/19_i7JZ_7_8kgaWSyNOSuDmWrPgV6ntT8">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/20-21.jpg">
 
 ### TM8/TM9
 <img src="https://lh3.google.com/u/0/d/19_ZcJZY4OLUAlPv5FhOIsmks3w4_deR_">
