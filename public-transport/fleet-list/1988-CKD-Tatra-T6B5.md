@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T19:48:16.674Z
+date: 2024-01-28T20:51:13.156Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
