@@ -2,7 +2,7 @@
 title: 1983 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T17:28:11.743Z
+date: 2024-01-28T17:41:33.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-22T22:06:57.386Z
@@ -43,51 +43,50 @@ dateCreated: 2023-04-22T22:06:57.386Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/20-21.jpg">
 
 ### TM8/TM9
-<img src="https://lh3.google.com/u/0/d/19_ZcJZY4OLUAlPv5FhOIsmks3w4_deR_">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/22-23.jpg">
 
 ### TM10/TM11
 <br>
-<img src="https://lh3.google.com/u/0/d/1KpuOk3tUz5a64L9Awpo3Y0k_yuAKwIwV">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/24-25.jpg">
 
 
 ### TM12/TM13
 <br>
-<img src="https://lh3.google.com/u/0/d/1Gf4u5-iqZFA4m-XFFVIsNyFS_VQq5hPH">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/26-27.jpg">
 
 ### TM14/TM15
 <br>
-<img src="https://lh3.google.com/u/0/d/1lzS06vVlA8NqAHRDIedgdILJrLiYU_JT">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/28-29.jpg">
 
 ### TM16/TM17
 <br>
-<img src="https://lh3.google.com/u/0/d/1DXhuCW5E9aT5jMjmFCmNx9Y-cmpuQ8FD">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/30-31.jpg">
 
 
 ### TM19
 <br>
-<img src="https://lh3.google.com/u/0/d/1ZIkmLUkvq9fyJcLseG3O68AgNus1LnH9">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/32-33.jpg">
 
 ## :trolleybus: Тролейбусни линии
 
 
 ### ТБ1/ТБ2
 <br>
-<img src="https://lh3.google.com/u/0/d/1Db4w46ie7K8K22IDRJvRAmNoOov7gY8T">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/34-35.jpg">
 
 ### ТБ3/ТБ6
 <br>
-<img src="https://lh3.google.com/u/0/d/1aWKPLF2DYj6SMQ7I1XiOp9kmrtfY2jah">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/36-37.jpg">
 
 
 ### ТБ6А/ТБ8
 <br>
-<img src="https://lh3.google.com/u/0/d/15ZB069c2bkuyrNLb2TuJ1iQCAQKujZh3">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/38-39.jpg">
 
 
 ### ТБ9
 <br>
-<img src="https://lh3.google.com/u/0/d/1i8j70cKEBxZoB67mK9IJbontL4gBXVgY">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/40-41.jpg">
 
 
 ## :bus: Автобусни линии
@@ -98,140 +97,138 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A4
 <br>
-<img src="https://lh3.google.com/u/0/d/1nkIk67ZQyjuRks-i4bseZvXr68Epi29Y">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/42-43.jpg">
 
 ### A9/A10
 <br>
-<img src="https://lh3.google.com/u/0/d/1BwOhoDox7iDuetqkHclXjrk9o3dMSvuf">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/44-45.jpg">
 
 ### A11/A13
 <br>
-<img src="https://lh3.google.com/u/0/d/1pc-q0_9amQYHfUOEW2m9vbeQPqi7_OqI">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/46-47.jpg">
 
 ### A16/A17
 <br>
-<img src="https://lh3.google.com/u/0/d/1fvKiiO3xJMztQR-FV84c8FVg2vBG-bL1">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/48-49.jpg">
 
 ### A24/A25A
 <br>
-<img src="https://lh3.google.com/u/0/d/14wiWKVP_yPscz5C90WieUqwtaSsceah0">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/50-51.jpg">
 
 
 ### A51/A52
 <br>
-<img src="https://lh3.google.com/u/0/d/1iFIhhlEph4HzfhYIgW8rzKYG7Hlc3UGq">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/52-53.jpg">
 
 
 ### A55/A57
 <br>
-<img src="https://lh3.google.com/u/0/d/15IqF-ug7Tsdfcgspfs8IB3-XOQZyyuU4">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/54-55.jpg">
 
 
 ### A60/A63
 <br>
-<img src="https://lh3.google.com/u/0/d/14ehj6hRmxsmKTx7RF7KT9hz_ZH0LRRsV">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/56-57.jpg">
 
 
 ### A63A/A64
 <br>
-<img src="https://lh3.google.com/u/0/d/1aLU8KcombcbiopE9lsZHANBRKmUu-g9t">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/58-59.jpg">
 
 ### A67/A72
 <br>
-<img src="https://lh3.google.com/u/0/d/1Uyhy7B5wDS3aNPm7rbXwKudwcwjv2xx4">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/60-61.jpg">
 
 
 ### A73/A74
 <br>
-<img src="https://lh3.google.com/u/0/d/1SmTUh9SUQfDD_NNiTjH9NcWl6fHJzkN0">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/62-63.jpg">
 
 
 ### A75/A76
 <br>
-<img src="https://lh3.google.com/u/0/d/1wBAezulS4q-GLEGmLYNl7G1KROVFBvR1">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/64-65.jpg">
 
 
 ### A77/A79
 <br>
-<img src="https://lh3.google.com/u/0/d/1wSJs5mX-lvMOTfHg9g69sFj3NiUhqClS">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/66-67.jpg">
 
 
 ### A80/A81
 <br>
-<img src="https://lh3.google.com/u/0/d/1mOEttG4Z8cG5M22doIMZ9NJpXi2cBwoI">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/68-69.jpg">
 
 
 ### A82/A83
 <br>
-<img src="https://lh3.google.com/u/0/d/1FVxmP-CAJiPU6LPt0NtdZDfooqtO-PCU">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/70-71.jpg">
 
 
 ### A84/A85
 <br>
-<img src="https://lh3.google.com/u/0/d/1GwC9FgfEwJx39t707uScqSFi0ztTCa5I">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/72-73.jpg">
 
 ### A86/A87
 <br>
-<img src="https://lh3.google.com/u/0/d/1rJ4nBBZj5yAk8Hqiwh0IoLPPKZASg_3x">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/74-75.jpg">
 
 
 ### A88/A89
 <br>
-<img src="https://lh3.google.com/u/0/d/1tOVsgfGF-BVg5tBm9TkJdFQG15NdvuJs">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/76-77.jpg">
 
 
 ### A94/A95
 <br>
-<img src="https://lh3.google.com/u/0/d/1Y3Kp8_9TWzQTVatY6t3hgu6sz1901aXe">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/78-79.jpg">
 
 
 ### A99/A100
 <br>
-<img src="https://lh3.google.com/u/0/d/1WAzaHdqpxB_VtRq9dVOatdTTs_VWaMXS">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/80-81.jpg">
 
 
 ### A102/A104
 <br>
-<img src="https://lh3.google.com/u/0/d/1xKbxUsHvM5c93BWrb_O-msCGsH2-d4Tc">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/82-83.jpg">
 
 
 ### A105/A106
 <br>
-<img src="https://lh3.google.com/u/0/d/1GX1orjY62M2DZkwixMBmYoIw7OJlfmDR">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/84-85.jpg">
 
 
 ### A107/A108
 <br>
-<img src="https://lh3.google.com/u/0/d/14U5O9bzef26hKuob6VIcR55_lwkX8f6B">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/86-87.jpg">
 
 ### A109/A110
 <br>
-<img src="https://lh3.google.com/u/0/d/1FFabFp5M_R-ChrLp_zfm8odwj54uck-e">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/88-89.jpg">
 
 
 ### A111/A112
 <br>
-<img src="https://lh3.google.com/u/0/d/1dvgtdvrpXRD7Mxk0RYw9hPwQ3yHC0ssu">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/90-91.jpg">
 
 ### A114/A117
 <br>
-<img src="https://lh3.google.com/u/0/d/1N-S-atc4Uft1ImE39kJmSabU_iPlDprW">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/92-93.jpg">
 
 ### A120/A121
 <br>
-<img src="https://lh3.google.com/u/0/d/13QySeJNo-MiXg0xs-mmQcRU0Q_5ab_aF">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/94-95.jpg">
 
 
 ### A121A/A125
 <br>
-<img src="https://lh3.google.com/u/0/d/1Yb11iKzag2Xtx98pgkTG1Q2fQJaHCX5G">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/96-97.jpg">
 
 
 ### A200
 <br>
-<img src="https://lh3.google.com/u/0/d/1VCB3w_sRRWQI-Q2vLeMonoNEOZ1BX_bA">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/98-99.jpg">
 
 > Градски бързи
 {.is-info}
@@ -239,35 +236,35 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A209/A211
 <br>
-<img src="https://lh3.google.com/u/0/d/1DgFZ_AkK1COorQVphJL6zHbPA0r_C4f_">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/100-101.jpg">
 
 
 ### A213/A216
 <br>
-<img src="https://lh3.google.com/u/0/d/1o72QMF9_yyFklDmxc46f4H1WxrX9uT8A">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/102-103.jpg">
 
 
 ### A260/A267
 <br>
-<img src="https://lh3.google.com/u/0/d/10QR2kmUgIT2ZlCCy_ECn_vXArAYexVnK">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/104-105.jpg">
 
 
 ### A280/A283
 <br>
-<img src="https://lh3.google.com/u/0/d/1y27ZEFsWQc8OYaJ316U-30M7co5lwQk6">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/106-107.jpg">
 
 ### A284/A285
 <br>
-<img src="https://lh3.google.com/u/0/d/1nhAUGcqOkpd8ip2Tz-YjUBzY0uFcnNIX">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/108-109.jpg">
 
 ### A304/A305
 <br>
-<img src="https://lh3.google.com/u/0/d/1GsyqziR93yE-zydKToHf2kUOC5zIZyyt">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/110-111.jpg">
 
 
 ### A306
 <br>
-<img src="https://lh3.google.com/u/0/d/1U2X3TLyYEgQGg3efFR9gCcpv5tA68MFa">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/112-113.jpg">
 
 
 > Градски експресни
@@ -276,7 +273,7 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### Експрес Люлин
 <br>
-<img src="https://lh3.google.com/u/0/d/1plR2eS7hAt88Rn2ObscM8AhnYMt3Pobt">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/114-115.jpg">
 
 
 > Крайградски обикновени
@@ -285,153 +282,149 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A1/A2
 <br>
-<img src="https://lh3.google.com/u/0/d/18nj69k8iWASC6wC0Ngpwh93HL7DR_MtH">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/116-117.jpg">
 
 
 ### A3/A5
 <br>
-<img src="https://lh3.google.com/u/0/d/18DoWowr__vcl0IiZsNw5v6fKP2W00-AR">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/118-119.jpg">
 
 
 ### A5A/A6
 <br>
-<img src="https://lh3.google.com/u/0/d/166wa3Cfz1knBoefScWsG9zw3-Qyg4TNc">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/120-121.jpg">
 
 
 ### A7/A7A
 <br>
-<img src="https://lh3.google.com/u/0/d/1XQ4Ce67NJz03ID1BbCPEvcRdqk4u6VIt">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/122-123.jpg">
 
 ### A8/A12
 <br>
-<img src="https://lh3.google.com/u/0/d/14WKShvBsmDnukR5GIWTdJE5bizMQXKE2">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/124-125.jpg">
 
 
 ### A14/A15
 <br>
-<img src="https://lh3.google.com/u/0/d/1wDbXtoTlBfjUwxDTDyBlWBdJilAJk1f5">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/126-127.jpg">
 
 
 ### A18/A19
 <br>
-<img src="https://lh3.google.com/u/0/d/1uQVf-0A63q_b-lYVkX8-k2soafeiflpk">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/128-129.jpg">
 
 ### A20/A21
 <br>
-<img src="https://lh3.google.com/u/0/d/1PFZ3MJN7zhVlD3Cav4guNxVJvCq0ujRI">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/130-131.jpg">
 
 
 ### A22/A23
 <br>
-<img src="https://lh3.google.com/u/0/d/1g45aA3DiwLTMTyLSr8hgcix-JUempOnS">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/132-133.jpg">
 
 ### A25/A26
 <br>
-<img src="https://lh3.google.com/u/0/d/1DS5jQ_9D-SZcd7CVudyS913u8JeU-ewV">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/134-135.jpg">
 
 ### A27/A29
 <br>
-<img src="https://lh3.google.com/u/0/d/1bcdSPYu1wTo-j8AVTLJ6eOs71Fx2B0BA">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/136-137.jpg">
 
 ### A30/A31
 <br>
-<img src="https://lh3.google.com/u/0/d/1JURoe-7zr3xa5g2Zne2r9ZVTV4cLx2R7">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/138-139.jpg">
 
 
 ### A32/A33
 <br>
-<img src="https://lh3.google.com/u/0/d/17EfgTqQ20bTRCee2wWCswtUBLZNbpOa2">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/140-141.jpg">
 
 ### A34/A35
 <br>
-<img src="https://lh3.google.com/u/0/d/1wSYFrFs-c8trSn05L1pQw7wh-DtMGXHu">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/142-143.jpg">
 
 ### A36/A37
 <br>
-<img src="https://lh3.google.com/u/0/d/1UjDcpzwTnoxNDIpHJTqlKDj4m-APr5M-">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/144-145.jpg">
 
 ### A38/A39
 <br>
-<img src="https://lh3.google.com/u/0/d/1MFIPpouxsFIYJhOGTbLFHbPBpCxRqjBM">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/146-147.jpg">
 
 ### A40/A41
 <br>
-<img src="https://lh3.google.com/u/0/d/1VQriosoPjHPPWjL74CWvIDcdafzeGYjY">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/148-149.jpg">
 
 ### A42/A43
 <br>
-<img src="https://lh3.google.com/u/0/d/1IQUQxlgXQCTaLjJjosM1a4DGR6CazTiy">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/150-151.jpg">
 
 
 ### A43-I/A43-II
 <br>
-<img src="https://lh3.google.com/u/0/d/1nD09dPs4gsZg1bINxSyD3YFee7NglLZL">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/152-153.jpg">
 
 ### A43-III/A43-IV
 <br>
-<img src="https://lh3.google.com/u/0/d/1Vf2CItKnBI5ahlhgM8hE9Hd212Cu2Ypn">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/154-155.jpg">
 
 ### A43-V/A44
 <br>
-<img src="https://lh3.google.com/u/0/d/1bfwzT5MQZCNz8C1yHbTs2OyCB4A_Wj7T">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/156-157.jpg">
 
 ### A45/A46
 <br>
-<img src="https://lh3.google.com/u/0/d/16NoHOmx1ExxBfbe2UouEDhRoEEygQrI-">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/158-159.jpg">
 
 ### A47/A48
 <br>
-<img src="https://lh3.google.com/u/0/d/1rPrIpHHkJ6Jr3Ik9wiEQxjR4LZJzEc24">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/160-161.jpg">
 
 ### A49/A50
 <br>
-<img src="https://lh3.google.com/u/0/d/1djs-q1Qt_sd6GCc1uiZS5ZJdgO3ksIs-">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/162-163.jpg">
 
 ### A53/A56
 <br>
-<img src="https://lh3.google.com/u/0/d/14jiKz-b3jzMV7i5igVQSPfKHzJsyPFNi">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/164-165.jpg">
 
 
 ### A58/A59
 <br>
-<img src="https://lh3.google.com/u/0/d/1TWF5jR1qzbwIlKuhbx4STN4Awz6AxMoC">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/166-167.jpg">
 
 
 ### A59A/A68
 <br>
-<img src="https://lh3.google.com/u/0/d/13k54nzWvMGjc4DQSV_7EnEJ4FyZfMCfX">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/168-169.jpg">
 
 ### A69/A70
 <br>
-<img src="https://lh3.google.com/u/0/d/1ZCiCaFIjuueNPUxSqw70m5Qiw1EA5qv1">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/170-171.jpg">
 
 
 ### A71/A90
 <br>
-<img src="https://lh3.google.com/u/0/d/1BaqGtK0ZLvVHhbZIOSZ-LtRYHg1gO4wZ">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/172-173.jpg">
 
 
 ### A91/A92
 <br>
-<img src="https://lh3.google.com/u/0/d/1jJjK6MJAmcpxpkHLfZrxTnCM-cTuITQ4">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/174-175.jpg">
 
 
 ### A96/A97
 <br>
-<img src="https://lh3.google.com/u/0/d/1xk1NR2Sjs47j4UCaJp0OFEE188w935Zf">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/176-177.jpg">
 
 ### A98/A118
 <br>
-<img src="https://lh3.google.com/u/0/d/1n7gU4epdh8MeQJGHi5_TVV1OgCsSVRvT">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/178-179jpg">
 
 
 ### A119
 <br>
-<img src="https://lh3.google.com/u/0/d/1u0desNSAkaFmoHs4qzSigUNR6KRfcPGg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/180-181.jpg">
 
 
 
@@ -440,7 +433,7 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A215/A242
 <br>
-<img src="https://lh3.google.com/u/0/d/1_nANEP1D0M1h7qrIpgLqMy8MDSLuCCHw">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/182-183.jpg">
 
 > Излетни обикновени
 {.is-info}
@@ -448,15 +441,15 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A61
 <br>
-<img src="https://lh3.google.com/u/0/d/1_t_XzBW-QwtUrzO9lh62GyWZqLgRMBar">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/184-185.jpg">
 
 ### A62/А66
 <br>
-<img src="https://lh3.google.com/u/0/d/1vNR30R-ET6q87lU6tpK251q4LnVlsElh">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/186-187.jpg">
 
 ### A93/А103
 <br>
-<img src="https://lh3.google.com/u/0/d/1POqyKij_Bu2EgGMhLjLREofRJIiOuGqJ">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/188-189.jpg">
 
 > Излетни бързи
 {.is-info}
@@ -464,33 +457,33 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### A261
 <br>
-<img src="https://lh3.google.com/u/0/d/1mcqeAIuEo2vtGivhLI3pd8E6L_YTR8sU">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/190-191.jpg">
 
 
 
 ### A266/270
 <br>
-<img src="https://lh3.google.com/u/0/d/1NM3NzJ1Vuv87I6KDl33v-ouVaRmvE8Ha">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/192-193.jpg">
 
 
 ### A461
 <br>
-<img src="https://lh3.google.com/u/0/d/1z-9wl3nNvZaEJaOs9x83VPTsGLzy9ZjC">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/194-195.jpg">
 
 ## Маршрутни таксиметрови линии
 
 
 ### MT1/MT2
 <br>
-<img src="https://lh3.google.com/u/0/d/1OFunpAxyhfY-vpMGK9wi6oBG_EAgzPw9">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/196-197.jpg">
 
 ### MT3/MT4
 <br>
-<img src="https://lh3.google.com/u/0/d/1Lnvq0-y_euiLEiv5smTCzBRgo8cJkeJe">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/198-199.jpg">
 
 ### MT5/MT6
 <br>
-<img src="https://lh3.google.com/u/0/d/13jUjGcGfp-G6Ap31xBRZGjlWIq3JrdIU">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/200-201.jpg">
 
 
 ## :aerial_tramway: Въжени линии
@@ -498,9 +491,8 @@ dateCreated: 2023-04-22T22:06:57.386Z
 
 ### Княжевски
 <br>
-<img src="https://lh3.google.com/u/0/d/18JLGG20bf8OCBXKxGAQfTa5_uVQbRlFa">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/202-203.jpg">
 
 ### Драгалевски
 <br>
-<img src="https://lh3.google.com/u/0/d/16VrtSHiO_QJ58Qr2Nr5E4RhBcHBDjS2c">
+<img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/204-205.jpg">
