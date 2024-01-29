@@ -2,11 +2,22 @@
 title: Рекламите по возилата
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-03T17:31:00.809Z
+date: 2024-01-29T08:37:09.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T19:15:27.904Z
 ---
+
+## 2024
+<div class="table-responsive">
+<table style="width:100%">
+  <tr>
+    <td><span>реклама; </span><br></td>
+    <td><img src="https://live.staticflickr.com/65535/53345903405_14f7638c2a_k.jpg"></td>
+  </tr>
+  <td colspan=2 >📷 <a href="/bg/identity/advertisements-2024"><b> Рекламите по возилата - 2024 г.</b></a></td>
+</table>
+</div>
 
 ## 2023
 <div class="table-responsive">
