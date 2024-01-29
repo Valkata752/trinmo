@@ -2,7 +2,7 @@
 title: Столичен общински вестник - 1927 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:46:56.463Z
+date: 2024-01-29T21:39:55.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T15:23:04.283Z
@@ -12,179 +12,179 @@ dateCreated: 2023-12-28T15:23:04.283Z
 ## 26.12.1927 (брой 42 и 43)
 Хроника - Нови реморкета за трамваите (20 броя)
 
-<img src="https://drive.google.com/uc?export=view&id=1NZ0aU7Gs07X3_O2ewMQoBS6XfhylFcN5">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br42-43-str3.jpg">
 
 ## 12.12.1927 (брой 41)
 Борисова градина - Булина ливада - От днес се открива линия 4-8
 
-<img src="https://drive.google.com/uc?export=view&id=1Focpc655lJJIPDaeTbfcSjk5sJWUqQX5">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br41-str2.jpg">
 
 
 ## 12.12.1927 (брой 41)
 Зимно разписание на трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1IUjKHZKGFG6AeTl-b4Ji-Aw77U6TFgh4">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br41-str3.jpg">
 
 
 ## 25.11.1927 (брой 39)
 Хроника - Нови трамвайни линии (Линиите по Графа и Гробарска ще бъдат удвоени)
 
-<img src="https://drive.google.com/uc?export=view&id=1Lu-0GXL3btTzffAoFlItjv0xwr6p7cV1">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br39-str2.jpg">
 
 
 ## 18.11.1927 (брой 38)
 Какво харчи общината за трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1G2voTU998Qzac5eEzkG6PCSEXfOski2b">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br38-str2.jpg">
 
 
 ## 11.11.1927 (брой 37)
 Изплащането на трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1AOavpWG3uThngUZPyXtCi1yYj-hUCS2U">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br37-str1.jpg">
 
 
 ## 11.11.1927 (брой 37)
 Новите трамвайни линии
 
-<img src="https://drive.google.com/uc?export=view&id=1i4bkHOdoQCKc0GMFd19wdwPaY_l86gWj">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br37-str1-2.jpg">
 
 
 ## 11.11.1927 (брой 37)
 За трамвайните коли - претоварване
 
-<img src="https://drive.google.com/uc?export=view&id=1xqlY5MFOT2DbnnVHhqQAzxMpAajVjh-9">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br37-str3.jpg">
 
 
 ## 11.11.1927 (брой 37)
 Столичната трамвайна мрежа
 
-<img src="https://drive.google.com/uc?export=view&id=1r0e2AlOoj6d3byjf6gFkgoJ9YyZZjBSN">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br37-str.2.jpg">
 
 
 ## 28.10.1927 (брой 35)
 Трамвайната мрежа
 
-<img src="https://drive.google.com/uc?export=view&id=1UET7QbwJLCPZNOmz7rlNM0rWqqEyYqhH">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br35-str1.jpg">
 
 
 ## 21.10.1927 (брой 34)
 Зимно разписание на трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1jLFF_J4MhgEdQBPXBDKGK1_0mDYhsYYq">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br34-str2.jpg">
 
 
 ## 14.10.1927 (брой 33)
 Хроника - Трамвайна чакалния на Царибродска спирка
 
-<img src="https://drive.google.com/uc?export=view&id=1wA1QTSYbI6Jqb-zsqdTve1Cw2uMWuwqO">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br33-str3.jpg">
 
 
 ## 14.10.1927 (брой 33)
 Трамвайна линия 4-8
 
-<img src="https://drive.google.com/uc?export=view&id=1Pm0H9hs8DdV7IJeyB9egQa-LDFrChQhI">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br33-str1.jpg">
 
 
 ## 07.10.1927 (брой 32)
 Безплатни трамвайни карти
 
-<img src="https://drive.google.com/uc?export=view&id=1rpWmCPoUuxfCiCZMHcpkqxmwy35x6Alq">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br32-str2.jpg">
 
 
 ## 07.10.1927 (брой 32)
 Трамвайните билети
 
-<img src="https://drive.google.com/uc?export=view&id=1tDAkmkkSZsP01LvWZIzTY6YlByxvMs12">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br32-str3-2.jpg">
 
 
 ## 07.10.1927 (брой 32)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=188zxZ1OJ1u6d2fE9CuNRVu6qh_MRZf21">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br32-str3-1.jpg">
 
 
 ## 30.09.1927 (брой 31)
 Обявление - 2 железарски струга, 1 железарска фрез машина, 1 дърводелска фрез машина
 
-<img src="https://drive.google.com/uc?export=view&id=1ABx996ft04IJrVKkYWpIXKQcE96K_IEL">
+<img src="46.10.181.83:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br31-str4-1.jpg">
 
 
 ## 30.09.1927 (брой 31)
 Обявление - 400 куб. м. пясък
 
-<img src="https://drive.google.com/uc?export=view&id=1U8bed_UwCQEM0wWDGGe89ifTDjDXEFnd">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br31-str4-3.jpg">
 
 
 ## 30.09.1927 (брой 31)
 Обявление - чугунени материали
 
-<img src="https://drive.google.com/uc?export=view&id=1wq68BmcbOsIlNUWwffcLeJh9XUqMdNPc">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br31-str4-2.jpg">
 
 
 ## 30.09.1927 (брой 31)
 Трамвайната мрежа на София
 
-<img src="https://drive.google.com/uc?export=view&id=1PkMh2k8vdru2Qz9KezPtTYloqMIgg6Nl">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br31-str1.jpg">
 
 
 ## 30.09.1927 (брой 31)
 Нови трамвайни линии - Започване на строителни дейности в 5 участъка
 
-<img src="https://drive.google.com/uc?export=view&id=1u69Y-Xxf4DYVF8EAKPM__8xAT1md35wF">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br31-str3.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Хроника - Превозът на Витошките павета
 
-<img src="https://drive.google.com/uc?export=view&id=1iBhKrUxm-f_0KvEu99ODoJ4ZxWkN9RSU">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str3-1.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Хроника - Таксите за нощните трамвайни коли
 
-<img src="https://drive.google.com/uc?export=view&id=1gluJSqpQ_dZo_95n02w-4JyC_U17Bfp8">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str3-2.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Хроника - Трамвайното движение
 
-<img src="https://drive.google.com/uc?export=view&id=1MtPOjhXtztJLFnHijSEQlfbDBzvYWtdr">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str3-3.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Обявление - обществена поръчка за 400 бр. метални стълбове
 
-<img src="https://drive.google.com/uc?export=view&id=1Fl4BL8z_3dJcnhSIC7-YR76zfqZa1-ti">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str4.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Обявление - обществена поръчка за 1,600 м покривен материал
 
-<img src="https://drive.google.com/uc?export=view&id=10FhM1m-yx7v-J0-Q3rDjMW-Xzhkt_q1Z">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str2.jpg">
 
 
 ## 23.09.1927 (брой 30)
 Градски трамвайни линии
 
-<img src="https://drive.google.com/uc?export=view&id=1FfuxqDYImtN2MPk52jRjnIJnVK29uG4J">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br30-str1.jpg">
 
 
 ## 16.09.1927 (брой 29)
 Новите трамвайни релси
-<img src="https://drive.google.com/uc?export=view&id=1kZipGQ4LHt2IGSLa5GRnw9DbrRYREJ_7">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br28-str3-3.jpg">
 
 
 ##  02.09.1927 (брой 28)
 Хроника - Трамвайното движение (пуснато от вчера по ул. Шипка)
 
-<img src="https://drive.google.com/uc?export=view&id=1X77QOK3XugEfgIByVxVja6TWSwxftWOV">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br28-str3-1.jpg">
 
 
 ## 02.09.1927 (брой 28)
 Хроника - Паважи (Използване на товарни ремаркета)
 
-<img src="https://drive.google.com/uc?export=view&id=1dFaeWq2DRbDK-s2petAWrZoKU0bZIk3W">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br28-str3-2.jpg">
 
 
 ## 02.09.1927 (брой 28)
@@ -196,43 +196,43 @@ dateCreated: 2023-12-28T15:23:04.283Z
 ## 02.09.1927 (брой 28)
 Трамвайната мрежа на София - (Обширна статия)
 
-<img src="https://drive.google.com/uc?export=view&id=1U5vs4dJkmuDYzJAP4rvVnv7vwAkUJ4_r">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br28-str2.jpg">
 
 
 ## 26.08.1927 (брой 27)
 Правилник за реда в трамвайните коли
 
-<img src="https://drive.google.com/uc?export=view&id=12biEwP7BLJTDIfyCwOBcrjEglnz5pV8c">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br27-str3.jpg">
 
 
 ## 26.08.1927 (брой 27)
 Трамвайните такси
 
-<img src="https://drive.google.com/uc?export=view&id=173gQTxbZOTdXpSHhNDikb_uoQ_g6hqfE">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br27-str2-1.jpg">
 
 
 ## 26.08.1927 (брой 27)
 Новите трамвайни релси
 
-<img src="https://drive.google.com/uc?export=view&id=1gNzZNb89rix1Z8_VsABkYtjrdNLo0sHa">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br27-str2-2.jpg">
 
 
 ## 12.08.1927 (брой 25)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1scW0Vq5L9VsIRHqMCi338erI7X8TWeUj">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br25-str3.jpg">
 
 
 ## 05.08.1927 (брой 24)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=19EuR489SMp0Q6xI3lhEGLCgkjGjnk1zz">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br24-str3.jpg">
 
 
 ## 05.08.1927 (брой 24)
 Трамвайната мрежа на бъдеща София - (Обширна статия)
 
-<img src="https://drive.google.com/uc?export=view&id=1X1rH4DSrVUYy2crIRUjjEH41DlEjVY9B">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br24-str1.jpg">
 
 
 ## 29.07.1927 (брой 22 и 23)
@@ -240,65 +240,65 @@ dateCreated: 2023-12-28T15:23:04.283Z
 Хроника - Ще се павира (По линия 1 от моста о градската кланица)
 Хроника - Въздушната трамвайна линия (Снета от бул. Цар Освободител)
 
-<img src="https://drive.google.com/uc?export=view&id=1Ct07133gs39H_IphzieqkDhU8KiBlc4g">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br22-23-str5-2.jpg">
 
 
 ## 29.07.1927 (брой 22 и 23)
 Хроника - Военно училище - с. Орландовци (От понеделник 01.08.1927 се открива с 6 коли)
 
-<img src="https://drive.google.com/uc?export=view&id=1RAgvkl-MxIaRBOYwdQMvgNiiT8xqXkUX">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br22-23-str5.jpg">
 
 
 ## 08.07.1927 (брой 21)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1BhBqCfro4MdPzzZ7ZNwghUCcF30PZQQ_">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br21-str4-2.jpg">
 
 
 ## 08.07.1927 (брой 21)
 Хроника - Линия 9 от 4ти с променен маршрут
 
-<img src="https://drive.google.com/uc?export=view&id=19TMIbb0Gt2nvJPuFiQvt987e6iJppON0">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br21-str4-1.jpg">
 
 
 ## 01.07.1927 (брой 20)
 Трамвайната линия "Военното училище"
 
-<img src="https://drive.google.com/uc?export=view&id=1nB8rmtGlMZO4Ahwcv0UcACk6QalyxYAB">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br20-str3.jpg">
 
 
 ## 24.06.1927 (брой 19)
 Новата трамвайна линия (ул. Шипка до паметника Левски)
 
 
-<img src="https://drive.google.com/uc?export=view&id=1T9DYoYB-gIbxe3GKuW1QRLmPEf9odu12">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br19-str3.jpg">
 
 Новите релси
 
-<img src="https://drive.google.com/uc?export=view&id=12NRSM9br1kTtanOfUs551MYwOdNbqutS">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br19-str3-1.jpg">
 
 ## 03.06.1927 (брой 17)
 Новите трамвайни коли (Одобрен търг за 25 броя)
 
-<img src="https://drive.google.com/uc?export=view&id=1Pv_E_gYwbkUnIjH1BQM1VklUvcIXqNQe">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br17-str1.jpg">
 
 
 ## 13.05.1927 (брой 15)
 Хроника - Гарата - Арсенала
 
-<img src="https://drive.google.com/uc?export=view&id=1KONbPyjVZ_s7j1SXSMLOvnI04IKxiw-E">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br15-str3.jpg">
 
 
 ## 13.05.1927 (брой 15)
 Хроника - Зъбчата железница до Черната скала (назначаване на комисия)
 
-<img src="https://drive.google.com/uc?export=view&id=1DOykpWMBQ5xsOP4s_EdE5_znF6gY50zg">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br15-str3-1.jpg">
 
 
 ## 13.05.1927 (брой 15)
 Хроника - Пожар в трамвайното депо
 
-<img src="https://drive.google.com/uc?export=view&id=1BvHN7Kb7llaVyKJkmbrPK399lH5H7VUz">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br15-str3-2.jpg">
 
 
 ## 06.05.1927 (брой 14)
@@ -308,148 +308,147 @@ dateCreated: 2023-12-28T15:23:04.283Z
 Хроника - Нови спирки
 Хроника - Нова трамвайна линия (от ул. Шипка до пам. Левски)
 
-<img src="https://drive.google.com/uc?export=view&id=1lYAUA21uGcDVj-BRA1WfLhF0o8ETgVA2">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br14-str4.jpg">
 
 
 ## 06.05.1927 (брой 14)
 Доставки до 10,000 лева.
 
-<img src="https://drive.google.com/uc?export=view&id=1zJvIiajO0QedpF0H2O8nxlz4pxtgbtDa">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br14-str3.jpg">
 
 
 ## 29.04.1927 (брой 13)
 Зъбчата железница до Черната скала
 
-<img src="https://drive.google.com/uc?export=view&id=1H7Vy9cwunPeuEe_SNArVEuLdCwhNBmmN">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br13-str2.jpg">
 
 
 ## 29.04.1927 (брой 13)
 Изложение От дирекцията на трамваите по предложението на инж. Лихти
 
-<img src="https://drive.google.com/uc?export=view&id=1HJ1gr3YpwQXqqmRjzXIZJlZrWFK6baZo">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br13-str3.jpg">
 
 
 ## 22.04.1927 (брой 12)
 Улиците на София - (4) ул. Абоба, (2) ул. Априловъ, (5) ул. Аспарухъ
 
-<img src="https://drive.google.com/uc?export=view&id=1DG2ibYrYq1irWUMWAEc_j4MLOEQ1_Fig">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br12-str2.jpg">
 
 
 ## 17.04.1927 (брой 11)
 Улиците на София - (1) ул. Авксенти Велешки, (2) ул. Аксаков, (3) пл. Александър Невски
 
-<img src="https://drive.google.com/uc?export=view&id=13XTAd8HBP8865KfnFGea_r-vg_fD7O7b">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str3.jpg">
 
 
 ## 17.04.1927 (брой 11)
 Хроника - Полски гости (Специални трамвайни коли до Бояна и Княжево)
 
-<img src="https://drive.google.com/uc?export=view&id=1vqAXVMyFBDP1C7Wm4d1auCQuy01re4vh">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str4.jpg">
 
 
 ## 17.04.1927 (брой 11)
 Нови трамвайни линии
 
-<img src="https://drive.google.com/uc?export=view&id=1TbLEev6WouFQzW06hnNYlYeNXQ8bp8s2">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str1.jpg">
 
 
 ## 17.04.1927 (брой 11)
 В Будапеща и у нас
 
-<img src="https://drive.google.com/uc?export=view&id=15o5aTDdm35rUF8k09Ws9llNAs2hxUP9A">
-<img src="https://drive.google.com/uc?export=view&id=16InP5KHeuizyyiKFY_i9dbMRDdtoj28s">
-
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str2.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str2-1.jpg">
 
 ## 08.04.1927 (брой 10)
 Свободна трибуна - Гъст черен дим от комина на електрическата юзина.
 
-<img src="https://drive.google.com/uc?export=view&id=99999999999">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br10-str4-3.jpg">
 
 
 ## 08.04.1927 (брой 10)
 Хроника - За и.д. началник на трамваите е назначен инж. Кардалев.
 
-<img src="https://drive.google.com/uc?export=view&id=1-NllUdrLmAl-Et_A24mVO1Eop0rwLOyM">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br10-str4.jpg">
 
 
 ## 08.04.1927 (брой 10)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1x_bmcV0HSdyuJOxR7TFiqHyIp-paWfH3">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br10-str4-1.jpg">
 
 
 ## 08.04.1927 (брой 10)
 Обявление - Една струга
 
-<img src="https://drive.google.com/uc?export=view&id=1lU9dDF6SCZfP4IiL7Kk1uesV97bGwsLs">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br10-str4-2.jpg">
 
 
 ## 01.04.1927 (брой 9)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1x_bmcV0HSdyuJOxR7TFiqHyIp-paWfH3">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br9-str3-1.jpg">
 
 
 ## 01.04.1927 (брой 9)
 Хроника - Из трамваите
 Хроника - Оставка на началник на Трамваите и осветлението
 
-<img src="https://drive.google.com/uc?export=view&id=13kidikGa4gOMihM2JvXUWPaXSXHbfa2k">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br9-str3.jpg">
 
 
 ## 18.03.1927 (брой 8)
 Хроника - Приходите от трамваите
 Хроника - По арсеналската трамвайна линия
 
-<img src="https://drive.google.com/uc?export=view&id=1WqL77T3WFecGf6enqAqxg_MI-uSY-fe-">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br8-str4.jpg">
 
 
 ## 18.03.1927 (брой 7)
 Хроника - Приходите от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1GB-_OVSZUbmxIsO6Ex1BA4oXgkyYWKCa">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br7-str4.jpg">
 
 
 ## 18.03.1927 (брой 7)
 Свободна трибуна - Искания на новите квартали
 
-<img src="https://drive.google.com/uc?export=view&id=1Rd8-qE2ofhOJGNST4q2K9xk5rxvmfEPq">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br7-str3.jpg">
 
 
 ## 11.03.1927 (брой 6)
 Нов директор на Трамваите и осветлението
 
-<img src="https://drive.google.com/uc?export=view&id=1pWp4VERV-iyGgVNKzETHR8VwYGcZx5dF">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br6-str4.jpg">
 
 
 ## 04.03.1927 (брой 5)
 Делото за трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1d5y8ynMlPRTq1fiU9neFbVUQdNDczQmv">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br5-str1.jpg">
 
 
 ## 04.03.1927 (брой 5)
 Хроника - приходи от трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1UUsprk91O_Oo1qTVeJ0GCGY8bLIuEf8b">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br5-str4-2.jpg">
 
 
 ## 04.03.1927 (брой 5)
 Обявление - три електромера
 
-<img src="https://drive.google.com/uc?export=view&id=1bLJ0sQO4UQp5BceO3ZalWypTyuZXxZtW">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br5-str4-1.jpg">
 
 
 ## 04.03.1927 (брой 5)
 Хроника - новите трамвайни релси.
 
-<img src="https://drive.google.com/uc?export=view&id=15Ap9XiE1Lym528nPnES7sCF-I5nrSvqZ">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br5-str4.jpg">
 
 
 ## 18.02.1927 (брой 3)
 На службата по трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1cTEdIQDzTXGU8KrwG2Xj0AcICxyjanSi">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br3-str4.jpg">
 
 
 ## 18.02.1927 (брой 3)
@@ -457,23 +456,23 @@ dateCreated: 2023-12-28T15:23:04.283Z
 Хроника - Железни травеси
 Хроника - Обуща за трамвайните служащи
 
-<img src="https://drive.google.com/uc?export=view&id=1Lh2JrAnmjeeiB6ApjMuAHV5OE0BLHZ8j">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br3-str4.jpg">
 
 
 ## 11.02.1927 (брой 2)
 Делото за трамваите
 
-<img src="https://drive.google.com/uc?export=view&id=1HDkF1VEfY-OkDQrsdHJ2Tpwo2ln7RFF6">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br2-str1.jpg">
 
 
 ## 04.02.1927 (брой 1)
 За трамвайното движение
 
-<img src="https://drive.google.com/uc?export=view&id=10_d9ttxM5l7Fhr2Jt3WvbqbjFVu8EdhD">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br1-str3.jpg">
 
 
 ## 04.02.1927 (брой 1)
 Хроника - Нова трамвайна линия (ул. Княгиния Клементина)
 
-<img src="https://drive.google.com/uc?export=view&id=1Ba8C4EbwJYqJylsuiT5yrkupef4hvX_k">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br1-str4.jpg">
 
