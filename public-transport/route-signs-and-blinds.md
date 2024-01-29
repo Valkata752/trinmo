@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-25T08:54:23.939Z
+date: 2024-01-29T22:23:06.407Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -56,6 +56,14 @@ dateCreated: 2022-05-01T09:45:32.265Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/PBZySSy0ChKSfvxTHfsOqR4N2uGaf-_N3dhqSPmASqes_iMdySrP97NTXS2WbId_RtY=w2400" height="60px"><br><img src="https://lh5.googleusercontent.com/XRzqIdCtrgIIqWd68DfERg_Bb6B1EkAleTLIDwXEBYWblM96qAgK7LFmiQoRCMQMfsQ=w2400" height="60px"><figcaption> <b>A85/A86</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--A64/A150--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/A862Tenf4rbs9VUDqF9WU5LgvtTeAH4z5QAz4SWrW803eK_WlThz9RshBwDp64gxf4M=w2400" height="60px"><br><img src="https://lh3.googleusercontent.com/z-iTzLvw9V0DJubyLAxacAxUEPz1hDTnk4N-7z9PDWuvFqG4YqXetk61nl6RxIHInUY=w2400" height="60px"><figcaption> <b>A64/A150</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
+## ПАТ-ЗЕМЛЯНЕ
+
+<!--A65--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1lftn-xj0XhoSwlPMEpPMPYUg_gT2JR1a/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1lftn-xj0XhoSwlPMEpPMPYUg_gT2JR1a/view?usp=sharing"><figcaption> <b>A65</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--A64--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing"><figcaption> <b>A64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 # Метални табели
  
