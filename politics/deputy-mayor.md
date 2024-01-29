@@ -2,7 +2,7 @@
 title: Заместник-кмет
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-15T08:15:35.333Z
+date: 2024-01-29T11:43:08.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T13:15:50.871Z
@@ -12,7 +12,8 @@ dateCreated: 2022-12-08T13:15:50.871Z
 
 |   |    |
 |:------------------:| --------- | 
-|<img src="https://drive.google.com/uc?export=view&id=1Yb4DpekBxLtP_tiyHi6b1L5qcGGiVNQ6" width="300px">| **Дончо Барбалов**<br><br> Период: 08.12.2022 -  |
+|<img src="https://www.sofia.bg/documents/20121/45052776/2024-01-29-%D0%98%D0%BB%D0%B8%D1%8F%D0%BD+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2.jpg/74e887ad-7ede-08c6-682c-0929a69a1552" width="300px">| **Илиян Павлов**<br><br> Период: 29.01.2024 -  |
+|<img src="https://drive.google.com/uc?export=view&id=1Yb4DpekBxLtP_tiyHi6b1L5qcGGiVNQ6" width="300px">| **Дончо Барбалов**<br><br> Период: 08.12.2022 - 12.11.2023  |
 |<img src="https://drive.google.com/uc?export=view&id=14e_rZN44ir0BjsPgkWM-5iE1n-7x1E-k" width="300px">| **Кристиян Кръстев**<br><br> Период: 06.12.2019 - 08.12.2022 |
 |<img src="https://drive.google.com/uc?export=view&id=1Yb4DpekBxLtP_tiyHi6b1L5qcGGiVNQ6" width="300px">| **Дончо Барбалов**<br><br> Период: 06.12.2018 - 06.12.2019 |
 |<img src="https://drive.google.com/uc?export=view&id=1IdhTffA2gxryd-vpj8QE6nHz6xJ14Itn" width="300px">| **Евгени Крусев**<br><br> Период: 22.07.2016 - 04.12.2018 |
@@ -25,6 +26,10 @@ dateCreated: 2022-12-08T13:15:50.871Z
 
 
 # Хронология
+
+> 29.01.2024 - [Илиян Павлов е назначен за заместник-кмет “Транспорт и градска мобилност” на Столичната община](https://www.investor.bg/a/514-ikonomika-i-politika/365562-doncho-barbalov-poema-napravlenie-transport-i-gradska-mobilnost-v-stolichnata-obshtina)
+{.is-success}
+
 
 > 08.12.2022 - [Дончо Барбалов поема направление „Транспорт и градска мобилност“ в Столичната община](https://www.investor.bg/a/514-ikonomika-i-politika/365562-doncho-barbalov-poema-napravlenie-transport-i-gradska-mobilnost-v-stolichnata-obshtina)
 {.is-success}
