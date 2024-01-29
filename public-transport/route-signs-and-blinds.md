@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-29T22:25:01.025Z
+date: 2024-01-29T22:27:20.832Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -59,14 +59,14 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 ## ПАТ-ЗЕМЛЯНЕ
 
-<!--A65--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1lftn-xj0XhoSwlPMEpPMPYUg_gT2JR1a/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1lftn-xj0XhoSwlPMEpPMPYUg_gT2JR1a/view?usp=sharing"><figcaption> <b>A65</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--A65/А64--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1lftn-xj0XhoSwlPMEpPMPYUg_gT2JR1a/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing"><figcaption> <b>A65/А64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--A64--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing"><figcaption> <b>A64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1wEi7FCshx4q_3EI_8oxUbtRT_xMTiPBq/view?usp=sharing" height="60px"><br><b>A64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--A111--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1IAfpj0nYg6RhW8hvkTtfIAp9XSuyDs4v/view?usp=sharing" height="60px"><br><img src="https://drive.google.com/file/d/1sx1l5k0SYe3Dya4iPsojcEkkq2dwaS2_/view?usp=sharing"><figcaption> <b>A111</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/file/d/1IAfpj0nYg6RhW8hvkTtfIAp9XSuyDs4v/view?usp=sharing" height="60px"><br><b>A111</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 # Метални табели
  
