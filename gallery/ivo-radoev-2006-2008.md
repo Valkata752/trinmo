@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2006 - 2008
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:30:07.175Z
+date: 2024-01-30T15:56:10.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T09:38:43.641Z
@@ -19,27 +19,42 @@ dateCreated: 2023-12-08T09:38:43.641Z
 ## Tabs {.tabset}
 ### T8M-301 (България 1300)
 
-<!--317, 323--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ykiQXZRPnAOMANUVpKhpyAbY_-Os9ZAd" height="200px"><figcaption></figcaption>317, 323</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ykiQXZRPnAOMANUVpKhpyAbY_-Os9ZAd" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2006,%202007,%202008/tm317%20tm323%20line5.jpg"></td>
+<td><b>tm317, tm323 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### T6M-400 (София 100)
 
-<!--449--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=16ccEb8HDgrbu-gfns2foo6DifnsUCJqE" height="200px"><figcaption></figcaption>449</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=16ccEb8HDgrbu-gfns2foo6DifnsUCJqE" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2006,%202007,%202008/tm449%20line11.jpg"></td>
+<td><b>tm449 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ## Tabs {.tabset}
 ### T8K-503
 
-<!--503--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1N8HOEnkhKyX1ghyyQ_aaLgPEzwb2e3tA" height="200px"><figcaption></figcaption>503</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1N8HOEnkhKyX1ghyyQ_aaLgPEzwb2e3tA" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2006,%202007,%202008/tm503%20line1.jpg"></td>
+<td><b>tm503 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Tabs {.tabset}
 ### T6M-700
 
-<!--724--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1_vJ8FZKBtZr7dfJ35Hown3sNaxR5x7iC" height="200px"><figcaption></figcaption>724</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1_vJ8FZKBtZr7dfJ35Hown3sNaxR5x7iC" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2006,%202007,%202008/tm724%20line12.jpg"></td>
+<td><b>tm724 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 <!--803--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Q_-KrlW4HwS1pLZR_XgkivWzlwdD6SjM" height="200px"><figcaption></figcaption>803</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Q_-KrlW4HwS1pLZR_XgkivWzlwdD6SjM" width="100%"></div></div>
