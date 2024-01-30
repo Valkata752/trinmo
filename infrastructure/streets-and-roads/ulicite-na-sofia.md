@@ -2,11 +2,37 @@
 title: Улиците на София - поредица
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-30T15:19:43.786Z
+date: 2024-01-30T15:50:29.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-29T00:16:45.426Z
 ---
+
+## 23.11.1928 (брой 37)
+**Улиците на София** (ул. Княз Борис Търновски, ул. Цар Освободител)
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br37-str2.jpg">
+
+## 12.11.1928 (брой 36)
+**Улиците на София** (ул. Петър Делян, ул. Ивац, ул. Омуртаг)
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str3-1.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str3.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str2.jpg">
+
+## 29.11.1928 (брой 35)
+**Улиците на София** (ул. Иван Екзарх)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br35-str4.jpg">
+
+## 20.11.1928 (брой 34)
+**Улиците на София** (ул. Момчил Войвода)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str5.jpg">
+
+## 20.11.1928 (брой 34)
+**Улиците на София** 
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str4.jpg">
+
 
 
 ## 17.04.1927 (брой 11)
