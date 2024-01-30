@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-29T13:15:13.568Z
+date: 2024-01-30T11:10:07.849Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -1336,7 +1336,25 @@ COBISS.BG-ID - 1123268068
 1977 - [Проектът на Софийския метрополитен](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
 
 ## сп. Modern Tramway
-<a href="/literature/modern-tramway-305"><img src="https://lh5.googleusercontent.com/PfUB1NoQjQSr3JOuh0LPTkkLSl1jGFmKGicK4RLVWOlDoCnbxkRDmPWcpnJWFnYpF4I=w2400" height=200px></a> <a href="/literature/modern-tramway-407"><img src="https://lh3.googleusercontent.com/_ti2E1Wjx6tzQ9OXgkBnFot1rNuK27xux9huNjw2ZGVHpK-4Axf7z_iWpE_RSB7K6_g=w2400" height=200px></a> <a href="/literature/modern-tramway-450"><img src="https://lh3.googleusercontent.com/H1YW_r8-8afHoV6jkZp9NPLqRYfILy78XWWph7hnWetJK6HkNBHjc0BHHP_3Sa3XFeo=w2400" height=200px></a>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh5.googleusercontent.com/PfUB1NoQjQSr3JOuh0LPTkkLSl1jGFmKGicK4RLVWOlDoCnbxkRDmPWcpnJWFnYpF4I=w2400"></td>
+  <td><b>New tramcars for Sofia</b> - p163-p166<br><b>Transport in Sofia</b> - p166-p172</td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-305"><b>Разгледай тук...</b></a></td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh3.googleusercontent.com/_ti2E1Wjx6tzQ9OXgkBnFot1rNuK27xux9huNjw2ZGVHpK-4Axf7z_iWpE_RSB7K6_g=w2400"></td>
+  <td></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-407"><b>Очаквайте скоро...</b></a></td></table></div>   
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://lh3.googleusercontent.com/H1YW_r8-8afHoV6jkZp9NPLqRYfILy78XWWph7hnWetJK6HkNBHjc0BHHP_3Sa3XFeo=w2400"></td>
+  <td><b></b></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-450"><b>Очаквайте скоро...</b></a></td></table></div>  
+  
+
 
 ## Статии                                           
 
