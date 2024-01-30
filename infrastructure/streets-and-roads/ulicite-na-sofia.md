@@ -1,8 +1,8 @@
 ---
-title: Улиците на София 1927
+title: Улиците на София - поредица
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T12:14:43.376Z
+date: 2024-01-30T15:19:43.786Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-29T00:16:45.426Z
@@ -13,12 +13,12 @@ dateCreated: 2023-12-29T00:16:45.426Z
 - Улиците на София - (1) ул. Авксенти Велешки, (2) ул. Аксаков, (3) пл. Александър Невски
 
 
-<img src="https://drive.google.com/uc?id=13XTAd8HBP8865KfnFGea_r-vg_fD7O7b">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br11-str3.jpg">
 
 ## 22.04.1927 (брой 12)
 - Улиците на София - (4) ул. Абоба, (2) ул. Априловъ, (5) ул. Аспарухъ
 
-<img src="https://drive.google.com/uc?id=1DG2ibYrYq1irWUMWAEc_j4MLOEQ1_Fig">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1927/br12-str2.jpg">
 
 
 
@@ -26,55 +26,55 @@ dateCreated: 2023-12-29T00:16:45.426Z
 - Улиците на София (ул. Ген. Скобелев, Ген. Радецки, Ген. Тотлебен)
 
 
-<img src="https://drive.google.com/uc?id=16zLZAPYyMNEA9A-3o0K5s-Fd9H0fEQbp">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br5-6-str4.jpg">
 
 
 ## 02.07.1928 (брой 18)
 - Улиците на София (ул. Бачо Киро)
 
-<img src="https://drive.google.com/uc?id=1g99d73x4yTZUOt4fUDNA3JGQumXqHguI">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br18-str1.jpg">
 
 ## 09.07.1928 (брой 19)
 - Улиците на София (ул. Венелин)
 
-<img src="https://drive.google.com/uc?id=1coR12szeZblgQnpDVA_zuecEYOVNJ6N-">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br19-str3-1.jpg">
 
 ## 16.07.1928 (брой 20)
 - Улиците на София (ул. Антим I, ул. Батак)
 
-<img src="https://drive.google.com/uc?id=1oZkv9LwCpH1x0vgQEpeUAJej2lx0UvQu">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br20-str1.jpg">
 
 ## 23.07.1928 (брой 21)
 - Улиците на София (ул. Пресансе)
 
-<img src="https://drive.google.com/uc?id=1zTMZgGZ4l3wuPeFWPpEqLwUaFPyXRbfr">
+<img src="">
 
 ## 08.10.1928 (брой 32 и 33)
 - Улиците на София (ул. Денкоглу, ул. Братя Миладинови)
 
-<img src="https://drive.google.com/uc?id=1EFubgjqiRTE__yNZVKy66wmvE0D_ktjR">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br32-33-str6.jpg">
 
 
 ## 22.10.1928 (брой 34)
 - Улиците на София (ул.Шипка, ул. Шейново, ул. Опълченска, ул. Паревич, ул. Отец Паисий, ул. Софроний)
 
-<img src="https://drive.google.com/uc?id=1EFubgjqiRTE__yNZVKy66wmvE0D_ktjR">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br34-str3-1.jpg">
 
 ## 29.10.1928 (брой 35)
 - Улиците на София (ул. Антим I, ул. Раковски)
 
-<img src="https://drive.google.com/uc?id=1fciXjZzoEb0pNF9o-Om8XePxiz53Mt1J">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br35-str.3.jpg">
 
 ## 05.11.1928 (брой 36)
 - Улиците на София (ул. Левски, ул. Средна гора, ул. Бенковски, ул. Оборище)
 
-<img src="https://drive.google.com/uc?id=1rD37OoItVd573SwOyqQgE2-qRYBoj4s-">
-<img src="https://drive.google.com/uc?id=1Ulym0eWrVLZGN0NgRieqXkvhiBEKfPWG">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br36-str.4-1.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br36-str.4-1.jpg">
 
 ## 12.11.1928 (брой 37)
 - Улиците на София (ул. Екзарх Йосиф, ул. Хаджи ДИмитър, ул. Стефан Караджа, ул. Любен Каравелов)
 
-<img src="https://drive.google.com/uc?id=1DzBo4u7NqdLufzd1W-KmSwW1Waop9ste">
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1928/br37-str2-1.jpg">
 
 
 
