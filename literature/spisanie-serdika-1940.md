@@ -2,7 +2,7 @@
 title: Списание Сердика - 1940 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T08:13:48.509Z
+date: 2024-01-31T14:23:04.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T06:44:33.440Z
