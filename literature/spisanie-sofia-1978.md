@@ -2,7 +2,7 @@
 title: Списание София - 1978 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T06:28:00.971Z
+date: 2024-01-31T14:35:38.105Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T22:10:36.578Z
