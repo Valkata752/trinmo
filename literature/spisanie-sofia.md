@@ -2,7 +2,7 @@
 title: списание София (1953-1991)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T12:34:10.364Z
+date: 2024-01-31T14:43:50.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:31:34.013Z
@@ -18,7 +18,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1978*](/literature/spisanie-sofia-1978)
+- ➡️ *Списание София - 1978*](/literature/spisanie-sofia/1978)
 {.links-list}
 
 бр. 7, с. 11 - **Витоша по-близка, по-достъпна**
@@ -33,7 +33,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1974*](/literature/spisanie-sofia-1974)
+- [➡️ *Списание София - 1974*](/literature/spisanie-sofia/1974)
 {.links-list}
 
 бр. 11, с. 14 - **Важно звено в транспорта**
@@ -47,7 +47,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1973*](/literature/spisanie-sofia-1973)
+- [➡️ *Списание София - 1973*](/literature/spisanie-sofia/1973)
 {.links-list}
 
 бр. 11 стр. 12 - **Aвтобуси в боянските ливади**
@@ -61,7 +61,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1972*](/literature/spisanie-sofia-1972)
+- [➡️ *Списание София - 1972*](/literature/spisanie-sofia/1972)
 {.links-list}
 
 бр. 12 с. 12 - **Домът на Автобусите**
@@ -75,7 +75,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1971*](/literature/spisanie-sofia-1971)
+- [➡️ *Списание София - 1971*](/literature/spisanie-sofia/1971)
 {.links-list}
 
 бр. 12, с. 14 - **Пробивът**
@@ -89,7 +89,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1970*](/literature/spisanie-sofia-1970)
+- [➡️ *Списание София - 1970*](/literature/spisanie-sofia/1970)
 {.links-list}
 
 бр. 3, с. 8 - **По новата линия**
@@ -104,7 +104,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1969*](/literature/spisanie-sofia-1969)
+- [➡️ *Списание София - 1969*](/literature/spisanie-sofia/1969)
 {.links-list}
 
 бр. 1, с. 14 - **Автобусите под покрив**
@@ -120,7 +120,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1968*](/literature/spisanie-sofia-1968)
+- [➡️ *Списание София - 1968*](/literature/spisanie-sofia/1968)
 {.links-list}
 
 бр. 5, с. 12 - **С билет от 6 стотинки**
@@ -135,7 +135,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1967*](/literature/spisanie-sofia-1967)
+- [➡️ *Списание София - 1967*](/literature/spisanie-sofia/1967)
 {.links-list}
 
 бр. 1, с. 12 - **Дървеница, автобусите и трамваят**
@@ -148,7 +148,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1966*](/literature/spisanie-sofia-1966)
+- [➡️ *Списание София - 1966*](/literature/spisanie-sofia/1966)
 {.links-list}
 
 бр. 1, с. 13 - **Червените щрихи**
@@ -164,7 +164,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1965*](/literature/spisanie-sofia-1965)
+- [➡️ *Списание София - 1965*](/literature/spisanie-sofia/1965)
 {.links-list}
 
 бр. 1, с. 12 - **19 км с двойката**
@@ -179,7 +179,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1964*](/literature/spisanie-sofia-1964)
+- [➡️ *Списание София - 1964*](/literature/spisanie-sofia/1964)
 {.links-list}
 
 бр. 9, с. 6 - **От гарата до Хладилника**
@@ -193,7 +193,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1963*](/literature/spisanie-sofia-1963)
+- [➡️ *Списание София - 1963*](/literature/spisanie-sofia/1963)
 {.links-list}
 
 бр. 1, с. 10 - **Осем километра с тролейбус**
@@ -206,7 +206,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1962*](/literature/spisanie-sofia-1962)
+- [➡️ *Списание София - 1962*](/literature/spisanie-sofia/1962)
 {.links-list}
 
 бр. 1, с. 4 - **Градският транспорт и електроснабдяването**
@@ -217,7 +217,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1961*](/literature/spisanie-sofia-1961)
+- [➡️ *Списание София - 1961*](/literature/spisanie-sofia/1961)
 {.links-list}
 
 бр. 12, с. 6 - **ОУП 1961**
@@ -229,7 +229,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1959*](/literature/spisanie-sofia-1959)
+- [➡️ *Списание София - 1959*](/literature/spisanie-sofia/1959)
 {.links-list}
 
 бр. 3, с. 5 - **Електротранспорт**
@@ -239,7 +239,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- [➡️ *Списание София - 1953*](/literature/spisanie-sofia-1953)
+- [➡️ *Списание София - 1953*](/literature/spisanie-sofia/1953)
 {.links-list}
 
 бр. 1, с. 25 - **Софийският градски транспорт**
