@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T17:54:33.431Z
+date: 2024-01-31T15:42:34.103Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -33,9 +33,9 @@ lh3.google.com/u/0/d/
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-mpe-1/sofia-14.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str86-89-snimka.jpg"></td>
 <td> <b>Трамвай безъ релси</b><br> Статия за пускането на първия тролейбус в София в списание Сердика</td></tr>
-  <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika-1941#%D0%BA%D0%BD-2-3-%D1%81-86-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9-%D0%B1%D0%B5%D0%B7%D1%8A-%D1%80%D0%B5%D0%BB%D1%81%D0%B8">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
+  <td colspan=2 >ℹ <a href="/bg/literature/spisanie-serdika/1941#%D0%BA%D0%BD-2-3-%D1%81-86">Списание Сердика: кн. 2-3, с. 86</a></td></table></div>
   
   
 На 8 февруари 1941 г. със скромно тържество става и официалното пускане на тролейбусите. Присъства цялата общинска управа, начело с кмета инж. Иван Иванов, много други официални лица и граждани.
