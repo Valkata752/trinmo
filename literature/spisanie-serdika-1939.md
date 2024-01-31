@@ -2,7 +2,7 @@
 title: Списание Сердика - 1939 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T08:19:23.508Z
+date: 2024-01-31T14:22:41.549Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T12:51:25.336Z
