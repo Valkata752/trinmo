@@ -2,7 +2,7 @@
 title: Списание София - 1964 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:23:08.866Z
+date: 2024-01-31T14:46:14.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T09:41:37.280Z
