@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T21:01:46.521Z
+date: 2024-01-31T09:35:30.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -135,6 +135,8 @@ dateCreated: 2022-05-19T22:00:29.696Z
 {.dense}
 
 ## Чертеж
+
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1989-CKD-Tatra-T6B5.jpg">
  
 
 # Снимки
