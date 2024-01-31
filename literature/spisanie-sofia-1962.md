@@ -2,7 +2,7 @@
 title: Списание София - 1962 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:30:00.672Z
+date: 2024-01-31T14:51:11.248Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T09:42:16.406Z
