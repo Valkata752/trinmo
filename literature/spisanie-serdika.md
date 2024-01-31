@@ -2,7 +2,7 @@
 title: списание Сердика (1937-1952)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T12:46:14.414Z
+date: 2024-01-31T14:34:47.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:46:14.414Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika-1952)
+- ➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika/1952)
 {.links-list}
 
 <mark>кн. 1, с. 50 - **площад Възраждане в миналото** - скица</mark>
@@ -29,7 +29,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1951*](/bg/literature/spisanie-serdika-1951)
+- [➡️*Списание Сердика - 1951*](/bg/literature/spisanie-serdika/1951)
 {.links-list}
 
 <mark>кн. 1, с. 71-76 - **Успехи на електротранспорта**</mark>
@@ -45,7 +45,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1949*](/bg/literature/spisanie-serdika-1949)
+- [➡️*Списание Сердика - 1949*](/bg/literature/spisanie-serdika/1949)
 {.links-list}
 
 <mark>кн. 1, с. 49 - **Проблемът за центъра на София**</mark>
@@ -55,7 +55,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1948*](/bg/literature/spisanie-serdika-1948)
+- [➡️*Списание Сердика - 1948*](/bg/literature/spisanie-serdika/1948)
 {.links-list}
 
 <mark>кн. 1, с. 91 - **Градският транспорт на София**</mark>
@@ -65,7 +65,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1947*](/bg/literature/spisanie-serdika-1947)
+- [➡️*Списание Сердика - 1947*](/bg/literature/spisanie-serdika/1947)
 {.links-list}
 
 кн. 1 и 2, с. 67 - **Статистически данни** - общински трамваи, автобуси и тролейбуси
@@ -76,7 +76,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1946*](/bg/literature/spisanie-serdika-1946)
+- [➡️*Списание Сердика - 1946*](/bg/literature/spisanie-serdika/1946)
 {.links-list}
 
 кн. 1 и 2, с. 83 - **Статистически данни** - общински трамваи, автобуси и тролейбуси
@@ -88,7 +88,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1945*](/bg/literature/spisanie-serdika-1945)
+- [➡️*Списание Сердика - 1945*](/bg/literature/spisanie-serdika/1945)
 {.links-list}
 
 <mark>кн. 1 и 2, с. 61 - **Какво наследихме** - разрушени трамваи и депа</mark>
@@ -102,7 +102,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1943*](/bg/literature/spisanie-serdika-1943)
+- [➡️*Списание Сердика - 1943*](/bg/literature/spisanie-serdika/1943)
 {.links-list}
 
 кн. 1 и 2, с. 89 - **Статистически данни** - общински трамваи и автобуси
@@ -111,7 +111,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1942*](/bg/literature/spisanie-serdika-1942)
+- [➡️*Списание Сердика - 1942*](/bg/literature/spisanie-serdika/1942)
 {.links-list}
 
 кн. 1 и 2, с. 119 - **Статистически данни** - общински трамваи и автобуси
@@ -125,7 +125,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1941*](/bg/literature/spisanie-serdika-1941)
+- [➡️*Списание Сердика - 1941*](/bg/literature/spisanie-serdika/1941)
 {.links-list}
 
 кн. 1, с. 28 - **Снимка**
@@ -152,7 +152,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1940*](/bg/literature/spisanie-serdika-1940)
+- [➡️*Списание Сердика - 1940*](/bg/literature/spisanie-serdika/1940)
 {.links-list}
 
 кн. 1, с. 80 - **Статистически данни** - общински трамваи и автобуси
@@ -168,7 +168,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1939*](/bg/literature/spisanie-serdika-1939)
+- [➡️*Списание Сердика - 1939*](/bg/literature/spisanie-serdika/1939)
 {.links-list}
 
 кн. 1, с. 48 - **Статистически данни** - общински трамваи и автобуси
@@ -191,7 +191,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1938*](/bg/literature/spisanie-serdika-1938)
+- [➡️*Списание Сердика - 1938*](/bg/literature/spisanie-serdika/1938)
 {.links-list}
 
 кн. 1, с. 53 - **Общи данни за електрическите трамваи по години и месеци**
@@ -224,7 +224,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Списание Сердика - 1937*](/bg/literature/spisanie-serdika-1937)
+- [➡️*Списание Сердика - 1937*](/bg/literature/spisanie-serdika/1937)
 {.links-list}
 
 <mark>кн. 2, с. 34 - **Столичните железопътни гари и спирки**</mark>
