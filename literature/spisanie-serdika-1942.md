@@ -2,7 +2,7 @@
 title: Списание Сердика - 1942 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:54:01.990Z
+date: 2024-01-31T14:24:20.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T08:22:04.911Z
