@@ -2,7 +2,7 @@
 title: Schindler Waggon AG Be 4-6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-14T19:06:22.299Z
+date: 2024-01-31T09:36:58.332Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:59:46.950Z
@@ -139,8 +139,7 @@ dateCreated: 2022-05-19T21:59:46.950Z
 {.dense}
 
 ## Чертеж
-
-<img src="https://drive.google.com/uc?id=1wC1Ne1XTagJXVzOwOc9DaVfSa2hr25yp">
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1990-Schindler-Waggon-AG-Be-4-6.jpg">
 
 
 
