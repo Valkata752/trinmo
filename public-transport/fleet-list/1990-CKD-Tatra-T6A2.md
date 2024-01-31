@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T19:47:28.382Z
+date: 2024-01-31T09:35:53.498Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -126,8 +126,7 @@ dateCreated: 2022-05-19T22:00:08.386Z
 | **Височина** |3,110 мм|     |     |
 
 ## Чертеж
-
-<img src="https://drive.google.com/uc?export=view&id=1u801Q9JyrQEjPyqFLAArclzASKSKdQgn">
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1990-CKD-Tatra-T6A2.jpg">
 
 
 # Снимки
