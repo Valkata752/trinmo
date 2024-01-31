@@ -2,7 +2,7 @@
 title: Списание София - 1972 год.
 description: 
 published: true
-date: 2024-01-24T06:42:55.133Z
+date: 2024-01-31T14:38:24.199Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:37:47.008Z
