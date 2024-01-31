@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T14:17:34.199Z
+date: 2024-01-31T14:20:00.732Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -48,11 +48,11 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ### 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/tm129.jpg"></td>
 <td>Последна спирка - Подуяне, 1965-та. Mотрисата е Ансалдо-Бреда, № 129 по линия 3.
 Стълбовете на контактната мрежа от царско време са прекрасни!
 </td></tr>
-  <td colspan=2 >ℹ️ Любомир Лазаров</td></table></div>
+  <td colspan=2 >ℹ️ </td></table></div>
   
   
  
@@ -91,7 +91,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 1949 г. -1987 г. – Трасето на линия 10 по Ботевградско шосе е закрито, но релсите не са изцяло демонтирани по подлеза под жп линията. До гара Подуяне продължава да се движи единствено трамвай 3. 
 
 
-<img src="https://lh3.google.com/u/0/d/1hloXbCfa8zXcNUIQd3wTSeagwf5H2Wi_">
+<img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/tm734.jpeg">
 
 
 През 1987 г. трамвай 3 е скъсен до Паметника Левски, а трасето до Гара Подуяне започва да се заменя с ново със стандартно междурелсие.
