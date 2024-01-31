@@ -2,7 +2,7 @@
 title: списание Сердика
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T16:35:17.973Z
+date: 2024-01-31T16:50:21.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:42:02.127Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-31T12:42:02.127Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1940-6-str8-snimka.jpg"></center></td>
-<td><b>текст</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 </td></tr>
+<td><b>Столичен централен покрит пазар</b><br> 🚋 ? <a href=""></a> <br>📌 Централни хали  <br> 📷 Д. Кацев </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/spisanie-serdika/1940"><b>списание Сердика - 1940 кн. 6, с. 8</b></a></td></table></div>
 
 
@@ -34,39 +34,39 @@ dateCreated: 2024-01-31T12:42:02.127Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-1-str28-tm63-line4.jpg"></center></td>
-<td><b>tm63 line4</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>tm63 line4</b> Въпреки затрудненията на военното време, столичните трамваи обслужват равномерно хилядите свои пътници<br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 1, с. 28</b></a></td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str86-89-snimka.jpg"></center></td>
-<td><b>Пускане на първия на тролейбус</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>Откриване на първата тролейбусна линия в България</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 2-3, с. 86</b></a></td></table></div>  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str87-snimka.jpg"></center></td>
-<td><b>Пускане на първия на тролейбус</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>Откриване на първата тролейбусна линия в България</b> - Освещаване на първата тролейбусна линия. Тържеството сред Горна баня<br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️  <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 2-3, с. 8687</b></a></td></table></div>  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str88-snimka1.jpg"></center></td>
-<td><b>Пускане на първия на тролейбус</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>Откриване на първата тролейбусна линия в България</b> Преди откриване на първата тролейна линия в България. Столичният кмет г. инж. Иванов с ножица в ръка е готов да пререже трицветната лента.<br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️  <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 2-3, с. 888</b></a></td></table></div> 
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str88-snimka2.jpg"></center></td>
-<td><b>Пускане на първия на тролейбус</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>Откриване на първата тролейбусна линия в България</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️  <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 2-3, с. 88</b></a></td></table></div> 
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1941-2-3-str89-snimka.jpg"></center></td>
-<td><b>Пускане на първия на тролейбус</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
+<td><b>Откриване на първата тролейбусна линия в България</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
   <td colspan=2 >ℹ️  <a href="/bg/literature/spisanie-serdika/1941"><b>списание Сердика - 1941 кн. 2-3, с. 89</b></a></td></table></div> 
   
   
