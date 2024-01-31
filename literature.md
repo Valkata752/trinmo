@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T13:17:45.219Z
+date: 2024-01-31T13:34:27.942Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -403,49 +403,7 @@ COBISS.BG-ID - 1123268068
 
 
 # 💯 Юбилейни издания
-
-## 100 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh4.googleusercontent.com/JyQKzCb1C090u8EMc-h81KIhivMKfsv6ubFnEH3nBNUdnFnUYt5KdO6g0jEFMvhe3bo=w2400"></td>
-<td><b>100 години градски транспорт в София</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/100-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>
-  
-## 75 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh4.googleusercontent.com/D5BM-mhP2lTtWUvUZ-D2taWjXBbNxLzXz6GHGMJvsK4_eCGkozQ-Kh87J3jalp-tIks=w2400"></td>
-<td><b>75 години градски транспорт в София</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/75-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
-  
-## 70 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh5.googleusercontent.com/H6vwb8nXNsBsofwo1qIrzukF_iJDnReZ4Ug4bWw2isHdfHPNvFyMJmoMknJcBeehp4M=w2400"></td>
-<td><b>70 години градски транспорт</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/70-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
-  
-  
-## 60 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh5.googleusercontent.com/ahqylRR2ps7jRI2uW2wHAX-_tyMGXAvQ8zlwh0I5_EvauksPWdpQt5ePyEm3vKvJdOo=w2400"></td>
-<td><b>60 години градски пътнически транспорт - София (1901 - 1961)</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/60-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
-  
-## 40 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.googleusercontent.com/VczLgBoRiqgsZ11RnN4yNHAeMp8uQy2-n3p_SS76uYlBn0qk8MheT9mSOeoUzHDUGhI=w2400"></td>
-<td><b>Софийските трамваи (1901 - 1941)</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/40-years-public-transport"><b>Разгледай тук...</b></a></td></table></div>  
-  
- ## 30 години
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh5.googleusercontent.com/9mRO_YaDvNP9BCYe1dYftcSymx6zIEWh1uf8u-Httdi9bpy9Yzmdz6IorBUWoH9otiE=w2400"></td>
-  <td><b>Тридесет години трамваи в София (1901 - 1931)</b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/anniversary/30-years-trams-in-sofia"><b>Разгледай тук...</b></a></td></table></div>  
+<a href="/literature/anniversary/100-years-public-transport"><img src="https://lh4.googleusercontent.com/JyQKzCb1C090u8EMc-h81KIhivMKfsv6ubFnEH3nBNUdnFnUYt5KdO6g0jEFMvhe3bo=w2400" width=200px></a><a href="/literature/anniversary/75-years-public-transport"><img src="https://lh4.googleusercontent.com/D5BM-mhP2lTtWUvUZ-D2taWjXBbNxLzXz6GHGMJvsK4_eCGkozQ-Kh87J3jalp-tIks=w2400" width=200px></a><a href="/literature/anniversary/70-years-public-transport"><img src="https://lh5.googleusercontent.com/H6vwb8nXNsBsofwo1qIrzukF_iJDnReZ4Ug4bWw2isHdfHPNvFyMJmoMknJcBeehp4M=w2400" width=200px><a href="/literature/anniversary/60-years-public-transport"><img src="https://lh5.googleusercontent.com/ahqylRR2ps7jRI2uW2wHAX-_tyMGXAvQ8zlwh0I5_EvauksPWdpQt5ePyEm3vKvJdOo=w2400" width=200px></a><a href="/literature/anniversary/40-years-public-transport"><img src="https://lh3.googleusercontent.com/VczLgBoRiqgsZ11RnN4yNHAeMp8uQy2-n3p_SS76uYlBn0qk8MheT9mSOeoUzHDUGhI=w2400" width=200px><a href="/literature/anniversary/30-years-trams-in-sofia"><img src="https://lh5.googleusercontent.com/9mRO_YaDvNP9BCYe1dYftcSymx6zIEWh1uf8u-Httdi9bpy9Yzmdz6IorBUWoH9otiE=w2400" width=200px></a>
   
 
 
