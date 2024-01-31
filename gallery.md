@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T23:18:35.101Z
+date: 2024-01-31T12:28:07.288Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -114,6 +114,12 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 40те
 - [40 години трамваен транспорт*1941*](/bg/gallery/40-godini-tramvai)
 {.links-list}
+
+
+## списание Сердика
+- [спирсание Сердика :bulgaria:*различни години*](/gallery/spisanie-serdika)
+{.links-list}
+
 
 ## Държавни архиви
 - [www.archives.government.bg :bulgaria:*различни години*](/gallery/archives-goverment)
