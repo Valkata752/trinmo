@@ -2,7 +2,7 @@
 title: Списание Сердика - 1947 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:49:45.836Z
+date: 2024-01-31T14:30:32.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T10:13:34.179Z
