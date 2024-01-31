@@ -2,7 +2,7 @@
 title: Списание Сердика - 1941 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T08:09:10.613Z
+date: 2024-01-31T14:23:28.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T05:29:23.921Z
