@@ -2,7 +2,7 @@
 title: Списание Сердика - 1945 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-24T07:52:07.396Z
+date: 2024-01-31T14:25:16.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T08:45:00.280Z
