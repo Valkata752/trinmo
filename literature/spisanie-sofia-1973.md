@@ -2,7 +2,7 @@
 title: Списание София - 1973 год.
 description: 
 published: true
-date: 2024-01-24T06:39:37.449Z
+date: 2024-01-31T14:36:13.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:36:56.712Z
