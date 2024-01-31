@@ -2,7 +2,7 @@
 title: Списание Сердика - 1938
 description: Транспорт, инфраструктира и мобилност
 published: true
-date: 2023-12-22T20:01:22.210Z
+date: 2024-01-31T14:22:23.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:31:29.648Z
