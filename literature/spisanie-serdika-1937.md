@@ -2,7 +2,7 @@
 title: Списание Сердика - 1937
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-22T19:26:37.800Z
+date: 2024-01-31T14:22:15.152Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T18:26:08.296Z
