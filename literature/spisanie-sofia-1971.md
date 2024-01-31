@@ -2,7 +2,7 @@
 title: Списание София - 1971 год.
 description: 
 published: true
-date: 2024-01-24T06:47:22.116Z
+date: 2024-01-31T14:39:35.657Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:38:57.976Z
