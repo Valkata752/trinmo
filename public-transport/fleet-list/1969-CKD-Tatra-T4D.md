@@ -2,7 +2,7 @@
 title: ČKD Tatra T4D
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T11:17:24.078Z
+date: 2024-01-31T09:31:47.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:06:00.914Z
@@ -81,6 +81,7 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 {.dense}
 
 ## Чертеж
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1977-Tatra-T4D.jpg">
 
 # Снимки
 
