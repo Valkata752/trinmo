@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-11T10:30:19.624Z
+date: 2024-01-31T14:17:34.199Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -12,13 +12,13 @@ dateCreated: 2023-10-30T15:21:21.930Z
 {.links-list}
 ---
 
-<img src="https://lh3.google.com/u/0/d/1coe0bK9IzkxxpNQflL6IaWo5AOZKAcAz">
+<img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/botevgradsko.jpg">
 
 
 ## 1922 г.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1tdo4hvniPR-Ebuiceqt8pXyxbIBpjo5o"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-1922-bez-linii.jpg"></td>
 <td>През кръстовището пред гара Подуяне преминава трасето на околовръстната жп линия на град София. Тя се отделя от трасето на линията София – Пловдив при ул. „Черкова“ и продължава на юг. В момента по същата следа са разположени бул. „Данаил Николаев“ и бул. „Ситняково“.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1922г. </td></table></div>
   
@@ -28,8 +28,8 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1hZElL2iDuq0PK-wTCiaz72B2WydU2otZ"></td>
-<td><img src="https://lh3.google.com/u/0/d/1vRJ70A9KtH4-a_yEG07zFdc_sjguXoHH"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/img817.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/Poduene%201937.jpg"></td></tr>
   <td colspan=2 >ℹ️ https://stara-sofia.blogspot.com/</td></table></div>
 
   
@@ -60,8 +60,8 @@ dateCreated: 2023-10-30T15:21:21.930Z
 Трамвайна линия 10 преминава през кръстовището напред по Орханийско (Ботевградско) шосе и достига до пресичането му със Слатинска река. Трасето след преминаването под жп линията София – Пловдив (малко преди настоящия пл. „Пирдоп“) е едно коловозно с две места за разминаване на мотриси.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1ArOYVyPcG5h7ZAOEKHoYZhmPnDRRM6Cc"></td>
-<td><img src="https://lh3.google.com/u/0/d/13JyKFxLBJPE0Vmhu_CRn2jUKFEfSidOa">
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-3-10.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/botevgradsko-tm10.jpg">
 </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1936 - 1949 г. </td></table></div>
 
@@ -78,7 +78,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1D8RS0BqAN8ZsjVm4lUXyu0cKryoYW9qu"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/Scan1810.jpg"></td>
 <td>Последната спирка на трамвай 10 на Оранхийско шосе
 (Сегашен бул. "Ботевградско шосе")
 </td></tr>
@@ -100,7 +100,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ## 1988 г.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/11zWdWQKMyS5l2c9dGK_lqUhKglOwZX-t"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-1993.jpg"></td>
 <td>Като етап от разширението на нормално релсовия трамвай и изграждането на пътен възел Подуяне, до временно обръщало югозападно от кръстовището е пуснат трамвай 20.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1988 г. </td></table></div>
   
@@ -116,7 +116,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 ## 1995 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1LktW1uqakMGjWCg43jaQGihAv0zLmHBc"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-sega.jpg"></td>
 <td>1995 г.– открит е пътен възел Подуяне с трасето по бул. Ботевградско шосе. Трамваите вече преминават през функциониращото и до днес трасе. Временното постепенно се застроява с жилищни и офисни сгради.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>Днешни дни</td></table></div>
   
