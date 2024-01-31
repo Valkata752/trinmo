@@ -2,7 +2,7 @@
 title: списание Сердика
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T15:37:56.057Z
+date: 2024-01-31T15:38:58.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:42:02.127Z
@@ -197,7 +197,7 @@ dateCreated: 2024-01-31T12:42:02.127Z
  ## 1946
  ## Tabs {.tabset}
  ###  
-    <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/spisanie-serdika/1946-3-4-str1-snimka.jpg"></center></td>
 <td><b>Текст</b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 списание Сердика</td></tr>
