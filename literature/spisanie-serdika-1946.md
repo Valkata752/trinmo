@@ -2,7 +2,7 @@
 title: Списание Сердика - 1946 год.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T14:29:09.384Z
+date: 2024-01-31T14:30:07.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T09:21:56.839Z
