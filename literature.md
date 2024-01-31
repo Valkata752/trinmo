@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T13:34:27.942Z
+date: 2024-01-31T13:39:56.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -16,12 +16,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 # Столична община
 
+## списание София (1953-1991)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/cover%20sofia.jpg"></td>
   <td><b>списание София (1953-1991)</b><br>В тях е изследвано историческото развитие, обществения и културния живот на град София. Публикувани са статистически сведения от демографски, стопански и благоустройствен характер.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/spisanie-sofia"><b>Разгледай тук...</b></a></td></table></div>  
-  
+
+## списание Сердика (1937-1952)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/cover.jpg"></td>
@@ -31,13 +33,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 > Първият вестник на Столична общна е почнал да излиза, под име **"Столичен бюлетин"** през 1899 година и е продължил до 1904 - шест години. През 1915 година е възобновен с име **"Софийски общински вестник"** до 1917 г. и спира в своята четвърта годишнина. През 1925 година е възобновен с име **"Столичен общински вестник"** с една годишнина и възобновен със същото име през 1927 година.
 {.is-info}
 
-
+## Столичен общински вестник (1925-1936)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/cover.jpg"></td>
-  <td><b>Столичен общински вестник (1925 - 1936)</b><br>Излиза всеки петък в периода от 1927 до 1936.</td></tr>
+  <td><b>Столичен общински вестник (1925-1936)</b><br>Излиза всеки петък в периода от 1927 до 1936.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/stolichen-obshtinski-vestnik"><b>Разгледай тук...</b></a></td></table></div>  
   
+## Софийски общински вестник (1914-1918)  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-sofiiski-obshtinski/cover.jpg"></td>
@@ -45,11 +48,12 @@ dateCreated: 2022-04-26T09:14:34.111Z
   <td colspan=2 >ℹ️ <a href="/literature/sofiiski-obshtinski-vestnik"><b>Разгледай тук...</b></a></td></table></div>  
   
 # Вестници и списания
-  
+
+## вестник Вечерни новини (1952-1992)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/cover.png"></td>
-  <td><b>вестник Вечерни новини (1952 - 1992) </b><br>Излиза ежедневно.</td></tr>
+  <td><b>вестник Вечерни новини (1952-1992) </b><br>Излиза ежедневно.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/vecherni-novini"><b>Разгледай тук...</b></a></td></table></div>  
   
 
