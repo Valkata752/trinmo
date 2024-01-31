@@ -2,7 +2,7 @@
 title: Списание София - 1970 год.
 description: 
 published: true
-date: 2024-01-24T06:55:40.238Z
+date: 2024-01-31T14:39:56.072Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:39:41.613Z
