@@ -2,7 +2,7 @@
 title: Pesa 122NASF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-13T15:37:11.202Z
+date: 2024-01-31T09:38:05.279Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:56:44.625Z
@@ -226,7 +226,7 @@ dateCreated: 2022-05-19T21:56:44.625Z
 
 ## Чертеж
 
-<img src="https://drive.google.com/uc?id=198aggnaOwhc8A4R-nnodHmd8Im6PQk8l">
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/2013-Pesa-122NASF%20(2).jpg">
 
 
 # Снимки
