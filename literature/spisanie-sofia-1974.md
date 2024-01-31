@@ -2,7 +2,7 @@
 title: Списание София - 1974 год.
 description: 
 published: true
-date: 2024-01-24T06:37:08.513Z
+date: 2024-01-31T14:35:55.687Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:35:29.386Z
