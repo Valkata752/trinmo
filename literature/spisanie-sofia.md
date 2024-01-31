@@ -2,7 +2,7 @@
 title: списание София (1953-1991)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T14:44:24.102Z
+date: 2024-01-31T14:59:31.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:31:34.013Z
@@ -14,7 +14,7 @@ dateCreated: 2024-01-31T12:31:34.013Z
 ## Tabs {.tabset}
 
 ###
-- ➡️ *Списание София - 1978*](/literature/spisanie-sofia/1978)
+- [➡️ *Списание София - 1978*](/literature/spisanie-sofia/1978)
 {.links-list}
 
 бр. 7, с. 11 - **Витоша по-близка, по-достъпна**
