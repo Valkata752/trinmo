@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T12:28:07.288Z
+date: 2024-01-31T15:15:03.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -100,6 +100,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Димитър Кацев и Николай Щерев :bulgaria:*1967*](/gallery/dimitar-katsev-nikolay-shterev)
 - [Michael Carter*1965*](/gallery/michael-carter)
 - [Pascal Pontremoli*1964*](/gallery/pascal-pontremoli)
+- [Modern Tramway*1963*](/gallery/modern-tramway)
 - [Dirk Hartmann*1960*](/gallery/dirk-hartmann)
 - [Paul Popper*1960*](/gallery/paul-popper)
 - [Trotskee Travel *60те*](/gallery/trotskee-60te)
