@@ -2,7 +2,7 @@
 title: Списание София - 1966 год.
 description: 
 published: true
-date: 2024-01-24T07:13:44.771Z
+date: 2024-01-31T14:44:02.928Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:59:04.010Z
