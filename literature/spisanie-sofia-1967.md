@@ -2,7 +2,7 @@
 title: Списание София - 1967 год.
 description: 
 published: true
-date: 2024-01-24T07:10:53.589Z
+date: 2024-01-31T14:43:43.134Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:58:34.903Z
