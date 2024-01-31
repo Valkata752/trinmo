@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T13:39:56.724Z
+date: 2024-01-31T13:44:53.148Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -49,7 +49,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
   
 # Вестници и списания
 
-## вестник Вечерни новини (1952-1992)
+## Вечерни новини (1952-1992)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/cover.png"></td>
@@ -58,11 +58,15 @@ dateCreated: 2022-04-26T09:14:34.111Z
   
 
 
-
-
-
-## в-к Работническо дело (1927-1990) 
-                                           
+## Работническо дело (1927-1990) 
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-rabotnichesko-delo/cover.jpg"></td>
+  <td><b>вестник Работническо дело (1927-1990) </b><br>Излиза ежедневно.</td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/rabotnichesko-delo"><b>Разгледай тук...</b></a></td></table></div>  
+  
+  
+  
 ## Tabs {.tabset}
 
 ### 1990
