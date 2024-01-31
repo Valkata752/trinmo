@@ -2,7 +2,7 @@
 title: Списание София - 1965 год.
 description: 
 published: true
-date: 2024-01-24T07:18:37.617Z
+date: 2024-01-31T14:44:42.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-10T08:59:24.845Z
