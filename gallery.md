@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T15:15:03.412Z
+date: 2024-02-03T14:18:01.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -33,10 +33,12 @@ dateCreated: 2022-07-01T07:02:10.622Z
 **Архив по години:** | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev-2006-2008) |
 
 ---
+- [Сава Ташев :bulgaria: *2014*](/gallery/sava-tashev-2014)
 - [Alexander Naumenkov :ru: *2007, 2011*](/gallery/alexander-naumenkov)
 {.links-list}
 
 ## 00те
+- [Иво Атамян :bulgaria: *2005-2009*](/gallery/ivo-atamyan)
 - [Marcin Stiasny :poland: *2006*](/gallery/marcin-stiasny)
 - [Иво Радоев :bulgaria: *2006-2008*](/gallery/ivo-radoev-2006-2008)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
@@ -132,6 +134,10 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## Изгубената България
 - [lostbulgaria.com :bulgaria:*различни години*](/gallery/lostbulgaria)
+{.links-list}
+
+## Български визуален архив
+- [БВА :bulgaria:*различни години*](/gallery/bulgarian-visual-archive)
 {.links-list}
 
 
