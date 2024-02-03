@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-03T23:46:24.457Z
+date: 2024-02-03T23:50:11.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T12:50:40.137Z
@@ -12,6 +12,16 @@ dateCreated: 2023-12-31T12:50:40.137Z
 
 ---
 
+
+## T4M-50/60/801/900
+## Tabs {.tabset}
+### 
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2009/tm85.jpg"></td>
+<td><b>tm85</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## T8M-301 (България 1300)
