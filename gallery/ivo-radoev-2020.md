@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2020
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T12:44:14.897Z
+date: 2024-02-03T23:58:09.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T12:27:26.214Z
@@ -19,72 +19,115 @@ dateCreated: 2024-01-01T12:27:26.214Z
 ## Tabs {.tabset}
 ### 
 
-<!--1603--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-PwHLIlWAN6EeK8JG-CE34J5x3hTM-su" height="200px"><figcaption></figcaption><b>tb1603 line5</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-PwHLIlWAN6EeK8JG-CE34J5x3hTM-su" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1603%20line5.jpg"></td>
+<td><b>tb1603 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1623%20line5.jpg"></td>
+<td><b>tb1623 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1623--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1P2FUDy873tvDUQiLurfOQJEDMZVuUEGO" height="200px"><figcaption></figcaption><b>tb1623 line5</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1P2FUDy873tvDUQiLurfOQJEDMZVuUEGO" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1625%20line11.jpg"></td>
+<td><b>tb1625 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-
-<!--1625--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zP1aOVoCwLGiCbxS4blMVqDQ59q6B3IT" height="200px"><figcaption></figcaption><b>tb1625 line11</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zP1aOVoCwLGiCbxS4blMVqDQ59q6B3IT" width="100%"></div></div>
-
-<!--1627--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17cgUMd4-MQxKBo3-JVstwkV252zFRWIX" height="200px"><figcaption></figcaption><b>tb1627 line5</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17cgUMd4-MQxKBo3-JVstwkV252zFRWIX" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1627%20line5.jpg"></td>
+<td><b>tb1627 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Skoda 27TR
 ## Tabs {.tabset}
 ### 
 
-<!--1656--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1roDWv6V6KlAyPKsw_aIACzyNxmWcR0No" height="200px"><figcaption></figcaption><b>tb1656 line5</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1roDWv6V6KlAyPKsw_aIACzyNxmWcR0No" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1656%20line5.jpg"></td>
+<td><b>tb1656 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1665--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=159wOOqSpYztyaEIsElNXScdcP4wZHS7W" height="200px"><figcaption></figcaption><b>tb1665 line2</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=159wOOqSpYztyaEIsElNXScdcP4wZHS7W" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1665%20line2.jpg"></td>
+<td><b>tb1665 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1672--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=19xptFCn993ERS3r-H1qPcVS6KQPMQTwl" height="200px"><figcaption></figcaption><b>tb1672 line5</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=19xptFCn993ERS3r-H1qPcVS6KQPMQTwl" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb1672%20line5.jpg"></td>
+<td><b>tb1672 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--2696--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dQUclaK5vUU0coZNqq7gfKsvOHyn9nhh" height="200px"><figcaption></figcaption><b>tb2696 line1</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dQUclaK5vUU0coZNqq7gfKsvOHyn9nhh" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/tb2696%20line1.jpg"></td>
+<td><b>tb2696 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Higer
 ## Tabs {.tabset}
 ### 
 
-<!--5012--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OPJeYPoshBcgmfTyZHEnMFLETAraRVl7" height="200px"><figcaption></figcaption><b>a5012 line84</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OPJeYPoshBcgmfTyZHEnMFLETAraRVl7" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a5012%20line84.jpg"></td>
+<td><b>a5012 line84</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--5014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uD4w8S2RPkYi4zNEu2B1ezfALSlBmib7" height="200px"><figcaption></figcaption><b>a5014 line184</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uD4w8S2RPkYi4zNEu2B1ezfALSlBmib7" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a5014%20line184.jpg"></td>
+<td><b>a5014 line184</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## MAN Lion's City CNG
 ## Tabs {.tabset}
 ### 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a2301%20line280.jpg"></td>
+<td><b>a2301 line280</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--2301--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1R5pXLusIe1bYp75fxRff6aAfhmVFTBlg" height="200px"><figcaption></figcaption><b>a2301 line280</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1R5pXLusIe1bYp75fxRff6aAfhmVFTBlg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a2312%20line280.jpg"></td>
+<td><b>a2312 line280</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-
-<!--2312--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1baPiKqc_yVdHya7z3PmhTyqg3q-KvOo2" height="200px"><figcaption></figcaption><b>a2312 line280</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1baPiKqc_yVdHya7z3PmhTyqg3q-KvOo2" width="100%"></div></div>
-
-
-<!--2317--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dXUtxrkjY4r8-tL-yZYkVhmm1w9xb0ui" height="200px"><figcaption></figcaption><b>a2317 line280</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dXUtxrkjY4r8-tL-yZYkVhmm1w9xb0ui" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a2317%20line280.jpg"></td>
+<td><b>a2317 line280</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Mercedes Intouro
 ## Tabs {.tabset}
 ### 
 
-<!--1308--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-liNvu7ZRvyWbx4nHLpPZhSFXZ0e3scZ" height="200px"><figcaption></figcaption><b>a1308 line66</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-liNvu7ZRvyWbx4nHLpPZhSFXZ0e3scZ" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a1308%20line66.jpg"></td>
+<td><b>a1308 line66</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## BMC Belde 220-SLF
 ## Tabs {.tabset}
 ### 
 
-<!--3703--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ErxZFvxWhnM9l7KYO79C6ilhVdODOB0V" height="200px"><figcaption></figcaption><b>a3703 line14</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ErxZFvxWhnM9l7KYO79C6ilhVdODOB0V" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2020/a3703%20line14.jpg"></td>
+<td><b>a3703 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
