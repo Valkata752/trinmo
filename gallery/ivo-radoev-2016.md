@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2016
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:33:18.015Z
+date: 2024-02-04T00:20:03.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:40:55.355Z
@@ -27,7 +27,13 @@ dateCreated: 2024-01-07T06:40:55.355Z
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1RHcIy-2ffkHt_P745hIoWPrlDkxg3I3e" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1RHcIy-2ffkHt_P745hIoWPrlDkxg3I3e" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2016/DSC_3792.jpg"></td>
+<td><b>tm2027+tm2028 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1yfwxO-dDrlH65vf6f_0WampdYF3jKdcF" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1yfwxO-dDrlH65vf6f_0WampdYF3jKdcF" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=15veU_8REKkLI4YMz0H4wiapJn8Id6Chu" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=15veU_8REKkLI4YMz0H4wiapJn8Id6Chu" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1gLhYdM-FU1-Yi44ufYvnVAt44ZcIhX9P" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1gLhYdM-FU1-Yi44ufYvnVAt44ZcIhX9P" width="100%"></div></div>
