@@ -2,7 +2,7 @@
 title: Фотограф Сава Ташев - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-04T09:24:06.352Z
+date: 2024-02-04T21:29:22.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-03T14:22:15.899Z
@@ -50,26 +50,26 @@ dateCreated: 2024-02-03T14:22:15.899Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sava-tashev/2014/predstavyane-solaris_9.jpg"></td>
 <td><b>tb1656</b><br> 🚎 <a href="/bg/public-transport/fleet-list/2013-Skoda-27Tr-Solaris-III">Škoda 27Tr Solaris III</a> <br>📌 <br> 📷  Сава Ташев</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ Официално представяне на новите тролейбуси Škoda 27Tr — 04.04.2014</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sava-tashev/2014/predstavyane-solaris_16.jpg"></td>
 <td><b>tb1653</b><br> 🚎 <a href="/bg/public-transport/fleet-list/2013-Skoda-27Tr-Solaris-III">Škoda 27Tr Solaris III</a> <br>📌 <br> 📷  Сава Ташев</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ Официално представяне на новите тролейбуси Škoda 27Tr — 04.04.2014</td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sava-tashev/2014/predstavyane-solaris_19.jpg"></td>
 <td><b>tb1657</b><br> 🚎 <a href="/bg/public-transport/fleet-list/2013-Skoda-27Tr-Solaris-III">Škoda 27Tr Solaris III</a> <br>📌 <br> 📷  Сава Ташев</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ Официално представяне на новите тролейбуси Škoda 27Tr — 04.04.2014</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sava-tashev/2014/predstavyane-solaris_27.jpg"></td>
 <td><b>tb1657, tb1653</b><br> 🚎 <a href="/bg/public-transport/fleet-list/2013-Skoda-27Tr-Solaris-III">Škoda 27Tr Solaris III</a> <br>📌 <br> 📷  Сава Ташев</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+  <td colspan=2 >ℹ️ Официално представяне на новите тролейбуси Škoda 27Tr — 04.04.2014</td></table></div>
 
 
 ## T6A2-SF
