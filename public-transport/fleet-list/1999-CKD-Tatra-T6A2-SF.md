@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T10:00:38.284Z
+date: 2024-02-04T09:28:39.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:19.722Z
@@ -178,15 +178,37 @@ dateCreated: 2022-05-19T21:58:19.722Z
 ## Tabs {.tabset}
 
 ### Единични
-<!--2041--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49667104747_f4cab2b46d_k.jpg" height="200px"><figcaption><b>TM3</b>📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/49667104747/" target="_blank" title="2084"> <img src="https://live.staticflickr.com/65535/49667104747_f4cab2b46d_k.jpg" width="100%"></a></div></div>
-<!--2056--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52703380625_679d039075_k.jpg" height="200px"><figcaption> <b>TM4</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52703380625/" target="_blank" title="2056"> <img src="https://live.staticflickr.com/65535/52703380625_679d039075_k.jpg" width="100%"></a></div></div>
-<!--2041--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/48985487776" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg" width="100%"></a></div></div>
-
-<!--2041--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" height="200px"><figcaption><b>TM10 </b>📷 Петър Мънъри</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/124751848@N05/49162447272/" target="_blank" title="2041"> <img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/sava-tashev/2014/tm2047%20line1.jpg"></td>
+<td><b>tm2047 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷  Сава Ташев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/49667104747_f4cab2b46d_k.jpg"></td>
+<td><b>tm2043 line3</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷  Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52703380625_679d039075_k.jpg"></td>
+<td><b>tm2056 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷  Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg"></td>
+<td><b>tm2041 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷  Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg"></td>
+<td><b>tm2041 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 <!--2051-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
 
