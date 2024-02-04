@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2017
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:33:11.431Z
+date: 2024-02-04T00:18:21.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:43:09.022Z
@@ -16,9 +16,24 @@ dateCreated: 2024-01-07T06:43:09.022Z
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1dkDGTA-Ybf-yV2xxmPb45hOdZ_T4EUXn" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1dkDGTA-Ybf-yV2xxmPb45hOdZ_T4EUXn" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1rRGR7F8uQJ-C-10RAXwypZfHzYcPziLF" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1rRGR7F8uQJ-C-10RAXwypZfHzYcPziLF" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1n9l4IMFuiAqJSM8y4WD6pfYA2zJ5_K9S" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1n9l4IMFuiAqJSM8y4WD6pfYA2zJ5_K9S" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9226.jpg"></td>
+<td><b>tm2318 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9238.jpg"></td>
+<td><b>tm2322 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9256.jpg"></td>
+<td><b>tm2312 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tatra T6A5
@@ -26,70 +41,147 @@ dateCreated: 2024-01-07T06:43:09.022Z
 ## Tabs {.tabset}
 ### 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1ULYNSR96HH6biHJJzsraPvVUT5_qSVW7" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1ULYNSR96HH6biHJJzsraPvVUT5_qSVW7" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1FRQxchfpOeuBUHlP43tFx7yIj-fULPM2" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1FRQxchfpOeuBUHlP43tFx7yIj-fULPM2" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1s7cp27fdsyeYV6xUE6oO5sYtGHClSaA1" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1s7cp27fdsyeYV6xUE6oO5sYtGHClSaA1" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8774.jpg"></td>
+<td><b>tm4148+tm4150 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8784.jpg"></td>
+<td><b>tm4152+tm4154 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9330.jpg"></td>
+<td><b>tm4153+tm4155 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-## T6A2
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9362.jpg"></td>
+<td><b>tm4161+tm4163 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+## T6A2/A2-SF
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1QYJYcw1JoRcdHbwLClGL-pw0qc7pjWo2" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1QYJYcw1JoRcdHbwLClGL-pw0qc7pjWo2" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1kA9zdTDgF1lXEpYkYXJUhoxmzkFlLgxq" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1kA9zdTDgF1lXEpYkYXJUhoxmzkFlLgxq" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9277.jpg"></td>
+<td><b>tm2057 line10</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9278.jpg"></td>
+<td><b>tm2030 line10</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## T6M-700
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1o9Fim_ubAsXdN9eOVkuwKgKDNVN7mLyp" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1o9Fim_ubAsXdN9eOVkuwKgKDNVN7mLyp" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9280.jpg"></td>
+<td><b>tm817 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## Tatra T4D-M
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1-pkRGea7EhW--H3dPuRCmsHrDT80d29A" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1-pkRGea7EhW--H3dPuRCmsHrDT80d29A" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8777.jpg"></td>
+<td><b>tm4065 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1w3DqGiBYwTcY7xRqTZT19SPFJyniIb4q" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1w3DqGiBYwTcY7xRqTZT19SPFJyniIb4q" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1JSiq63Ed-YWOF4h9tsCFdS2qirvXuH0X" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1JSiq63Ed-YWOF4h9tsCFdS2qirvXuH0X" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1HrIQWdFwYOYSuHXz3v3ud-zXVnQ2zZr_" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1HrIQWdFwYOYSuHXz3v3ud-zXVnQ2zZr_" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8781.jpg"></td>
+<td><b>tm4067 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8788.jpg"></td>
+<td><b>tm4045 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Tatra T6B5
 
 ## Tabs {.tabset}
 ### 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1EnRISMqirotx2ZliGv81avhMqFMweyme" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1EnRISMqirotx2ZliGv81avhMqFMweyme" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9347.jpg"></td>
+<td><b>tm4131+tm4133 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## Tatra T4D-C
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1hWYFiOCHKVWzveFYBbYBCw7o9xFFLvpQ" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1hWYFiOCHKVWzveFYBbYBCw7o9xFFLvpQ" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1elF9Mc7teecwmx3tnPjLAKa6OYnEqDW3" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1elF9Mc7teecwmx3tnPjLAKa6OYnEqDW3" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_4540.jpg"></td>
+<td><b>tm1166 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8476.jpg"></td>
+<td><b>tm1213 line11, tm812 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## Duewag T4-B4
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1cr5dLvFH8RcP2Xp3qKKeaKxA1wtRTfBR" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1cr5dLvFH8RcP2Xp3qKKeaKxA1wtRTfBR" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8790.jpg"></td>
+<td><b>tm4210 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## Skoda 26TR
 
 ## Tabs {.tabset}
 ### 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=14wZFbnNAh1eR_OC_2E2iIHic8QLun6a7" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=14wZFbnNAh1eR_OC_2E2iIHic8QLun6a7" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9617.jpg"></td>
+<td><b>tb1619 line?</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Ikarus 280T
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1zHiTSZkDrvZA3wvFNPUvX439X1tNJuZv" height="200px"><figcaption></figcaption><b>tb line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1zHiTSZkDrvZA3wvFNPUvX439X1tNJuZv" width="100%"></div></div>
 
-
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9473.jpg"></td>
+<td><b>tb2922 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Yutong ZK6126HGA
@@ -97,12 +189,32 @@ dateCreated: 2024-01-07T06:43:09.022Z
 ## Tabs {.tabset}
 ### 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13ZWEi3pPdLRr8YauQBs6V4D1FU2k1mmr" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13ZWEi3pPdLRr8YauQBs6V4D1FU2k1mmr" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/GOPR1509.jpg"></td>
+<td><b>a2048 line20tm</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## MAN SG262
 
 ## Tabs {.tabset}
 ### 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1IGMvvQwD12c60WavIwyXklI0hs0TebIG" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1IGMvvQwD12c60WavIwyXklI0hs0TebIG" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1AjLENV_sWODzjOuvE2wwfqODUBbvPzkP" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1AjLENV_sWODzjOuvE2wwfqODUBbvPzkP" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13DZu1NmjYOIpjgeXY6kBOe7N9OyBUZrZ" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13DZu1NmjYOIpjgeXY6kBOe7N9OyBUZrZ" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_3566.jpg"></td>
+<td><b>a2155 line20tm</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_3584.jpg"></td>
+<td><b>a2139 line20tm</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_3591.jpg"></td>
+<td><b>a2131 line20tm</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
