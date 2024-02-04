@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-03T14:18:01.006Z
+date: 2024-02-04T09:47:34.559Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -34,6 +34,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ---
 - [Сава Ташев :bulgaria: *2014*](/gallery/sava-tashev-2014)
+- [Владимир Т :bulgaria: *2010-2013*](/gallery/vladimir-t)
 - [Alexander Naumenkov :ru: *2007, 2011*](/gallery/alexander-naumenkov)
 {.links-list}
 
