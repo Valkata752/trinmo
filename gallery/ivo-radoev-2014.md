@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-04T23:14:26.831Z
+date: 2024-02-04T23:15:38.824Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:33:39.184Z
@@ -586,8 +586,6 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_7936.jpg"></td>
 <td><b>a2475 line120</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=166jZKyHx9f3RqII12MzxXDhxq7xulfez" width="100%"></div></div>
 
 
 ## Mercedes O305G Heuliez
@@ -895,9 +893,6 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2289.jpg"></td>
 <td><b>tb2707 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1jpCXIStKAfYIn0W2VlyLLHUw3tFq3y0f" width="100%"></div></div>
-
 
 
 ## Ikarus 280T Facelift
@@ -933,22 +928,3 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2269.jpg"></td>
 <td><b>tb2911 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
