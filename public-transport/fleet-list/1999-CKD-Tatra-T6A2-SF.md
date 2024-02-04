@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-04T09:28:39.298Z
+date: 2024-02-04T09:29:14.402Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:19.722Z
