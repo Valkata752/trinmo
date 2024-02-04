@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-04T09:31:56.291Z
+date: 2024-02-04T09:53:53.903Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:19.722Z
@@ -195,7 +195,15 @@ dateCreated: 2022-05-19T21:58:19.722Z
 <td><img src="https://live.staticflickr.com/65535/52703380625_679d039075_k.jpg"></td>
 <td><b>tm2056 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷  Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51790660100_31abed0123_k.jpg"></td>
+<td><b>tm2057 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
+ 
+
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/48985487776_c6dac8e246_b.jpg"></td>
@@ -205,13 +213,14 @@ dateCreated: 2022-05-19T21:58:19.722Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg"></td>
-<td><b>tm2041 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Петър М.</td></tr>
+<td><b>tm2041 line10</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Петър М.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
-<!--2051-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-t/tm2051%20line11%20Emirates.jpg"></td>
+<td><b>tm2051 line11</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Владимир Т.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 
@@ -220,7 +229,7 @@ dateCreated: 2022-05-19T21:58:19.722Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52735055524_ce46b8bbbf_k.jpg"></td>
-<td><b>tm2043+tm2044 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Петър М.</td></tr>
+<td><b>tm2043+tm2044 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
