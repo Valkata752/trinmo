@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2015
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:33:27.492Z
+date: 2024-02-04T14:22:41.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:37:59.229Z
@@ -15,7 +15,8 @@ dateCreated: 2024-01-07T06:37:59.229Z
 ## Pesa Swing
 ## Tabs {.tabset}
 ###
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=14Gn-Jvy9Ua-_LXCSlL1xVY5-FLvgJfvt" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=14Gn-Jvy9Ua-_LXCSlL1xVY5-FLvgJfvt" width="100%"></div></div>
+
+  
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1u-bObyq050ob_DqtBhfJt10YaKLH55HR" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1u-bObyq050ob_DqtBhfJt10YaKLH55HR" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1B_0IU4rfjJCRR8kP-hQsbYNwPc8rKXNF" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1B_0IU4rfjJCRR8kP-hQsbYNwPc8rKXNF" width="100%"></div></div>
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1dQ_ac4plBwzhqxFN0xLsdVLiQRiB1E9T" height="200px"><figcaption></figcaption><b>tm line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1dQ_ac4plBwzhqxFN0xLsdVLiQRiB1E9T" width="100%"></div></div>
@@ -113,8 +114,17 @@ dateCreated: 2024-01-07T06:37:59.229Z
 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1lLfshYUvgO315dOhmpOCAyC8_-MUsLkc" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1lLfshYUvgO315dOhmpOCAyC8_-MUsLkc" width="100%"></div></div>
 
-## Ikaurs 280
+## Ikarus 280
 ## Tabs {.tabset}
 ###
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1jLD0ImpUdQZmP06YDfFC8DVgttolKADL" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1jLD0ImpUdQZmP06YDfFC8DVgttolKADL" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1MnKk21HuED2w-oBt14VSMrmGTr0X790H" height="200px"><figcaption></figcaption><b>a line </b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1MnKk21HuED2w-oBt14VSMrmGTr0X790H" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2015/DSC_0859.jpg"></td>
+<td><b>a2382 line119</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2015/DSC_0871.jpg"></td>
+<td><b>a2412 line118</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
