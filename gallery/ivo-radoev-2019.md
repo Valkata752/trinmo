@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2019
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:32:55.833Z
+date: 2024-02-04T00:00:10.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T12:31:50.894Z
@@ -19,26 +19,41 @@ dateCreated: 2024-01-01T12:31:50.894Z
 ## Tabs {.tabset}
 ### 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2019/a1161%20line111.jpg"></td>
+<td><b>a1161 line111</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1161--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1dDlwrVpslkB57VssES2o14EXcPQkzzc8" height="200px"><figcaption></figcaption><b>a1161 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1dDlwrVpslkB57VssES2o14EXcPQkzzc8" width="100%"></div></div>
 
 ## Mercedes Intouro
 ## Tabs {.tabset}
 ### 
 
-<!--1303--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" height="200px"><figcaption></figcaption><b>a1303 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1UKLySXgsbfXHH9Y3_pG-ZZZ-F34IhJnS" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2019/a1303%20line63.jpg"></td>
+<td><b>a1303 line63</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1306--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" height="200px"><figcaption></figcaption><b>a1306 line63</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1z1LE1TciZ9R38fRug9dYkwbmn7MJtc-N" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2019/a1306%20line63.jpg"></td>
+<td><b>a1306 line63</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-<!--1306--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" height="200px"><figcaption></figcaption><b>a1306 line66</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1BHSclRn_O5aGJ2BJCaZtZ_xRI35zMCIi" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2019/a1306%20line66.jpg"></td>
+<td><b>a1306 line66</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## BMC Procity
 ## Tabs {.tabset}
 ### 
 
-<!--1401--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" height="200px"><figcaption></figcaption><b>a1401 line111</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1PokuMoFGBTcSqzwEyH7CNGvxBtkF-nE0" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2019/a1401%20line111.jpg"></td>
+<td><b>a1401 line111</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
