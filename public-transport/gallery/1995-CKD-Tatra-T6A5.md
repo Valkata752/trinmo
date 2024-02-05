@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T09:03:26.519Z
+date: 2024-02-05T09:05:55.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T08:57:28.671Z
@@ -20,8 +20,12 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 
 ### 4145
-<!--4145-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=168qp5XeAxVwsBgWjauXnsM05HcLr9GbN" height="200px"><figcaption><b>TM22</b> 📷 Frederik Buchleitner ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=168qp5XeAxVwsBgWjauXnsM05HcLr9GbN" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/5720/30508567142_8b97074e64_h.jpg"></td>
+<td><b>tm4145+tm4147 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Frederik Buchleitner</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ### 4148
 <!--следващ пост--> 
