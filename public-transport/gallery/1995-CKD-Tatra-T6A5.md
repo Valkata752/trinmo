@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T09:00:54.742Z
+date: 2024-02-05T09:03:26.519Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T08:57:28.671Z
@@ -34,9 +34,13 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 
 ### 4149
-<!--4149+4151--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52647338754_1f2bb824cd_k.jpg" height="200px"><figcaption> <b>4149+4151</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52647338754/" target="_blank" title="4149+4151"> <img src="https://live.staticflickr.com/65535/52647338754_1f2bb824cd_k.jpg" width="100%"></a></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52647338754_1f2bb824cd_k.jpg"></td>
+<td><b>tm4149+tm4151 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 4150-4159
 
 ## Tabs {.tabset}
@@ -59,10 +63,18 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
  
 ### 4155
-<!--4155+4153--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52854611318_e991881695_k.jpg" height="200px"><figcaption> <b>4155+4153 - TM20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196388478@N06/52854611318/in/photostream/" target="_blank" title="155+41581"> <img src="https://live.staticflickr.com/65535/52854611318_e991881695_k.jpg" width="100%"></a></div></div>
-<!--4155+4158--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49996570488_a6e72fd53b_k.jpg" height="200px"><figcaption> <b>4155+4158 - TM22</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/49996570488/in/album-72177720305054365/" target="_blank" title="155+41581"> <img src="https://live.staticflickr.com/65535/49996570488_a6e72fd53b_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52854611318_e991881695_k.jpg"></td>
+<td><b>tm4155+tm4153 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/49996570488_a6e72fd53b_k.jpg"></td>
+<td><b>tm4155+tm4158 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 ## 4160-4169
 
@@ -74,7 +86,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1x9Q7FUFF_KP2dcVBTFzYCXEfZkTlQ1Sy" height="200px"><figcaption><b>4160+4162</b> 📷 Захари Захариев ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1x9Q7FUFF_KP2dcVBTFzYCXEfZkTlQ1Sy" width="100%"></div></div> 
 
 
-## 4161
+### 4161
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
