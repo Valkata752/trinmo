@@ -2,13 +2,13 @@
 title: Yutong E12LF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T18:54:21.259Z
+date: 2024-02-05T18:55:03.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-01T07:38:43.614Z
 ---
 
-- [➡️ Обатно към страницата на модела *Yutong E12LF*](/bg/public-transport/fleet-list/2018-Yutong-E12LF)
+- [➡️ Обратно към страницата на модела *Yutong E12LF*](/bg/public-transport/fleet-list/2018-Yutong-E12LF)
 {.links-list}
 ---
 
