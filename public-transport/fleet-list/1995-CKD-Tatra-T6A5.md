@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T09:13:43.815Z
+date: 2024-02-05T09:14:57.157Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:50.594Z
@@ -172,15 +172,17 @@ dateCreated: 2022-05-19T21:58:50.594Z
 ## ТМ22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8774.jpg"></td>
-<td><b>tm4148+tm4150 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><img src="https://live.staticflickr.com/65535/50116671432_05a6c17f50_k.jpg"></td>
+<td><b>tm4171 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://live.staticflickr.com/65535/50116671432_05a6c17f50_k.jpg"></td>
-<td><b>tm4171 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8774.jpg"></td>
+<td><b>tm4148+tm4150 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+
   
   
   
