@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-04T09:47:34.559Z
+date: 2024-02-05T09:25:49.709Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -33,7 +33,13 @@ dateCreated: 2022-07-01T07:02:10.622Z
 **Архив по години:** | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev-2006-2008) |
 
 ---
-- [Сава Ташев :bulgaria: *2014*](/gallery/sava-tashev-2014)
+- [Сава Ташев :bulgaria: *2014-2019*](/gallery/sava-tashev-2014)
+{.links-list}
+
+**Архив по години:** | [2015](/gallery/sava-tashev-2015) | [2014](/gallery/sava-tashev-2014) |
+
+---
+
 - [Владимир Т :bulgaria: *2010-2013*](/gallery/vladimir-t)
 - [Alexander Naumenkov :ru: *2007, 2011*](/gallery/alexander-naumenkov)
 {.links-list}
