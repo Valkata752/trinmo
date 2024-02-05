@@ -2,7 +2,7 @@
 title: Yutong ZK6126HGA
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-17T14:34:05.140Z
+date: 2024-02-05T19:01:44.258Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:08:09.107Z
@@ -988,9 +988,9 @@ width="100%"></div></div>
 
 <!--1214-->
 <div class="dropdown"><button class="imgbtn"><figure><img
-src="https://live.staticflickr.com/65535/52999058753_6b8bbaf866_k.jpg"
-height="200px"><figcaption> <b>А5ТМ</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><img
-src="https://live.staticflickr.com/65535/52999058753_6b8bbaf866_k.jpg"
+src="https://live.staticflickr.com/65535/53511393544_85887f8c7d_b.jpg"
+height="200px"><figcaption> <b>А5ТМ</b> 📷 Станислав Спасов</figcaption></figure></button><div class="dropdown-content"><img
+src="https://live.staticflickr.com/65535/53511393544_85887f8c7d_b.jpg"
 width="100%"></div></div>
 
 
