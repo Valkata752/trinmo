@@ -2,7 +2,7 @@
 title: Schindler Waggon AG Be 4-6 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T14:38:32.394Z
+date: 2024-02-05T14:39:19.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T14:29:46.280Z
@@ -17,10 +17,17 @@ dateCreated: 2024-02-05T14:29:46.280Z
 ## Tabs {.tabset}
 
 ### 659
-<!--TM8--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52484757954/" target="_blank" title="659"> <img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg" width="100%"></a></div></div>
-<!--TM12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg" height="200px"><figcaption> <b>TM12</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52484757954/" target="_blank" title="659"> <img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg"></td>
+<td><b>tm659 line8</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg"></td>
+<td><b>tm659 line12</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Александър Бахчевански<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 ### 660
 <!--TM8--> 
