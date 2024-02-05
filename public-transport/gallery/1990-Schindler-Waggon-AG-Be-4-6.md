@@ -1,8 +1,8 @@
 ---
-title: Schindler Waggon AG Be 4-6
+title: Schindler Waggon AG Be 4-6 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T14:37:46.760Z
+date: 2024-02-05T14:38:32.394Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T14:29:46.280Z
