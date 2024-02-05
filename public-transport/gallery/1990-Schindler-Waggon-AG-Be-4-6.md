@@ -2,7 +2,7 @@
 title: Schindler Waggon AG Be 4-6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T14:32:08.240Z
+date: 2024-02-05T14:37:46.760Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T14:29:46.280Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-05T14:29:46.280Z
 {.links-list}
 ---
  
-## 659-678
+## 659-668
 ## Tabs {.tabset}
 
 ### 659
@@ -98,6 +98,10 @@ dateCreated: 2024-02-05T14:29:46.280Z
 <!--TM12--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51828462351_7dd0542e15_k.jpg" height="200px"><figcaption> <b>TM12</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51828462351/" target="_blank" title="667"> <img src="https://live.staticflickr.com/65535/51828462351_7dd0542e15_k.jpg" width="100%"></a></div></div>
 
+## 669-678
+## Tabs {.tabset}
+
+
 ### 669
 <!--TM8--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52229630068_5fbaeb8ddb_k.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52229630068/" target="_blank" title="669"> <img src="https://live.staticflickr.com/65535/52229630068_5fbaeb8ddb_k.jpg" width="100%"></a></div></div>
@@ -143,11 +147,11 @@ dateCreated: 2024-02-05T14:29:46.280Z
 
 ### 677
 
+## 678-686 
+## Tabs {.tabset}
 
 ### 678
 
-## 679-686 
-## Tabs {.tabset}
 
 ### 679
 
