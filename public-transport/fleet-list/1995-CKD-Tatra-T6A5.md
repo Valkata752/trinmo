@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T09:08:58.556Z
+date: 2024-02-05T09:13:43.815Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:50.594Z
@@ -152,6 +152,16 @@ dateCreated: 2022-05-19T21:58:50.594Z
 
 # Tabs {.tabset}
 ## ТМ20
+
+
+
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51272675908_06fc411fcc_k.jpg"></td>
+<td><b>tm4194 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52854611318_e991881695_k.jpg"></td>
