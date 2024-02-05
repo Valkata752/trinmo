@@ -2,7 +2,7 @@
 title: Schindler Waggon AG Be 4-6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T14:35:59.317Z
+date: 2024-02-05T14:36:13.905Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:59:46.950Z
@@ -151,7 +151,7 @@ dateCreated: 2022-05-19T21:59:46.950Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg"></td>
-<td><b>tm659 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
+<td><b>tm659 line8</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -159,12 +159,12 @@ dateCreated: 2022-05-19T21:59:46.950Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52218762194_5148265d36_k.jpg"></td>
-<td><b>tm662 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
+<td><b>tm662 line11</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg"></td>
-<td><b>tm659 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Александър Бахчевански<br></td></tr>
+<td><b>tm659 line12</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Александър Бахчевански<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
