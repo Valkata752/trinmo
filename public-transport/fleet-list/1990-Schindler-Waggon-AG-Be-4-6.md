@@ -2,7 +2,7 @@
 title: Schindler Waggon AG Be 4-6
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-05T14:27:47.896Z
+date: 2024-02-05T14:35:59.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:59:46.950Z
@@ -148,13 +148,23 @@ dateCreated: 2022-05-19T21:59:46.950Z
 - [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1990-Schindler-Waggon-AG-Be-4-6)
 {.links-list}
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg"></td>
+<td><b>tm659 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-<!--TM8--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52484757954/" target="_blank" title="659"> <img src="https://live.staticflickr.com/4794/38788903510_8e780d25f7_k.jpg" width="100%"></a></div></div>
-<!--TM12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg" height="200px"><figcaption> <b>TM12</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52484757954/" target="_blank" title="659"> <img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg" width="100%"></a></div></div>
-
-
-<!--TM11--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52218762194_5148265d36_k.jpg" height="200px"><figcaption> <b>TM11</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52218762194/" target="_blank" title="662"> <img src="https://live.staticflickr.com/65535/52218762194_5148265d36_k.jpg" width="100%"></a></div></div>
-
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52218762194_5148265d36_k.jpg"></td>
+<td><b>tm662 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Владимир Симов<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52484757954_4ec2dc4116_k.jpg"></td>
+<td><b>tm659 line1</b><br> 🚎 <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Schindler Waggon AG Be 4-6</a><br>📌 <br> 📷 Александър Бахчевански<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
