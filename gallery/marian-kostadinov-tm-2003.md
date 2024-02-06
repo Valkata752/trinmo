@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Трамваи 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-06T11:28:28.339Z
+date: 2024-02-06T11:29:32.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T09:52:14.319Z
@@ -514,6 +514,24 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><b>tm1095 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1130.jpg"></td>
+<td><b>tm1130 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1130d.jpg"></td>
+<td><b>tm1130 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1130d2.jpg"></td>
+<td><b>tm1130 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
   
   
 ## T8M-700
