@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Трамваи 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-06T10:52:58.210Z
+date: 2024-02-06T10:59:44.642Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T09:52:14.319Z
@@ -270,24 +270,101 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><b>tm4137+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
-## T8M-700
-## Tabs {.tabset}
-### 
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1047%20line5%20sofie-010.jpg"></td>
-<td><b>tm1047 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
 
 ## T4D
 ## Tabs {.tabset}
-### 
+###
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm977_2.jpg"></td>
+<td><b>tm977 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm977.jpg"></td>
+<td><b>tm977 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm977d.jpg"></td>
+<td><b>tm977 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm977d2.jpg"></td>
+<td><b>tm977 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm980.jpg"></td>
+<td><b>tm980 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1014.jpg"></td>
+<td><b>tm1014 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1014_1021d.jpg"></td>
+<td><b>tm1014 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1017_2.jpg"></td>
+<td><b>tm1017 line14</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1017_4.jpg"></td>
+<td><b>tm1017 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1017d.jpg"></td>
+<td><b>tm1017 депо</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t4d/tm1020.jpg"></td>
+<td><b>tm1020 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
+  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t6a2/2036_3.jpg"></td>
 <td><b>tm1081 line14 tm2035+tm2036 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm1047%20line5%20sofie-010.jpg"></td>
+<td><b>tm1047 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+## T8M-700
+## Tabs {.tabset}
+### 
+ 
+
+
 
 
 ## T6M-700
