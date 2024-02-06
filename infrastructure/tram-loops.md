@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-23T17:59:56.124Z
+date: 2024-02-06T17:42:45.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -22,29 +22,18 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1979
-<div class="table-responsive">
-<table style="width:100%">
-  <tr>
-    <td><img src="https://lh6.googleusercontent.com/YS61W48Y1SRRcxTHsP9pAV0umQDoxihlDlSdDDxCPW5wdmutE9pjjxDleVG2naHLYIo=w2400"></td>
-    <td>ТМ1 от 1979 г. до 1980 г. <br><b>ТМ7 от 1979 г. до сега </b><br> ТМ17 от 06.2009г. до 03.2010г. <br> <b>ТМ27 от 2022 г. до сега </b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Старо наименование - Борово</td>
-</table>
-</div>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="https://lh6.googleusercontent.com/YS61W48Y1SRRcxTHsP9pAV0umQDoxihlDlSdDDxCPW5wdmutE9pjjxDleVG2naHLYIo=w2400"></td>
+    <td>ТМ1 от 1979 г. до 1980 г. <br><b>ТМ7 от 1979 г. до сега </b><br> ТМ17 от 06.2009г. до 03.2010г. <br> <b>ТМ27 от 2022 г. до сега </b></td></tr><td colspan=2 >ℹ️ Старо наименование - Борово</td></table></div>
 
 ## Гео Милев (1435мм)
 
 ## Tabs {.tabset}
 
 ### 1987
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/fY1Gr0xyJBf34XKQzAMrBu516UAD1r6pevAQoWYUKBZk6qpFhyorrPuFa1Z4NtDHOYw=w2400"></td>
-    <td>ТМ4 от 1965 до 06.1988 <br> ТМ10 от 1965 до 06.1988 <br> ТМ20 от 09.1987 до 09.1988 <br> ТМ21 от 09.1995 до 05.2002 <br><b>ТМ23 от 07.2010 до 10.2010 и от 06.2017 до сега</b></td>
-  </tr>
-  <td colspan=2 >ℹ️ Използва се от ТМ20 при подбиване на релсовия път.</td>
-</table>
-
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/21-geo-milev.jpg"></td>
+    <td>ТМ4 от 1965 до 06.1988 <br> ТМ10 от 1965 до 06.1988 <br> ТМ20 от 09.1987 до 09.1988 <br> ТМ21 от 09.1995 до 05.2002 <br><b>ТМ23 от 07.2010 до 10.2010 и от 06.2017 до сега </b></td></tr><td colspan=2 >ℹ️ Използва се от ТМ20 при подбиване на релсовия път.</td></table></div>
+    
+    
 
 ## депо Искър
 
