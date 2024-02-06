@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-06T17:55:31.089Z
+date: 2024-02-06T18:05:50.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -235,13 +235,9 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/MYhcOdT9WI1PDIHeTipxFwt3r0m6KVYsvGSDWNDijlXEAPT_BLhsUdTM_wg7GamzQsA=w2400"></td>
-    <td><b>ТМ5 от 1968 г. до сега </b> <br> <b> ТМ8 от 1995 до 2000 г. и от 04.2007г. до сега </b> <br> ТМ10 от 2002 до 04.2007 г.<br> ТМ16 от 1976 до 1989 г. <br> ТМ21 от 1989 до 1995 г. <br></td>
-  </tr>
-  <td colspan=2 >ℹ️ Старо наименование - <b>Национален исторически музей</b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/13-sadebna-palata.jpg"></td>
+<td><b>ТМ5 от 1968 г. до сега </b> <br> <b> ТМ8 от 1995 до 2000 г. и от 04.2007г. до сега </b> <br> ТМ10 от 2002 до 04.2007 г.<br> ТМ16 от 1976 до 1989 г. <br> ТМ21 от 1989 до 1995 г. <br></td></tr><td colspan=2 >ℹ️ Старо наименование - <b>Национален исторически музей</b></td></table></div>
+
 
 
 ## Метростанция Витоша
@@ -249,13 +245,11 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1960
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/QvMdVuJsloIGKE2NNU-Kdw1zvYL3f6S_HysCfVamE7fis_lbXalUx2XOj2DxrXjXFiQ=w2400"></td>
-    <td>ТМ9 от 1960г. до 2010 г. <br> ТМ2 от 1965 до 1993г. <br> ТМ8 през 1993г. <br> ТМ12 от 1993 до 1999г. <br> ТМ14 от 1999 до 04.2007 г.<br> <b>ТМ10 от 04.2007г. до сега</b><br> ТМ15 от 1979г. до 1980г.<br> ТМ18 от 1984г. до 1985г.</td>
-  </tr>
-    <td colspan=2 >ℹ️ Старо наименование - <b>Хладилника</b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/11-metrost-vitosha.jpg"></td>
+<td>ТМ9 от 1960г. до 2010 г. <br> ТМ2 от 1965 до 1993г. <br> ТМ8 през 1993г. <br> ТМ12 от 1993 до 1999г. <br> ТМ14 от 1999 до 04.2007 г.<br> <b>ТМ10 от 04.2007г. до сега</b><br> ТМ15 от 1979г. до 1980г.<br> ТМ18 от 1984г. до 1985г.</td></tr><td colspan=2 >ℹ️ Старо наименование - <b>Хладилника</b></td></table></div>
+
+
+
 
 
 # Действащи без редовни линии
@@ -265,27 +259,21 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/ej2qoIi7GOQ2LvMwKSUqGrgvoK40GZthb4S74HqbIuUBuA4ujgufgGDQiQSdtHl2Dgo=w2400"></td>
-    <td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. <br> ТМ9 от 1971 г. до 1978 г. </td>
-  </tr>
-    <td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td>
-</table>
-  
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/11-metrost-vitosha.jpg"></td>
+<td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. <br> ТМ9 от 1971 г. до 1978 г. </td></tr><td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td></table></div>
+
+
+
 ## Автостанция Овча Купел
 
 ## Tabs {.tabset}
 
 ### 1985
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/5-avtogara-ovcha-kupel.jpg"></td>
+<td>ТМ4 от 1985 до 2001г. </td></tr><td colspan=2 >ℹ️ Използва се от ТМ11 при подбиване на релсовия път.</td></table></div>
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/jTQBGga57rCbqCEipSCjoXBdmlprT796nX0Fq8oS7_9Zr5ljgOVem6YelhhNVLQbmSQ=w2400"></td>
-    <td>ТМ4 от 1985 до 2001г. </td>
-  </tr>
-    <td colspan=2 >ℹ️ Използва се от ТМ11 при подбиване на релсовия път.</td>
-</table>
+
+
 
 ### Снимки
 <div class="dropdown"><button class="imgbtn">
@@ -305,13 +293,12 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1961
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/0l7-dXUxlZih1Exx4pNJ6Ic5qzO-tMTgGZkg3YGR4YcDBHFACqsaac33ui_CX1TRss0=w2400"></td>
-    <td>ТМ1 от 1988 до 1993 г. <br> ТМ8 през 1992 г. <br>ТМ11 от 1966 до 1985 г. <br> ТМ12 от 1966 до 1968 г. <br> ТМ13 от 1966 до 1983 г. <br> ТМ16 от 1966 до 1973 и от 1976 до 1993 г. <br> ТМ17 от 1966 до 1968 г. <br> ТМ18 от 1968 до 1981 г.</td>
-  </tr>
-  <td colspan=2 >ℹ️ старо наименование - <b> СТЗ "Васил Коларов"</b><br>Използва се от ТМ11 и ТМ12 при подбиване на релсовия път.</td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/5-avtogara-ovcha-kupel.jpg"></td>
+<td>ТМ1 от 1988 до 1993 г. <br> ТМ8 през 1992 г. <br>ТМ11 от 1966 до 1985 г. <br> ТМ12 от 1966 до 1968 г. <br> ТМ13 от 1966 до 1983 г. <br> ТМ16 от 1966 до 1973 и от 1976 до 1993 г. <br> ТМ17 от 1966 до 1968 г. <br> ТМ18 от 1968 до 1981 г.</td></tr><td colspan=2 >ℹ️ ℹ️ старо наименование - <b> СТЗ "Васил Коларов"</b><br>Използва се от ТМ11 и ТМ12 при подбиване на релсовия път.</td></table></div>
+
+
+
+
 
 ### Снимки
 <div class="dropdown"><button class="imgbtn">
