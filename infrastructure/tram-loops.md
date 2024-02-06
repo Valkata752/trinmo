@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-06T17:42:45.130Z
+date: 2024-02-06T17:55:31.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -40,39 +40,32 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1987
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="
-https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y0nJc2dBuyjOWvl8SixshA=w2400"></td>
-    <td><b>TM20 от 1987г. до сега </b> </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/19-depo-iskar.jpg"></td>
+    <td><b>TM20 от 1987г. до сега</b></td></tr><td colspan=2 >ℹ️ </td></table></div>
+    
+
 
 ## пл. Журналист
 
 ## Tabs {.tabset}
 
 ### 1929
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/YXlZHJHoXJfcz94eITKU5dGJy6RF3asC6HheNhfKIw2jjV9jgIljQgso61yP2E2SPCI=w2400"></td>
-    <td>TM2 от 03.1999 до 06.2000 и от 01.2004 до 01.2010 <br> TM8 от 03.1993 до 05.1994 <br> <b>TM12 от 1961 до 1994 г. и от 1999 г. до сега </b><br> TM14 от 1968г. до 1971г. и от 06.2000 до 04.2001<br> <b> TM18 от 1970 до 1982 и от 2013 до сега </b></td>
-  </tr>    
-  <td colspan=2 >ℹ️ Старо наименование - <b>пл. Йорданка Николова</b>, <b>пл. Йорданка Чанкова</b> и <b>пл. Руен</b></td>  
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/12-pl-jurnalist.jpg"></td>
+    <td>TM2 от 03.1999 до 06.2000 и от 01.2004 до 01.2010 <br> TM8 от 03.1993 до 05.1994 <br> <b>TM12 от 1961 до 1994 г. и от 1999 г. до сега </b><br> TM14 от 1968г. до 1971г. и от 06.2000 до 04.2001<br> <b> TM18 от 1970 до 1982 и от 2013 до сега </b></td></tr><td colspan=2 >ℹ️ Старо наименование - <b>пл. Йорданка Николова</b>, <b>пл. Йорданка Чанкова</b> и <b>пл. Руен</b></td></table></div>
+    
+    
+    
 
 ## Западен парк
 
 ## Tabs {.tabset}
 
 ### 1968
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/O6Q32_5Vk24U9mls3xVBlfI35WjmiebdAvHUrWpxh0we9GAhnWaYtRET07v2cAWw5yM=w2400"></td>
-    <td>ТМ8 от 01.1980 до 1989 г. и от 2002 до 04.2007 г. <br> <b>ТМ10 от 1962г. до сега </b> <br>ТМ11 от 1969 до 1970 г.<br> ТМ15 от 1968 до 1976 г. <br> </td>
-  </tr>
-  <td colspan=2 >ℹ️ Старо наимеонование - <b> ж.к. Христо Михайлов </b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/2-zapaden-park.jpg"></td>
+    <td>ТМ8 от 01.1980 до 1989 г. и от 2002 до 04.2007 г. <br> <b>ТМ10 от 1962г. до сега </b> <br>ТМ11 от 1969 до 1970 г.<br> ТМ15 от 1968 до 1976 г. <br> </td></tr><td colspan=2 >ℹ️ Старо наимеонование - <b> ж.к. Христо Михайлов</b></td></table></div>
+    
+    
+
 
 ### Снимки
 <div class="dropdown"><button class="imgbtn">
@@ -89,38 +82,27 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1949
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/A7OaGFZLdkBEFzTgLD99ATRaVaWWngVTRz0JBvk5dVsKK-e1PFDFMREyjXJfk_b5Mrg=w2400"></td>
-    <td><b>ТМ3 от 1950 г. до сега</b><br> ТМ8 от 2000 до 2002г.<br> ТМ15 от 2005г. до 2009г. </td>
-  </tr>
-</table>
-
-
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/2-zapaden-park.jpg"></td>
+      <td><b>ТМ3 от 1950 г. до сега</b><br> ТМ8 от 2000 до 2002г.<br> ТМ15 от 2005г. до 2009г. </td></tr><td colspan=2 >ℹ️ </td></table></div>
+    
 ## Иван Вазов
 
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/IjkJiftpKx8BVWaDXqN4HRlT7_mvAmKsqapE4UNKXzESih82ehtg09x0RMIuxHXbS-I=w2400"></td>
-    <td><b>TM1 от 1947 г. до сега </b> <br> <b>TM6 от 1928 до 1953 г. и от 2016г. до сега </b> <br> TM7 от 1958г. до 1979г.<br> TM14 от 1960 до 1966 г. <br> TM15 от 1980 до 1993г. <br> TM16 от 1966г. до 1973г. </td>
-  </tr>
-</table>
-
-
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/10-ivan-vazov.jpg"></td>
+<td><b>TM1 от 1947 г. до сега </b> <br> <b>TM6 от 1928 до 1953 г. и от 2016г. до сега </b> <br> TM7 от 1958г. до 1979г.<br> TM14 от 1960 до 1966 г. <br> TM15 от 1980 до 1993г. <br> TM16 от 1966г. до 1973г. </td></tr><td colspan=2 >ℹ️ </td></table></div>
+      
+      
 ## автостанция Изток
 
 ## Tabs {.tabset}
 
 ### 1995
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh4.googleusercontent.com/wODVw_W0kPIaS2ul6Zslspavht3kv6U-j7wg6VmwZa1tbS3nGeA7GMCrBEUx98xqWQU=w2400"></td>
-    <td>ТМ21 от 15.9.1995 до 2002г. <br><b> ТМ22 от 15.9.1995 г. до сега</b> </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/18-avtost-iztok.jpg"></td>
+ <td>ТМ21 от 15.9.1995 до 2002г. <br><b> ТМ22 от 15.9.1995 г. до сега</b> </td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
 
 
 ## Илиянци
@@ -128,46 +110,31 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1968
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh6.googleusercontent.com/M0GIJdt7ZL1RJ8KplLQq5d0zw7FkfCH9JQYk3yzqV89z5S5m4cvjXt69o3CZ2b2-LKs=w2400"></td>
-    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г.</td>
-  </tr>
-</table>
-
-###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh6.googleusercontent.com/M0GIJdt7ZL1RJ8KplLQq5d0zw7FkfCH9JQYk3yzqV89z5S5m4cvjXt69o3CZ2b2-LKs=w2400"></td>
-    <td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г.</td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/26-iliantsi.jpg"></td>
+<td><b>ТМ12 от 1968г. до сега </b><br><b> ТМ11 от 1985г. до сега</b><br> ТМ13 от 1983 до 1985г. <br> ТМ17 от 1968 до 1991г.</td></tr><td colspan=2 >ℹ️ </td></table></div>
+ 
 
 ## Княжево
 
 ### Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/kuVovxE5fI2XJPYsxVpb27j3T9xRzso8-r5YsCAv5O77648H1SKp9pilFdya2JfDKTE=w2400"></td>
-    <td><b>ТМ5 от 1925г. до сега</b><br> ТМ6 от 1901г. до 1925г. <br><b>ТМ11 от 1985 до 18.5.2002 г. и от 2016 г. </b> <br> ТМ15 от 2005 до 03.2009 г.<br> ТМ19 от 03.2009 до 2016 г.
-</td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/8-knyazhevo.jpg"></td>
+ <td><b>ТМ5 от 1925г. до сега</b><br> ТМ6 от 1901г. до 1925г. <br><b>ТМ11 от 1985 до 18.5.2002 г. и от 2016 г. </b> <br> ТМ15 от 2005 до 03.2009 г.<br> ТМ19 от 03.2009 до 2016 г.
+</td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
 
 ## депо Красна Поляна
 
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/lTttg_Ele5L515wv0iHHAtQy4LlD2KnCoK8zzPQTJuQlHUIrxzlShZbz24q7o_putpA=w2400"></td>
-    <td><b>ТМ22 от 04.2001 г. до сега </b>
-</td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/4-depo-krasna-polyana.jpg"></td>
+<td><b>ТМ22 от 04.2001 г. до сега </b>
+</td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
 
 
 ## Люлин 5
@@ -175,12 +142,10 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1988
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh6.googleusercontent.com/rf_F5sc_2RgAI8cVaoNORy3vyLu3lEgzJoIwAjqYUnAz5wVTRtnKM2cb5ZPmZFHvCec=w2400"></td>
-    <td>TM21 от 11.1988 до 1995г.  <br> <b>TM8 от 1990 до 1993 и от 1995г. до сега </b></td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/1-lulin.jpg"></td>
+<td>TM21 от 11.1988 до 1995г.  <br> <b>TM8 от 1990 до 1993 и от 1995г. до сега </b></td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+
 
 ### Статия
 <table style="width:100%">
@@ -197,27 +162,19 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh6.googleusercontent.com/HuwvkQ9t_wty_1ZK-Qa5rfuAu2XePbrK0FKO2SoyDJULb8_jz0Kgr1nYV3fr8_5R9YA=w2400"></td>
-    <td>TM6 от 1929 до 1953г. <br> <b>TM7 до 1966 и от 2012 г. до сега</b> <br> TM9 от 12.2008г. до 03.2009г. <br> TM12 от 1962г до 1966г. <br> TM15 от 1982г. до 1986г. <br> TM17 от 1966г. до 1989г. </td>
-  </tr>
-    <td colspan=2 >ℹ️ Старо наименование - <b>старо ухо Надежда</b> и <b>Месарнциата</b></td>  
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/23-metrost-han-kubrat.jpg"></td>
+<td>TM6 от 1929 до 1953г. <br> <b>TM7 до 1966 и от 2012 г. до сега</b> <br> TM9 от 12.2008г. до 03.2009г. <br> TM12 от 1962г до 1966г. <br> TM15 от 1982г. до 1986г. <br> TM17 от 1966г. до 1989г. </td></tr><td colspan=2 >ℹ️ Старо наименование - <b>старо ухо Надежда</b> и <b>Месарнциата</b> </td></table></div>
+
+
 
 ## метростанция Опълченска
 
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/hexyi3HhpCC7VlE1LGJgeKhYiZvlNOCDRWYJfLsyUQQz4N6nd3I-dk3z8GH7i8u-_4E=w2400"></td>
-    <td><b>ТМ20 от 1999г.</b> <br> ТМ22 от 1999 до 2001г.
- </td>
-  </tr>
-    <td colspan=2 >ℹ️ Старо наименование - <b>метростанция 6</b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/15-metrost-opalchenska.jpg"></td>
+<td><b>ТМ20 от 1999г.</b> <br> ТМ22 от 1999 до 2001г. </td></tr><td colspan=2 >ℹ️ Старо наименование - <b>метростанция 6</b> </td></table></div>
+
 
 
 ## надлез Надежда
@@ -225,13 +182,10 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh3.googleusercontent.com/AXhgf81dT-TBIJxfuF0Je5ymrvlRCrUrj06oDsVn96__PsNLFPB5h28jjHBbI-WDfls=w2400"></td>
-    <td>ТМ1 от 12.2010 до 2022 г.<br>  ТМ4 от 2000 до 2001г.<br> ТМ9 от 1973 до 2008 г.<br> ТМ10 през 1993г. <br> ТМ14 от 1999 до 2000 и от 2001 до 04.2007 г. <br> ТМ15 от 1980 до 1982г.<br> <b>ТМ27 от 2022г. до сега</b>
- </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/29-nadlez-nadezhda.jpg"></td>
+<td>ТМ1 от 12.2010 до 2022 г.<br>  ТМ4 от 2000 до 2001г.<br> ТМ9 от 1973 до 2008 г.<br> ТМ10 през 1993г. <br> ТМ14 от 1999 до 2000 и от 2001 до 04.2007 г. <br> ТМ15 от 1980 до 1982г.<br> <b>ТМ27 от 2022г. до сега</b> </td></tr><td colspan=2 >ℹ️  </td></table></div>
+
+
 
 
 ## бул. Никола Петков
@@ -239,27 +193,21 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ### 1951
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh6.googleusercontent.com/AhpQsEWf7GJlREEiZt1KUeDb8sC_jIparedW0DWR555mfdFWuTQ-lATyzz2LEwaJPYA=w2400"></td>
-    <td><b>ТМ4 от 2011г. до сега</b><br> ТМ11 от 2002 до 2016 г.<br> ТМ15 от 1965? до 1966 г.<br> ТМ16 от 1989 до 1991 г.  <br> ТМ19 от 1978 г. 
- </td>
-  </tr>
-      <td colspan=2 >ℹ️ Старо наименование - <b>бул. Петко Напетов</b></td>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/29-nadlez-nadezhda.jpg"></td>
+<td><b>ТМ4 от 2011г. до сега</b><br> ТМ11 от 2002 до 2016 г.<br> ТМ15 от 1965? до 1966 г.<br> ТМ16 от 1989 до 1991 г.  <br> ТМ19 от 1978 г.</td></tr><td colspan=2 >ℹ️ Стари наименования - <b>бул. Петко Напетов</b>, <b>Горнобански път</b>  </td></table></div>
+
+
 
 ## Обеля 2
 
 ## Tabs {.tabset}
 
 ### 1989
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/_eUIEZk0vtSYCIVXdF9zSe7DznVGtlLlihMXzeqOq5ivMmqa2FUzezNqBzyWgpegQgI=w2400"></td>
-    <td>ТМ1 от 1993 г. <br><b>ТМ6 от 1991 до 2003 г. и от 2010 г.</b> <br> ТМ17 от 06.2009 г. до 06.2010 г. <br> ТМ15 от 1988 до 1993г. <br> ТМ17 от 1989 до 1991 г. 
- </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/27-obelya.jpg"></td>
+<td>ТМ1 от 1993 г. <br><b>ТМ6 от 1991 до 2003 г. и от 2010 г.</b> <br> ТМ17 от 06.2009 г. до 06.2010 г. <br> ТМ15 от 1988 до 1993г. <br> ТМ17 от 1989 до 1991 г. 
+ </td></tr><td colspan=2 >ℹ️ Стари наименования - <b>бул. Петко Напетов</b>, <b>Горнобански път</b>  </td></table></div>
+
+
 
 ### Статия
 <table style="width:100%">
@@ -275,12 +223,12 @@ https://lh6.googleusercontent.com/YBC_koh6J6TlX_eZ1tXa6DmUEWLugKgoDNdAiWDXnlCK-Y
 ## Tabs {.tabset}
 
 ###
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://lh5.googleusercontent.com/Cmm6hxPVpycOPntI_Vzq1ekOsUQTobTR5eP2nM-XotG8kwegGmsPuWLU7aP0h9nxpSM=w2400"></td>
-    <td>ТМ2 от 1949 г. до 01.2010 г. <br><b>ТМ3 от 11.1999 до 03.2000 г. и от 05.2002 г до сега </b><br><b>ТМ4 от 2010 г. до сега</b><br> ТМ8 от 1980 до 1992 г.<br> ТМ9 от 1932 до 1949 г. и от 03.2009 до 03.2010 г.<br> ТМ10 от 1994 до 1999 г. и от 03.2000 до 05.2002 г. <br> ТМ11 от 1932 до 1938 г. <br> ТМ14 от 1960 до 03.1993 г. <br><b> ТМ18 от 02.2004 г. до сега</b></td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/22-orlandovci.jpg"></td>
+<td>ТМ2 от 1949 г. до 01.2010 г. <br><b>ТМ3 от 11.1999 до 03.2000 г. и от 05.2002 г до сега </b><br><b>ТМ4 от 2010 г. до сега</b><br> ТМ8 от 1980 до 1992 г.<br> ТМ9 от 1932 до 1949 г. и от 03.2009 до 03.2010 г.<br> ТМ10 от 1994 до 1999 г. и от 03.2000 до 05.2002 г. <br> ТМ11 от 1932 до 1938 г. <br> ТМ14 от 1960 до 03.1993 г. <br><b> ТМ18 от 02.2004 г. до сега</b></td></tr><td colspan=2 >ℹ️   </td></table></div>
+
+
+
+
 
 ## Съдебна палата
 
