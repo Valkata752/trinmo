@@ -2,13 +2,13 @@
 title: Фотограф - Иво Радоев - 2011
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T23:25:26.972Z
+date: 2024-02-07T23:29:31.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T18:12:22.624Z
 ---
 
-**Архив по години:** | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev-2006-2008) |
+**Архив по години:** | [2020](/gallery/ivo-radoev-2020) | [2019](/gallery/ivo-radoev-2019) | [2018](/gallery/ivo-radoev-2018) | [2017](/gallery/ivo-radoev-2017) | [2016](/gallery/ivo-radoev-2016) | [2015](/gallery/ivo-radoev-2015) | [2014](/gallery/ivo-radoev-2014) | [2013](/gallery/ivo-radoev-2013) | [2012](/gallery/ivo-radoev-2012) | [2011](/gallery/ivo-radoev-2011) | [2010](/gallery/ivo-radoev-2010) | [2009](/gallery/ivo-radoev-2009) | [2006, 2007, 2008](/gallery/ivo-radoev-2006-2008) |
 
 ---
 ## Ретро трамваи
