@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T08:38:34.810Z
+date: 2024-02-07T08:41:03.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -80,7 +80,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > 🚋	35 |	Siemens |	мотриса |	Германия |	1924 | 	Банишора |
 {.is-info}
 
-<br><img src="https://drive.google.com/uc?id=1MLs5Jw1drsnStmmw-gjhCMSsGqgQSXvN">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/DSC_0324.JPG">
 
 ### Галерия
 ### Tabs {.tabset}
@@ -145,7 +145,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 
 
-<br><img src="https://drive.google.com/uc?id=1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/346472771_923153305463382_5428373374002832470_n.jpg">
 
 
 
@@ -159,7 +159,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 ### На път
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/2412.jpg" height="200px"><figcaption></figcaption></figure></button>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/2412.jpg" height="200px"><figcaption></figcaption></figure></button></div></div>
 
 
 # Видеа
