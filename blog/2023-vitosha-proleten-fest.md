@@ -2,7 +2,7 @@
 title: Витоша пролетен фест 2023
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T08:45:29.149Z
+date: 2024-02-07T09:03:25.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-13T21:41:04.483Z
@@ -12,7 +12,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 {.is-info}
 
 
-<br><img src="https://lh3.google.com/u/3/d/1ulPhc3e3-b3IVAY2FMVjfzrxKAEZlITf=w2560-h1190-iv1">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-1.jpg">
   
   
 
@@ -26,13 +26,13 @@ dateCreated: 2023-05-13T21:41:04.483Z
 #### През деня
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1DXTzNK3heXYOyT6pGAJVpBoQ0l926R8O" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/https://lh3.google.com/u/0/d/1DXTzNK3heXYOyT6pGAJVpBoQ0l926R8O" width="100%"></div></div>
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/https://lh3.google.com/u/0/d/1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO" width="100%"></div></div>
+<!--35--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-patuvane-1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-patuvane-1.jpg" width="100%"></div></div>
+<!--1028--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028.jpg" width="100%"></div></div>
 
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/https://lh3.google.com/u/0/d/1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" width="100%"></div></div>
+<!--2412--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-1.jpg" width="100%"></div></div>
 
 ### Фотографии
 
@@ -41,15 +41,14 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > Автор на фотографиите: Петър Мънъри
 {.is-info}
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1SpC5CdiyXH0npD7HZI09rKgg_8betZcs" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/https://lh3.google.com/u/0/d/1SpC5CdiyXH0npD7HZI09rKgg_8betZcs" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-2.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-2.jpg" width="100%"></div></div>
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11A-ICrxZCrm9GLxSX-slscXVnvcZaR95" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-3.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-3.jpg" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1wuSf0LeKkkQtTCEWFaTwvVfe9nmz64vW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/https://lh3.google.com/u/0/d/1wuSf0LeKkkQtTCEWFaTwvVfe9nmz64vW" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-4.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-4.jpg" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/110mkk0h5zJIKJ3pqkyrGSfDdQX3hLHNi" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/110mkk0h5zJIKJ3pqkyrGSfDdQX3hLHNi" width="100%"></div></div>
-<!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11KuTP0otVIt7UCFmHzXNJ8E-2l5brWwd" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11KuTP0otVIt7UCFmHzXNJ8E-2l5brWwd" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-5.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/sabitie-5.jpg" width="100%"></div></div>
+
 
 
 ### Tabs {.tabset}
@@ -57,13 +56,13 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > Автор на фотографиите: Мартин Тодоров
 {.is-info}
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11zX3kLo4lZI_d6tsWn-BiAa4h5QxayIW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11zX3kLo4lZI_d6tsWn-BiAa4h5QxayIW" width="100%"></div></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-noshtna-1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-noshtna-1.jpg" width="100%"></div></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11umlxsHKqs2WdLaEX3FGgoZNhAqJ9Dd0" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-noshtna-1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-noshtna-1.jpg" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/120DfyDtN7X5_B9mJPi0UbPX8F5G-e1Be" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-noshtna-2.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-noshtna-2.jpg" width="100%"></div></div>
 <!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/11uIYG6VMuRH29rklnfZG_SqtWzPbIjoU" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/11uIYG6VMuRH29rklnfZG_SqtWzPbIjoU" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028-noshtna-1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028-noshtna-1.jpg" width="100%"></div></div>
 
 
 # Превозните средства
@@ -81,7 +80,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > 🚋	35 |	Siemens |	мотриса |	Германия |	1924 | 	Банишора |
 {.is-info}
 
-<br><img src="https://lh3.google.com/u/0/d/1MLs5Jw1drsnStmmw-gjhCMSsGqgQSXvN">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35.jpg">
 
 ### Галерия
 ### Tabs {.tabset}
@@ -91,13 +90,13 @@ dateCreated: 2023-05-13T21:41:04.483Z
 {.is-info}
 
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1vFCuHVjKp7RDOZ8Df6wDgYoqy3sjcfF-" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene1.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene1.jpg" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1uYiqxs6qrdi9k2uDhR9Mfq1w2i_0Ra4d" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene2.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene2.jpg" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1uAIa6dzDcUEJPBhI20DTGEJDntxCnTTc" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene3.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene3.jpg" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1uRglLsBOWaybmUIbMKMrcr1saqprdxKW" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene4.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-tovarene4.jpg" width="100%"></div></div>
 
 
 
@@ -120,9 +119,9 @@ dateCreated: 2023-05-13T21:41:04.483Z
 {.is-info}
 
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1tA48bD7Ea-z-cVJC3_tgYeaidVsDoh4X" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1tA48bD7Ea-z-cVJC3_tgYeaidVsDoh4X" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-raztovarvane-1.jpg" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-raztovarvane-1.jpg" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1sGOgoToO-78UaRZIMu2CC_U3Yfepm2KU" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1sGOgoToO-78UaRZIMu2CC_U3Yfepm2KU" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-raztovarvane-2.jpg" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tm35-raztovarvane-2.jpg" width="100%"></div></div>
 
 
 
@@ -130,13 +129,13 @@ dateCreated: 2023-05-13T21:41:04.483Z
 > 🚎	1028	| ЗиУ-682В [В00] |	тролей |	СССР |	1987 |	Искър |
 {.is-info}
 
-<br><img src="https://lh3.google.com/u/0/d/1EXhn0gZmFicdWpw9dvAYpbT0cU_buqeO">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028.jpg">
 
 
 ## Tabs {.tabset}
 ### На път
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/176T8mpq5dMa1FiouQ5M0JJbT7u0DN8yM" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/176T8mpq5dMa1FiouQ5M0JJbT7u0DN8yM" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028-patuvane.jpg" height="200px"><figcaption><b></b></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/tb1028-patuvane.jpg" width="100%"></div></div>
 
 
 
@@ -146,7 +145,7 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 
 
-<br><img src="https://lh3.google.com/u/0/d/1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi">
+<br><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-1.jpg">
 
 
 
@@ -156,11 +155,11 @@ dateCreated: 2023-05-13T21:41:04.483Z
 
 ### Събитието
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/10XvfHpsq56iSSCEjFbuml37uPKqYMAeu" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/10XvfHpsq56iSSCEjFbuml37uPKqYMAeu" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412.jpg" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412.jpg" width="100%"></div></div>
 
 ### На път
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.google.com/u/0/d/1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.google.com/u/0/d/1L1UQoYt_Ve7KRcrlp1cfTp9N8gMZXroi" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-1.jpg" height="200px"><figcaption></figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/2023.05.13-vitosha-proleten-fest/a2412-1.jpg" width="100%"></div></div>
 
 
 # Видеа
