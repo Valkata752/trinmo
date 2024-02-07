@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T08:34:49.970Z
+date: 2024-02-07T17:00:40.439Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,8 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:trolleybus::trolleybus: Тролейбуси в система много единици (СМЕ) *Петър Мънъри*](/bg/blog//trolleybusi-v-sme) 
+- [:hungary: :bus: Автобуси Икарус в София *Петър Мънъри*](/bg/blog/ikarus-buses-sofia) 
+- [:trolleybus::trolleybus: Тролейбуси в система много единици (СМЕ) *Петър Мънъри*](/bg/blog/trolleybusi-v-sme) 
 - [:movie_camera: Актьорски изяви на возила от градския Транспорт на София *Петър Мънъри*](/bg/blog/sofia-public-transport-in-movies)
 - [:train::czech_republic:  Трамваите Татра *Петър Мънъри*](/bg/blog/tatra-trams)
 - [:chart_with_upwards_trend::train::bus::trolleybus:  Статистически данни за транспорта от 1937г. до 1947г. *Петър Мънъри*](/bg/blog/statisticheski-danni-transport)
@@ -41,6 +42,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 {.links-list}
 
 ## История
+- [:train: Отрязаният "бул. Христо Ботев" *Петър Мънъри*](/bg/blog/0tryazaniyat-bul-hristo-botev)
 - [:trolleybus: Трамвай безъ релси *списание Сердика - книга 2/3 - 1941 г.*](/bg/blog/tramvai-bez-relsi)
 - [:train: Столичната трамвайна мрежа - 1939г. *списание Сердика, книга 9, 1939 г.*](/bg/blog/stolichnata-tramvaina-mreja-1939)
 - [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
