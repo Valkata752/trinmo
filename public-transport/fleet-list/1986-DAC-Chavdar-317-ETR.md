@@ -2,7 +2,7 @@
 title: DAC Чавдар 317 ETR
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-14T11:59:15.510Z
+date: 2024-02-07T08:26:40.841Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:28:32.458Z
@@ -73,8 +73,8 @@ dateCreated: 2022-05-19T22:28:32.458Z
 **Oчаквайте скоро…**
 
 ## Чертеж
+<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1986-DAC-Chavdar-317-ETR.jpg">
 
-**Oчаквайте скоро…**
 
 # Снимки
   
