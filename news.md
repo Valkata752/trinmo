@@ -2,7 +2,7 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T21:08:30.950Z
+date: 2024-02-08T21:08:55.268Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
@@ -15,7 +15,7 @@ dateCreated: 2022-04-25T15:43:04.754Z
 {.is-info}
 
 
-- [:trolleybus: 1941-2024  *83 год. от пускането на първия тролейбус*](/bg/news/20240108-parvi-den-linia-288)
+- [:trolleybus: 1941-2024  *83 год. от пускането на първия тролейбус*](/bg/news/20240208-trolleybusen-transport)
 {.links-list}
 
 
