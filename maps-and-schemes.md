@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T20:34:19.999Z
+date: 2024-02-08T18:14:56.651Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -23,6 +23,11 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
+
+## 01.2024
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2024.01-cgm.jpg)">
+  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2024.01-cgm.jpg"/>
+</figure>
 
 ## 11.2023
 <figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2023.11-cgm.jpg)">
@@ -50,8 +55,8 @@ dateCreated: 2022-05-03T08:22:21.095Z
 </figure>
 
 ## 01.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2020_01-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2020_01-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2020.01-cgm.jpg)">
+  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2020.01-cgm.jpg"/>
 </figure>
 
 
