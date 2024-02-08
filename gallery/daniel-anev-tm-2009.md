@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Трамваи 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T19:41:51.339Z
+date: 2024-02-08T20:45:13.530Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
@@ -1347,11 +1347,6 @@ dateCreated: 2024-01-01T14:29:41.589Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-700/tm817%20line3.jpg"></td>
 <td><br> 🚋 <b>tm817 line3</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-700/tm817%20line1%20tm408%20line8.jpg"></td>
-<td><br> 🚋 <b>tm408 line8, tm817 line1</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
-
 ### 819
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -1414,26 +1409,59 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ## Tabs {.tabset}
 
 ### 408
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=18Q0Px20ngeRhWNMKKgJNFSzUWi9oy-1E" height="200px"><figcaption></figcaption><b>tm408 line8 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=18Q0Px20ngeRhWNMKKgJNFSzUWi9oy-1E" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-700/tm817%20line1%20tm408%20line8.jpg"></td>
+<td><br> 🚋 <b>tm408 line8, tm817 line1</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm408%20line8.jpg"></td>
+<td><br> 🚋 <b>tm408 line8</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 425
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1hW6Xsrb69lnHleIBuf-7ktlklASaFgD2" height="200px"><figcaption></figcaption><b>tm425 line11 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1hW6Xsrb69lnHleIBuf-7ktlklASaFgD2" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm425%20line11.jpg"></td>
+<td><br> 🚋 <b>tm425 line11</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 426
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1xRzUYYJa1Y52Fn_lZnKB-VF_ADcnye3u" height="200px"><figcaption></figcaption><b>tm426 line19 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1xRzUYYJa1Y52Fn_lZnKB-VF_ADcnye3u" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm426%20line19.jpg"></td>
+<td><br> 🚋 <b>tm426 line19</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 430
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1VXRvkHgF04dqE03C8EK6A2q00hyKSFBh" height="200px"><figcaption></figcaption><b>tm430 line19 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1VXRvkHgF04dqE03C8EK6A2q00hyKSFBh" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm430%20line19.jpg"></td>
+<td><br> 🚋 <b>tm430 line19</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 435
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1r_VfrEc8mfIoVhD94zu_OaoQxGotkNjb" height="200px"><figcaption></figcaption><b>tm435 lineУ </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1r_VfrEc8mfIoVhD94zu_OaoQxGotkNjb" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm435%20line%d0%a3.jpg"></td>
+<td><br> 🚋 <b>tm435 lineУ</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 438
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1QVPx0cxbAHTnS1PZ65RcDftUPFTL59M6" height="200px"><figcaption></figcaption><b>tm438 line11 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1QVPx0cxbAHTnS1PZ65RcDftUPFTL59M6" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm438%20line11.jpg"></td>
+<td><br> 🚋 <b>tm438 line11</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 440 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1BuVrays7pxY2SiZTgZTBiI6pPXuU6YrA" height="200px"><figcaption></figcaption><b>tm440 line11 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1BuVrays7pxY2SiZTgZTBiI6pPXuU6YrA" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Jwpnl1z38GBek0ei26tq1tBR4wAMH4zw" height="200px"><figcaption></figcaption><b>tm440 line11 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Jwpnl1z38GBek0ei26tq1tBR4wAMH4zw" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm440%20line11-1.jpg"></td>
+<td><br> 🚋 <b>tm440 line11</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm440%20line11.jpg"></td>
+<td><br> 🚋 <b>tm440 line11</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
 
 ### 447
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Q2pwGaWH0YIeATAgoKM_XfL7qYcEYoXN" height="200px"><figcaption></figcaption><b>tm447 line11 </b> 📷 Даниел Анев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Q2pwGaWH0YIeATAgoKM_XfL7qYcEYoXN" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-400/tm447%20line11.jpg"></td>
+<td><br> 🚋 <b>tm447 line11</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr><td colspan=2 >ℹ️ </td></table></div>
