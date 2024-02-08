@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Трамваи 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T20:45:13.530Z
+date: 2024-02-08T20:56:46.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
@@ -13,6 +13,27 @@ dateCreated: 2024-01-01T14:29:41.589Z
 **Архив по години - автобуси:** |  [2011 - Автобуси](/gallery/daniel-anev-bus-2011) |  [2010 - Автобуси](/gallery/daniel-anev-bus-2010) |  [2009 - Автобуси](/gallery/daniel-anev-bus-2009) |
 
 ---
+## Ретро трамваи
+## Tabs {.tabset}
+### 92+501
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/retro/tm92%20line1.jpg"></td>
+<td><br> 🚋 <b>tm92+tm501</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/retro/tm92%20line2.jpg"></td>
+<td><br> 🚋 <b>tm92+tm501</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/retro/tm501.jpg"></td>
+<td><br> 🚋 <b>tm92+tm501</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## T8M-700IT
 ## Tabs {.tabset}
