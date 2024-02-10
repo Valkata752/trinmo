@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T16:11:48.480Z
+date: 2024-02-10T16:17:16.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -230,7 +230,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### Инфо
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1He7OlJQ6kTDySKJT0Vvwi1deqrWJCW5i"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/modern-tramway/p172-tm602.jpg"></td>
 <td>Инфо</td></tr>
   <td colspan=2 >ℹ️ modern tramway magazine </td></table></div>
   
