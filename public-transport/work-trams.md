@@ -2,7 +2,7 @@
 title: Работни трамваи
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T15:45:49.331Z
+date: 2024-02-10T16:11:48.480Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T08:08:07.415Z
@@ -40,7 +40,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### 1938
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1L-pWhV80AbXNHSxn993wNdJhfOXl2y8m"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/peter-haseldine/tm551%20tm843.jpg"></td>
 <td>тип трамвай: Breda<br> Работен трамвай с ремарке 583 собственост на депо Станьо Василев (Клокотница). В момента се намира в хале на Трамвайния завод.</td></tr>
   <td colspan=2 >ℹ️ Peter Haseldine</td></table></div>
   
@@ -160,7 +160,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 1914
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?export=view&id=1wdyHs2eUAK-UDak303vCJ1oNHGnI6w_J"></td>
+    <td style="width:400px"><img src="https://green.bgtransport.org/wp-content/uploads/2016/10/3-1024x693.jpg"></td>
     <td>тип трамвай: Шарлероа<br> Работен</td>
   </tr>
   <td colspan=2 >ℹ️ Сдружение ГТИ</td>
@@ -173,7 +173,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 #### 19??
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?export=view&id=1I10lVB5tHUzhAycvEYbwxsWy81x7cAAH"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1974/tm570%201974.jpg"></td>
     <td>тип трамвай: ????<br> </td>
   </tr>
   <td colspan=2 >ℹ️ </td>
@@ -220,9 +220,9 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### 1979
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1PuA6Uaf1Hhk5HQhfM_UJzZYjtYa9G-Xy"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/75-godini-gt/tm601.jpg"></td>
 <td>Около 1912-1915г. е докаран първия работен вагон и е номериран 601. Добива популярност сред трамвайните работници като "Графинята". С голяма вероятност може да се твърди, че е белгийски и е построен заедно с Цепелините - рамата му е фиксирана върху талига, подобна на тези на Цепелините и на Nivelle. Има само един мотор 34kW и само ръчна спирачка. Интересното е, че върху него пристига първият в България пантограф. Работи до 1975-76г., накрая като маневрена машина на депо "Красно село". Не е бракуван официално, а просто е зарязан.</td></tr>
-  <td colspan=2 >ℹ️ stara-sofia.bg</td></table></div>
+  <td colspan=2 >ℹ️ 75 години градски транспорт</td></table></div>
   
 ### 602
 
@@ -260,7 +260,7 @@ dateCreated: 2023-05-14T08:08:07.415Z
 
 #### 1924
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1kizxuf-RWwt5hEI1Sz4zNxEoNZKU6GtM"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/kolio-nikolov/tm608%202.jpg"></td>
 <td>Преработен от Сименс за превозване на насипни товари.</td></tr>
   <td colspan=2 >ℹ️ Предоставена от д-р Асен Стоянов</td></table></div>
   
