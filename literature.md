@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T13:58:51.509Z
+date: 2024-02-10T09:48:05.887Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -66,13 +66,23 @@ dateCreated: 2022-04-26T09:14:34.111Z
   <td colspan=2 >ℹ️ <a href="/literature/rabotnichesko-delo"><b>Разгледай тук...</b></a></td></table></div>  
   
   
-  
-## Транспортна искра (1955-1988)
+
+## Транспортна искра (1960-1988)
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src=""></td>
-  <td><b>вестник Транспортна искра (1955-1988) </b><br></td></tr>
+  <td><b>вестник Транспортна искра (1960-1988) </b><br></td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/transportna-iskra"><b>Разгледай тук...</b></a></td></table></div>  
+  
+## Електотранспортно дело (1955-1959)
+> От 1960г. се преименува на Транспортна искра
+{.is-info}
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src=""></td>
+  <td><b>вестник Електотранспортно дело (1955-1959) </b><br></td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/elektrotransportno-delo"><b>Разгледай тук...</b></a></td></table></div>  
 
 
 ## Вестник Труд
