@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T09:48:05.887Z
+date: 2024-02-10T10:43:51.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -67,7 +67,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
   
   
 
-## Транспортна искра (1960-1988)
+## Транспортна искра (1959-1988)
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src=""></td>
