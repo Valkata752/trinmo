@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T16:53:10.576Z
+date: 2024-02-10T15:09:10.504Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -123,6 +123,10 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 40те
 - [40 години трамваен транспорт*1941*](/bg/gallery/40-godini-tramvai)
+{.links-list}
+
+## вестник Транспортна искра
+- [вестник Транспортна искра :bulgaria:*различни години*](/gallery/vestnik-transportna-iskra)
 {.links-list}
 
 
