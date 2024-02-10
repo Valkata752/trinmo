@@ -2,16 +2,16 @@
 title: Фотограф - Peter Haseldine
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T20:52:40.412Z
+date: 2024-02-10T15:59:03.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T15:47:45.157Z
 ---
 
-## 1976
+## Т8М-730 (София 70)
 
 ## Tabs {.tabset}
-### Т8М-730 (София 70)
+### 
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -20,9 +20,9 @@ dateCreated: 2023-11-19T15:47:45.157Z
 </a><br>📌 неизв. <br> 📷 Peter Haseldine<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-
+## ДТО Мотриси серия № 251/277
 ## Tabs {.tabset}
-### ДТО Мотриси серия № 251/277
+###
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -46,9 +46,9 @@ dateCreated: 2023-11-19T15:47:45.157Z
   <td colspan=2 >ℹ️ </td></table></div>
   
   
-  
+## Ansaldo-Breda (121-140)  
 ## Tabs {.tabset}
-### Ansaldo-Breda (121-140)
+###
 
 
   <!--следващ пост--> 
@@ -58,10 +58,10 @@ dateCreated: 2023-11-19T15:47:45.157Z
 </a><br>📌 неизв. <br> 📷 Peter Haseldine<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+## Т6М-801 (София)
   
 ## Tabs {.tabset}
-### Т6М-801 (София)
-
+###
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/peter-haseldine/tm606.jpg"></td>
@@ -109,10 +109,10 @@ dateCreated: 2023-11-19T15:47:45.157Z
 
 
 
-
+## Т6М-901 (Космонавт)
 
 ## Tabs {.tabset}
-### Т6М-901 (Космонавт)
+###
 
 
   <!--следващ пост--> 
