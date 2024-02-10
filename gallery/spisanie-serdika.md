@@ -1,14 +1,14 @@
 ---
-title: списание Сердика
+title: списание Сердика - снимки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T17:10:50.488Z
+date: 2024-02-10T15:11:56.289Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:42:02.127Z
 ---
 
-- [Статии на списание Сердика *1996*](/gallery/klaus-mundt-1996)
+- [Статии на списание Сердика *Различни години*](/bg/literature/spisanie-serdika)
 {.links-list}
 
 ---
