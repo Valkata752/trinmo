@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T10:25:49.439Z
+date: 2024-02-10T21:46:28.543Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -156,8 +156,12 @@ Graz/Siemens & Halske притежава следните технико-екс�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" height="200px"><figcaption> <b>16 - TM9</b> 📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" width="100%"></div></div>
 <!--20--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" height="200px"><figcaption> <b>tm20+tm305 line10</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" width="100%"></div></div>
-<!--23--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q7RZMqGdEPhfuP3oX4NR5hulP39Ex3TS182gSjQO4DSJcjBsaVrZAyvQBZTOBSLtBeYFtE2D8csyUGttwOmSvuhB-x=w1920-h854" height="200px"><figcaption> <b>23 - TM16</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q7RZMqGdEPhfuP3oX4NR5hulP39Ex3TS182gSjQO4DSJcjBsaVrZAyvQBZTOBSLtBeYFtE2D8csyUGttwOmSvuhB-x=w1920-h854" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/dirk-hartmann/tm23%20line16.jpg"></td>
+<td><b>tm23 line16</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 неизв.<br> 📷 Dirk Hartmann<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 <!--26--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" height="200px"><figcaption> <b>tm26 line17</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" width="100%"></div></div>
 
