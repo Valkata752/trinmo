@@ -2,7 +2,7 @@
 title: вестник Транспортна искра - снимки
 description: 
 published: true
-date: 2024-02-10T15:29:38.762Z
+date: 2024-02-10T15:31:22.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T15:25:08.098Z
@@ -99,7 +99,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1961.01.31-br130-tm614.jpg"></center></td>
-<td><b>tm614</b><br> 🚋  <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm614</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 130 - 31.01.1961 </b></a></td></table></div>
   
 ## 1969
