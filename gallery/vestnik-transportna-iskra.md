@@ -2,7 +2,7 @@
 title: вестник Транспортна искра - снимки
 description: 
 published: true
-date: 2024-02-10T15:25:08.098Z
+date: 2024-02-10T15:29:38.762Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T15:25:08.098Z
@@ -39,7 +39,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1968.01.27-br2-tm950.jpg"></center></td>
-<td><b>tm950</b><br> 🚋  <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm950</b><br> 🚋  <a href="/bg/public-transport/fleet-list/1962-T6M-901">Т6М-901 (Космонавт)</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 2 - 27.01.1968 </b></a></td></table></div>
   
 <!--следващ пост--> 
@@ -83,7 +83,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1965.03.28-br207-tm613.jpg"></center></td>
-<td><b>tm613</b><br> 🚋  <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm613</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 207 - 28.03.1965 </b></a></td></table></div>
   
   
@@ -93,7 +93,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1961.01.31-br169-tm235.jpg"></center></td>
-<td><b>tm235</b><br> 🚋  <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm235</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 169 - 31.01.1961 </b></a></td></table></div>
 
 <!--следващ пост--> 
@@ -117,7 +117,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1959.03.31-br87-tm701.jpg"></center></td>
-<td><b>tm701</b><br> 🚋  <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm701</b><br> 🚋  <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 87 - 31.03.1959 </b></a></td></table></div>
   
 ## 1957
@@ -126,7 +126,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1957.12.18-br56-tm609-tm610.jpg"></center></td>
-<td><b>tm609, tm610</b><br> 🚋 Работни трамваи<a href="/bg/public-transport/work-trams"></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm609, tm610</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 56 - 18.12.1957 </b></a></td></table></div>
   
   
@@ -136,7 +136,7 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1956.10.03-broj29-tm225.jpg"></center></td>
-<td><b>tm225</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm225</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1951-T4M-221">Т4М-221 / Т4Р-521 (Република)</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 29 - 03.10.1956 </b></a></td></table></div>
   
 <!--следващ пост--> 
@@ -156,6 +156,6 @@ dateCreated: 2024-02-10T15:25:08.098Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1956.04.20-br18%20tm231-snimka.jpg"></center></td>
-<td><b>tm231</b><br> 🚋 Т4М-54 (Мотриса на мира)<a href="/bg/public-transport/fleet-list/1954-T4M-54"></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+<td><b>tm231</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1954-T4M-54">Т4М-54 (Мотриса на мира)</a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 56 - 120.04.1956 </b></a></td></table></div>
   
