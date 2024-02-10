@@ -2,7 +2,7 @@
 title: Фотоархив - Trotskee travel - 70те
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-26T21:39:45.302Z
+date: 2024-02-10T15:55:35.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T16:03:02.937Z
@@ -147,6 +147,14 @@ dateCreated: 2024-01-05T16:03:02.937Z
 </a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1974/tm257%20line9.jpg"></td>
+<td><b>tm257 line9</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1974/tm259%201974.jpg"></td>
