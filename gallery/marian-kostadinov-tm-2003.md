@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Трамваи 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T15:58:03.218Z
+date: 2024-02-11T15:58:26.981Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T09:52:14.319Z
@@ -1938,5 +1938,12 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t6m-400/tm463_5.jpg"></td>
 <td><b>tm463 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
+  
+### 464
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t6m-400/tm464_801.jpg"></td>
+<td><b>tm464 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
   
   
