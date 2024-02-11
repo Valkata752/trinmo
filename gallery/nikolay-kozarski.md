@@ -2,7 +2,7 @@
 title: Фотограф - Николай Козарски
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T11:55:41.183Z
+date: 2024-02-11T12:08:46.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T11:55:41.183Z
@@ -28,6 +28,16 @@ dateCreated: 2024-02-11T11:55:41.183Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/nikolay-kozarski/tm509%20line6a.jpg"></td>
 <td><b>tm509 line6a</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Николай Козарски</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+## T6M-700
+## Tabs {.tabset}
+###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/nikolay-kozarski/tm831%20line12a.jpg"></td>
+<td><b>tm831 line12a</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Николай Козарски</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
