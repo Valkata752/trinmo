@@ -2,7 +2,7 @@
 title: Mercedes O305
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T11:59:10.003Z
+date: 2024-02-11T12:00:27.917Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:48:52.520Z
@@ -190,8 +190,14 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 1-9
-<!--3766--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11Eg_CT2z8_9e5M5fzWaH2fVQpav9WEyp" height="200px"><figcaption></figcaption><b>a3766 line4</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11Eg_CT2z8_9e5M5fzWaH2fVQpav9WEyp" width="100%"></div></div>
+
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2009/a3766%20line4.jpg"></td>
+<td><b>a3766 line4</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
 # Tabs {.tabset}
 ## 1*
@@ -322,8 +328,11 @@ dateCreated: 2022-05-19T21:48:52.520Z
   
 
 
-<!--3763--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" height="200px"><figcaption></figcaption><b>a3763 line113</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2009/a3763%20line113.jpg"></td>
+<td><b>a3763 line113</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -341,8 +350,11 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## **ТМ
-<!--1741--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" height="200px"><figcaption></figcaption><b>a1741 line9tm</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YXG7OnLfEIp4gZiUOX2AkjfDNI9OQ5DT" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2009/a1741%20line9tm.jpg"></td>
+<td><b>a1741 line9tm</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 
