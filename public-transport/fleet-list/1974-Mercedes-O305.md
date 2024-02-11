@@ -2,7 +2,7 @@
 title: Mercedes O305
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T12:00:27.917Z
+date: 2024-02-11T12:01:27.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:48:52.520Z
@@ -286,8 +286,15 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 7*
-<!--3762--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" height="200px"><figcaption></figcaption><b>a3762 line75</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/a3762%20line75.jpg"></td>
+<td><br><b>🚋 a3762 line75</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+  
+  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/nikolay-kozarski/a2844%20line79.jpg"></td>
@@ -297,8 +304,13 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 8*
-<!--3764--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" height="200px"><figcaption></figcaption><b>a3764 line88</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lBqiPuQ6vxSZKXYWu99QkHM78pW9C5V1" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/a3764%20line88.jpg"></td>
+<td><br><b>🚋 a3764 line88</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
 
 
 
@@ -318,8 +330,16 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 <!--2842--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" height="200px"><figcaption></figcaption><b>a2842 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" width="100%"></div></div>
-<!--1727--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" height="200px"><figcaption></figcaption><b>a1727 line107</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/a1727%20line107.jpg"></td>
+<td><br><b>🚋 a1727 line107</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_5360.jpg"></td>
@@ -345,8 +365,11 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 2**, 3**, 4**, 6**
-<!--3764--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" height="200px"><figcaption></figcaption><b>a3764 line604</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DTu4lhlsgpIyIR1ZfriFyuwglN-crh9-" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/a3764%20line604.jpg"></td>
+<td><br><b>🚋 a3764 line604</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 # Tabs {.tabset}
 ## **ТМ
