@@ -2,7 +2,7 @@
 title: вестник Транспортна искра - снимки
 description: 
 published: true
-date: 2024-02-10T21:19:37.324Z
+date: 2024-02-11T19:12:44.231Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T15:25:08.098Z
