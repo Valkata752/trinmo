@@ -2,7 +2,7 @@
 title: Mercedes O305
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T14:21:23.908Z
+date: 2024-02-11T11:59:10.003Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:48:52.520Z
@@ -237,8 +237,11 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 3*
-<!--1303--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1bB8JjRdx_hecBKiekI_B8x9p52wH_AaE" height="200px"><figcaption></figcaption><b>a1303 line31</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1bB8JjRdx_hecBKiekI_B8x9p52wH_AaE" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-zeml/a1303-line31.jpg"></td>
+<td><b>a1303 line31</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 
@@ -251,14 +254,24 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 5*
-<!--1329--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nCITUtlRv5KkbUQxWqvvbObprhuJCmIx" height="200px"><figcaption></figcaption><b>a1329 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nCITUtlRv5KkbUQxWqvvbObprhuJCmIx" width="100%"></div></div>
-<!--1683--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1N8GosylvH4XdAl2rNTxS-L7d3_eTBmWD" height="200px"><figcaption></figcaption><b>a1683 line56</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1N8GosylvH4XdAl2rNTxS-L7d3_eTBmWD" width="100%"></div></div>
-<!--1669--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sIasyv6QQjS-uQ506Q-fcm7AFOuTOEGF" height="200px"><figcaption></figcaption><b>a1669 line59</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sIasyv6QQjS-uQ506Q-fcm7AFOuTOEGF" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-zeml/a1329-line56.jpg"></td>
+<td><b>a1329 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-zeml/a1683-line56.jpg"></td>
+<td><b>a1683 line56</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-zeml/a1669-line59.jpg"></td>
+<td><b>a1669 line59</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 <!--1733--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Oe0wNjAc5LpxPQ38rA2_tGqGIFcxisZO" height="200px"><figcaption></figcaption><b>a1733 line59</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Oe0wNjAc5LpxPQ38rA2_tGqGIFcxisZO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Oe0wNjAc5LpxPQ38rA2_tGqGIFcxisZO" height="200px"><figcaption></figcaption><b>a1733 line59</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Oe0wNjAc5LpxPQ38rA2_tGqGIFcxisZO" width="100%"></div></div>
+
 
 
 # Tabs {.tabset}
@@ -269,7 +282,11 @@ dateCreated: 2022-05-19T21:48:52.520Z
 ## 7*
 <!--3762--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" height="200px"><figcaption></figcaption><b>a3762 line75</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1G71LJgsiME6MIppxLajawzFf-OYMoylG" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/nikolay-kozarski/a2844%20line79.jpg"></td>
+<td><b>tm2844 line79</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Николай Козарски</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 # Tabs {.tabset}
@@ -297,12 +314,23 @@ dateCreated: 2022-05-19T21:48:52.520Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" height="200px"><figcaption></figcaption><b>a2842 line101</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yTh5BzGivl9DOfjmz-7RcZ2D5Bq8rqNL" width="100%"></div></div>
 <!--1727--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" height="200px"><figcaption></figcaption><b>a1727 line107</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Hv1WnwpqSiRWMTvo9vwZ5l4jzaw7sFRT" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_5360.jpg"></td>
+<td><br><b>🚋 a1741 line111</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 <!--3763--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" height="200px"><figcaption></figcaption><b>a3763 line113</b> 📷 Иво Радоев</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vNW2qqq5F_z3bt0ZTLH2wNAWq4c82Lpv" width="100%"></div></div>
 
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_5417.jpg"></td>
+<td><br><b>🚋 a1687 line122</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--2679--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OCq6eHrv5ePcMD-leWsF-tEkaDC5KvRP" height="200px"><figcaption></figcaption><b>a2679 line117</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OCq6eHrv5ePcMD-leWsF-tEkaDC5KvRP" width="100%"></div></div>
 
