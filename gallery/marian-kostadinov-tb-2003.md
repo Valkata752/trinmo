@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Тролейбуси 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T16:38:45.516Z
+date: 2024-02-11T16:45:59.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T13:32:43.644Z
@@ -533,4 +533,12 @@ dateCreated: 2024-01-07T13:32:43.644Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ziu/tb2549e.jpg"></td>
 <td><b>tb2549 line2</b><br> 🚎 <a href="http://trinmo.org/bg/public-transport/fleet-list/1986-ZiU-682B-B00">ЗиУ-682В [В00]</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
+
+ ### 2749
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/cobra/depo_nadejda_1.jpg"></td>
+<td><b>tb2749</b><br> 🚎 <a href="http://trinmo.org/bg/public-transport/fleet-list/1986-ZiU-682B-B00">ЗиУ-682В [В00]</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
   
