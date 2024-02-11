@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Трамваи 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T15:26:43.959Z
+date: 2024-02-11T15:31:24.338Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T09:52:14.319Z
@@ -1327,7 +1327,7 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><b>tm831 line12</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
     
-## T8M-301 (301-318)
+## T8M-301 (Красна поляна)
 ## Tabs {.tabset}
 ### 301
  <!--следващ пост--> 
@@ -1504,27 +1504,8 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><b>tm318 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>    
     
-## T8M-301 (319-326)
-## Tabs {.tabset}
-### 319
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm319_3.jpg"></td>
-<td><b>tm319 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>  
-  
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm319_6.jpg"></td>
-<td><b>tm319 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>  
-    
-### 320
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm320.jpg"></td>
-<td><b>tm320 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>  
+
+
     
 ### 321
  <!--следващ пост--> 
@@ -1559,6 +1540,29 @@ dateCreated: 2024-01-07T09:52:14.319Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm324_2.jpg"></td>
 <td><b>tm324 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
+
+## T8M-301 (Банишора)
+## Tabs {.tabset}
+### 319
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm319_3.jpg"></td>
+<td><b>tm319 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm319_6.jpg"></td>
+<td><b>tm319 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+    
+### 320
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/t8m-301/tm320.jpg"></td>
+<td><b>tm320 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
   
 ### 325
  <!--следващ пост--> 
