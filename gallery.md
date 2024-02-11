@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T15:09:10.504Z
+date: 2024-02-11T11:52:55.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -17,6 +17,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 10те
   
 - [Константин Димитров :bulgaria: *2015-2017*](/gallery/konstantin-dimitrov)
+- [Николай Козарски :bulgaria: *2014*](/gallery/nikolay-kozarski)
 - [Atilla Kozalik *2011*](/gallery/attila-kozalik)
 - [Даниел Анев :bulgaria: *2009-2011*](/gallery/daniel-anev-tm-2009)
 {.links-list}
