@@ -2,7 +2,7 @@
 title: Фотограф - Константин Димитров
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-11T12:49:16.156Z
+date: 2024-02-11T13:05:36.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-08T12:48:34.001Z
@@ -267,7 +267,7 @@ dateCreated: 2023-12-08T12:48:34.001Z
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2672-line20.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2672-line101.jpg"></td>
 <td><b>a2672 line101</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
