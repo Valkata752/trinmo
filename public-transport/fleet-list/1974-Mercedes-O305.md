@@ -2,7 +2,7 @@
 title: Mercedes O305
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T12:01:27.269Z
+date: 2024-02-11T12:55:41.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:48:52.520Z
@@ -201,46 +201,65 @@ dateCreated: 2022-05-19T21:48:52.520Z
 
 # Tabs {.tabset}
 ## 1*
-<!--2847--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Oeag-sSwW7qKIniWbp2DYcpqEJIrt4eK" height="200px"><figcaption></figcaption><b>a2847 line12</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Oeag-sSwW7qKIniWbp2DYcpqEJIrt4eK" width="100%"></div></div>
-<!--2678--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tZCkB_aW_6Q39yhXUq8s4jNS6yo23JZE" height="200px"><figcaption></figcaption><b>a2678 line18</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tZCkB_aW_6Q39yhXUq8s4jNS6yo23JZE" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2847-line12.jpg"></td>
+<td><b>a2847 line12</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2678-line18.jpg"></td>
+<td><b>a2678 line18</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 
 # Tabs {.tabset}
 
 ## 2*
-<!--2672--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TPHsJyRqaQge-HGq81SSPlw5XXer_mo6" height="200px"><figcaption></figcaption><b>a2672 (бивш 2658) line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TPHsJyRqaQge-HGq81SSPlw5XXer_mo6" width="100%"></div></div>
-<!--2846--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aQbr1jAZZXAWm_Bqa9BwM9bFAsVDI_sV" height="200px"><figcaption></figcaption><b>a2846 line20</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aQbr1jAZZXAWm_Bqa9BwM9bFAsVDI_sV" width="100%"></div></div>
-<!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eOJHwngkUhgdT3grqvMAgkb8qSbNOj3s" height="200px"><figcaption></figcaption><b>a2674 line21-22</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eOJHwngkUhgdT3grqvMAgkb8qSbNOj3s" width="100%"></div></div>
-<!--2670--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1FGC4ewXXcyzHpGLPZNxSoLI7bQDncHrP" height="200px"><figcaption></figcaption><b>a2670 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1FGC4ewXXcyzHpGLPZNxSoLI7bQDncHrP" width="100%"></div></div>
-<!--2848--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1v55z4i65HEVyEqwl2GWsvUgEc3NB0vin" height="200px"><figcaption></figcaption><b>a2848 line23</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1v55z4i65HEVyEqwl2GWsvUgEc3NB0vin" width="100%"></div></div>
-<!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1_vFCpQ-UCj5e2HtfWjuaxEUBmbwobJ2S" height="200px"><figcaption></figcaption><b>a2674 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1_vFCpQ-UCj5e2HtfWjuaxEUBmbwobJ2S" width="100%"></div></div>
-<!--2838--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IYC3MJ9SokrjmAEHhfhpTD46oP08qE6Z" height="200px"><figcaption></figcaption><b>a2838 line24</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IYC3MJ9SokrjmAEHhfhpTD46oP08qE6Z" width="100%"></div></div>
-<!--2674--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BTxveFoaczogXiUDSplABpVK_BBsvV-v" height="200px"><figcaption></figcaption><b>a2674 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BTxveFoaczogXiUDSplABpVK_BBsvV-v" width="100%"></div></div>
-<!--2844--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PYfAnK9eL31tTZ26Y5NRy8kYpd-G9YZF" height="200px"><figcaption></figcaption><b>a2844 line25</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PYfAnK9eL31tTZ26Y5NRy8kYpd-G9YZF" width="100%"></div></div>
-<!--2677--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TgUmFwU0RPkpEQKnlIR5g_Uv4eXneQPu" height="200px"><figcaption></figcaption><b>a2677 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TgUmFwU0RPkpEQKnlIR5g_Uv4eXneQPu" width="100%"></div></div>
-<!--2840--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1h-V0lMKH6NWawfDr8Wn2XO08F3gPojC0" height="200px"><figcaption></figcaption><b>a2840 line26</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h-V0lMKH6NWawfDr8Wn2XO08F3gPojC0" width="100%"></div></div>
-<!--2673--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CRw7a0Vh5W21uD8noYGNSTv64eR7QAbU" height="200px"><figcaption></figcaption><b>a2673 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CRw7a0Vh5W21uD8noYGNSTv64eR7QAbU" width="100%"></div></div>
-<!--2839--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uPwIV7FnRdLp5O-EY40uGDYJ37wAuWKt" height="200px"><figcaption></figcaption><b>a2839 line28</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uPwIV7FnRdLp5O-EY40uGDYJ37wAuWKt" width="100%"></div></div>
-<!--2673--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ESTg2UQuKtYmkHI50yXy4G_QyznwOCYi" height="200px"><figcaption></figcaption><b>a2673 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ESTg2UQuKtYmkHI50yXy4G_QyznwOCYi" width="100%"></div></div>
-<!--2838--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1DuYFhM7Tt5aDi9xfS91k0MNHvbSbs1hg" height="200px"><figcaption></figcaption><b>a2838 line29</b> 📷 Константин Димитров</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1DuYFhM7Tt5aDi9xfS91k0MNHvbSbs1hg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2672-line20.jpg"></td>
+<td><b>a2672 line20</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2848-line23.jpg"></td>
+<td><b>a2848 line23</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2838-line24.jpg"></td>
+<td><b>a2838 line24</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2844-line25.jpg"></td>
+<td><b>a2844 line25</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2677-line26.jpg"></td>
+<td><b>a2677 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2673-line28.jpg"></td>
+<td><b>a2673 line28</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/konstantin-dimitrov/mb-o305-mala/a2838-line29%20(1).jpg"></td>
+<td><b>a2838 line29</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1974-Mercedes-O305">Mercedes O305</a> <br>📌<br> 📷 Константин Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
 # Tabs {.tabset}
 ## 3*
  <!--следващ пост--> 
