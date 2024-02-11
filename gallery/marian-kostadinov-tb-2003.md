@@ -2,7 +2,7 @@
 title: Фотограф - Мариан Костадинов - Тролейбуси 2003
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T16:20:53.342Z
+date: 2024-02-11T16:28:05.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T13:32:43.644Z
@@ -237,4 +237,142 @@ dateCreated: 2024-01-07T13:32:43.644Z
   <td colspan=2 >ℹ️ </td></table></div>    
   
   
+## Ikarus 280T - 15**
+## Tabs {.tabset}
+### 1502
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1502_2.jpg"></td>
+<td><b>tb1502</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+
+### 1504
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1504_3.jpg"></td>
+<td><b>tb1504 line4</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+### 1506
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1506_1206.jpg"></td>
+<td><b>tb1506</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+### 1507
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1507_2.jpg"></td>
+<td><b>tb1507</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+### 1509
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1509_6.jpg"></td>
+<td><b>tb1509</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1509_4.jpg"></td>
+<td><b>tb1509 line5</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+### 1516
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1516_2.jpg"></td>
+<td><b>tb1516 line2</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+  
+### 1517
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb1517%20line2.jpg"></td>
+<td><b>tb1517 line2</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+## Ikarus 280T - 20**
+## Tabs {.tabset}
+### 2052
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2052_3.jpg"></td>
+<td><b>tb2052</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+
+## Ikarus 280T - 21**
+## Tabs {.tabset}
+### 2101
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2101_3.jpg"></td>
+<td><b>tb2101 line1</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+
+### 2104
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2104.jpg"></td>
+<td><b>tb2104 line1</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+### 2118
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2118.jpg"></td>
+<td><b>tb2118 line1</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+### 2121
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2121.jpg"></td>
+<td><b>tb2121 line1</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+## Ikarus 280T - 25**
+## Tabs {.tabset}
+### 2504
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2504_2.jpg"></td>
+<td><b>tb2504 line1</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+
+### 2510
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2510_3.jpg"></td>
+<td><b>tb2510 line2</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+## Ikarus 280T - 26**
+## Tabs {.tabset}
+### 2602
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2602%20line10.jpg"></td>
+<td><b>tb2602 line10</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+
+### 2603
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2603_4.jpg"></td>
+<td><b>tb2603 line2</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+
+### 2606
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/ikarus-280t/tb2606_2.jpg"></td>
+<td><b>tb2606 line9</b><br> 🚎 <a href="1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+
+
+
   
