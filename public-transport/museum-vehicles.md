@@ -2,7 +2,7 @@
 title: Музейни превозни средства
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-12T14:02:31.362Z
+date: 2024-02-13T07:02:53.881Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:28:24.375Z
@@ -33,7 +33,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 35
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="/градски-транспорт/музейни/museum35.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-35.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ Реставриран — 2005 г.</td></table></div>
   
@@ -53,7 +53,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 92
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="/градски-транспорт/музейни/museum92.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-92.jpg"></td>
 <td>Ремарке Кардалев е изградено върху оригинална ходова част на стара трамвайна мотриса ВВС произведена през 1901. И по запазени чертежи на инж. Тодор Кардалев , през месеците август — септември 2000 година е построено в Завод за трамвай София (Трамкар).</td></tr>
   <td colspan=2 >ℹ️ Реставриран — 1999 г.</td></table></div>
   
@@ -65,7 +65,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 553
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh6.googleusercontent.com/SSw70egLGmFwYE5TsB1Hhe_U5UhmiR8bqonwjCleY0qHda0ff47bt4ocsLuvgTrQyO0=w2400"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-553.jpg"></td>
 <td>Идеята за възстановяването на трамвая е на сдружение „Градски транспорт и инфраструктура“, като част от проекта за съхраняване и възстановяване на историческите трамваи на София и изграждане на музей на градския транспорт на столицата, представен през 2013 г. Възстановяването се извърши благодарение на финансовата подкрепа от страна на Сименс България ЕООД в поделение Трамкар към Столичен електротранспорт ЕООД.</td></tr>
   <td colspan=2 >ℹ️ Реставриран през 2015г. от Столичен електротранспорт с подкрепата на Siemens</td></table></div>
   
@@ -114,7 +114,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 1028
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://transphoto.org/photo/12/42/81/1242814.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-1028.jpg"></td>
 <td>Реставриран — 03.2019</td></tr>
   <td colspan=2 >ℹ️ Реставриран през 2019г. от Столичен електротранспорт</td></table></div>
   
@@ -177,7 +177,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 174
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://green.bgtransport.org/wp-content/uploads/2016/10/1-3.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-174.jpg"></td>
 <td>модел: София 70, 174<br>год. производство: 1970<br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на 23.07.2013</td></table></div>
  
@@ -207,7 +207,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 240
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://transphoto.org/photo/05/92/75/592757.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-240.jpg"></td>
 <td>модел: Република, 240 <br>год. производство: 1953<br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на 07.2013</td></table></div>
 
@@ -229,7 +229,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 538
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://green.bgtransport.org/wp-content/uploads/2016/10/15.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-538.jpg"></td>
 <td>модел: Република, 538 <br>год. производство: 1959<br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на 07.2013</td></table></div>
   
@@ -243,7 +243,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 306
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://green.bgtransport.org/wp-content/uploads/2016/10/1-5.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-306.jpg"></td>
 <td>модел: Т8М-301, 306 <br>год. производство: 1980 <br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на 06.2014	</td></table></div>
 
@@ -303,7 +303,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 719
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://green.bgtransport.org/wp-content/uploads/2016/07/DSC_2548-1024x683.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-719.jpg"></td>
 <td>модел: Т4М-701 (Комсомолец)  <br>год. производство: 1960 <br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на...</td></table></div>
   
@@ -313,7 +313,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 601
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://green.bgtransport.org/wp-content/uploads/2016/10/1-2.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-601.jpg"></td>
 <td>модел: Графиня, 601 <br>год. производство: 1912, 1915, 1938 <br>производител: неизв,</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на...</td></table></div>
   
@@ -335,8 +335,8 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 1094
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="http://green.bgtransport.org/wp-content/uploads/2016/10/2-4.jpg"></td>
-    <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-1094.jpg"></td>
+    <td>модел: T4D, 1094 <br>год. производство: 1979<br>производител: CKD</td>
   </tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на </td>
 </table>
@@ -351,7 +351,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4027
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=15SPzoqVWmOXr6RjleOCv1sdEVAFXiftb"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4027.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -363,7 +363,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4208
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1c0TZGc9_75N9rBM7byw8EWVZiRcNpXTa"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4208.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -374,7 +374,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4281
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1Cps1I5KmWqHdQfuqngK4LQMfO_dLFIcx"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4281.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -385,7 +385,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4234
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1pSquMcPIR-z-jrhFyNtA0yYqGhoQ3Ml2"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4234.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -397,7 +397,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4413
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1HHONK_GLZ2Twy4HEIFOEkE9-crC40SVt"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4413.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -408,7 +408,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4034
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1lLWjeHu43bzpt0ZQhm0oxlIuWN2f0fR2"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4034.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -419,7 +419,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 4767
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1jkGqxYGcH1BdYZdzsmyjODteSZ_nlQyP"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-4767.jpg"></td>
     <td>модел: ?, ? <br>год. производство: ?<br>производител: ?</td>
   </tr>
   <td colspan=2 >ℹ️ Спрян: </td>
@@ -453,7 +453,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 9566
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://bgtransport.org/wp-content/uploads/2021/03/DSC_7907edit-1024x683.jpg"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-mercedes-o305g.jpg"></td>
     <td>модел: Mercedes O305G<br>год. производство: 1983<br>предишен собственик: ЗММ Сливен</td>
   </tr>
   <td colspan=2 >ℹ️ Купен 2020 г. <b>Повече за автобуса:</b> https://bgtransport.org/our-vehicles/buses/mercedes-benz-o305g/</td>
@@ -479,7 +479,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 11Г5
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1kvrts2XilVyGouIG8JGmBkTj0B7xLAvm"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5.jpg"></td>
     <td>модел: Чавдар 11Г5<br>год. производство: 1980<br>предишен собственик: неизв.</td>
   </tr>
   <td colspan=2 >ℹ️ Купен 2021 г. <b>Повече за автобуса:</b> https://bgtransport.org/our-vehicles/buses/чавдар-11г5/</td>
@@ -492,19 +492,41 @@ dateCreated: 2022-04-30T08:28:24.375Z
 
 ### 📷 Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1yIfhBdUTb5ZdojFpDx8rfUKkKPFysr8Q" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1yIfhBdUTb5ZdojFpDx8rfUKkKPFysr8Q" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-1.jpg" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-1.jpg" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1kvrts2XilVyGouIG8JGmBkTj0B7xLAvm" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1kvrts2XilVyGouIG8JGmBkTj0B7xLAvm" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-2.jpg" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-2.jpg" width="100%"></div></div>
 <!--3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1tC9Gkur1YJewsq8IsoYdLpdopEQ5Ivzc" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1tC9Gkur1YJewsq8IsoYdLpdopEQ5Ivzc" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-3.jpg" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-3.jpg" width="100%"></div></div>
 <!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1F1qdO7EnEm5LyXNlMuANa3pEISyi-8e6" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1F1qdO7EnEm5LyXNlMuANa3pEISyi-8e6" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-4.jpg" height="200px"><figcaption><b>2021 </b>📷 Сдружение ГТИ</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-chavdar-11g5-4.jpg" width="100%"></div></div>
 
 
 
 ## Чавдар 11М3
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="https://bgtransport.org/wp-content/uploads/2023/03/322107504_956346965329564_8493956912881141915_n-1536x864.jpg"></td>
+    <td>Автобусът е с каросерия номер 370 от 1975 г. – първата година на серийно производство на модела!</td>
+  </tr>
+  <td colspan=2 >ℹ️ Повече за автобуса на<a href="https://bgtransport.org/our-vehicles/buses/%d1%87%d0%b0%d0%b2%d0%b4%d0%b0%d1%80-11%d0%bc3/"> страницата на Сдружение ГТИ</a></td>
+</table>
 
+
+    
+   
+    
+    
 ## Чавдар 11М4
+<table style="width:100%">
+  <tr>
+    <td style="width:400px"><img src="https://bgtransport.org/wp-content/uploads/2021/04/156923493_2207739802690780_5314299119483021411_n-2-1024x579.jpg"></td>
+    <td>Нашият Чавдар 11М4 е произведен през 1988 г., с номер на каросерията 1660, с двигател Raba-MAN D2156 (215 к.с.) и задвижващи мостове Madara.</td>
+  </tr>
+  <td colspan=2 >ℹ️ Повече за автобуса на<a href="https://bgtransport.org/our-vehicles/buses/chavdar-11m4/"> страницата на Сдружение ГТИ</a></td>
+</table>
+
+
+
 
 ## Dac - Чавдар
 > http://trinmo.org/bg/public-transport/fleet-list/1964-Skoda-9Tr
@@ -515,7 +537,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 5027
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://bgtransport.org/wp-content/uploads/2017/05/33731871272_7cf7614112_c.jpg"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-skoda-9tr.jpg"></td>
     <td>модел: SKODA 9ТRHT<br>год. производство: 1981<br>предишен собственик: Градски транспорт Пловдив</td>
   </tr>
   <td colspan=2 >ℹ️ Купен 2017 г. <b>Повече за тролейбуса:</b> http://trinmo.org/bg/public-transport/fleet-list/1986-DAC-Chavdar-317-ETR</td>
