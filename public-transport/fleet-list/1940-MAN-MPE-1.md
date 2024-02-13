@@ -2,7 +2,7 @@
 title: MAN MPE 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T08:25:20.486Z
+date: 2024-02-13T11:21:33.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:32:25.404Z
@@ -183,8 +183,7 @@ dateCreated: 2022-05-19T22:32:25.404Z
 
 ## Чертеж
 
-<img src="http://46.10.181.183:1518/trinmo/gallery/blueprints/1940-MAN-MPE-1.jpg">
-
+<img src="/man_sg192.gif">
 
 
 # Галерия
