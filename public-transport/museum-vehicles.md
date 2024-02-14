@@ -2,7 +2,7 @@
 title: Музейни превозни средства
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-13T07:02:53.881Z
+date: 2024-02-14T06:37:16.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:28:24.375Z
@@ -537,7 +537,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 5027
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-skoda-9tr.jpg"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-gti-dac-chavdar.jpg"></td>
     <td>модел: SKODA 9ТRHT<br>год. производство: 1981<br>предишен собственик: Градски транспорт Пловдив</td>
   </tr>
   <td colspan=2 >ℹ️ Купен 2017 г. <b>Повече за тролейбуса:</b> http://trinmo.org/bg/public-transport/fleet-list/1986-DAC-Chavdar-317-ETR</td>
