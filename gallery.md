@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-11T11:52:55.643Z
+date: 2024-02-15T21:12:35.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -96,6 +96,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Peter Haseldine*1976*](/gallery/peter-haseldine)
 - [Ole Iskov*1976*](/gallery/ole-iskov)
 - [Olaf Guettler:de: *1975, 1976*](/gallery/olaf-guettler)
+- [Modern Tramway*1975*](/gallery/modern-tramway)
 - [Gisberta Yakla :czech_republic: *1973, 1975*](/gallery/gisberta-yakla)
 - [Bohdan Turzanski :poland: *1971, 1975*](/gallery/bohdan-turzanski)
 - [BZMOTMAN*1970*](/gallery/bzmotman)
