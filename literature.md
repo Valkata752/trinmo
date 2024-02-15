@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T21:05:36.196Z
+date: 2024-02-15T21:04:49.793Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -157,7 +157,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://lh3.googleusercontent.com/H1YW_r8-8afHoV6jkZp9NPLqRYfILy78XWWph7hnWetJK6HkNBHjc0BHHP_3Sa3XFeo=w2400"></td>
   <td><b></b></td></tr>
-  <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-450"><b>Очаквайте скоро...</b></a></td></table></div>  
+  <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-450"><b>Разгледай тук...</b></a></td></table></div>  
   
 
 
