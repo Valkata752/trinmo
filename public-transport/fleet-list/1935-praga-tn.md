@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T19:53:01.705Z
+date: 2024-02-16T19:53:35.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -129,8 +129,8 @@ dateCreated: 2023-02-12T15:35:39.100Z
 # Снимки
   
  
- <!--неизв.--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/xnYR_o2EFgQvo4MbwAYjkvO3OAllSxe3xVCFuXm1GlpynzDihl4_0O9vlIzWP-xiIW8=w2400" height="200px"><figcaption><b>неизв.</b>📷 Форумъ Аспиринъ Аспиринъ</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/xnYR_o2EFgQvo4MbwAYjkvO3OAllSxe3xVCFuXm1GlpynzDihl4_0O9vlIzWP-xiIW8=w2400" width="100%"></div></div>
+ <!--2120--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/lineA.jpg" height="200px"><figcaption> <b>неизв.</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/lineA.jpg" width="100%"></div></div>
  
  
  <!--2120--> 
