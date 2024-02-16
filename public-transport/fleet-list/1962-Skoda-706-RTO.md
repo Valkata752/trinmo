@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-07T08:14:13.883Z
+date: 2024-02-16T20:00:59.708Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -67,13 +67,13 @@ dateCreated: 2022-05-19T21:54:23.664Z
 {.is-info}
 
 <!--5488--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" height="200px"><figcaption> <b>СФ 5488</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14t4xcH4cQIHTIHH5GGkDO16yzUi7jDNL" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf5488.jpg" height="200px"><figcaption> <b>СФ 5488</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf5488.jpg" width="100%"></div></div>
 <!--5497--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
 <!--5521--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" height="200px"><figcaption> <b>СФ 5521</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" width="100%"></div></div>
 <!--5577--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" height="200px"><figcaption> <b>СФ 5577</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sxnC3AXO_MXr-pzDOMCLhg81_9uyvAVt" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sf55-57.jpg" height="200px"><figcaption> <b>СФ 5577</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sf55-57.jpg" width="100%"></div></div>
 
 
 
@@ -86,7 +86,7 @@ dateCreated: 2022-05-19T21:54:23.664Z
 {.is-info}
 
 <!--175--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" height="200px"><figcaption> <b>СA 5293</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1An-jsVTLZrWrYRzXTweHe5ArvA0vsHiV" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sfa5293.jpg" height="200px"><figcaption> <b>СA 5293</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sfa5293.jpg" width="100%"></div></div>
 
 # Tabs {.tabset}
 
@@ -95,9 +95,9 @@ dateCreated: 2022-05-19T21:54:23.664Z
 {.is-info}
 
 <!--1107--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" height="200px"><figcaption> <b>СГ1107</b> (175) 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1n9tBWC-SPFdTcaTuGQqbd6a4XqdFmY2s" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a175%20sg1107%20line62.jpg" height="200px"><figcaption> <b>СГ1107</b> (175) 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a175%20sg1107%20line62.jpg" width="100%"></div></div>
 <!--1118--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15xtHMh-xt9kn9vp7BrYs0_8_b9bPL5fK" height="200px"><figcaption> <b>СГ1118</b> (177) 📷 сканирано от Метан ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15xtHMh-xt9kn9vp7BrYs0_8_b9bPL5fK" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a177%20sg1118%201975.jpg" height="200px"><figcaption> <b>СГ1118</b> (177) 📷 сканирано от Метан ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a177%20sg1118%201975.jpg" width="100%"></div></div>
 
 
 
@@ -106,15 +106,13 @@ dateCreated: 2022-05-19T21:54:23.664Z
 
 ## Разни
  <!--0006--> 
- <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=14tAkv71gDaJ4V_tU23Xgh_egvKxNEt7r" height="200px"><figcaption> <b>ТхБ 0006</b> 📷 скан от Метан⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14tAkv71gDaJ4V_tU23Xgh_egvKxNEt7r" width="100%"></div></div>
+ <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%20RTO/line242.jpg" height="200px"><figcaption> <b>ТхБ 0006</b> 📷 скан от Метан⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%20RTO/line242.jpg" width="100%"></div></div>
  
 
 <!--1877--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1OaGEzhx60HdMb2075SxVctG7CoRWe-nS" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/SfB1877.jpg" height="200px"><figcaption> <b>СФБ 1877</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/SfB1877.jpg" width="100%"></div></div>
 
 <!--5577--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" height="200px"><figcaption> <b>СФБ 2031</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sfb2031.jpg" height="200px"><figcaption> <b>СФБ 2031</b> (265) 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=16sY9DWPtGvdQl7ZQ02teVU-vFrD03zTO" width="100%"></div></div>
 
 
- <!--2120--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1WU_2FIFBhRMih9hPcny_2uqaNYpN1yXF" height="200px"><figcaption> <b>СФ 2120</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1WU_2FIFBhRMih9hPcny_2uqaNYpN1yXF" width="100%"></div></div>
