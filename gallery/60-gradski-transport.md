@@ -2,7 +2,7 @@
 title: 60 години градски транспорт - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T21:05:44.376Z
+date: 2024-02-16T21:06:38.168Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-16T21:05:23.910Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-16T21:05:23.910Z
 {.links-list}
 
 ---
-## 1901-1941
+
 ## Tabs {.tabset}
 ### 
 <!--следващ пост--> 
