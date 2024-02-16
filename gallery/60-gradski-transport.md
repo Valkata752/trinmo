@@ -2,13 +2,13 @@
 title: 60 години градски транспорт - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T21:05:23.910Z
+date: 2024-02-16T21:05:44.376Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-16T21:05:23.910Z
 ---
 
-- [:scroll: Цялата статия *60 години градски транспорт*](/bg/literature/anniversary//bg/literature/anniversary/60-years-public-transport)
+- [:scroll: Цялата статия *60 години градски транспорт*](/bg/literature/anniversary/60-years-public-transport)
 {.links-list}
 
 ---
