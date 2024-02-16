@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T20:00:59.708Z
+date: 2024-02-16T21:05:11.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -10,7 +10,7 @@ dateCreated: 2022-05-19T21:54:23.664Z
 
 # Кратка история
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=16xyV3dciyFYnKVeFEM2wqpmYkuzDBFeP"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-pravda/1970.09.01-skoda-rto.jpg"></td>
 <td><b>Нова доставка от Шкоди</b><br>Работниците от závodu SVA в град Holýšov, област Domažlice са предали на представителите на Авто Импекс София последните 20 бр. автобуси Skoda 706 RTO SVA-car от тазгодишната доставка от 50 автобуса.</td></tr>
   <td colspan=2 >ℹ️ <b>вестник "Pravda" от 01.09.1970г.</b><a href=""></a></td></table></div>
   
@@ -66,16 +66,34 @@ dateCreated: 2022-05-19T21:54:23.664Z
 > Версия 1 (към 1961 вече я има, по снимка от книгата за 60 години градски транспорт в София, 1961 г.) – червен цвят под прозорците; две двуврати автоматични врати; светеща кутия за маршрутна табела с дизайн, наследен от Škoda 706 RO; мигачи на овала между челото и  страничните стени на каросерията; допълнителни фарове в бронята (почти съм сигурен, макар че не се вижда добре на снимката, тъй като изглежда са се слагали стандартно в първите години на производството на всичките типове); охладителна решетка с 11 хоризонтални „ребра“; надпис “Karosa” на охладителната решетка. Известни регистрационни номера: Сф 54-88, Сф 54-96; Сф 55-57;
 {.is-info}
 
-<!--5488--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf5488.jpg" height="200px"><figcaption> <b>СФ 5488</b> 📷 Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf5488.jpg" width="100%"></div></div>
-<!--5497--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" height="200px"><figcaption> <b>СФ 5497</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17Y8EDwNSrcdq5BdNDB8VqAjsd6arOiLt" width="100%"></div></div>
-<!--5521--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" height="200px"><figcaption> <b>СФ 5521</b> 📷 60 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1LZeVMZPTsZpJRqap1_42Qthn_zTNAC39" width="100%"></div></div>
-<!--5577--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sf55-57.jpg" height="200px"><figcaption> <b>СФ 5577</b> 📷 Неизв.</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sf55-57.jpg" width="100%"></div></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf5488.jpg"></td>
+<td><b></b>СФ 5488</td></tr>
+  <td colspan=2 > ℹ️  <a href=""><b>📷 Аспиринъ</b></a></td></table></div>     
+  
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str63-a5-sf5487.jpg"></td>
+<td><b></b>СФ 5497</td></tr>
+  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str63-sf2126.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str92-sf5521.jpg"></td>
+<td><b></b>СФ 5521  </td></tr>
+  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str63-sf2126.jpg"><b>60 години градски транспорт</b></a></td></table></div>      
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/sf55-57.jpg"></td>
+<td><b></b>СФ 5577</td></tr>
+  <td colspan=2 > ℹ️  <a href=""><b>📷 Неизв.</b></a></td></table></div>     
+  
+  
 
 
 
