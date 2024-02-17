@@ -2,7 +2,7 @@
 title: вестник Транспортна искра - снимки
 description: 
 published: true
-date: 2024-02-17T16:10:34.424Z
+date: 2024-02-17T16:11:31.768Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T15:25:08.098Z
@@ -14,8 +14,14 @@ dateCreated: 2024-02-10T15:25:08.098Z
 ---
 
 ## 1972
- ## Tabs {.tabset}
- ### 
+## Tabs {.tabset}
+### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1972.08.02-%20br12-13-garaj-malashevci.jpg"></center></td>
+<td><b>гараж Малашевци</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 12-13 - 02.08.1972 </b></a></td></table></div>
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1972.06.23-br10-11-tm730-line10.jpg"></center></td>
