@@ -2,7 +2,7 @@
 title: вестник Транспортна искра - снимки
 description: 
 published: true
-date: 2024-02-11T19:13:30.295Z
+date: 2024-02-17T16:10:34.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T15:25:08.098Z
@@ -13,7 +13,27 @@ dateCreated: 2024-02-10T15:25:08.098Z
 
 ---
 
+## 1972
+ ## Tabs {.tabset}
+ ### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1972.06.23-br10-11-tm730-line10.jpg"></center></td>
+<td><b>tm730 line10</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 10-11 - 23.06.1972 </b></a></td></table></div>
+  
+  
 
+ ## Tabs {.tabset}
+ ### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/gallery/vestnik-transportna-iskra/1972.04.30-br7-8-snimka.jpg"></center></td>
+<td><b></b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 в-к Транспортна искра </td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/literature/transportna-iskra"><b>в-к Транспортна искра - брой 7-8 - 30.04.1972 </b></a></td></table></div>
+  
+  
+  
 ## 1970
  ## Tabs {.tabset}
  ### 
