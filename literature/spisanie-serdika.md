@@ -2,7 +2,7 @@
 title: списание Сердика (1937-1952)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T14:34:47.781Z
+date: 2024-02-19T19:27:58.732Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T12:46:14.414Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-31T12:46:14.414Z
 ## Tabs {.tabset}
 
 ###
-- ➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika/1952)
+- [➡️*Списание Сердика - 1952*](/bg/literature/spisanie-serdika/1952)
 {.links-list}
 
 <mark>кн. 1, с. 50 - **площад Възраждане в миналото** - скица</mark>
