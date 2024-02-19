@@ -2,7 +2,7 @@
 title: Електротранспортно дело (1955-1959)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-19T19:29:36.493Z
+date: 2024-02-19T19:30:30.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T10:45:17.080Z
@@ -21,7 +21,7 @@ dateCreated: 2024-02-10T10:45:17.080Z
 ## 1959
 ## Tabs {.tabset}
 ###
-- [➡️*Вестник Електротранспортно дело - 1955*](/bg/literature/elektrotransportno-delo/1959)
+- [➡️*Вестник Електротранспортно дело - 1959*](/bg/literature/elektrotransportno-delo/1959)
 {.links-list}
 
 20.05.1959 (брой 100) -  На трамвайното ухо Княжево
@@ -33,8 +33,9 @@ dateCreated: 2024-02-10T10:45:17.080Z
 ## 1957
 ## Tabs {.tabset}
 ###
-- [➡️*Вестник Електротранспортно дело - 1955*](/bg/literature/elektrotransportno-delo/1957)
+- [➡️*Вестник Електротранспортно дело - 1957*](/bg/literature/elektrotransportno-delo/1957)
 {.links-list}
+
 18.12.1957 (брой 56) - Така се работи по-добре
 30.11.1957 (брой 55) - Пуснаха движението по бул. Цар Иван Асен II
 18.11.1957 (брой 54) - Работа по трасето на трамвая по бул. Цар Иван Асен II
@@ -50,7 +51,7 @@ dateCreated: 2024-02-10T10:45:17.080Z
 ## 1956
 ## Tabs {.tabset}
 ###
-- [➡️*Вестник Електротранспортно дело - 1955*](/bg/literature/elektrotransportno-delo/1956)
+- [➡️*Вестник Електротранспортно дело - 1956*](/bg/literature/elektrotransportno-delo/1956)
 {.links-list}
 
 03.10.1956 (брой 29) - Трамвайна мотриса 225
