@@ -2,7 +2,7 @@
 title: Чавдар 11М4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T21:23:24.481Z
+date: 2024-02-21T21:24:19.385Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:45:40.126Z
@@ -377,7 +377,14 @@ dateCreated: 2022-05-19T21:45:40.126Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3992_3998_3956.jpg"></td>
   <td><b>a3956, a3990, a3992</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
-   
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3981_3980_3979_3991.jpg"></td>
+  <td><b>a3991</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3994.jpg"></td>
