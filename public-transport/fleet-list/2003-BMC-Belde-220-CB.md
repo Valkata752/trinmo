@@ -2,7 +2,7 @@
 title: BMC Belde 220-CB
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-03-20T08:50:55.299Z
+date: 2024-02-21T20:43:52.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:23:05.927Z
@@ -38,6 +38,7 @@ dateCreated: 2022-05-19T21:23:05.927Z
 |  **6020** | С 2472 МТ |              | NMC220CCBLB900003 |    2020    |
 |  **6021** | С 2501 МТ |              | NMC220CCBLB900015 |    2019    |
 |  **6022** | С 2469 МТ |  СА 6081 КА  | NMC220CCBLB900014 |    2019    |
+{.dense}
 
 ## MTK
 > На линия от 01.07.2003
@@ -51,6 +52,7 @@ dateCreated: 2022-05-19T21:23:05.927Z
 |  **5026** | С 8775 МС |  СО 9123 СВ  | NMC220CCBLB900017 |    2014    |
 |  **5027** | С 8766 МС |  СО 9124 СВ  | NMC220CCBLB900022 |    2014    |
 |  **5028** | С 8737 МС |  СО 9071 СВ  | NMC220CCBLB900021 |    2013    |
+{.dense}
 
 
 
@@ -67,8 +69,7 @@ dateCreated: 2022-05-19T21:23:05.927Z
 
 # Технически характеристики
 
-
-<img src="https://lh5.googleusercontent.com/7AKIYHdcPhzQlg7g2NZ3w0VicuVW5Rx_3miu22G2d8aUB0-rPP0rA4pWorshsqqIUtc=w2400" height="600px">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/bmc-220-cb/belde_220_cb.jpg" width="100%">
 
 # Снимки
   
