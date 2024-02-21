@@ -2,7 +2,7 @@
 title: BMC Procity CNG
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-08T14:49:57.534Z
+date: 2024-02-21T20:46:08.695Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:06:45.847Z
@@ -168,7 +168,7 @@ dateCreated: 2022-05-19T21:06:45.847Z
 
 ## Чертеж
 
-<img src="https://lh3.googleusercontent.com/qab_cSTJq2CdL51P1TQBAEclN1MCPk5qYg_IDwqLUTTVImRB_JzjabGMfJ_mVtosFIk=w2400" width="100%">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/bmc-320-procity/BMC%20Procity.jpg" width="100%">
 
 # Снимки
  
