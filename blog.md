@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T20:51:42.411Z
+date: 2024-02-21T20:55:30.957Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:bulgaria: :bus: История на Автобуси „Чавдар“ *Петър Мънъри*](/bg/blog/ikarus-buses-sofia) 
+- [:bulgaria: :bus: История на Автобуси „Чавдар“ *Петър Мънъри*](/bg/blog/avtobusi-chavdar-istoria) 
 - [:hungary: :bus: Автобуси Икарус в София *Петър Мънъри*](/bg/blog/ikarus-buses-sofia) 
 - [:trolleybus::trolleybus: Тролейбуси в система много единици (СМЕ) *Петър Мънъри*](/bg/blog/trolleybusi-v-sme) 
 - [:movie_camera: Актьорски изяви на возила от градския Транспорт на София *Петър Мънъри*](/bg/blog/sofia-public-transport-in-movies)
