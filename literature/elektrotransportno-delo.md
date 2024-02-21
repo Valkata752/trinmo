@@ -2,7 +2,7 @@
 title: Електротранспортно дело (1955-1959)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-19T19:30:30.187Z
+date: 2024-02-21T10:49:59.352Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T10:45:17.080Z
