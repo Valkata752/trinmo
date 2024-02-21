@@ -2,7 +2,7 @@
 title: Чавдар 11М4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-14T11:51:22.994Z
+date: 2024-02-21T20:59:56.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:45:40.126Z
@@ -247,7 +247,7 @@ dateCreated: 2022-05-19T21:45:40.126Z
 
 # Технически характеристики
 
-<img src="https://drive.google.com/uc?id=1RGQjC_Pbp1NqJ1fawEvDQ7N4VTo3p5BF" width="100%">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/chavdar/22.jpg" width="100%">
 
 
 ## Чертеж
