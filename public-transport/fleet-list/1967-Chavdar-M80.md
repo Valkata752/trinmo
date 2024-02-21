@@ -2,7 +2,7 @@
 title: Чавдар М80
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T20:30:50.603Z
+date: 2024-02-21T20:33:08.372Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:53:59.537Z
@@ -12,10 +12,10 @@ dateCreated: 2022-05-19T21:53:59.537Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1wP6kYIWky6DvkHZ54goY-ctdhahTaQmw"></td>
-    <td><b>Български автобус</b><br>Автобусният завод в Ботивград, нидалеч от София. </td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/literature/technical/chavdar-m80/CHAVDAR%20M80.jpg"></td>
+    <td><b>Български автобус</b><br>Автобусният завод в Ботивград, недалеч от София. </td>
   </tr>
-  <td colspan=2 >ℹ️ Статия ⭐</td>
+  <td colspan=2 >ℹ️ </td>
 </table>
 
 # Списък
