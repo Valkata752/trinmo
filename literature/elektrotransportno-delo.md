@@ -2,19 +2,15 @@
 title: Електротранспортно дело (1955-1959)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T10:49:59.352Z
+date: 2024-02-21T10:50:32.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T10:45:17.080Z
 ---
 
-> Вид на материала - вестник
-> Издателство и производство - София : Градски транспорт, 1955-1988
-> COBISS.BG-ID - 1123268068
-> 
+> От 1960 натататък - http://trinmo.org/bg/literature/transportna-iskra
 {.is-info}
 
-От 1960 натататък - http://trinmo.org/bg/literature/transportna-iskra
 
 ---
 
