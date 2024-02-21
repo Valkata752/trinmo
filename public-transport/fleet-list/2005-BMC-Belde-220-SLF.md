@@ -2,7 +2,7 @@
 title: BMC Belde 220-SLF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-19T17:25:15.121Z
+date: 2024-02-21T20:45:36.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:22:14.537Z
@@ -196,7 +196,7 @@ BMC Belde 220-slf е турски модел автобуси, измислен 
 # Технически характеристики
 
 
-<img src="https://lh5.googleusercontent.com/jUn2maSi4PiexRIZNlgW3o8PjiS3gUvmyM0ClymOfXq0J0LtZR1L7WSNvBEU9EFXnTU=w2400" height="600px">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/bmc-220-slf/belde_220_slf.jpg" height="600px">
 
 
 # Снимки
