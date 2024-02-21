@@ -2,7 +2,7 @@
 title: Чавдар 11Г5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T20:34:50.511Z
+date: 2024-02-21T20:38:50.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T08:55:57.939Z
@@ -47,7 +47,7 @@ dateCreated: 2022-05-30T08:55:57.939Z
 ## Tabs {.tabset}
 
 
-### 251
+### 51
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-atamyan/a51_1-1.jpg"></td>
