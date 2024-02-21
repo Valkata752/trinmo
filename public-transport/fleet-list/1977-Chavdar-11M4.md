@@ -2,7 +2,7 @@
 title: Чавдар 11М4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T21:18:01.048Z
+date: 2024-02-21T21:20:47.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:45:40.126Z
@@ -336,15 +336,32 @@ dateCreated: 2022-05-19T21:45:40.126Z
   
 # Tabs {.tabset}
 ## 27**
-<!--2715--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rC2wy9s2QvW9qhY7JU5n6-86e-YPIymI92iDQoDQC7jgM86AXfny6I6T89zAEn0FIDhWFKAEWAE3IfRgJPaDrIPkxFFw=w1920-h853" height="200px"><figcaption> <b>2715</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rC2wy9s2QvW9qhY7JU5n6-86e-YPIymI92iDQoDQC7jgM86AXfny6I6T89zAEn0FIDhWFKAEWAE3IfRgJPaDrIPkxFFw=w1920-h853" width="100%"></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a2715.jpg"></td>
+  <td><b>a2715</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
 <!--2761--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rcA8BFExVahFnOeGw2cLIM2fMACN-O4HqDjjip4QYi-wQv7p5D9O69iHg0kNRBptsyfOP_UMSBp0hmvC0pP2Wc2EhKfg=w1920-h853" height="200px"><figcaption> <b>2761</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rcA8BFExVahFnOeGw2cLIM2fMACN-O4HqDjjip4QYi-wQv7p5D9O69iHg0kNRBptsyfOP_UMSBp0hmvC0pP2Wc2EhKfg=w1920-h853" width="100%"></div></div>
 
 # Tabs {.tabset}
 ## 28**
-<!--2807--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81oxsA1vNjDzQkLD3aPoMCTTKdHvaS9Qrb23aB3Z-Wjn4fd7KHxL6PvIArQC0Xk3e-fPM8wiJOfMUUsXhAw2N8Q1krdV=w1920-h853" height="200px"><figcaption> <b>2807</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81oxsA1vNjDzQkLD3aPoMCTTKdHvaS9Qrb23aB3Z-Wjn4fd7KHxL6PvIArQC0Xk3e-fPM8wiJOfMUUsXhAw2N8Q1krdV=w1920-h853" width="100%"></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a2807_3.jpg"></td>
+  <td><b>a2807</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+   
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a2807_2.jpg"></td>
+  <td><b>a2807</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+   
+   
+   
 
 # Tabs {.tabset}
 ## 29**
