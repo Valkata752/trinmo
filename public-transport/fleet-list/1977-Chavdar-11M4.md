@@ -2,7 +2,7 @@
 title: Чавдар 11М4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T21:20:47.606Z
+date: 2024-02-21T21:23:24.481Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:45:40.126Z
@@ -348,13 +348,13 @@ dateCreated: 2022-05-19T21:45:40.126Z
 
 # Tabs {.tabset}
 ## 28**
-  <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a2807_3.jpg"></td>
   <td><b>a2807</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
    
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a2807_2.jpg"></td>
   <td><b>a2807</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
@@ -372,13 +372,28 @@ dateCreated: 2022-05-19T21:45:40.126Z
 
 # Tabs {.tabset}
 ## 39**
-<!--3992--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rysej9tVIQ0-hzgu8PeiXYTgbuzRqBdP1GJzcpxx_tHlSmDFWtQT9g6J-A3OSFZiGHcyu7ObvNk8Z7P6mq75RxIDrJ=w1920-h853" height="200px"><figcaption> <b>3992</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rysej9tVIQ0-hzgu8PeiXYTgbuzRqBdP1GJzcpxx_tHlSmDFWtQT9g6J-A3OSFZiGHcyu7ObvNk8Z7P6mq75RxIDrJ=w1920-h853" width="100%"></div></div>
-<!--3994--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rREZsOdTA74Mn34XvRndW_Z2d51zGd76DrPuNNYF7axpFmqUzghDlgqSDKNXobqRGjVEfR2VbI309VrZhklvtt6lkAJg=w1920-h853" height="200px"><figcaption> <b>3994</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rREZsOdTA74Mn34XvRndW_Z2d51zGd76DrPuNNYF7axpFmqUzghDlgqSDKNXobqRGjVEfR2VbI309VrZhklvtt6lkAJg=w1920-h853" width="100%"></div></div>
-<!--3995--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qb9ZKf9UUHk7bxz-GA4fkwnWy8xEWdPi7vDX6_RRkrcDRyVYg9I4lkmBGqURX8W35sPqT_VoCiQaPkSVWe9RflkY5F=w1920-h853" height="200px"><figcaption> <b>3995</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qb9ZKf9UUHk7bxz-GA4fkwnWy8xEWdPi7vDX6_RRkrcDRyVYg9I4lkmBGqURX8W35sPqT_VoCiQaPkSVWe9RflkY5F=w1920-h853" width="100%"></div></div>
-<!--3995--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pyo_8FGGWghagEWwaVK_sp1EJy1MmwX6D7Vtqwlec-76l_ArcA-HBvg-Y2oGjPLF9zn8ofwNbeOcbM6ddqcOf8A37t=w1920-h853" height="200px"><figcaption> <b>3995, 3996</b> 📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pyo_8FGGWghagEWwaVK_sp1EJy1MmwX6D7Vtqwlec-76l_ArcA-HBvg-Y2oGjPLF9zn8ofwNbeOcbM6ddqcOf8A37t=w1920-h853" width="100%"></div></div>
-<!--3995--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q4pQcSgYYXWuyxi2lUySwS_Ve32CJPRW9SxNJiYsjOFFbu81D6oUSH3em6OD381LDCLiwAzZHf6Yu9XNBHTrYPmMAOWQ=w1920-h853" height="200px"><figcaption> <b>3996</b> 📷 sprika.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q4pQcSgYYXWuyxi2lUySwS_Ve32CJPRW9SxNJiYsjOFFbu81D6oUSH3em6OD381LDCLiwAzZHf6Yu9XNBHTrYPmMAOWQ=w1920-h853" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3992_3998_3956.jpg"></td>
+  <td><b>a3956, a3990, a3992</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+   
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3994.jpg"></td>
+  <td><b>a3994</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3994_3.jpg"></td>
+  <td><b>a3994</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a3996_3995.jpg"></td>
+  <td><b>a3995, a3996</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1977-Chavdar-11M4">Чавдар 11М4</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
