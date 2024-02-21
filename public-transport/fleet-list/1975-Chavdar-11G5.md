@@ -2,7 +2,7 @@
 title: Чавдар 11Г5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T20:32:33.724Z
+date: 2024-02-21T20:34:50.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T08:55:57.939Z
@@ -76,7 +76,14 @@ dateCreated: 2022-05-30T08:55:57.939Z
 ## 46**
 ## Tabs {.tabset}
 ### 
-<!--4621-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1V8OwRpe6w3H37V8u9KkLKNNwMSujwDxq" height="200px"><figcaption><b>A25</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1V8OwRpe6w3H37V8u9KkLKNNwMSujwDxq" width="100%"></div></div>
-<!--4623-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KsRg0GhpCLu9eni--4F-NzY7rU79fo3N" height="200px"><figcaption><b>A25</b> 📷 Klaus Mundt ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KsRg0GhpCLu9eni--4F-NzY7rU79fo3N" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/a4621%20a25%201997-08-19.jpg"></td>
+  <td><b>a4621 line25</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌 автостанция Илиянци<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/a4623%20line25%201997-08-19.jpg"></td>
+<td><b>a4623 line25</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌 автостанция Илиянци<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
