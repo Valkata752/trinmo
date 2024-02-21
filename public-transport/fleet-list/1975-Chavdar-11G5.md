@@ -2,7 +2,7 @@
 title: Чавдар 11Г5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T21:27:54.518Z
+date: 2024-02-21T21:32:22.406Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T08:55:57.939Z
@@ -72,7 +72,60 @@ dateCreated: 2022-05-30T08:55:57.939Z
 <td><b>a639 line105</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a><br>📌 <br> 📷 брошура Чавдар<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-## 19**(Аварийни)
+## 14**
+## Tabs {.tabset}
+### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1401.jpg"></td>
+  <td><b>a1401 line41</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1405_2.jpg"></td>
+  <td><b>a1405 line57</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1407.jpg"></td>
+  <td><b>a1407 line56</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+ 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1409_1013.jpg"></td>
+  <td><b>a1409</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1413.jpg"></td>
+  <td><b>a1413</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1420_3.jpg"></td>
+  <td><b>a1420 line56</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1425_2.jpg"></td>
+  <td><b>a1425</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2004/chavdar/a1431.jpg"></td>
+  <td><b>a1431</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+    
+  
+  
+## 19** (Аварийни)
 ## Tabs {.tabset}
 ### 
 <!--следващ пост--> 
@@ -94,7 +147,7 @@ dateCreated: 2022-05-30T08:55:57.939Z
   <td colspan=2 >ℹ️ </td></table></div> 
   
   
-## 30**(Аварийни)
+## 30** (Аварийни)
 ## Tabs {.tabset}
 ### 
 <!--следващ пост--> 
