@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T21:41:04.416Z
+date: 2024-02-21T20:34:41.096Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:12:52.460Z
@@ -169,13 +169,13 @@ dateCreated: 2023-11-20T21:12:52.460Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/a4621%20a25%201997-08-19.jpg"></td>
-<td><b>a4621 line25</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td><b>a4621 line25</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌 автостанция Илиянци<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/a4623%20line25%201997-08-19.jpg"></td>
-<td><b>a4623 line25</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>a4623 line25</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a> <br>📌 автостанция Илиянци<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
