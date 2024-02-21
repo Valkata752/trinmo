@@ -2,7 +2,7 @@
 title: Чавдар 11М4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T21:09:14.818Z
+date: 2024-02-21T21:09:42.925Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:45:40.126Z
