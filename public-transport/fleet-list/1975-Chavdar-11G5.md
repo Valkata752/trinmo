@@ -2,7 +2,7 @@
 title: Чавдар 11Г5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-14T11:46:52.307Z
+date: 2024-02-21T20:32:33.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T08:55:57.939Z
@@ -35,13 +35,24 @@ dateCreated: 2022-05-30T08:55:57.939Z
 
 # Технически характеристики
 
-<img src="https://drive.google.com/uc?id=1VCwziIa8cJTkvWsCz8-AGUY7SIUtAHTw" width="100%">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/chavdar/16-11g5.jpg" width="100%">
 
 ## Чертеж
 
 <img src="https://drive.google.com/uc?id=1xAoZhvuoe7e6orFO1k5RF0EilB-FZ_ou" width="100%">
 
 # Снимки
+
+## 5*
+## Tabs {.tabset}
+
+
+### 251
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-atamyan/a51_1-1.jpg"></td>
+<td><b>a51 line58</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a><br>📌 <br> 📷 Иво Атамян<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## 2**
 ## Tabs {.tabset}
@@ -55,10 +66,13 @@ dateCreated: 2022-05-30T08:55:57.939Z
 ## 6**
 ## Tabs {.tabset}
 ### 639
- <!--639--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1aOH1L7UmyOYqgwq_lqnd9qxlpgm5ZRgl" height="200px"><figcaption><b>A105 </b>📷 брошура Чавдар</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1aOH1L7UmyOYqgwq_lqnd9qxlpgm5ZRgl" width="100%"></div></div>
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/technical/chavdar/a639_line105.jpg"></td>
+<td><b>a639 line105</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1975-Chavdar-11G5">Чавдар 11Г5</a><br>📌 <br> 📷 брошура Чавдар<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 46**
 ## Tabs {.tabset}
 ### 
