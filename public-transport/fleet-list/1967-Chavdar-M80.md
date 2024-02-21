@@ -2,7 +2,7 @@
 title: Чавдар М80
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-06T06:16:57.967Z
+date: 2024-02-21T20:30:50.603Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:53:59.537Z
@@ -36,7 +36,7 @@ dateCreated: 2022-05-19T21:53:59.537Z
 
 # Технически характеристики
 
-<img src="https://drive.google.com/uc?id=1HxqEGd5jYIIg7wVnkagUJLH_aHNmIa_a" width="100%">
+<img src="http://46.10.181.183:1518/trinmo/literature/technical/chavdar/11-m80.jpg" width="100%">
 
 ## Чертеж
 
