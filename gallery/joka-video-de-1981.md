@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de  - 1981
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T21:33:46.740Z
+date: 2024-02-24T18:30:58.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:29:53.590Z
@@ -25,7 +25,7 @@ dateCreated: 2023-11-20T14:29:53.590Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm759%20line7%201981.jpg"></td>
-<td><b>tm759 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm759 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
@@ -50,7 +50,7 @@ dateCreated: 2023-11-20T14:29:53.590Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm797%201981.jpg"></td>
-<td><b>tm797</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm797</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -64,7 +64,7 @@ dateCreated: 2023-11-20T14:29:53.590Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm746%20line3%201981.jpg"></td>
-<td><b>tm746 line3</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm746 line3</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -72,14 +72,14 @@ dateCreated: 2023-11-20T14:29:53.590Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm733%201981.jpg"></td>
-<td><b>tm733</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm733</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm149%20line5%20tm553%201981.jpg"></td>
-<td><b>tm149 line5, tm553</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm149 line5, tm553</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
