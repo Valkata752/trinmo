@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-15T21:12:35.834Z
+date: 2024-02-24T20:26:22.697Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -68,6 +68,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Wilfried Wolf :de: *1998*](/gallery/wilfried-wolf)
 - [Theo Stolz*1997*](/gallery/theo-stolz-1997)
 - [Klaus Mundt :de: *1997*](/gallery/klaus-mundt-1997)
+- [Roel Rutten*1996, 1998*](/gallery/roel-rutten)
 - [Alex Krakowsky (Focus1965)*1996*](/gallery/alex-krakowsky)
 - [joka-video.de :de: *1996*](/gallery/joka-video-de-1996)
 - [Theo Stolz*1996*](/gallery/theo-stolz-1996)
