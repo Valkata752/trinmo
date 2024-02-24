@@ -2,7 +2,7 @@
 title: фотограф - Patrick Fitting
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T21:24:19.515Z
+date: 2024-02-24T20:14:05.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T15:45:11.083Z
@@ -15,33 +15,33 @@ dateCreated: 2023-12-02T15:45:11.083Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/patrick-fitting/tm117%20line15%201983%20Patrick%20Fitting.jpg"></td>
-<td><b>tm117 line15</b><br>📌 кръстовище бул. Витоша и бул. Патриарх Евтимий <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm117 line15</b><br>🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌 кръстовище бул. Витоша и бул. Патриарх Евтимий <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/patrick-fitting/tm179%20line4%20tm208%20line10%201983%20Patrick%20Fitting.jpg"></td>
-<td><b>tm179 line4, tm208 line10</b><br>📌 Софийски университет <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm179 line4, tm208 line10</b><br>🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌 Софийски университет <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/patrick-fitting/tm732%20line7%201983%20Patrick%20Fitting.jpg"></td>
-<td><b>tm732 line7</b><br>📌 бул. Княгния Мария Луиза <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm732 line7</b><br>🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌 бул. Княгния Мария Луиза <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/patrick-fitting/tm743%20line7%201983%20Patrick%20Fitting.jpg"></td>
-<td><b>tm743 line7</b><br>📌 кръстовище бул. Витоша и ул. Алабин <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm743 line7</b><br>🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌 кръстовище бул. Витоша и ул. Алабин <br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/patrick-fitting/tm795%20line3%201983%20Patrick%20Fitting.jpg"></td>
-<td><b>tm795 line3</b><br>📌 бул. Княз Александър Дондуков<br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
+<td><b>tm795 line3</b><br>🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌 бул. Княз Александър Дондуков<br> 📷 Patrick Fitting <br> 📅 1983</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
