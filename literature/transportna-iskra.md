@@ -2,7 +2,7 @@
 title: Транспортна искра (1960-1988)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T12:30:28.229Z
+date: 2024-02-24T12:41:06.506Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:52:26.663Z
