@@ -2,7 +2,7 @@
 title: Фотограф -  Alex Krakowsky
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T09:37:35.622Z
+date: 2024-02-24T20:17:55.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T11:15:17.091Z
@@ -24,13 +24,13 @@ dateCreated: 2023-11-12T11:15:17.091Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/alex-krakowsky/tm124%20line11%201996-08-19.jpg"></td>
-<td><b>tm124 line11</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Alex Krakowsky</td></tr>
+<td><b>tm124 line11</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Alex Krakowsky</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/alex-krakowsky/tm136%20line5%201996-08-19.jpg"></td>
-<td><b>tm136 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Alex Krakowsky</td></tr>
+<td><b>tm136 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Alex Krakowsky</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   
