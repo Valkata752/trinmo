@@ -2,7 +2,7 @@
 title: Фотограф: Wim van der Ent
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T21:13:41.945Z
+date: 2024-02-24T21:14:51.382Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-24T21:13:41.945Z
@@ -106,4 +106,11 @@ dateCreated: 2024-02-24T21:13:41.945Z
 <td><b>tm4415 line22</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1960-Duewag-GT8">Duewag GT8 </a><br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+## Спиркознак
+## Tabs {.tabset}
+### 
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-009-spirkoznak.jpg"></td>
+<td><b>Спиркознак - спирка ул. Сан Стефано</b><br> 🚋 <a href="/bg/identity/stop-signs">Спиркознаци </a><br>📌<br> 📷  Wim van der Ent</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
