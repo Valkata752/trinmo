@@ -2,7 +2,7 @@
 title: Чавдар М80
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T12:08:24.662Z
+date: 2024-02-24T12:08:38.177Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:53:59.537Z
