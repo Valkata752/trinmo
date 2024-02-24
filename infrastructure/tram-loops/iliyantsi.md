@@ -2,7 +2,7 @@
 title: Ново обръщателно колело Илиянци
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-22T19:38:39.641Z
+date: 2024-02-24T08:43:44.537Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:17:24.294Z
@@ -18,12 +18,16 @@ dateCreated: 2024-02-06T17:17:24.294Z
 
 
 # Галерия
+# Tabs {.tabset}
 
-## 06.02.2024
 
-## 07.02.2024
-
-## 08.02.2024
+## 22.02.2024
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(1).jpeg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(2).jpeg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(3).jpeg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(4).jpeg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(5).jpeg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(6).jpeg">
 
 ## 09.02.2024
 <img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.09/2024.02.09%20(1).jpeg">
@@ -47,12 +51,61 @@ dateCreated: 2024-02-06T17:17:24.294Z
 <img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.09/2024.02.09%20(19).jpeg">
 <img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.09/2024.02.09%20(20).jpeg">
 
-## 22.02.2024
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(1).jpeg">
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(2).jpeg">
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(3).jpeg">
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(4).jpeg">
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(5).jpeg">
-<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.22/2024.02.22%20(6).jpeg">
+## 08.02.2024
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(1).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(2).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(3).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(4).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(5).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(6).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(7).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(8).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(9).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(10).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(11).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(12).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(13).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(14).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(15).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(16).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(17).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.08/2024.02%20(18).jpg">
 
+## 07.02.2024
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(1).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(2).jpg">
 
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(3).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(4).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(5).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(6).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(7).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(8).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(9).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(10).jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.07/2024.02.07%20(11).jpg">
+
+## 06.02.2024
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(1).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(2).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(3).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(4).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(5).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(6).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(7).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(8).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(9).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(10).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(11).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(12).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(13).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(14).jpg">
+<img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/iliantsi-nov/2024.02.06/2024.02%20(15).jpg">
