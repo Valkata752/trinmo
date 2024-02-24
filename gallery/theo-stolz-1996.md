@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz - 1996
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-20T08:39:14.503Z
+date: 2024-02-24T15:40:44.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T08:35:13.050Z
@@ -15,34 +15,47 @@ dateCreated: 2024-01-20T08:35:13.050Z
 
 ## Tabs {.tabset}
 ###
-<!--81--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1lxncXp152ZqB9hJkMfjCSkqPWwiFLXmm" height="200px"><figcaption></figcaption>81</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1lxncXp152ZqB9hJkMfjCSkqPWwiFLXmm" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm81%20Theo%20Stolz%2026.12.1996.jpg"></td>
+<td><b>tm81</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## Tabs {.tabset}
 ### T8M-730 (София-70)
-
-<!--105--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1Tutu0SMOS04PICmHj9NUYwXEO8TpU_zn" height="200px"><figcaption></figcaption>105</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Tutu0SMOS04PICmHj9NUYwXEO8TpU_zn" width="100%"></div></div>
-
-
-<!--786--> 
-<div class="dropdown"><button class="imgbtn">
-<figure><img src="https://drive.google.com/uc?export=view&id=1SEahvWPBTmX1FFK22XVWhx4VXp5YyB9m" height="200px"><figcaption></figcaption>786</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1SEahvWPBTmX1FFK22XVWhx4VXp5YyB9m" width="100%"></div></div>
-
-<!--794--> 
-<div class="dropdown"><button class="imgbtn">
-<figure><img src="https://drive.google.com/uc?export=view&id=1Y-ms19LSltw5QT19IoZoYH7SopO0Aqlt" height="200px"><figcaption></figcaption>794</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1Y-ms19LSltw5QT19IoZoYH7SopO0Aqlt" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm105%20line7%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm105 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm786%20line1%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm786 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm794%20line7%20Theo%20Stolz%2006.06.1996.jpg"></td>
+<td><b>tm794 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### T8M-301 (България 1300)
 
-<!--301--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1MHHsrWswoNbJTjXJjNg43q1lb5ZDsOM_" height="200px"><figcaption></figcaption>301</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1MHHsrWswoNbJTjXJjNg43q1lb5ZDsOM_" width="100%"></div></div>
-
-<!--319--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1nUiLW0rol7hGw8nxby1RrFvpeXgXvySx" height="200px"><figcaption></figcaption>319</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1nUiLW0rol7hGw8nxby1RrFvpeXgXvySx" width="100%"></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm301%20line1%20Coca%20Cola%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm301 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T8M-301">T8M-301 (България 1300)</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm319%20line1%20Lucky%20Strike%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm319 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1979-T8M-301">T8M-301 (България 1300)</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
