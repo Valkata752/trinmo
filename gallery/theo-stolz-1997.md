@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T18:45:34.973Z
+date: 2024-02-24T19:20:08.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
@@ -27,8 +27,7 @@ dateCreated: 2023-11-19T16:24:27.252Z
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm103%20line7%20Theo%20Stolz%2003.07.1997.jpg"></td>
-<td><b>tm103 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
-</a><br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm103 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
