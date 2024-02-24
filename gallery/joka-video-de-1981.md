@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de  - 1981
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T18:30:58.756Z
+date: 2024-02-24T18:37:20.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:29:53.590Z
@@ -137,13 +137,13 @@ dateCreated: 2023-11-20T14:29:53.590Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm785%20line%207%20tm879%20line2.jpg"></td>
-<td><b>tm785 line7 tm879 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm785 line7 tm879 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1981/tm785%20line7%201981.jpg"></td>
-<td><b>tm785 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 joka-video.de</td></tr>
+<td><b>tm785 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 joka-video.de</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
   
