@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T20:34:41.096Z
+date: 2024-02-24T19:45:57.059Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:12:52.460Z
@@ -60,7 +60,7 @@ dateCreated: 2023-11-20T21:12:52.460Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm203%20depot%201997-08-19.jpg"></td>
-<td><b>tm203</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm203</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
@@ -119,19 +119,19 @@ dateCreated: 2023-11-20T21:12:52.460Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm773%20line7%201997-08-19.jpg"></td>
-<td><b>tm773 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm773 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm786%20line1%201997-08-19.jpg"></td>
-<td><b>tm786 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm786 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm794%20line1%201997-08-19.jpg"></td>
-<td><b>tm794 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm794 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
