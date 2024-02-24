@@ -2,7 +2,7 @@
 title: Транспортна искра (1960-1988)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-21T13:51:09.310Z
+date: 2024-02-24T12:03:45.499Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:52:26.663Z
@@ -323,7 +323,7 @@ dateCreated: 2024-01-31T13:52:26.663Z
 ## Tabs {.tabset}
 ###
 - [➡️*Вестник Транспортна искра - 1968*](/bg/literature/transportna-iskra/196)
-{.links-list}8
+{.links-list}
 
 28.12.1968 (брой 21)  - Нови автобуси в Земляне
 04.09.1968 (брой 15)  - Мотриса 813
