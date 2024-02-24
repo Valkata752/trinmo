@@ -2,7 +2,7 @@
 title: Modern Tramway - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-15T21:12:27.961Z
+date: 2024-02-24T08:23:01.643Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T15:21:06.743Z
@@ -12,19 +12,22 @@ dateCreated: 2024-01-31T15:21:06.743Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/modern-tramway/p193-tm255-tm475-line6.jpg"></td>
-<td><b>tm255+tm475 line6</b><br>🚋   <br>📌 <br>📸 Modern tramway</td></tr>
+<td><b>tm255+tm475 line6</b><br>🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 надлез Надежда <br>📸 Modern tramway</td></tr>
   <td colspan=2 >ℹ️ Modern Tramway</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/modern-tramway/p193-tm256-tm476-line6.jpg"></td>
-<td><b>tm256+tm476 line6</b><br>🚋   <br>📌 <br>📸 Modern tramway</td></tr>
+<td><b>tm256+tm476 line6</b><br>🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 бул. Мария Луиза <br>📸 Modern tramway</td></tr>
   <td colspan=2 >ℹ️ Modern Tramway</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/modern-tramway/p193-tm271-tm461-line6.jpg"></td>
-<td><b>tm271+tm461 line6</b><br>🚋   <br>📌 <br>📸 Modern tramway</td></tr>
+<td><b>tm271+tm461 line6</b><br>🚋 <a href="/bg/public-transport/fleet-list/1949-DTO-251-277">ДТО Мотриси серия № 251/277
+</a><br>📌 бул. Мария Луиза <br>📸 Modern tramway</td></tr>
   <td colspan=2 >ℹ️ Modern Tramway</td></table></div>
   
 <!--следващ пост--> 
