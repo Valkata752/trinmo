@@ -2,7 +2,7 @@
 title: Фотограф -  Roel Rutten
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T20:26:03.341Z
+date: 2024-02-24T20:29:40.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-24T20:26:03.341Z
@@ -24,19 +24,19 @@ dateCreated: 2024-02-24T20:26:03.341Z
 <td><b>tm149 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Roel Rutten</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/roel-rutten/tm190%20line8%201996.08.jpg"></td>
 <td><b>tm190 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Roel Rutten</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/roel-rutten/tm198%20line5%201996.08.jpg"></td>
 <td><b>tm198 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Roel Rutten</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/roel-rutten/tm208%20line8%20Roel%20Rutten%201996.08.jpg"></td>
 <td><b>tm208 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Roel Rutten</td></tr>
