@@ -2,7 +2,7 @@
 title: Фотограф - Olle S. Nevius - 1978
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-21T21:11:49.832Z
+date: 2024-02-24T19:23:53.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T10:50:05.669Z
@@ -19,33 +19,33 @@ dateCreated: 2023-11-20T10:50:05.669Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tm130%20line5%20Scan916.jpg"></td>
-<td><b>tm130 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tm130 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tm187%20tb242%20line2%20Scan894.jpg"></td>
-<td><b>tm187 tb242 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tm187 tb242 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tm730%20tm736%20tb250%20Scan895.jpg"></td>
-<td><b>tm730, tm736</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tm730, tm736</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tm730%20tm736%20tb250%20Scan895.jpg"></td>
-<td><b>tm731 line10, tm736, tb250</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tm731 line10, tm736, tb250</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/olle-s-nevenius/1978/tm757.jpg"></td>
-<td><b>tm757</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
+<td><b>tm757</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">T8M-730 (София-70)</a> <br>📌<br> 📷 Olle S. Nevius</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
