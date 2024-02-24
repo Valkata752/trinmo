@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt - 1996
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T09:36:00.266Z
+date: 2024-02-24T19:48:13.840Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T08:35:11.246Z
@@ -62,13 +62,13 @@ dateCreated: 2024-01-20T08:35:11.246Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm139%20depot%201996-08-19.jpg"></td>
-<td><b>tm139</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm139</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm141%20depot%201996-08-19.jpg"></td>
-<td><b>tm141</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm141</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
@@ -80,19 +80,19 @@ dateCreated: 2024-01-20T08:35:11.246Z
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm190%20line%205%201996-08-19.jpg"></td>
-<td><b>tm190 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm190 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm205%20depot%201996-08-19.jpg"></td>
-<td><b>tm205</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm205</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm772%20line7%201996-08-19.jpg"></td>
-<td><b>tm772 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm772 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
