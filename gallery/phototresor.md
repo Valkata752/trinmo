@@ -2,7 +2,7 @@
 title: Архив ФотоТрезор
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T19:10:13.803Z
+date: 2024-02-24T19:11:50.477Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T13:29:01.388Z
@@ -237,7 +237,14 @@ dateCreated: 2024-01-27T13:29:01.388Z
   <td colspan=2 >ℹ️ </td></table></div>     
   
   
-  
+## Tatra T6B5
+## Tabs {.tabset}
+### 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm4137_line20.jpg"></td>
+<td><b>tm4137+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/gallery/1988-CKD-Tatra-T6B5">Tatra T6B5</a><br>📌 <br> 📷 Росен Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
   
   
   
