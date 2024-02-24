@@ -2,7 +2,7 @@
 title: Фотограф - Thierry Hamal
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T11:35:02.990Z
+date: 2024-02-24T19:31:44.970Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T14:50:45.009Z
@@ -79,108 +79,124 @@ dateCreated: 2024-01-07T14:50:45.009Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm102_1_.jpg"></td>
-<td><b>tm102 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm102 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm132_5_.jpg"></td>
-<td><b>tm132 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm132 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm138_5_.jpg"></td>
-<td><b>tm138 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm138 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm147_4_.jpg"></td>
-<td><b>tm147 line4</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm147 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm154_5_.jpg"></td>
-<td><b>tm154 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm154 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm157_8_.jpg"></td>
-<td><b>tm157 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm157 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm157_8__1.jpg"></td>
-<td><b>tm157 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm157 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm173_5_.jpg"></td>
-<td><b>tm173 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm173 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm174_5_.jpg"></td>
-<td><b>tm174 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm174 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm182_8__1.jpg"></td>
-<td><b>tm182 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm182 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm185_5_.jpg"></td>
-<td><b>tm185 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm185 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm187_5_.jpg"></td>
-<td><b>tm187 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm187 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
     
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm198_8_.jpg"></td>
-<td><b>tm198 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm198 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
     
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm198_8__1.jpg"></td>
-<td><b>tm198 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm198 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
     
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm200_8_.jpg"></td>
-<td><b>tm200 line8</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm200 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
         
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/thiery-hamal/tm205_4_.jpg"></td>
-<td><b>tm205 line4</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Thiery Hamal</td></tr>
+<td><b>tm205 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Thiery Hamal</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   
