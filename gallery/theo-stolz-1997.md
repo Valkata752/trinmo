@@ -2,7 +2,7 @@
 title: Фотограф - Theo Stolz - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-22T11:35:56.669Z
+date: 2024-02-24T18:45:34.973Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-19T16:24:27.252Z
@@ -27,71 +27,77 @@ dateCreated: 2023-11-19T16:24:27.252Z
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm103%20line7%20Theo%20Stolz%2003.07.1997.jpg"></td>
-<td><b>tm103 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm103 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm136%20line4%20Theo%20Stolz%2004.01.1997.jpg"></td>
-<td><b>tm136 line4</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm136 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm153%20Theo%20Stolz%2004.01.1997.jpg"></td>
-<td><b>tm153</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm153</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm153%20Theo%20Stolz%2004.01.1997%201.jpg"></td>
-<td><b>tm153</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm153</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm187%20line5%20Theo%20Stolz%2003.05.1997.jpg"></td>
-<td><b>tm187 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm187 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm189%20line4%20Theo%20Stolz%2004.01.1997.jpg"></td>
-<td><b>tm189 line4</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm189 line4</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm194%20line5%20Theo%20Stolz%2003.05.1997.jpg"></td>
-<td><b>tm194 line5</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm194 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm783%20line7%20Theo%20Stolz%2003.05.1997.jpg"></td>
-<td><b>tm783 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm783 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
     
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm783%20line7%20Theo%20Stolz%2003.05.1997%201.jpg"></td>
-<td><b>tm783 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm783 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm798%20line7%20Theo%20Stolz%2003.05.1997.jpg"></td>
-<td><b>tm798 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm798 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1997/tm799%20line7%20Theo%20Stolz%2003.05.1997.jpg"></td>
-<td><b>tm799 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Theo Stolz</td></tr>
+<td><b>tm799 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)
+</a><br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
