@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2011г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-25T14:41:41.369Z
+date: 2024-02-25T14:45:42.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:41.369Z
@@ -14,11 +14,11 @@ dateCreated: 2024-02-25T14:41:41.369Z
 
 ---
 
-## MAN NL202
+## Mercedes O305G Heuliez
 ## Tabs {.tabset}
 ###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/straszny-2005/a009-line72.jpg"></td>
-<td><b><b>a009 line72</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2011/a1635-line108.jpg"></td>
+<td><b><b>a1635 line108</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
