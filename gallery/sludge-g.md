@@ -2,7 +2,7 @@
 title: Фотограф Sludge G
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T11:41:18.517Z
+date: 2024-02-25T11:42:19.103Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T11:41:18.517Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-25T11:41:18.517Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sludge-g/tm182%20line5.jpg"></td>
-<td><b>tm794 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Sludge G</td></tr>
+<td><b>tm182 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70)</a><br>📌<br> 📷 Sludge G</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
