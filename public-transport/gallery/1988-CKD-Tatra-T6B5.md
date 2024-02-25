@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:57:44.460Z
+date: 2024-02-25T13:59:58.709Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -92,8 +92,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4106--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/49978101842/" target="_blank" title="4106"> <img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" width="100%"></a></div></div>
 
-### 4107
-
+## 4107
 ## Tabs {.tabset}
 ### 
 <!--следващ пост--> 
