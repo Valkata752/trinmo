@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-06T11:29:34.121Z
+date: 2024-02-25T10:44:04.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -28,7 +28,7 @@ dateCreated: 2022-05-19T22:07:36.950Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1XoZkUwj9vCcOj3S-Ogk35FuR9nbLpBhj"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tm4415%20line22%20Allianz.jpg"></td>
 <td><b>Duewag GT8</b><br>Транспортът, подготвителните операции и застраховките им, са бартер срещу реклама със ЗК "България"(сега "Алианц" - б.а.). </td></tr>
   <td colspan=2 >ℹ️ снимка: 100 години градски транспорт</td></table></div>
 
