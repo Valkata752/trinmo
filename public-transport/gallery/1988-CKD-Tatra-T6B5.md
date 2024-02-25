@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:39:06.616Z
+date: 2024-02-25T13:39:36.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -50,6 +50,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4105
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/luc-koenot/tm4105%20line20%20LK148490%20-%20Luc%20Koenot%20-%2019-08-1996.jpg"></td>
+<td><b>tm4105 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Luc Koenot</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--4105--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51168898454_59e5346d6f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192887794@N02/51168898454/" target="_blank" title="4105"> <img src="https://live.staticflickr.com/65535/51168898454_59e5346d6f_z.jpg" width="100%"></a></div></div>
 
