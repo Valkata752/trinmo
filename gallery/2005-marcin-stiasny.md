@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2005г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-25T14:41:37.362Z
+date: 2024-02-25T14:43:50.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:37.362Z
