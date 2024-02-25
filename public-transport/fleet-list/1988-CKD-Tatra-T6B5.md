@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T14:13:43.332Z
+date: 2024-02-25T14:14:16.930Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -139,6 +139,11 @@ dateCreated: 2022-05-19T22:00:29.696Z
  
 
 # Снимки
+
+     
+- [📷 Пълна галерия *Над ХХХ снимки*](/bg/public-transport/gallery/1988-CKD-Tatra-T6B5)
+{.links-list}
+
 
 
 ## Tabs {.tabset}
