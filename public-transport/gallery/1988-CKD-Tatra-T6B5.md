@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:47:58.514Z
+date: 2024-02-25T13:53:48.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -15,17 +15,28 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4101
-<!--4101--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_k.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/183931126@N04/48648950763/" target="_blank" title="4101"> <img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_z.jpg" width="100%"></a></div></div>
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/48648950763_2333489e8f_k.jpg"></td>
+<td><b>tm4101 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ 
 
 ## Tabs {.tabset}
 ### 4102
-<!--4102--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48332349587_2446727d9a_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Николай Метев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/48332349587/" target="_blank" title="4102"> <img src="https://live.staticflickr.com/65535/48332349587_2446727d9a_z.jpg" width="100%"></a></div></div>
-
-<!--4102--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/481/31528793913_38f6ccb591_z.jpg" height="200px"><figcaption><b>ТМ22</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/31528793913/" target="_blank" title="4102"> <img src="https://live.staticflickr.com/481/31528793913_38f6ccb591_z.jpg" width="100%"></a></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/48332349587_6338f92cad_k.jpg"></td>
+<td><b>tm4102 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Николай Метев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/481/31528793913_94c677ac3a_k.jpg"></td>
+<td><b>tm4102 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Tabs {.tabset}
@@ -35,8 +46,14 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ferdinand-huizer/tm4103%20line20.jpg"></td>
 <td><b>tm4103 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ferdinand Huizer</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-<!--4103--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51142727296_638b17728f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51142727296/" target="_blank" title="4103"> <img src="https://live.staticflickr.com/65535/51142727296_638b17728f_z.jpg" width="100%"></a></div></div>
+  
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51142727296_2186d6e251_k.jpg"></td>
+<td><b>tm4103 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 ## Tabs {.tabset}
@@ -47,9 +64,11 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4104</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
-<!--4104--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4409/36192618314_9d0df41248_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/36192618314/" target="_blank" title="4104"> <img src="https://live.staticflickr.com/4409/36192618314_9d0df41248_z.jpg" width="100%"></a></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/4409/36192618314_2758242751_k.jpg"></td>
+<td><b>tm4104 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ## Tabs {.tabset}
@@ -59,9 +78,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/luc-koenot/tm4105%20line20%20LK148490%20-%20Luc%20Koenot%20-%2019-08-1996.jpg"></td>
 <td><b>tm4105 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Luc Koenot</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51168898454_0bce671cd4_k.jpg"></td>
+<td><b>tm4105 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
-<!--4105--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51168898454_59e5346d6f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192887794@N02/51168898454/" target="_blank" title="4105"> <img src="https://live.staticflickr.com/65535/51168898454_59e5346d6f_z.jpg" width="100%"></a></div></div>
 
 
 ## Tabs {.tabset}
