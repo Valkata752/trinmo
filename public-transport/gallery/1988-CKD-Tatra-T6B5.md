@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:44:44.779Z
+date: 2024-02-25T13:46:42.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -12,9 +12,6 @@ dateCreated: 2024-01-28T20:48:28.179Z
 {.links-list}
 ---
 
-
-
-## Единични
 
 ## Tabs {.tabset}
 ### 4101
@@ -133,6 +130,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4112
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t6b5/tm4112.jpg"></td>
+<td><b>tm4112+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--4112--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1718/26605803322_57e27bea6c_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/26605803322/" target="_blank" title="4112"> <img src="https://live.staticflickr.com/1718/26605803322_57e27bea6c_z.jpg" width="100%"></a></div></div>
 
@@ -212,6 +215,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4122
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t6b5/tm4122_2.jpg"></td>
+<td><b>tm4122+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+
+
 <!--4122--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51642868855_0006f93ebb_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51642868855/" target="_blank" title="4122"> <img src="https://live.staticflickr.com/65535/51642868855_0006f93ebb_z.jpg" width="100%"></a></div></div>
 
@@ -307,21 +317,20 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4137
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-001-tm4137-line20.jpg"></td>
 <td><b>tm4137 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t6b5/tm4137.jpg"></td>
+<td><b>tm4137+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 <!--4137--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Никлай Метев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/50076052096/" target="_blank" title="4137"> <img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" width="100%"></a></div></div>
   
-## Състави
-
-## Tabs {.tabset}
-### 4101+4102
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm1%201997-08-19.jpg"></td>
-<td><b>tm1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
