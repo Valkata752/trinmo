@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:36:13.806Z
+date: 2024-02-25T13:39:06.616Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -33,6 +33,11 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4103
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ferdinand-huizer/tm4103%20line20.jpg"></td>
+<td><b>tm4103 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ferdinand Huizer</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 <!--4103--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51142727296_638b17728f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51142727296/" target="_blank" title="4103"> <img src="https://live.staticflickr.com/65535/51142727296_638b17728f_z.jpg" width="100%"></a></div></div>
 
@@ -210,6 +215,11 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4131
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ferdinand-huizer/tm4131%20line20.jpg"></td>
+<td><b>tm4131 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ferdinand Huizer</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 <!--4131--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52124141564_021bd5a0f9_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52124141564/" target="_blank" title="4131"> <img src="https://live.staticflickr.com/65535/52124141564_021bd5a0f9_z.jpg" width="100%"></a></div></div>
 
