@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:39:36.332Z
+date: 2024-02-25T13:40:48.071Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -44,6 +44,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4104
+   <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm4104%20depot%201996-08-19.jpg"></td>
+<td><b>tm4104</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 <!--4104--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4409/36192618314_9d0df41248_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/36192618314/" target="_blank" title="4104"> <img src="https://live.staticflickr.com/4409/36192618314_9d0df41248_z.jpg" width="100%"></a></div></div>
 
