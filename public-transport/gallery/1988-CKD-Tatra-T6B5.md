@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:42:47.602Z
+date: 2024-02-25T13:43:23.580Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -145,6 +145,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4114
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/roel-rutten/tm4114%20line20%202002.09.jpg"></td>
+<td><b>tm4114 line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a><br>📌<br> 📷 Roel Rutten</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
 <!--4114--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50799859478_7440735c6e_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/50799859478/" target="_blank" title="4114"> <img src="https://live.staticflickr.com/65535/50799859478_7440735c6e_z.jpg" width="100%"></a></div></div>
 
