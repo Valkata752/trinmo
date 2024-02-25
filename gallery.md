@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T21:05:01.614Z
+date: 2024-02-25T05:52:47.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -78,6 +78,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Luc Koenot :belgium: *1993, 1996*](/gallery/luc-koenot)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 - [Ligne De Crête :fr: *1992*](/gallery/ligne-de-crete)
+- [Maarten van Dam *1991, 1993*](/gallery/maarten-van-dam)
 - [Champlin :fr: *1990*](/gallery/champlin)
 - [Martin Haman*1990*](/gallery/martin-haman)
 {.links-list}
