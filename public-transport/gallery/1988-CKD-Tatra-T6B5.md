@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:43:23.580Z
+date: 2024-02-25T13:44:44.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -163,6 +163,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4116
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/j-slehofer/2004/tm4116%20line22%20sofia13p.jpg"></td>
+<td><b>tm4116 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 J. Slehofer</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
 <!--4116--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51891419713_7211b91960_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51891419713/" target="_blank" title="4116"> <img src="https://live.staticflickr.com/65535/51891419713_7211b91960_z.jpg" width="100%"></a></div></div>
 
