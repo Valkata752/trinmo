@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:41:49.050Z
+date: 2024-02-25T13:42:47.602Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -75,6 +75,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4107
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-030-tm4107-line20.jpg"></td>
+<td><b>tm4107 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4107%20line20%20Theo%20Stolz%2012.07.1996.jpg"></td>
@@ -100,6 +106,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4109
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-010-tm4109-line20.jpg"></td>
+<td><b>tm4109 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--4109--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/30916974521/" target="_blank" title="4109"> <img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg" width="100%"></a></div></div>
 
@@ -283,6 +295,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4137
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-001-tm4137-line20.jpg"></td>
+<td><b>tm4137 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--4137--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Никлай Метев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/50076052096/" target="_blank" title="4137"> <img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" width="100%"></a></div></div>
   
