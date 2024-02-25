@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T14:11:23.503Z
+date: 2024-02-25T14:12:17.951Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -92,7 +92,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4106--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/49978101842/" target="_blank" title="4106"> <img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" width="100%"></a></div></div>
 
-### 4107
+## 4107
 
 ## Tabs {.tabset}
 ### 
@@ -148,9 +148,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4111--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/33998365478_07183db6ba_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/164919865@N03/33998365478/" target="_blank" title="4111"> <img src="https://live.staticflickr.com/65535/33998365478_07183db6ba_z.jpg" width="100%"></a></div></div>
 
-<!--4111--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4826/44538378910_f5d2dde9b9_z.jpg" height="200px"><figcaption><b>ТМ22</b> 📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/158241750@N05/44538378910/" target="_blank" title="4111"> <img src="https://live.staticflickr.com/4826/44538378910_f5d2dde9b9_z.jpg" width="100%"></a></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5.jpg"></td>
+<td><b>tm4111 line22</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌 гара Подуяне<br> 📷 Апостол Чуканов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 4112
 ## Tabs {.tabset}
 ###
@@ -230,6 +234,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4119--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51142727201_27fcbdee64_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51142727201/" target="_blank" title="4119"> <img src="https://live.staticflickr.com/65535/51142727201_27fcbdee64_z.jpg" width="100%"></a></div></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5_t6b5.jpg"></td>
+<td><b>tm4119+tm41117 line22</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌 гара Подуяне<br> 📷 Апостол Чуканов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 4120
 ## Tabs {.tabset}
 ###
