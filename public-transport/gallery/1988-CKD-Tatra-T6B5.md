@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T13:40:48.071Z
+date: 2024-02-25T13:41:49.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -75,12 +75,25 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4107
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4107%20line20%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm4107+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--4107--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/51262221703/" target="_blank" title="4107"> <img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg" width="100%"></a></div></div>
 
 
 ## Tabs {.tabset}
 ### 4108
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4108%20line20%20Theo%20Stol%2012.07.1996.jpg"></td>
+<td><b>tm4108+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
 <!--4108--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/35142077612/" target="_blank" title="4108"> <img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg" width="100%"></a></div></div>
 
@@ -138,6 +151,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4117
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4117%20line20%20Theo%20Stolz%2012.07.1996.jpg"></td>
+<td><b>tm4117+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
 <!--4117--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50694205013_df4f74dc88_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/50694205013/" target="_blank" title="4117"> <img src="https://live.staticflickr.com/65535/50694205013_df4f74dc88_z.jpg" width="100%"></a></div></div>
 
