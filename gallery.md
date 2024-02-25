@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T12:29:41.516Z
+date: 2024-02-25T14:47:39.242Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -47,7 +47,14 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 00те
 - [Иво Атамян :bulgaria: *2005-2009*](/gallery/ivo-atamyan)
-- [Marcin Stiasny :poland: *2006*](/gallery/marcin-stiasny)
+- [Marcin Stiasny :poland: *2003-2011*](/gallery/marcin-stiasny)
+{.links-list}
+
+**Архив по години** |  [2003](/bg/gallery/2003-marcin-stiasny), [2005](/bg/gallery/2005-marcin-stiasny), [2006](/bg/gallery/2006-marcin-stiasny), [2008](/bg/gallery/2008-marcin-stiasny), [2011](/bg/gallery/2011-marcin-stiasny)
+{.is-info}
+
+
+---
 - [Иво Радоев :bulgaria: *2006-2008*](/gallery/ivo-radoev-2006-2008)
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
