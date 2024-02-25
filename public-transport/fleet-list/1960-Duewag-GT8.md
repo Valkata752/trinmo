@@ -2,7 +2,7 @@
 title: Duewag GT8
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T10:44:04.043Z
+date: 2024-02-25T10:44:25.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:07:36.950Z
@@ -14,7 +14,7 @@ dateCreated: 2022-05-19T22:07:36.950Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1jXMPl6cigkYkr2mHzauzDqsdz9yl-kUK"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/kolio-nikolov/tm4405.jpg"></td>
 <td><b>Доставка по вода</b><br>Трамвайна мотриса №405(4405) при доставката и на пристанище Лом
 </td></tr>
   <td colspan=2 >ℹ️ снимка: Николай Николов</td></table></div>
