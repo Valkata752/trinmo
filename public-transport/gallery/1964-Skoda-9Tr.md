@@ -2,7 +2,7 @@
 title: Škoda 9Tr  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T08:51:50.462Z
+date: 2024-02-25T14:40:09.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-31T13:46:34.785Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 202
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/202%201965.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/202%201965.jpg"></td>
 <td><b><b>tb202 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
@@ -28,7 +28,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 205
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/205%201965.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/205%201965.jpg"></td>
 <td><b><b>tb205 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -69,7 +69,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/219%202%201965.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/219%202%201965.jpg"></td>
 <td><b><b>tb219 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -91,7 +91,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 224
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/224%201975.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/224%201975.jpg"></td>
 <td><b><b>tb224 line2 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
@@ -160,7 +160,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 265
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/265%203%201978.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/265%203%201978.jpg"></td>
 <td><b><b>tb265 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -241,7 +241,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 295
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/295%201970.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/295%201970.jpg"></td>
 <td><b><b>tb295 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
@@ -367,7 +367,7 @@ dateCreated: 2023-12-31T13:46:34.785Z
 ### 327
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/Skoda%209TR/327%201974.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivan-ivanov-metan/skoda-9tr/327%201974.jpg"></td>
 <td><b><b>tb327 </b></b><br>📌  <br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
