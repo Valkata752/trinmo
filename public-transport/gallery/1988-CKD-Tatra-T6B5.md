@@ -2,7 +2,7 @@
 title: ČKD Татра Т6Б5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-29T13:44:15.296Z
+date: 2024-02-25T13:36:13.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 ## Tabs {.tabset}
 ### 4101
 <!--4101--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/183931126@N04/48648950763/" target="_blank" title="4101"> <img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_z.jpg" width="100%"></a></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_k.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/183931126@N04/48648950763/" target="_blank" title="4101"> <img src="https://live.staticflickr.com/65535/48648950763_5bbab28eb7_z.jpg" width="100%"></a></div></div>
 
 
 ## Tabs {.tabset}
@@ -168,6 +168,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 
 ## Tabs {.tabset}
 ### 4125
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/sludge-g/tm4125%20line20.jpg"></td>
+<td><b>tm4125 line20</b><br> 🚋 <a href=""></a><br>📌<br> 📷 Sludge G</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+  
 <!--4125--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50856701587_768cac30b4_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/50856701587/" target="_blank" title="4125"> <img src="https://live.staticflickr.com/65535/50856701587_768cac30b4_z.jpg" width="100%"></a></div></div>
 
