@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de - 1996
 description: 
 published: true
-date: 2024-02-24T19:41:18.765Z
+date: 2024-02-25T06:09:08.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:41:28.828Z
@@ -43,32 +43,32 @@ dateCreated: 2023-11-20T14:41:28.828Z
 ### T8M-730 (София 70)
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm134%20tm423%20tm158%20tm425%20depot.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm134%20tm423%20tm158%20tm425%20depot.jpg"></td>
 <td><b>tm134, tm423, tm158, tm424</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm178%20line11.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm178%20line11.jpg"></td>
 <td><b>tm178 line11</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
 
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm184%20tm148%20depot.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm184%20tm148%20depot.jpg"></td>
 <td><b>tm184, tm148</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm190%20line5.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm190%20line5.jpg"></td>
 <td><b>tm190 line5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm782%20line1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm782%20line1.jpg"></td>
 <td><b>tm782 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
@@ -76,19 +76,19 @@ dateCreated: 2023-11-20T14:41:28.828Z
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm791%20line1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm791%20line1.jpg"></td>
 <td><b>tm791 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm794%20line1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm794%20line1.jpg"></td>
 <td><b>tm794 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2070%20-%20%d0%a1%d0%be%d1%84%d0%b8%d1%8f%2065/tm797%20line1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/t8m-730/tm797%20line1.jpg"></td>
 <td><b>tm797 line1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1970-T8M-730">Т8М-730 (София 70) </a><br>📌 неизв.<br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
