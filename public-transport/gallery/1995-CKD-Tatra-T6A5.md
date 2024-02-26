@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T21:55:14.764Z
+date: 2024-02-26T17:43:28.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T08:57:28.671Z
@@ -100,15 +100,20 @@ dateCreated: 2024-02-05T08:57:28.671Z
 ## Tabs {.tabset}
 
 ###
-<!--4170-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50795860563_5e44586651_k.jpg" height="200px"><figcaption> <b>TM22</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/137241490@N07/50795860563/" target="_blank" title="4170">
- <img src="https://live.staticflickr.com/65535/50795860563_5e44586651_k.jpg" width="100%"></a></div></div>
- 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/50795860563_5e44586651_k.jpg"></td>
+<td><b>tm4170 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+
+
 ## 4171
 ## Tabs {.tabset}
  
 ###
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50116671432_05a6c17f50_k.jpg"></td>
