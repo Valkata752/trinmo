@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T10:00:03.856Z
+date: 2024-02-26T20:16:53.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-15T15:42:38.104Z
@@ -138,6 +138,12 @@ dateCreated: 2023-12-15T15:42:38.104Z
 
 ## Tabs {.tabset}
 ### 2051
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2051+tm2052-line2.jpg"></td>
+<td><b><b>tm2051+tm2052 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
 <!--2051-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" height="200px"><figcaption><b>TM11</b> 📷 Владимир ВТ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=17TfCnDzIXCnwogzxYKfKgj5GjchINF6x" width="100%"></div></div>
 <!--2051-->
