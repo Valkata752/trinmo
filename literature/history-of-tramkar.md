@@ -2,7 +2,7 @@
 title: История на трамвайния завод
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T18:26:35.397Z
+date: 2024-02-26T20:37:46.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T20:16:24.453Z
@@ -70,7 +70,7 @@ dateCreated: 2023-02-27T20:16:24.453Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.elektrotransportsf.com/images/stories/zavod/007.jpg"></td>
 <td>1936 г. Модернизирана трамвайна мотриса тип „Цепелин”</td></tr>
-  <td colspan=2 >ℹ️ Столичен електротранспорт</td></table></div>
+  <td colspan=2 >ℹ️ снимка Robert Temmerman</td></table></div>
 
 За този голям технически подем в развитието на предприятието, и по-специално на техническата работилница, значително допринесъл инж. Кардалев, който е и първият началник на техническата работилница. По негово предложение и под негово ръководство от бракувани шасита на мотриси са направени първите 12 броя ремаркета серия 501-512 - зимни и летни, а в периода 1934 - 1935г. за първи път в работилницата са построени изцяло 12 броя ремаркета, серия № 301-312 само с ръчна спирачка.
 
@@ -87,7 +87,7 @@ dateCreated: 2023-02-27T20:16:24.453Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.elektrotransportsf.com/images/stories/zavod/009.jpg"></td>
 <td>1951-1960 г. Произведени 20 броя трамвайни мотриси и 24 броя ремаркета тип „Република”</td></tr>
-  <td colspan=2 >ℹ️ Столичен електротранспорт</td></table></div>
+  <td colspan=2 >ℹ️ снимка Robert Temmerman</td></table></div>
 
 
 
@@ -102,7 +102,7 @@ dateCreated: 2023-02-27T20:16:24.453Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://www.elektrotransportsf.com/images/stories/zavod/010.jpg"></td>
 <td>1958-1961 г. Произведени 25 броя трамвайни мотриси и 21 ремаркета тип „Комсомолец”</td></tr>
-  <td colspan=2 >ℹ️ Столичен електротранспорт</td></table></div>
+  <td colspan=2 >ℹ️ снимка Robert Temmerman</td></table></div>
 
 
   
