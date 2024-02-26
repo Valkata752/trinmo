@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T20:00:52.310Z
+date: 2024-02-26T23:27:03.980Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -92,9 +92,13 @@ dateCreated: 2022-07-01T07:02:10.622Z
 {.links-list}
 
 ## 80те
+
+
+ 
+- [Jiří Hertl (spvd.cz) :czech_republic: *1988*](/gallery/jiri-hertl) 
+- [Patrick Fitting *1983*](/gallery/patrick-fitting) 
 - [Rolf Villoz :switzerland: *1981*](/gallery/rolf-villoz)
 - [joka-video.de :de: *1981*](/gallery/joka-video-de-1981)
-- [Patrick Fitting *1983*](/gallery/patrick-fitting)
 - [H. Luff*1984/86*](/gallery/h-luff)
 - [Trotskee Travel *80те*](/gallery/trotskee-80te)
 {.links-list}
