@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T17:46:48.507Z
+date: 2024-02-26T17:49:13.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -31,6 +31,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4102 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Николай Метев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+###  
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/481/31528793913_94c677ac3a_k.jpg"></td>
@@ -47,6 +48,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4103 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ferdinand Huizer</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+###  
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51142727296_2186d6e251_k.jpg"></td>
@@ -63,7 +65,8 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm4104%20depot%201996-08-19.jpg"></td>
 <td><b>tm4104</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/4409/36192618314_2758242751_k.jpg"></td>
@@ -79,6 +82,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4105 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Luc Koenot</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51168898454_0bce671cd4_k.jpg"></td>
@@ -106,13 +110,15 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-030-tm4107-line20.jpg"></td>
 <td><b>tm4107 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
+###
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4107%20line20%20Theo%20Stolz%2012.07.1996.jpg"></td>
 <td><b>tm4107+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg"></td>
@@ -129,6 +135,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4108+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg"></td>
@@ -145,7 +152,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4109 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg"></td>
@@ -165,6 +172,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4111--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/33998365478_07183db6ba_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/164919865@N03/33998365478/" target="_blank" title="4111"> <img src="https://live.staticflickr.com/65535/33998365478_07183db6ba_z.jpg" width="100%"></a></div></div>
 
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5.jpg"></td>
@@ -186,7 +194,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4112 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+###  
 <!--4112--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1718/26605803322_57e27bea6c_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/26605803322/" target="_blank" title="4112"> <img src="https://live.staticflickr.com/1718/26605803322_57e27bea6c_z.jpg" width="100%"></a></div></div>
 
@@ -204,7 +212,8 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/roel-rutten/tm4114%20line20%202002.09.jpg"></td>
 <td><b>tm4114 line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a><br>📌<br> 📷 Roel Rutten</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
-  
+
+###
 <!--4114--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50799859478_7440735c6e_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/50799859478/" target="_blank" title="4114"> <img src="https://live.staticflickr.com/65535/50799859478_7440735c6e_z.jpg" width="100%"></a></div></div>
 
@@ -222,7 +231,8 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/j-slehofer/2004/tm4116%20line22%20sofia13p.jpg"></td>
 <td><b>tm4116 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 J. Slehofer</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
-  
+
+###
 <!--4116--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51891419713_7211b91960_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51891419713/" target="_blank" title="4116"> <img src="https://live.staticflickr.com/65535/51891419713_7211b91960_z.jpg" width="100%"></a></div></div>
 
@@ -235,7 +245,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4117+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+###
 <!--4117--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50694205013_df4f74dc88_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/50694205013/" target="_blank" title="4117"> <img src="https://live.staticflickr.com/65535/50694205013_df4f74dc88_z.jpg" width="100%"></a></div></div>
 
@@ -251,6 +261,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4119--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51142727201_27fcbdee64_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/192249656@N04/51142727201/" target="_blank" title="4119"> <img src="https://live.staticflickr.com/65535/51142727201_27fcbdee64_z.jpg" width="100%"></a></div></div>
 
+###
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5_t6b5.jpg"></td>
@@ -278,7 +289,7 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4122+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>    
 
-
+###
 <!--4122--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51642868855_0006f93ebb_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/51642868855/" target="_blank" title="4122"> <img src="https://live.staticflickr.com/65535/51642868855_0006f93ebb_z.jpg" width="100%"></a></div></div>
 
@@ -302,7 +313,8 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/sludge-g/tm4125%20line20.jpg"></td>
 <td><b>tm4125 line20</b><br> 🚋 <a href=""></a><br>📌<br> 📷 Sludge G</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>      
-  
+
+###
 <!--4125--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50856701587_768cac30b4_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/50856701587/" target="_blank" title="4125"> <img src="https://live.staticflickr.com/65535/50856701587_768cac30b4_z.jpg" width="100%"></a></div></div>
 
@@ -344,6 +356,8 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ferdinand-huizer/tm4131%20line20.jpg"></td>
 <td><b>tm4131 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ferdinand Huizer</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+###
 <!--4131--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52124141564_021bd5a0f9_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52124141564/" target="_blank" title="4131"> <img src="https://live.staticflickr.com/65535/52124141564_021bd5a0f9_z.jpg" width="100%"></a></div></div>
 
@@ -381,13 +395,14 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4137 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+###
    <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marian-kostadinov/2003/tatra-t6b5/tm4137.jpg"></td>
 <td><b>tm4137+tm41XX line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Мариан Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+###  
 <!--4137--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Никлай Метев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/144042201@N07/50076052096/" target="_blank" title="4137"> <img src="https://live.staticflickr.com/65535/50076052096_c37439868c_z.jpg" width="100%"></a></div></div>
   
