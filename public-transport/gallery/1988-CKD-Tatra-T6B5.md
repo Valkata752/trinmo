@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T14:13:56.475Z
+date: 2024-02-26T17:46:48.507Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -89,8 +89,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 ## 4106
 ## Tabs {.tabset}
 ### 
-<!--4106--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/163300261@N07/49978101842/" target="_blank" title="4106"> <img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/49978101842_24fdbe3bb1_z.jpg"></td>
+<td><b>tm4106 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ## 4107
 
@@ -107,9 +112,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/theo-stolz/1996/tm4107%20line20%20Theo%20Stolz%2012.07.1996.jpg"></td>
 <td><b>tm4107+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg"></td>
+<td><b>tm4107 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Лъчезар Митев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
-<!--4107--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/51262221703/" target="_blank" title="4107"> <img src="https://live.staticflickr.com/65535/51262221703_7fe0cca620_z.jpg" width="100%"></a></div></div>
 
 ## 4108
 ## Tabs {.tabset}
@@ -120,9 +129,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4108+tm41XX line20</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷 Theo Stolz</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
-<!--4108--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Захари Захариев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/133968782@N06/35142077612/" target="_blank" title="4108"> <img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/4232/35142077612_e0394f7de4_z.jpg"></td>
+<td><b>tm4108 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## 4109
 ## Tabs {.tabset}
@@ -132,9 +144,14 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-010-tm4109-line20.jpg"></td>
 <td><b>tm4109 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg"></td>
+<td><b>tm4109 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
-<!--4109--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/30916974521/" target="_blank" title="4109"> <img src="https://live.staticflickr.com/5740/30916974521_90267f31d6_z.jpg" width="100%"></a></div></div>
 
 ## 4110
 ## Tabs {.tabset}
