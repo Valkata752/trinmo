@@ -2,7 +2,7 @@
 title: История на трамвайния завод
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T18:25:43.394Z
+date: 2024-02-26T18:26:35.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T20:16:24.453Z
