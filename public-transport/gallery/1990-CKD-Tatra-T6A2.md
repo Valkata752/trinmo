@@ -2,13 +2,13 @@
 title: ČKD Татра Т6А2 📸
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-12T09:59:26.899Z
+date: 2024-02-26T20:19:30.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T22:55:47.389Z
 ---
 
-- [➡️ Обатно към страницата на модела *CKD Tatar T6A2*](/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2)
+- [➡️ Обатно към страницата на модела *CKD Tatra T6A2*](/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2)
 {.links-list}
 ---
 
@@ -102,6 +102,11 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 ## Tabs {.tabset}
 ### 2011
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2011+tm2012-line2.jpg"></td>
+<td><b><b>tm2011+tm2012 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
 <!--2011-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=13GIhWSEYuSdrXeze_TfteGZloYZ0vlVT" height="200px"><figcaption><b>TM9</b> 📷 Theo Stolz ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=13GIhWSEYuSdrXeze_TfteGZloYZ0vlVT" width="100%"></div></div>
 <!--2011-->
@@ -140,8 +145,11 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 ## Tabs {.tabset}
 ### 2019
- <!--2019--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQX89xItbb5JnbnsMmkW2sUmBJ7_TCj-3rOKmHXKnADVxxdP6I4XKSR2-5d_T9RNFt9Fm0u2gTNs9ynjgioROKCshGIgw=w1920-h853" height="200px"><figcaption> <b>TM14</b> 📷 Неизв. </figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQX89xItbb5JnbnsMmkW2sUmBJ7_TCj-3rOKmHXKnADVxxdP6I4XKSR2-5d_T9RNFt9Fm0u2gTNs9ynjgioROKCshGIgw=w1920-h853" width="100%"></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2019-line14.jpg"></td>
+<td><b><b>tm2019 line14</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 
 ## 2021-2040
@@ -205,8 +213,12 @@ dateCreated: 2023-12-03T22:55:47.389Z
 
 ## Tabs {.tabset}
 ### 2027
-<!--2027--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" height="200px"><figcaption> <b>TM2</b> 📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" target="_blank" title="2027"> <img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" width="100%"></a></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2027+tm2028-line2.jpg"></td>
+<td><b><b>tm2027+tm2028 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+
 <!--2027--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AAOQEOR47OTVMlywjCpcjkq94J6-bmTW4tqVBGMfmgzSQcVssSCufcZGQwaNuY4Hv-ljyKg0xp0W959Eju_qStJJ5R239kqAyQ=w2560-h1190" height="200px"><figcaption> <b>TM7A</b> 📷 Сава Ташев</figcaption></figure></button><div class="dropdown-content"> <img src="https://lh3.googleusercontent.com/u/3/drive-viewer/AAOQEOR47OTVMlywjCpcjkq94J6-bmTW4tqVBGMfmgzSQcVssSCufcZGQwaNuY4Hv-ljyKg0xp0W959Eju_qStJJ5R239kqAyQ=w2560-h1190" width="100%"></div></div>
 
