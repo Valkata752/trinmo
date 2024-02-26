@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-17T13:22:07.011Z
+date: 2024-02-26T18:03:32.510Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -59,8 +59,7 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **Tedom** | [C12G](/bg/public-transport/fleet-list/2008-Tedom-C12G) |
 -   **Tezeller** | [Tezauto LF 280](/bg/public-transport/fleet-list/2010-Tezeller-Tezauto-LF-280) |
 -   **Wiima** | [K202-Volvo B10M](/bg/public-transport/fleet-list/1985-Wiima-K202-Volvo-B10M) |
--   **ЗиС** | [155](/bg/public-transport/fleet-list/1949-ZIS-155) | 
--   **ЛАЗ** | [695E](/bg/public-transport/fleet-list/1966-LAZ-695E) | [А183](/bg/public-transport/fleet-list/2007-LAZ-A183) |
+-   **ЛАЗ** | [А183](/bg/public-transport/fleet-list/2007-LAZ-A183) |
 
 # 🚎 Тролейбусен транспорт
 
