@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T09:35:53.498Z
+date: 2024-02-26T20:20:39.385Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -159,8 +159,11 @@ dateCreated: 2022-05-19T22:00:08.386Z
 
 ## Tabs {.tabset}
 ### Състави 
-<!--2027--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" height="200px"><figcaption> <b>TM2</b> 📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" target="_blank" title="2027"> <img src="https://lh6.googleusercontent.com/YjvIjPj98i9WqGOsXrJXmE6M3dJBTavEpuyClsFApWfX7xby0J4Z1PmyuxYlzagEqME=w2400" width="100%"></a></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2027+tm2028-line2.jpg"></td>
+<td><b><b>tm2027+tm2028 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
 <!--2013--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" height="200px"><figcaption><b>ТМ5</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1VnsYxuLTLXui3rhNo4NaUYpoNAPjKWpX" width="100%"></div></div>
  <!--2037-2038--> 
