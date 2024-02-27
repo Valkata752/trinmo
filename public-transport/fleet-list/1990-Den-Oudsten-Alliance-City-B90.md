@@ -2,7 +2,7 @@
 title: Den Oudsten Alliance City B90
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-03-21T15:36:18.018Z
+date: 2024-02-27T12:26:03.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:37:45.883Z
@@ -106,10 +106,25 @@ dateCreated: 2022-05-19T21:37:45.883Z
  <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/jNw6CTYGjqbkge4VAG1t9-b_zFQGYdNMWZOEKliIOo7e9Gu0m59Xcb_FiRKOgF9cgck=w2400" height="200px"><figcaption><b> 5010 </b>📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"> <img src="https://lh3.googleusercontent.com/jNw6CTYGjqbkge4VAG1t9-b_zFQGYdNMWZOEKliIOo7e9Gu0m59Xcb_FiRKOgF9cgck=w2400" width="100%"></div></div>
  
 ## 5011
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/a5011-line260.jpg"></td>
+<td><b><b>a5011 line260</b></b><br>🚌 <a href="/bg/public-transport/fleet-list/1990-Den-Oudsten-Alliance-City-B90">Den Oudsten Alliance City B90</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+  
  <!--5011-->
  <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/95bbfyBR3ZHfIuPWIZBTDrfF8Z81dOZf8zvRQTXmJx1QQwl8Ry4s0Wg6hsKY4yXf3jU=w2400" height="200px"><figcaption><b> 5011 </b>📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"> <img src="https://lh4.googleusercontent.com/95bbfyBR3ZHfIuPWIZBTDrfF8Z81dOZf8zvRQTXmJx1QQwl8Ry4s0Wg6hsKY4yXf3jU=w2400" width="100%"></div></div> 
  
- 
+## 5012
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/a5012-line260.jpg"></td>
+<td><b><b>a5012 line260</b></b><br>🚌 <a href="/bg/public-transport/fleet-list/1990-Den-Oudsten-Alliance-City-B90">Den Oudsten Alliance City B90</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+  
+  
 ## 5014
    <!--5014-->
  <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/pF9B2p6fbE3usliZ5fVaFiqm-UCcQXK70ZzsPiWmplecoCYpPGwepU3qjM0k3Z8bb50=w2400" height="200px"><figcaption><b> 5014 </b>📷 Мариан Костадинов</figcaption></figure></button><div class="dropdown-content"><img src="https://lh6.googleusercontent.com/pF9B2p6fbE3usliZ5fVaFiqm-UCcQXK70ZzsPiWmplecoCYpPGwepU3qjM0k3Z8bb50=w2400" width="100%"></div></div> 
