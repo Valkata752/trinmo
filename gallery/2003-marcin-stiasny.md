@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2003г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T20:41:44.332Z
+date: 2024-02-27T20:46:12.911Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:35.146Z
@@ -138,7 +138,7 @@ dateCreated: 2024-02-25T14:41:35.146Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2051+tm2052-line2.jpg"></td>
-<td><b><b>tm2051+tm2052 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2051+tm2052 line2</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
   
   <!--следващ пост--> 
