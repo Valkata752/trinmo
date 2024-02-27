@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-27T11:03:07.627Z
+date: 2024-02-27T11:11:31.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -40,147 +40,92 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 # :poland: Kultowe Autobusy PRL-u
 
-# Tabs {.tabset}
-## 1-9
+1) Autosan H9-03 - 18-04-2018
+2) Škoda Karosa SM 11 - 02-05-2018
+3) Bussing D2U - 16-05-2018
+4) ZIS-155 - 30-05-2018
+5) Ikarus 66 - 13-06-2018
+6) Robur Garant - 27-06-2018
+7) Leyland RTW 75 - 13-07-2018
+8) Škoda 706 RTO	 - 25-07-2018
+9) Ikarus 311 - 09-08-2018
+10) Star N52 - 22-08-2018 
+11)) Ifa H6 B - 03-10-2018
+12) Kassbohrer Setra S8	17-10-2018
+13) Volvo B616 - 31-10-2018 
+14) Henschel HS 100 - 14-11-2018
+15) Jelcz-Berliet - 28-11-2018 
+16) Mercedes-benz O 3500 - 12-12-2018 
+17) Fiat 306/3 - 27-12-2018 
+18) Tatra T 500 HB - 09-01-2019 
+19) Opel Blitz - 23-01-2019
+20) Borgward BO 4000 - 06-02-2019 
+21) Leyland-Verheul Holland - 20-02-2019
+22) Autosan H10 - 06-03-2019
+23) Mercedes-benz LOP 3500 - 20-03-2019
+24) PAZ-672M - 03-04-2019
+25) SAN H27 -  
+26) Scania Vabis CF76 D11 - 30-04-2019 
+27) Autosan H9-35 - 15-05-2019 
+28) Renault S45 R4210 - 29-05-2019 
+29) Ikarus 260 - 12-06-2019 
+30) Neoplan NH 9 L - 26-06-2019 
+31) Jelcz MAT Olawka - 10-07-2019 
+32) Jelcz Mielec WZT - 27-07-2019
+33) Ikarus 556 - 07-08-2019
+34) Chausson APH 520 - 21-08-2019
+35) Saurer L4C - 04-09-2019 
+36) Vetra VBRH - 18-09-2019 
+37) Jelcz 043 Cabrio - 02-10-2019
+38) Magirus-Deutz-Saturn-II	16-10-2019
+39) Saurer 4T - 	30-10-2019
+40) GMC School Bus - 13-11-2019
+41) Bussing Senator - 27-11-2019
+42) Van Hool 306 - 11-12-2019 
+43) REO Speedvagon - 24-12-2019 
+44) Bedford OB - 08-01-2020 
+45) Greyhound - 22-01-2020
+46) Fleischer S5 - 05-02-2020 
+47) Hino BH15 - 19-02-2020 
+48) Brossel Konckheere - 04-03-2020
+49) Volvo B57 - 18-03-2020 
+50) Steyr 380Q - 01-04-2020 
+51) SAN H-01 A - 15-04-2020 
+52) Jelcz 080 - 13-05-2020 
+53) San H-100B - 10-06-2020 
+54) Fiat 666 RN - 24-06-2020 
+55) Star OSINOBUS - 08-07-2020
+56) KRUPP TITAN SW 080 HUBERTIA	 - 22-07-2020 
+57) Bedford Val - 05-08-2020 
+58) Burlingham Seagull - 19-08-2020 
+59) Ikarus 280 - 02-09-2020 
+60) Star 20 Stonka - 16-09-2020
+61) Ikarus 620 - 30-09-2020
+62) Nissan U690 - 14-10-2020
+63) Ikarus 30 - 28-10-2020 
+64) Mercedes O 355 - 10-11-2020 
+65) Volvo B375 - 25-11-2020
+66) Ikarus 55 - 09-12-2020 
+67) Jelcz-Berliet PR 100 - 23-12-2020
+68) Nissan U20L - 
+69) Standard Pullman 800 - 20-01-2021 
+70) Ikarus 256 - 03-02-2021 
+71) Isuzu BUO4 - 17-02-2021
+72) Sultana Super Panorámico - 03-03-2021
+73) Ikarus 60T - 17-03-2021 
+74) Hino BT51 - 	31-03-2021
+75) Ikarus 415 - 14-04-2021 
+76) Jelcz 043 - 28-04-2021
+77) LiAZ-677 - 12-05-2021
+78) VAN HOOL T9 - 26-05-2021
+79) LAZ-695E - 09-06-2021
+80) Ikarus 250 - 23-06-2021
+81)	SAN H100A	07-07-2021
+82)	JELCZ 272 MEX	21-07-2021
+83)	Škoda 706 RO	04-08-2021
+84)	SAN HOIB	18-08-2021
+85)	KAROSA ŠD 11	10-01-2022
 
-|:oncoming_bus:  | дата |
-|---|---|
-|1 Autosan H9-03 |18-04-2018|
-|2 Škoda Karosa SM 11	 |02-05-2018|
-|3 Bussing D2U |16-05-2018|
-|4 ZIS-155 |30-05-2018|
-|5 Ikarus 66 |13-06-2018|
-|6 Robur Garant |27-06-2018|
-|7 Leyland RTW 75 |13-07-2018|
-|8 Škoda 706 RTO	 |25-07-2018|
-|9 Ikarus 311 |09-08-2018|
-{.dense}
-
-## 10-19
-
-|:oncoming_bus:  | дата |
-|---|---|
-|10 Star N52 |22-08-2018| 
-|11 Ifa H6 B |03-10-2018|
-|12 Kassbohrer Setra S8	|17-10-2018|
-|13 Volvo B616 |31-10-2018| 
-|14 Henschel HS 100 |14-11-2018|
-|15 Jelcz-Berliet |28-11-2018| 
-|16 Mercedes-benz O 3500 |	12-12-2018| 
-|17 Fiat 306/3 |27-12-2018| 
-|18 Tatra T 500 HB |09-01-2019| 
-|19 Opel Blitz |23-01-2019|
-{.dense}
-
-## 20-29
-
-|:oncoming_bus:  | дата |
-|---|---|
-|20 Borgward BO 4000 |06-02-2019| 
-|21 Leyland-Verheul Holland |20-02-2019|
-|22 Autosan H10 |06-03-2019|
-|23 Mercedes-benz LOP 3500 |20-03-2019|
-|24 PAZ-672M |03-04-2019|
-|25 SAN H27 | 
-|26 Scania Vabis CF76 D11	 |30-04-2019| 
-|27 Autosan H9-35 |15-05-2019| 
-|28 Renault S45 R4210 |29-05-2019| 
-|29 Ikarus 260 |12-06-2019| 
-{.dense}
-
-## 30-39
-
-|:oncoming_bus:  | дата |
-|---|---|
-|30 Neoplan NH 9 L |26-06-2019| 
-|31 Jelcz MAT Olawka |10-07-2019| 
-|32 Jelcz Mielec WZT |27-07-2019|
-|33 Ikarus 556 |07-08-2019|
-|34 Chausson APH 520 |21-08-2019|
-|35 Saurer L4C |04-09-2019| 
-|36 Vetra VBRH |18-09-2019| 
-|37 Jelcz 043 Cabrio |02-10-2019|
-|38 Magirus-Deutz-Saturn-II	|16-10-2019|
-|39 Saurer 4T |	30-10-2019|
-{.dense}
-
-
-## 40-49
-
-|:oncoming_bus:  | дата |
-|---|---|
-|40 GMC School Bus |13-11-2019|
-|41 Bussing Senator |27-11-2019|
-|42 Van Hool 306 |11-12-2019| 
-|43 REO Speedvagon |24-12-2019| 
-|44 Bedford OB |08-01-2020| 
-|45 Greyhound |22-01-2020|
-|46 Fleischer S5 |05-02-2020| 
-|47 Hino BH15 |19-02-2020| 
-|48 Brossel Konckheere |04-03-2020|
-|49 Volvo B57 |18-03-2020| 
-{.dense}
-
-## 50-59
-
-|:oncoming_bus:  | дата |
-|---|---|
-|50 Steyr 380Q |01-04-2020| 
-|51 SAN H-01 A |15-04-2020| 
-|52 Jelcz 080 |13-05-2020| 
-|53 San H-100B |10-06-2020| 
-|54 Fiat 666 RN |24-06-2020| 
-|55 Star OSINOBUS |08-07-2020|
-|56 KRUPP TITAN SW 080 HUBERTIA	 |22-07-2020| 
-|57 Bedford Val |05-08-2020| 
-|58 Burlingham Seagull |19-08-2020| 
-|59 Ikarus 280 |02-09-2020| 
-{.dense}
-
-## 60-69
-
-|:oncoming_bus:  | дата |
-|---|---|
-|60 Star 20 Stonka |16-09-2020|
-|61 Ikarus 620 |30-09-2020|
-|62 Nissan U690 |14-10-2020|
-|63 Ikarus 30 |28-10-2020| 
-|64 Mercedes O 355 |10-11-2020| 
-|65 Volvo B375 |25-11-2020|
-|66 Ikarus 55 |09-12-2020| 
-|67 Jelcz-Berliet PR 100 |23-12-2020|
-|68 Nissan U20L |
-|69 Standard Pullman 800 |20-01-2021| 
-{.dense}
-
-
-## 70-88
-
-|:oncoming_bus:  | дата |
-|---|---|
-|70 Ikarus 256 |03-02-2021| 
-|71 Isuzu BUO4 |17-02-2021|
-|72 Sultana Super Panorámico |03-03-2021|
-|73 Ikarus 60T |17-03-2021| 
-|74 Hino BT51 |	31-03-2021|
-|75 Ikarus 415 |14-04-2021| 
-|76 Jelcz 043 |28-04-2021|
-|77 LiAZ-677 |12-05-2021|
-|78 VAN HOOL T9 |26-05-2021|
-|79 LAZ-695E |09-06-2021|
-{.dense}
-
-## 80-85
-
-|:oncoming_bus:  | дата |
-|---|---|
-|80 Ikarus 250 |23-06-2021|
-|81	SAN H100A	|07-07-2021|
-|82	JELCZ 272 MEX	|21-07-2021|
-|83	Škoda 706 RO	|04-08-2021|
-|84	SAN HOIB	|18-08-2021|
-|85	KAROSA ŠD 11	|10-01-2022|
-{.dense}
 
 # :czech_republic: Kultovní Autobusy Minulé Éry
 1) KAROSA ŠL 11 1965 - Československo
