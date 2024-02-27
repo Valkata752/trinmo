@@ -2,7 +2,7 @@
 title: Güleryüz Cobra GD 272
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-04-20T14:53:27.982Z
+date: 2024-02-27T20:44:05.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:20:54.900Z
@@ -127,3 +127,9 @@ dateCreated: 2022-05-19T21:20:54.900Z
 <!--6121--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1444/26442425641_b6aada831b_k.jpg" height="200px"><figcaption> <b>А27</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/26442425641/" target="_blank" title="6121"> <img src="https://live.staticflickr.com/1444/26442425641_b6aada831b_k.jpg" width="100%"></a></div></div>
 
+## 6137
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/a6137-line260.jpg"></td>
+<td><b><b>a6137 line260</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/2008-Guleryuz-Cobra-GD-272">Güleryüz Cobra GD 272</a> <br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
