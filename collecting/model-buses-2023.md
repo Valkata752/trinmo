@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-27T11:22:49.329Z
+date: 2024-02-27T11:24:38.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -16,24 +16,19 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 # :bulgaria: Легендарни Автобуси 
 
-# Tabs {.tabset}
-## 1-12
-|:oncoming_bus:  | дата |
-|---|---|
-| 1 IKARUS 30 | 27.09.2023 г. |
-| 2 SKODA RTO 706 | 11.10.2023 г. |
-| 3 IKARUS 55 | 25.10.2023 г. |
-| 4 ZIS 155 | 8.11.2023 г. |
-| 5 BUSSING D2U | 22.11.2023 г. |
-| 6 Tatra 500 HB | 6.12.2023 г. |
-| 7 SKODA SM 11 | 20.12.2023 г. |
-| 8 JELCZ BERLIETT PR100 | 3.01.2024 г. |
-| 9 AUTOSAN H-9 03 | 17.01.2024 г. |
-| 10 IKARUS 66 | 31.01.2024 г. |
-| 11 ROBUR GARANT | 14.02.2024 г. |
-| 12 IKARUS 620 |28.02.2024 г. |
-| 13 IFA H6 B | 13.03.2024 г. |
-{.dense}
+1) IKARUS 30 - 27.09.2023 г. 
+2) SKODA RTO 706 - 11.10.2023 г. 
+3) IKARUS 55 - 25.10.2023 г. 
+4) ZIS 155 - 8.11.2023 г. 
+5) BUSSING D2U - 22.11.2023 г. 
+6) Tatra 500 HB - 6.12.2023 г. 
+7) SKODA SM 11 - 20.12.2023 г. 
+8) JELCZ BERLIETT PR100 - 3.01.2024 г. 
+9) AUTOSAN H-9 03 - 17.01.2024 г. 
+10) IKARUS 66 - 31.01.2024 г. 
+11) ROBUR GARANT - 14.02.2024 г. 
+12) IKARUS 620 -28.02.2024 г. 
+13) IFA H6 B - 13.03.2024 г. 
 
 
 
@@ -50,7 +45,7 @@ dateCreated: 2023-09-30T11:25:42.499Z
 8) Škoda 706 RTO	 - 25-07-2018
 9) Ikarus 311 - 09-08-2018
 10) Star N52 - 22-08-2018 
-11)) Ifa H6 B - 03-10-2018
+11) Ifa H6 B - 03-10-2018
 12) Kassbohrer Setra S8	17-10-2018
 13) Volvo B616 - 31-10-2018 
 14) Henschel HS 100 - 14-11-2018
