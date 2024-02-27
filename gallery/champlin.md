@@ -2,7 +2,7 @@
 title: Фотограф - Champlin
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T19:43:13.967Z
+date: 2024-02-27T11:50:31.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T13:26:09.399Z
@@ -45,7 +45,7 @@ dateCreated: 2023-11-20T13:26:09.399Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/champlin/tm816%20line14.jpg"></td>
-<td><b><b>tm816 line4 </b></b><br>📌 пл. Св. Неделя <br> 📷 Champlin</td></tr>
+<td><b><b>tm816 line14 </b></b><br>📌 пл. Св. Неделя <br> 📷 Champlin</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
