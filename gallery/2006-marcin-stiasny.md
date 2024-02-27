@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2006г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T11:33:53.779Z
+date: 2024-02-27T11:34:14.235Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:39.254Z
@@ -127,6 +127,7 @@ dateCreated: 2024-02-25T14:41:39.254Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/a5023-line260.jpg"></td>
 <td><b><b>a5023 line260</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+  
 ## Тролейбуси
 
 ## Tabs {.tabset}
