@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-27T11:11:31.608Z
+date: 2024-02-27T11:22:49.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -192,46 +192,38 @@ dateCreated: 2023-09-30T11:25:42.499Z
 
 # :uk: Classic Coaches Collection
 
-# Tabs {.tabset}
-## 1-15
-|  |  |  | снимка |
-|---|---|---|---|
-| 4642 101 | Burlingham Seagull Coach | Oct 2015 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc01_plinth.jpg" width="200px">|
-| 4642 102 | Bedford VAL Plaxton Panorama I Coach | Dec 2015 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc02_plinth.jpg" width="200px">|
-| 4642 103 | Bedford OB Duple Vista Coach | Jan 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc03_1.jpg" width="200px">|
-| 4642 104 | Van Hool T9 Coach | Jan 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc04_1.jpg" width="200px">|
-| 4642 105 | Kässbohrer Setra S8 Coach | Feb 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc05_1.jpg" width="200px">|
-| 4642 106 | Saurer L4C Coach | Mar 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc06_1.jpg" width="200px">|
-| 4642 107 | Henschel 100N Coach | Apr 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc07_1.jpg" width="200px">|
-| 4642 108 | IFA H6 B Coach | May 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc08_1.jpg" width="200px">|
-| 4642 109 | Plaxton Panorama Coach (1/76) | Jun 2016 |  |
-| 4642 110 | Bova Futura Coach (/1/76) | Jun 2016 |  |
-| 4642 111 | Plaxton Excalibur Coach (/1/76) | Jul 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc13_1.jpg" width="200px">|
-| 4642 112 | Van Hool Alizee Coach (/1/76) | Aug 2016 |  |
-| 4642 113 | Borgward BO 4000 Coach | Sep 2016 |  |
-| 4642 114 | BMMO CM5T Coach (1/76) | Oct 2016 |  |
-| 4642 115 | Mercedes Benz O 3500 Coach | Nov 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc15_1.jpg" width="200px">|
+4642 101 Burlingham Seagull Coach Oct 2015
+4642 102 Bedford VAL Plaxton Panorama I Coach Dec 2015
+4642 103 Bedford OB Duple Vista Coach Jan 2016
+4642 104 Van Hool T9 Coach Jan 2016
+4642 105 Kässbohrer Setra S8 Coach Feb 2016
+4642 106 Saurer L4C Coach Mar 2016
+4642 107 Henschel 100N Coach Apr 2016
+4642 108 IFA H6 B Coach May 2016
+4642 109 Plaxton Panorama Coach (1/76) Jun 2016
+4642 110 Bova Futura Coach (/1/76) Jun 2016
+4642 111 Plaxton Excalibur Coach (/1/76) Jul 2016 
+4642 112 Van Hool Alizee Coach (/1/76) Aug 2016
+4642 113 Borgward BO 4000 Coach Sep 2016
+4642 114 BMMO CM5T Coach (1/76) Oct 2016
+4642 115 Mercedes Benz O 3500 Coach Nov 2016
+4642 116 Plaxton Excalibur (Premiere #) Coach (1/76) Dec 2016
+4642 117 Van Hool 306 Coach Dec 2016
+4642 118 Magrirus-Deutz Saturn II Bus Jan 2017
+4642 119 Leyland-Verheul Bus Feb 2017
+4642 120 Brossel A80 Jonckheere Bus Mar 2017
+4642 121 Steyr 380Q Coach Apr 2017
+4642 122 Büssing Senator 12D Bus May 2017
+4642 123 Krupp Titan 080 Coach Jun 2017
+4642 124 Skoda 706 RTO Coach Jun 2017
+4642 125 Ikarus 66 Inter-City Coach Jul 2017
+4642 126 Fleischer S5 Coach Aug 2017
+4642 127 Fiat 306/3 Interurban Coach Sep 2017
+4642 128 Scania Vabis D11 Oct 2017
+4642 129 Volvo B616 Bus Nov 2017
+4642 130 Reo Speedwagon Coach Dec 2017
+4642 131 Neoplan NH 9L Hamburg Coach Jan 2018
 
-## 16-31
-|  |  |  | снимка |
-|---|---|---|---|
-| 4642 116 | Plaxton Excalibur (Premiere #) Coach (1/76) | Dec 2016 |  |
-| 4642 117 | Van Hool 306 Coach | Dec 2016 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc17_1.jpg" width="200px">|
-| 4642 118 | Magrirus-Deutz Saturn II Bus | Jan 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc18_1.jpg" width="200px">|
-| 4642 119 | Leyland-Verheul Bus | Feb 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc19_1.jpg" width="200px">|
-| 4642 120 | Brossel A80 Jonckheere Bus | Mar 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc20_1.jpg" width="200px">|
-| 4642 121 | Steyr 380Q Coach | Apr 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc21_1.jpg" width="200px">|
-| 4642 122 | Büssing Senator 12D Bus | May 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc22_1.jpg" width="200px">|
-| 4642 123 | Krupp Titan 080 Coach | Jun 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc23_1.jpg" width="200px">|
-| 4642 124 | Skoda 706 RTO Coach | Jun 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc24_1.jpg" width="200px">|
-| 4642 125 | Ikarus 66 Inter-City Coach | Jul 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc25_1.jpg" width="200px">|
-| 4642 126 | Fleischer S5 Coach | Aug 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc26_1.jpg" width="200px">|
-| 4642 127 | Fiat 306/3 Interurban Coach | Sep 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc27_1.jpg" width="200px">|
-| 4642 128 | Scania Vabis D11 | Oct 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc28_1.jpg" width="200px">|
-| 4642 129 | Volvo B616 Bus | Nov 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc29_1.jpg" width="200px">|
-| 4642 130 | Reo Speedwagon Coach | Dec 2017 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc30_1.jpg" width="200px">|
-| 4642 131 | Neoplan NH 9L Hamburg Coach | Jan 2018 |<img src="http://www.modelbuszone.co.uk/ooc/atlaseditions/img/ccc31_1.jpg" width="200px">|
-{.dense}
 
 
 # Edition ATLAS Bus Collection
