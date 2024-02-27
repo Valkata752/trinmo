@@ -2,7 +2,7 @@
 title: ČKD Tatra T6A2-SF
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T20:21:15.867Z
+date: 2024-02-27T20:45:58.749Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:58:19.722Z
@@ -228,7 +228,7 @@ dateCreated: 2022-05-19T21:58:19.722Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm2051+tm2052-line2.jpg"></td>
-<td><b><b>tm2051+tm2052 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2051+tm2052 line2</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
   
  <!--следващ пост--> 
@@ -240,7 +240,7 @@ dateCreated: 2022-05-19T21:58:19.722Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2009/tm2047%20tm2048%20line%209.jpg"></td>
-<td><b>tm2047+tm2048 line9</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm2047+tm2048 line9</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">CKD Tatra T6A2-SF</a> <br>📌 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 
