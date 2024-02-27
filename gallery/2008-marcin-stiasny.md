@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2008г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T20:58:55.739Z
+date: 2024-02-27T20:59:10.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
