@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2006г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T11:46:25.214Z
+date: 2024-02-27T11:54:06.491Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:39.254Z
@@ -304,38 +304,38 @@ dateCreated: 2024-02-25T14:41:39.254Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2008-line14.jpg"></td>
-<td><b><b>tm2008 line14</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2008 line14</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2">Tatra T6A2</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2019-line14.jpg"></td>
-<td><b><b>tm2019 line14</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2019 line14</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2">Tatra T6A2</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2030-line15.jpg"></td>
-<td><b><b>tm2030 line15</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2030 line15</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2">Tatra T6A2</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2045-line9.jpg"></td>
-<td><b><b>tm2045+tm2046? line9</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2045+tm2046? line9</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">Tatra T6A2-SF</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2051+tm2052-line9.jpg"></td>
-<td><b><b>tm2051+tm2052 line9</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2051+tm2052 line9</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">Tatra T6A2-SF</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
     
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/tm2054-line14.jpg"></td>
-<td><b><b>tm2054 line14</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>tm2054 line14</b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">Tatra T6A2-SF</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
 
 <!--следващ пост--> 
