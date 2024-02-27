@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2003г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-26T20:17:10.512Z
+date: 2024-02-27T20:41:44.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:35.146Z
@@ -147,7 +147,7 @@ dateCreated: 2024-02-25T14:41:35.146Z
 <td><b><b>tm4101 line20</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
   
-    <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2003/tm4413-line22.jpg"></td>
 <td><b><b>tm4413 line22</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
