@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2006г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T11:54:06.491Z
+date: 2024-02-27T12:25:37.869Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-25T14:41:39.254Z
@@ -115,12 +115,12 @@ dateCreated: 2024-02-25T14:41:39.254Z
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/a5011-line260.jpg"></td>
-<td><b><b>a5011 line260</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>a5011 line260</b></b><br>🚌 <a href="/bg/public-transport/fleet-list/1990-Den-Oudsten-Alliance-City-B90">Den Oudsten Alliance City B90</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2006/a5012-line260.jpg"></td>
-<td><b><b>a5012 line260</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+<td><b><b>a5012 line260</b></b><br>🚌 <a href="/bg/public-transport/fleet-list/1990-Den-Oudsten-Alliance-City-B90">Den Oudsten Alliance City B90</a><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
