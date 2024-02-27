@@ -2,7 +2,7 @@
 title: Фотограф - Marcin Stiasny - 2008г.
 description: Транспорт, инфрастуктура и мобилност
 published: true
-date: 2024-02-27T20:59:10.060Z
+date: 2024-02-27T21:03:02.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-11T14:09:41.143Z
@@ -165,4 +165,73 @@ dateCreated: 2023-12-11T14:09:41.143Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/a9006-line404.jpg"></td>
 <td><b><b>a9006 line404</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>      
+
+
+## Тролейбуси
+## Tabs {.tabset}
+###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tb2915-line9.jpg"></td>
+<td><b><b>tb2915 line9</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+## Трамваи
+## Tabs {.tabset}
+###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm313-line5.jpg"></td>
+<td><b><b>tm313 line5</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm723-line12.jpg"></td>
+<td><b><b>tm723 line12</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm804-line12.jpg"></td>
+<td><b><b>tm804 line12</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm821-line2.jpg"></td>
+<td><b><b>tm821 line2</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>      
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm828-line3.jpg"></td>
+<td><b><b>tm828 line3</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm2026-line18.jpg"></td>
+<td><b><b>tm2026 line18</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm2031+tm2032-line9.jpg"></td>
+<td><b><b>tm2031+tm2032 line9</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+    
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm2035-line18.jpg"></td>
+<td><b><b>tm2035 line18</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>     
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/marcin-stiasny-straszny/2008/tm2045+tm2046-line9.jpg"></td>
+<td><b><b>tm2045+tm2046 line9</b></b><br>📌  <br> 📷 Marcin Stiasny</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
   
