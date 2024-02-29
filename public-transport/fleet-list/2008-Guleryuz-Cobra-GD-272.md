@@ -2,7 +2,7 @@
 title: Güleryüz Cobra GD 272
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-29T17:25:18.534Z
+date: 2024-02-29T17:27:09.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:20:54.900Z
