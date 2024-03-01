@@ -2,7 +2,7 @@
 title: Трамвайни архиви - трасета
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-01T20:56:18.303Z
+date: 2024-03-01T21:19:32.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-28T16:12:41.055Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-28T16:12:41.055Z
 ## Tabs {.tabset}
 ### Младост
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/1-tram-mladost-4/Mladost.jpg"></td>
  <td><b>Трамвайно трасе в Младост</b><br>1) Улична регулация на трамвайно трасе от гара Искър до ж.к. Младост <br>2) ОЗРП - ж.к. Младост 3 - част кв. 4, 5, 6 (1983г.)<br> 3) ОЗРП - София - Югоизточен град, Район 4 - Зона 5 (1982г.)<br></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/mladost-4"><b>Повече информация...</b></a></td></table></div>
   
