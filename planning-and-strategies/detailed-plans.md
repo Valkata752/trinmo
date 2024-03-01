@@ -2,7 +2,7 @@
 title: Подробни устройствени планове
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-27T13:49:12.366Z
+date: 2024-03-01T20:43:20.870Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-04T17:59:20.094Z
@@ -95,18 +95,7 @@ dateCreated: 2022-07-04T17:59:20.094Z
 
 ## Исторически
 
-## Tabs {.tabset}
-### Младост
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><b>Трамвайно трасе в Младост</b><br>1) Улична регулация на трамвайно трасе от гара Искър до ж.к. Младост <br>2) ОЗРП - ж.к. Младост 3 - част кв. 4, 5, 6 (1983г.)<br> 3) ОЗРП - София - Югоизточен град, Район 4 - Зона 5 (1982г.)<br></td>
-<td><img src="https://drive.google.com/uc?id=1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl"></td></tr>
-  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tramway-mladost-80te"><b>Повече информация...</b></a></td></table></div>
-  
-  
-> Очаквайте скоро... 
-> 
-> 1) Подуяне
-> 2) Малинова долина
-> 3) Дървеница
-> 
-{.is-info}
+
+http://trinmo.org/bg/planning-and-strategies/tram-archives
+
+
