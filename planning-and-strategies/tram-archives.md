@@ -2,7 +2,7 @@
 title: Трамвайни архиви - трасета
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-01T21:19:32.673Z
+date: 2024-03-01T21:25:19.760Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-28T16:12:41.055Z
@@ -37,7 +37,7 @@ dateCreated: 2023-10-28T16:12:41.055Z
 ## Tabs {.tabset}
 ### бул. Драган Цанков
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://lh3.google.com/u/0/d/1zriL-tULDSUaiA_9Y7HOtmyBuOv_Xjc-"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/4-tram-dragan-tzankov/%d0%b1%d1%83%d0%bb.%20%d0%94%d1%80%d0%b0%d0%b3%d0%b0%d0%bd%20%d0%a6%d0%b0%d0%bd%d0%ba%d0%be%d0%b2.png"></td>
   <td></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/dragan-tsankov"><b>Повече информация...</b></a></td></table></div>
 
