@@ -2,7 +2,7 @@
 title: Трамвайни архиви - трасета
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-09T20:38:59.506Z
+date: 2024-03-01T20:53:13.348Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-28T16:12:41.055Z
@@ -10,10 +10,38 @@ dateCreated: 2023-10-28T16:12:41.055Z
 
 ## Развитие на трамвайната мрежа и нереализирани планове
 
-- [:memo: Планове за трамвай до ж.к. Младост 4 *1982, 1983 и 1986 г.*](/bg/planning-and-strategies/tram-archives/mladost-4)
-- [:train: Трамваи през Подуяне *1922, 1936, 1949, 1993*](/bg/planning-and-strategies/tram-archives/poduiane)
-- [:memo: Трамвай 4 до гара Искър *1971, 1972, 1975, 1976, 1984*](/bg/planning-and-strategies/tram-archives/tm4-gara-iskar)
-- [:memo: Трамвай по бул. Драган Цанков *19хх*](/bg/planning-and-strategies/tram-archives/dragan-tsankov)
+## Tabs {.tabset}
+### Младост
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><b>Трамвайно трасе в Младост</b><br>1) Улична регулация на трамвайно трасе от гара Искър до ж.к. Младост <br>2) ОЗРП - ж.к. Младост 3 - част кв. 4, 5, 6 (1983г.)<br> 3) ОЗРП - София - Югоизточен град, Район 4 - Зона 5 (1982г.)<br></td>
+<td><img src="https://lh3.google.com/u/0/d/1bmVfVKQWFo9h48dtUO1NEpRF7a3a30tl"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/mladost-4"><b>Повече информация...</b></a></td></table></div>
+  
+  
+## Tabs {.tabset}
+### Подуяне
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><br></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/botevgradsko.jpg"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/poduiane"><b>Повече информация...</b></a></td></table></div>
+  
+## Tabs {.tabset}
+### Гара Искър
+<div class="table-responsive"><table style="width:100%"><tr>
+<td></td>
+<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/3-tram-4-do-gara-iskar/3-gara-iskar.jpg"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/tm4-gara-iskar"><b>Повече информация...</b></a></td></table></div>
+  
+## Tabs {.tabset}
+### бул. Драган Цанков
+<div class="table-responsive"><table style="width:100%"><tr>
+<td></td>
+<td><img src="https://lh3.google.com/u/0/d/1zriL-tULDSUaiA_9Y7HOtmyBuOv_Xjc-"></td></tr>
+  <td colspan=2 >ℹ️ <a href="/bg/planning-and-strategies/tram-archives/dragan-tsankov"><b>Повече информация...</b></a></td></table></div>
+
+
+
+# Oчаквайте скоро...
 - [:memo: Развитие на трамваите в Младост 1, 2 и 3 *19хх*](/bg/planning-and-strategies/tram-archives/mladost-1-2-3)
 - [:memo: Плановете за Малинова долина и трамвай до лифта *19хх*](/bg/planning-and-strategies/tram-archives/malinova-dolina)
 - [:memo: Удължаване на трамвайчето в Бояна от училищетп нагоре *19хх*](/bg/planning-and-strategies/tram-archives/boyana)
