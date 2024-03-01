@@ -2,7 +2,7 @@
 title: Трамвайни архиви - трасета
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-01T20:53:13.348Z
+date: 2024-03-01T20:54:04.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-28T16:12:41.055Z
@@ -41,7 +41,7 @@ dateCreated: 2023-10-28T16:12:41.055Z
 
 
 
-# Oчаквайте скоро...
+## Oчаквайте скоро...
 - [:memo: Развитие на трамваите в Младост 1, 2 и 3 *19хх*](/bg/planning-and-strategies/tram-archives/mladost-1-2-3)
 - [:memo: Плановете за Малинова долина и трамвай до лифта *19хх*](/bg/planning-and-strategies/tram-archives/malinova-dolina)
 - [:memo: Удължаване на трамвайчето в Бояна от училищетп нагоре *19хх*](/bg/planning-and-strategies/tram-archives/boyana)
