@@ -2,68 +2,68 @@
 title: Столичен общински вестник - 1929 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-30T15:49:20.141Z
+date: 2024-03-01T08:26:01.513Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T17:27:07.558Z
 ---
 
-## 23.11.1928 (брой 37)
+## 23.11.1929 (брой 37)
 **Хроника** - Приходи от трамваите
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br37-str5.jpg">
 
-## 23.11.1928 (брой 37)
+## 23.11.1929 (брой 37)
 **Улиците на София** (ул. Княз Борис Търновски, ул. Цар Освободител)
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br37-str2.jpg">
 
-## 12.11.1928 (брой 36)
+## 12.11.1929 (брой 36)
 **Нова две чакалнии** 
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str4.jpg">
 
-## 12.11.1928 (брой 36)
+## 12.11.1929 (брой 36)
 **Ново разписание** - линия до Орландовци
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str5.jpg">
 
-## 12.11.1928 (брой 36)
+## 12.11.1929 (брой 36)
 **Хроника** - Приходи от трамваите
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str5-1.jpg">
 
-## 12.11.1928 (брой 36)
+## 12.11.1929 (брой 36)
 **Улиците на София** (ул. Петър Делян, ул. Ивац, ул. Омуртаг)
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str3-1.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str3.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br36-str2.jpg">
 
-## 29.11.1928 (брой 35)
+## 29.11.1929 (брой 35)
 **Хроника** - Приходи от трамваите
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br35-str7.jpg">
 
-## 29.11.1928 (брой 35)
+## 29.11.1929 (брой 35)
 **Улиците на София** (ул. Иван Екзарх)
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br35-str4.jpg">
 
-## 20.11.1928 (брой 34)
+## 20.11.1929 (брой 34)
 **Хроника** - Приходи от трамваите
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str7.jpg">
 
-## 20.11.1928 (брой 34)
+## 20.11.1929 (брой 34)
 **Ново разписание** - линия до Орландовци
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str8.jpg">
 
-## 20.11.1928 (брой 34)
+## 20.11.1929 (брой 34)
 **Улиците на София** (ул. Момчил Войвода)
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str5.jpg">
 
-## 20.11.1928 (брой 34)
+## 20.11.1929 (брой 34)
 **Улиците на София** 
 
 <img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/1929/br34-str4.jpg">
