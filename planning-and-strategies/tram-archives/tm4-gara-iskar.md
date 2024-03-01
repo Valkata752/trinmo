@@ -2,11 +2,17 @@
 title: Удължаване на трамвай 4 до гара Искър
 description: Транспорт, инфраструктура и мболност
 published: true
-date: 2024-01-11T10:30:24.713Z
+date: 2024-03-01T20:50:49.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-06T06:52:10.052Z
 ---
+
+- [:train: Трамвайна мрежа *Развитие през годините*](/infrastructure/tram-network)
+{.links-list}
+---
+
+<img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/3-tram-4-do-gara-iskar/3-gara-iskar.jpg">
 
 ## 1928
 
