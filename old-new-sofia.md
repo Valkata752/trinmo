@@ -2,7 +2,7 @@
 title: Old New Sofia | Стара Нова София
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-02T17:21:23.051Z
+date: 2024-03-02T17:23:09.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:15:23.798Z
@@ -31,7 +31,7 @@ dateCreated: 2023-05-26T08:15:23.798Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1SBpTYn7k2ohCV6Du8EwfEul6M01r7XYh"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/old-new-sofia/31.%20Sadebna%20palata.jpg"></td>
 <td>📌 Съдебна палата  <br>📆  19?? - 2021 <br>🚋 T6M-801 София / Pesa Swing<br>📸 неизв. </td></tr>
   <td colspan=2 >ℹ️ 3️⃣1️⃣ Колекция Old New Sofia</td></table></div>
 
