@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2014 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-05T20:13:19.649Z
+date: 2024-03-05T20:17:15.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T08:45:36.537Z
@@ -23,7 +23,7 @@ dateCreated: 2023-08-10T08:45:36.537Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51962858159_56923f2c01_c.jpg"></td>
-<td>📸 Захари Захариев</td></tr>
+<td><b>a1150 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2014-MAN-Lions-City-G-CNG">MAN Lion's City G CNG - 2014</a> <br>📌  <br> 📸  📸 Захари Захариев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
@@ -31,7 +31,19 @@ dateCreated: 2023-08-10T08:45:36.537Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51297140988_e5be67650c_b.jpg"></td>
-<td>📸 Владимир Симов</td></tr>
+<td><b>a1150 line83</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2014-MAN-Lions-City-G-CNG">MAN Lion's City G CNG - 2014</a> <br>📌  <br> 📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+
+## 1177
+## Tabs {.tabset}
+
+### X10
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53569760166_7c1cf7b498_h.jpg"></td>
+<td><b>a1177 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2014-MAN-Lions-City-G-CNG">MAN Lion's City G CNG - 2014</a> <br>📌 Околовръстен път <br> 📸  Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
