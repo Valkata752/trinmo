@@ -2,7 +2,7 @@
 title: MAN Lion's City G CNG - 2014 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-05T20:29:25.408Z
+date: 2024-03-05T20:31:03.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T08:45:36.537Z
@@ -56,6 +56,18 @@ dateCreated: 2023-08-10T08:45:36.537Z
   <td colspan=2 >ℹ️ </td></table></div>
   
 
+## 1151
+## Tabs {.tabset}
+
+### 83A
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/5321/30165220774_4e4fbeecbd_h.jpg"></td>
+<td><b>a1150 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2014-MAN-Lions-City-G-CNG">MAN Lion's City G CNG - 2014</a> <br>📌  <br> 📸 
+Just Viksа</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 1177
 ## Tabs {.tabset}
 
