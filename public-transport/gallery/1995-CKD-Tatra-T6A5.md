@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T17:43:28.317Z
+date: 2024-03-07T20:10:08.727Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T08:57:28.671Z
@@ -16,7 +16,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4145
 ## Tabs {.tabset}
-###
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/5720/30508567142_8b97074e64_h.jpg"></td>
@@ -25,7 +25,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4148
 ## Tabs {.tabset}
-### 
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_8774.jpg"></td>
@@ -35,7 +35,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 ## 4149  
 ## Tabs {.tabset}
-###
+### 20
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52647338754_1f2bb824cd_k.jpg"></td>
@@ -45,7 +45,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 ## 4152
 ## Tabs {.tabset}
-###
+### 22
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -55,7 +55,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 ## 4153
 ## Tabs {.tabset}
-### 
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2017/DSC_9330.jpg"></td>
@@ -64,13 +64,14 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4155
 ## Tabs {.tabset}
-### 
+### 20
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52854611318_e991881695_k.jpg"></td>
 <td><b>tm4155+tm4153 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Захари Захариев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/49996570488_a6e72fd53b_k.jpg"></td>
@@ -86,7 +87,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4161
 ## Tabs {.tabset}
-### 
+### 22
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -99,7 +100,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## Tabs {.tabset}
 
-###
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50795860563_5e44586651_k.jpg"></td>
@@ -112,7 +113,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 ## 4171
 ## Tabs {.tabset}
  
-###
+### 22
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -122,7 +123,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4173
 ## Tabs {.tabset}
-### 
+### 22
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -133,7 +134,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4174
 ## Tabs {.tabset}
-### 
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50795866038_fb5396b5a1_k.jpg"></td>
@@ -143,7 +144,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
  ## 4176
 ## Tabs {.tabset}
-### 
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50796611801_12abdcb84b_k.jpg"></td>
@@ -153,7 +154,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
  
 ## 4177
 ## Tabs {.tabset}  
-###
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50109414967_e7e8f406f0_k.jpg"></td>
@@ -163,7 +164,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## 4178
 ## Tabs {.tabset} 
-###
+### 22
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50133776068_bc05758003_k.jpg"></td>
@@ -176,7 +177,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
 
 ## Tabs {.tabset}
 
-###
+### 20
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52515660034_49cb20fa72_k.jpg"></td>
@@ -185,7 +186,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 ## 4184
 ## Tabs {.tabset}
-###
+### 20
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50956461641_993fac95b9_k.jpg"></td>
@@ -195,7 +196,7 @@ dateCreated: 2024-02-05T08:57:28.671Z
   
 ## 4194
 ## Tabs {.tabset}
-### 
+###  20
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51266969754_6812555751_k.jpg"></td>
