@@ -2,7 +2,7 @@
 title: Преномерация на линиите през годините
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-28T21:35:25.272Z
+date: 2024-03-09T07:36:54.291Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-21T20:13:35.899Z
@@ -41,7 +41,7 @@ dateCreated: 2022-05-21T20:13:35.899Z
 | :---:|:---:|:---:|
 | [2-7](/bg/public-transport/tram-routes-1924-1928/2-7) | **→** | [**1**](/bg/public-transport/tram-routes-1928-sega/1) |
 | [2-6](/bg/public-transport/tram-routes-1924-1928/2-6) | **→** | [**2**](/bg/public-transport/tram-routes-1928-sega/2) |
-| [3-10](/bg/public-transport/tram-routes-1924-1928/3-10) | **→** | [**3**](/bg/public-transport/tram-routes-1928-sega3) |
+| [3-10](/bg/public-transport/tram-routes-1924-1928/3-10) | **→** | [**3**](/bg/public-transport/tram-routes-1928-sega/3) |
 | [4-8](/bg/public-transport/tram-routes-1924-1928/4-8) | **→** | [**4**](/bg/public-transport/tram-routes-1928-sega/4) |
 | [5-5](/bg/public-transport/tram-routes-1924-1928/5-5) | **→** | [**5**](/bg/public-transport/tram-routes-1928-sega/5) |
 | [6-6a](/bg/public-transport/tram-routes-1924-1928/6-6A) | **→** | [**6**](/bg/public-transport/tram-routes-1928-sega/6) |
