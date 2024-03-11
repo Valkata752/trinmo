@@ -2,7 +2,7 @@
 title: Mercedes Conecto Lf 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-11T21:07:01.869Z
+date: 2024-03-11T21:08:43.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T07:21:33.152Z
@@ -36,6 +36,22 @@ dateCreated: 2023-08-10T07:21:33.152Z
 <td><img src="https://live.staticflickr.com/65535/53456839457_f665098787_h.jpg"></td>
 <td><b>a1801 line59</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+### 60
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51573273872_0bddf38f14_h.jpg"></td>
+<td><b>a1801 line60</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+### 64
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53119426040_86a9e698b6_h.jpg"></td>
+<td><b>a1801 line64</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
   
   
 ### 110
