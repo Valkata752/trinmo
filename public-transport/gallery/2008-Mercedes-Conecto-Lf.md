@@ -2,7 +2,7 @@
 title: Mercedes Conecto Lf 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-11T21:14:40.236Z
+date: 2024-03-11T21:15:49.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T07:21:33.152Z
@@ -105,7 +105,23 @@ dateCreated: 2023-08-10T07:21:33.152Z
 <td><b>a1801 line107</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+
+### 108
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51104542100_b53b9770cf_b.jpg"></td>
+<td><b>a1801 line108</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
+### 109
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53150092493_edb1df11a1_b.jpg"></td>
+<td><b>a1801 line109</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf">Mercedes Conecto Lf</a> <br>📌<br> 📷 Стансилав Спасов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
+
 ### 110
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
