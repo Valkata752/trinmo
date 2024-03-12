@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-12T07:12:32.622Z
+date: 2024-03-12T07:31:13.800Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -155,15 +155,16 @@ dateCreated: 2022-05-19T22:00:29.696Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/luc-koenot/tm4105%20line20%20LK148490%20-%20Luc%20Koenot%20-%2019-08-1996.jpg"></td>
 <td><b>tm4105 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Luc Koenot</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+## Tabs {.tabset}
+
+### Състав
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/wim-van-der-ent/19960505-030-tm4107-line20.jpg"></td>
 <td><b>tm4107 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-## Tabs {.tabset}
-
-### Състав  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51052311373_340f2ab750_k.jpg%22"></td>
