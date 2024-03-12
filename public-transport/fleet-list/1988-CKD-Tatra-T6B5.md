@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-25T14:14:16.930Z
+date: 2024-03-12T07:12:32.622Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:29.696Z
@@ -146,9 +146,10 @@ dateCreated: 2022-05-19T22:00:29.696Z
 
 
 
+## 20
 ## Tabs {.tabset}
 
-### 20
+### Единичен
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/luc-koenot/tm4105%20line20%20LK148490%20-%20Luc%20Koenot%20-%2019-08-1996.jpg"></td>
@@ -160,24 +161,36 @@ dateCreated: 2022-05-19T22:00:29.696Z
 <td><b>tm4107 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Wim van der Ent</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+## Tabs {.tabset}
+
+### Състав  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51052311373_340f2ab750_k.jpg%22"></td>
 <td><b>tm4128+tm4126 line20</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌<br> 📷  Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
 
-
+## 21
 ## Tabs {.tabset}
 
-### 22
+### Единичен
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53581827646_beb8142847_k.jpg"></td>
+<td><b><b>tm4127 line21 </b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">ČKD Tatra T6B5</a><br>📌 <br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ ## 22 
+## Tabs {.tabset}
+
+### Единичен
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5.jpg"></td>
 <td><b>tm4111 line22</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌 гара Подуяне<br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+### Състав
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="/подвижен-състав-галерия/1988-ckd-tatra-t6b5/22_tatra_t6b5_t6b5.jpg"></td>
