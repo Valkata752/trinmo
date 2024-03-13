@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-13T12:13:06.170Z
+date: 2024-03-13T12:19:27.034Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -187,8 +187,23 @@ Graz/Siemens & Halske притежава следните технико-екс�
   <td colspan=2 >ℹ️ </td></table></div>  
 
 ## Служебни
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" height="200px"><figcaption> <b>1 и 503</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rF-2U5gwRzICmccJkTPcJWsyCNtkjX-Z3WetYDWAip8HhnlhGIGcyi_js2tdQvQjIHwL1SQIcGKli1CIOWzGH3JcyTxA=w1920-h854" height="200px"><figcaption> <b>608</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rF-2U5gwRzICmccJkTPcJWsyCNtkjX-Z3WetYDWAip8HhnlhGIGcyi_js2tdQvQjIHwL1SQIcGKli1CIOWzGH3JcyTxA=w1920-h854" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/kolio-nikolov/tm1%20tm503.jpg"></td>
+<td>1 и 503</td></tr>
+  <td colspan=2 >ℹ️ предоставена от инж. Иван Николов</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/kolio-nikolov/tm608%202.jpg"></td>
+<td>608</td></tr>
+  <td colspan=2 >ℹ️ предоставена от инж. Иван Николов</td></table></div>
+  
+  
+  
+
+  
 
 ## Музеен
 <!--1--> 
@@ -201,4 +216,8 @@ Graz/Siemens & Halske притежава следните технико-екс�
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1w3mIioPhIRvAGpH_hTqFCqYZGeeOryWI" width="100%"></div></div>
 
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q0C3EHx4VoiYBDoOc_qOW3D9jp7Xe74_3Tb1tsnUzCy-j8h2nkxR4xRHOzws_pgPnyRCEsl9aXQR1JKIQO7mw1xKkS4Q=w1920-h854" height="200px"><figcaption> <b>35</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q0C3EHx4VoiYBDoOc_qOW3D9jp7Xe74_3Tb1tsnUzCy-j8h2nkxR4xRHOzws_pgPnyRCEsl9aXQR1JKIQO7mw1xKkS4Q=w1920-h854" width="100%"></div></div></center>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/kolio-nikolov/tm35.jpg"></td>
+<td>35</td></tr>
+  <td colspan=2 >ℹ️ предоставена от инж. Иван Николов</td></table></div>
