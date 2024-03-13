@@ -2,7 +2,7 @@
 title: Архив ФотоТрезор
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T19:18:14.165Z
+date: 2024-03-13T16:03:35.180Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T13:29:01.388Z
@@ -167,6 +167,16 @@ dateCreated: 2024-01-27T13:29:01.388Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm720_depot.jpg"></td>
 <td><b>tm720</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1958-T4M-701">Т4М-701 (Комсомолец)</a><br>📌 <br> 📷 Росен Димитров</td></tr>
   <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
+## Graz/Siemens & Halske (1-30)
+## Tabs {.tabset}
+###
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm5_depot.jpg"></td>
+<td><b>tm5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 <br> 📷 Росен Димитров<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
   
   
