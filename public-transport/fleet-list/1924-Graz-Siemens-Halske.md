@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-13T12:11:33.517Z
+date: 2024-03-13T12:13:06.170Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -161,16 +161,30 @@ Graz/Siemens & Halske притежава следните технико-екс�
   
 <!--16--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" height="200px"><figcaption> <b>16 - TM9</b> 📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" width="100%"></div></div>
-<!--20--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" height="200px"><figcaption> <b>tm20+tm305 line10</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HPoqevpy3w-JzFJYqJjnSA6UF8yP-7-a" width="100%"></div></div>
+
+
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/75-godini-gt/tm20%20tm305%20line10.jpg"></td>
+<td><b>tm20+tm305 line10</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a> + <a href="/bg/public-transport/fleet-list/1935-DTO-301-312">ДТО Ремарке серия № 301/312 (Siemens)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+  
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/dirk-hartmann/tm23%20line16.jpg"></td>
 <td><b>tm23 line16</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 неизв.<br> 📷 Dirk Hartmann<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-<!--26--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" height="200px"><figcaption> <b>tm26 line17</b> 📷 75 години градски транспорт </figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vU6JUq660VEGSULC-VbItzxQq7k_kj0u" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/75-godini-gt/tm26%20line17.jpg"></td>
+<td><b>tm26 line17</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a> + <a href="/bg/public-transport/fleet-list/1935-DTO-301-312">ДТО Ремарке серия № 301/312 (Siemens)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 ## Служебни
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" height="200px"><figcaption> <b>1 и 503</b> 📷 предоставена от <b>инж. Иван Николов</b></figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p8adsrgChRp4awTDD-gAxpgEObMUmzKzJO5dFYPldgqZYq0tg9fUp0vPjHS5QZqrsdgpa92C_eVyMgcsKqRpjrg0YFVQ=w1920-h854" width="100%"></div></div>
