@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-13T16:01:56.188Z
+date: 2024-03-13T16:03:22.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -152,17 +152,11 @@ Graz/Siemens & Halske притежава следните технико-екс�
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/bzmotman/tm2.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm5_depot.jpg"></td>
 <td><b>tm5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 <br> 📷 Росен Димитров<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm5_depot.jpg"></td>
-<td><b>tm5</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
 <!--16--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" height="200px"><figcaption> <b>16 - TM9</b> 📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pS19J5hyv10LmKWydMHDrRmPrulnxRRMVkOJaYW_Q9FE66wjCDdXXyLVaQ3oC9Vw7TlraoD13HC4uKP27D6vVbmN2Tlw=w1920-h854" width="100%"></div></div>
 
