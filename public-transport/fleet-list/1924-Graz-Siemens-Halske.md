@@ -2,7 +2,7 @@
 title: Graz/Siemens & Halske (1-30)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-13T12:11:02.120Z
+date: 2024-03-13T12:11:33.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:20:59.505Z
@@ -144,8 +144,11 @@ Graz/Siemens & Halske притежава следните технико-екс�
 # Tabs {.tabset}
 
 ## Пътнически
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1xQs5-kUNO7WBDlJcnn9R-vxT6qsCBUoZ" height="200px"><figcaption></figcaption><b> tm2 line8</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1xQs5-kUNO7WBDlJcnn9R-vxT6qsCBUoZ" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bzmotman/tm2.jpg"></td>
+<td><b>tm2 line8</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz-Siemens-Halske</a><br>📌 кв. Павлово<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 <!--5-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" height="200px"><figcaption><b>5 - депо</b> 📷 Росен Димитров ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1mR5DZqt1M3d4Mql2SMCziBVSCfQxrUYP" width="100%"></div></div>
