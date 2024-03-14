@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt - 1996
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T19:48:13.840Z
+date: 2024-03-14T07:52:21.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T08:35:11.246Z
@@ -132,28 +132,28 @@ dateCreated: 2024-01-20T08:35:11.246Z
   
 
   
-## Т8М-700
+## Т6М-700
 ## Tabs {.tabset}
 ###     
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm822%20line2%201996-08-19.jpg"></td>
 <td><b>tm822 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm840%20line19%201996-08-19.jpg"></td>
 <td><b>tm840 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm841%20depot%201996-08-19.jpg"></td>
 <td><b>tm841</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-   <!--следващ пост--> 
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1996/tm859%20line19%201996-08-19.jpg"></td>
 <td><b>tm859 line19</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
