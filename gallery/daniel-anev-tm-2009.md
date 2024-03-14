@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Трамваи 2009
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T20:56:46.476Z
+date: 2024-03-14T09:01:18.222Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T14:29:41.589Z
@@ -1167,7 +1167,7 @@ dateCreated: 2024-01-01T14:29:41.589Z
 ### 703
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-700/tm701%20line1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2009/t6m-700/tm703%20line1.jpg"></td>
 <td><br> 🚋 <b>tm703 line1</b><a href=""></a> <br>📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
