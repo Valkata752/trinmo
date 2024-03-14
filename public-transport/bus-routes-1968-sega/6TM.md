@@ -2,7 +2,7 @@
 title: Автобусна линия 6TM
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-31T08:37:47.832Z
+date: 2024-03-14T09:54:26.678Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T07:30:11.188Z
@@ -66,18 +66,41 @@ dateCreated: 2022-07-20T07:30:11.188Z
   
 # Tabs {.tabset}
 
-
-## Единични
-<!--1803--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" height="200px"><figcaption><b>Mercedes Conecto Lf</b><br>📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/189238895@N04/50676707787/" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg" width="100%"></a></div></div>
-
-<!--1921--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" height="200px"><figcaption><b>Mercedes O345 Conecto</b><br>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52481264778" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg" width="100%"></a></div></div>
-
-<!--1761--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" height="200px"><figcaption><b>Mercedes O345</b><br>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52480112812" target="_blank" title="1171"> <img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg" width="100%"></a></div></div>
-
-## Съчленени
-<!--2139--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" height="200px"><figcaption><b>MAN SG262</b><br>📷 Емил Шиваров</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/147931689@N02/48257012937" target="_blank" title="2139"> <img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg" width="100%"></a></div></div>
-
+##
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53382100613_c2bc154288_k.jpg"></td>
+<td><b>Yutong ZK6126HGA</b><br>📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53309585798_f698324739_k.jpg"></td>
+<td><b>BMC Belde 220-SLF</b><br>📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/50676707787_272920c888_k.jpg"></td>
+<td><b>Mercedes Conecto Lf</b><br>📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg"></td>
+<td><b>Mercedes O345 Conecto</b><br>📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg"></td>
+<td><b>Mercedes O345</b><br>📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/48257012937_8eb8cbdc8c_b.jpg"></td>
+<td><b>MAN SG262</b><br>📷 Емил Шиваров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
