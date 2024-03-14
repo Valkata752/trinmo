@@ -2,7 +2,7 @@
 title: Автобусна линия 6TM
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-14T09:59:34.005Z
+date: 2024-03-14T10:00:20.282Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T07:30:11.188Z
@@ -96,13 +96,13 @@ dateCreated: 2022-07-20T07:30:11.188Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52481264778_17b8c629f8_k.jpg"></td>
-<td><b>Mercedes O345 Conecto</b><br>📷 Любомир Николов</td></tr>
+<td><b>Mercedes O345 Conecto</b><br>📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52480112812_feee63d2c2_k.jpg"></td>
-<td><b>Mercedes O345</b><br>📷 Любомир Николов</td></tr>
+<td><b>Mercedes O345</b><br>📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
