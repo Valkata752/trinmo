@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:40:03.993Z
+date: 2024-03-15T09:41:26.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -294,8 +294,6 @@ dateCreated: 2023-03-17T08:25:15.949Z
 <td>Информация...</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-
-http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jpg
 
 ### 0326
 #### Tabs {.tabset}
