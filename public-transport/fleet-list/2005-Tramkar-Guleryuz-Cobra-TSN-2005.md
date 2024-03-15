@@ -2,7 +2,7 @@
 title: Трамкар Güleryüz Cobra TSN 2005
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T14:01:11.444Z
+date: 2024-03-15T14:06:45.362Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-19T12:55:21.050Z
@@ -79,6 +79,14 @@ dateCreated: 2023-03-19T12:55:21.050Z
   
 ### Tabs {.tabset}
 
+#### 1
+ 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://transphoto.org/photo/05/02/01/502018.jpg"></td>
+<td><b>tb2004 line1</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Yury Maller</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 #### 6
  
 <!--следващ пост--> 
