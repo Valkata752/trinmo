@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-10-09T18:36:53.123Z
+date: 2024-03-15T09:29:36.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -131,19 +131,12 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52816993981_a93f930b5a_k.jpg"></td>
-    <td>От 2015г. - въздушна </td>
-  </tr>
-</table>
-
-##### Галерия
-<!--2373--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/PUqLny8wSimFUuZhpbFe2dpH17wI10o8yznPaJl6qxbcbTIF7IoeSMg-nmi9W4IY6Yc=w2400" height="200px"><figcaption> <b>СВ2373АА</b> 📷 Сава Ташев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/PUqLny8wSimFUuZhpbFe2dpH17wI10o8yznPaJl6qxbcbTIF7IoeSMg-nmi9W4IY6Yc=w2400" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51016285278_c2fc099b03_k.jpg" height="200px"><figcaption> <b>СВ2373АА</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/51016285278_c2fc099b03_k.jpg" width="100%"></div></div>
-<!--2373--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52816993981_a93f930b5a_k.jpg" height="200px"><figcaption><b>СВ2373АА </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52816993981/" target="_blank" title="81"> <img src="https://live.staticflickr.com/65535/52816993981_a93f930b5a_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52816993981_a93f930b5a_k.jpg"></td>
+<td>От 2015г. - въздушна </td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 5748
 
@@ -151,79 +144,67 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52075598159_bcf9cc28ab_k.jpg"></td>
-    <td>MAN 5748 е автовишка. Използва се за работа по високи обекти в страни от ККМ. Както и за други задачи, които изискват повдигане на хора на високо. </td>
-  </tr>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5748%208.5.2014.jpg"></td>
+<td>MAN 5748 е автовишка. Използва се за работа по високи обекти в страни от ККМ. Както и за други задачи, които изискват повдигане на хора на високо. </td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52075598159_bcf9cc28ab_k.jpg" height="200px"><figcaption> <b>СА5748КХ</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52075598159_bcf9cc28ab_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/5579/14256067335_5e6bdcca8f_k.jpg" height="200px"><figcaption> <b>СА5748КХ</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/5579/14256067335_5e6bdcca8f_k.jpg" width="100%"></div></div>
 
 ### 7657
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52523273283_5aa12b8081_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/7657%2022.2.2016.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52523273283_5aa12b8081_k.jpg" height="200px"><figcaption> <b>С7657НА</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52523273283_5aa12b8081_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/ZG9WQLbgm4_0eQrzlXlGKwi6wbh9NjGPblIm18xJdr9TwdytbwdA4DsuH_5DugVpd8c=w2400" height="200px"><figcaption> <b>С7657НА</b> 📷 kamim.sk</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/ZG9WQLbgm4_0eQrzlXlGKwi6wbh9NjGPblIm18xJdr9TwdytbwdA4DsuH_5DugVpd8c=w2400" width="100%"></div></div>
 
 ### 9861
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8"></td>
-    <td>Текущи ремонти</td>
-  </tr>
-</table>
+#### Tabs {.tabset}
+##### ℹ️ Информация
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8" height="200px"><figcaption> <b>СА0912АР</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1J7Hls_HtTJTUnogEUu7z5QHGj1-z_ik8" width="100%"></div></div>
-
-  
-  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/9861%2011.3.2015.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+ 
   
 ### 5001
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52552010053_9a5795a85e_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5001%2021.4.2016.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-##### Галерия
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52552010053_9a5795a85e_k.jpg" height="200px"><figcaption> <b>СА5001АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52552010053_9a5795a85e_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/8875/17799499606_4e3fcfd2a4_k.jpg" height="200px"><figcaption> <b>СА5001АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/8875/17799499606_4e3fcfd2a4_k.jpg" width="100%"></div></div>
-
+##### Преди
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5001%2022.5.2014.jpg
+"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 0321
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52095757332_78cece1eba_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52095757332_78cece1eba_k.jpg" height="200px"><figcaption> <b>СА0321АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52095757332_78cece1eba_k.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0321%2024.6.2014.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ### 0332
@@ -231,83 +212,60 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52014433915_9c3aef15a3_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52014433915_9c3aef15a3_k.jpg" height="200px"><figcaption> <b>СА0332АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52014433915_9c3aef15a3_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49038748057_99f75a22b7_k.jpg" height="200px"><figcaption> <b>СА0332АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/49038748057_99f75a22b7_k.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52014433915_9c3aef15a3_k.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ### 5089
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/51899609494_e2683891c2_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51240591691_4900092044_k.jpg" height="200px"><figcaption> <b>СА5089АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/51240591691_4900092044_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51899609494_e2683891c2_k.jpg" height="200px"><figcaption> <b>СА5089АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/51899609494_e2683891c2_k.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5089%2025.2.2014.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ### 5087
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52734358184_a49031a2fa_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52734358184_a49031a2fa_k.jpg" height="200px"><figcaption> <b>СА5087АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52734358184_a49031a2fa_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52734586688_6221a7c705_k.jpg" height="200px"><figcaption> <b>СА5087АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52734586688_6221a7c705_k.jpg" width="100%"></div></div>
-
-
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52734358184_a49031a2fa_k.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ### 0340
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52137067556_3772f1b067_k.jpg"></td>
-    <td>ГАЗ-ката 0340 мисля, че вози екип, който се заимава с автоматичните стрелки.</td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52137067556_3772f1b067_k.jpg" height="200px"><figcaption> <b>СА0340АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52137067556_3772f1b067_k.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52137067556_3772f1b067_k.jpg"></td>
+<td>ГАЗ-ката 0340 мисля, че вози екип, който се заимава с автоматичните стрелки.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 4990
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52075370381_3ce76f124b_k.jpg"></td>
-    <td></td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52075370381_3ce76f124b_k.jpg" height="200px"><figcaption> <b>СА4990АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52075370381_3ce76f124b_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50998693853_afea5ab3e8_k.jpg" height="200px"><figcaption> <b>СА4990АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/50998693853_afea5ab3e8_k.jpg" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/4990%208.5.2014.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Тролейбусен влекач 
@@ -318,15 +276,12 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/1694/25912178194_6006994475_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1694/25912178194_6006994475_k.jpg" height="200px"><figcaption> <b>СВ1369ВА</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/1694/25912178194_6006994475_k.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/1369%20&%201806%2018.4.2018.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ### 1576
@@ -334,50 +289,35 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48966614692_decede8228_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/1576%2029.6.2012.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50999150688_da55afbfff_k.jpg" height="200px"><figcaption> <b>С1576КС</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/50999150688_da55afbfff_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48966614692_decede8228_k.jpg" height="200px"><figcaption> <b>С1576КС</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48966614692_decede8228_k.jpg" width="100%"></div></div>
-
-
+http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jpg
 
 ### 0326
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48847093793_68f6d39f32_k.jpg"></td>
-    <td>Използва се за? </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48847093793_68f6d39f32_k.jpg" height="200px"><figcaption> <b>СА0326АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48847093793_68f6d39f32_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48847854352_60795c4ee2_k.jpg" height="200px"><figcaption> <b>СА0326АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48847854352_60795c4ee2_k.jpg" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jpg"></td>
+<td>Информация...</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 6780
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://lh5.googleusercontent.com/dzoeXUq-eJdVi0APtoOtNaWK6MowP16lPCelj0epkyAMTbYDeJ7WguZWlEEYJPGE3f8=w2400"></td>
-    <td>6780 (Шкода RT) оснен, че е най-старият влекач, през зимата чисти сняг в депо "Надежда" и по някои от тролейбусните маршрути. </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50840801747_0f3dbadf77_k.jpg" height="200px"><figcaption> <b>СА6780ВТ</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/50840801747_0f3dbadf77_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/dzoeXUq-eJdVi0APtoOtNaWK6MowP16lPCelj0epkyAMTbYDeJ7WguZWlEEYJPGE3f8=w2400" height="200px"><figcaption> <b>СА6780ВТ</b> - 📷 kamim.sk</figcaption></figure></button><div class="dropdown-content"><img src="https://lh5.googleusercontent.com/dzoeXUq-eJdVi0APtoOtNaWK6MowP16lPCelj0epkyAMTbYDeJ7WguZWlEEYJPGE3f8=w2400" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/6780%20&%202626%206.5.2014.jpg"></td>
+<td>6780 (Шкода RT) оснен, че е най-старият влекач, през зимата чисти сняг в депо "Надежда" и по някои от тролейбусните маршрути.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## Окабелявне
 
@@ -386,16 +326,12 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52734613018_27030980c3_k.jpg"></td>
-    <td><b>ГАЗ 53А</b> <br>0916 работи по подземната мрежа (подземното окабеляване на ТБ и ТМ) </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/862/29670115878_dbbb335f2c_k.jpg" height="200px"><figcaption> <b>СА0916АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/862/29670115878_dbbb335f2c_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52734613018_27030980c3_k.jpg" height="200px"><figcaption> <b>СА0916АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52734613018_27030980c3_k.jpg" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0916%2018.7.2011.jpg"></td>
+<td><b>ГАЗ 53А</b> <br>0916 работи по подземната мрежа (подземното окабеляване на ТБ и ТМ)</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 
 
@@ -411,48 +347,34 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52820476277_606f8c46a4_k.jpg"></td>
-    <td>Товари </td>
-  </tr>
-</table>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/3600%2027.2.2014.jpg"></td>
+<td>Товари</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
-
-##### Галерия
-<!--2373--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52820476277_606f8c46a4_k.jpg" height="200px"><figcaption> <b>СA3600АP</b> 📷 Алекаандър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52820476277_606f8c46a4_k.jpg" width="100%"></div></div>
 
 ### 4993
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48968745426_4d79c9df95_k.jpg"></td>
-    <td>Двете Шкоди 4993 и 0912 работят по поддръжка на РП и отстраняване на повреди по съоръженията, в т.ч. и аварийни ремонти. </td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48968745426_4d79c9df95_k.jpg" height="200px"><figcaption> <b>СА4993АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48968745426_4d79c9df95_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52185662977_e8d72efeb7_k.jpg" height="200px"><figcaption> <b>СА4993АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52185662977_e8d72efeb7_k.jpg" width="100%"></div></div>
-
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/4993%207.6.2014.jpg"></td>
+<td>Двете Шкоди 4993 и 0912 работят по поддръжка на РП и отстраняване на повреди по съоръженията, в т.ч. и аварийни ремонти.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ### 0912
 #### Tabs {.tabset}
 
 ##### ℹ️ Информация
 
-<table style="width:100%">
-  <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Hd_wsep2APqu80uYsQw3ZU5wTzBJ3NlF"></td>
-    <td>Двете Шкоди 4993 и 0912 работят по поддръжка на РП и отстраняване на повреди по съоръженията, в т.ч. и аварийни ремонти.</td>
-  </tr>
-</table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50999172431_d48458c554_k.jpg" height="200px"><figcaption> <b>СА0912АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/50999172431_d48458c554_k.jpg" width="100%"></div></div>
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0912%2027.6.2012.jpg"></td>
+<td>Двете Шкоди 4993 и 0912 работят по поддръжка на РП и отстраняване на повреди по съоръженията, в т.ч. и аварийни ремонти.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 5977
 #### Tabs {.tabset}
@@ -466,8 +388,6 @@ dateCreated: 2023-03-17T08:25:15.949Z
   </tr>
 </table>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv" height="200px"><figcaption> <b>СА0912АР</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv" width="100%"></div></div>
 
 ### 0338
 #### Tabs {.tabset}
@@ -476,17 +396,10 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://lh4.googleusercontent.com/FS2_TQPsh4UVWnBKRFO3Z1v-LVk5GEBpUB_mUy3YfyEW7hATlAz1MbgXD3i13kUMsvQ=w2400"></td>
-    <td>Използва се за? </td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0338%2020.1.2017.jpg"></td>
+    <td>Текущи ремонти</td>
   </tr>
 </table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52523237565_4cbf3e72a3_k.jpg" height="200px"><figcaption> <b>СА0338АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52523237565_4cbf3e72a3_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/FS2_TQPsh4UVWnBKRFO3Z1v-LVk5GEBpUB_mUy3YfyEW7hATlAz1MbgXD3i13kUMsvQ=w2400" height="200px"><figcaption> <b>СА0338АР</b> 📷 Марио Евстатиев</figcaption></figure></button><div class="dropdown-content"><img src="https://lh4.googleusercontent.com/FS2_TQPsh4UVWnBKRFO3Z1v-LVk5GEBpUB_mUy3YfyEW7hATlAz1MbgXD3i13kUMsvQ=w2400" width="100%"></div></div>
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/15/02/99/1502991.jpg" height="200px"><figcaption> <b>СА0338АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/15/02/99/1502991.jpg" width="100%"></div></div>
-
 
 
 ## Почистване
@@ -504,8 +417,6 @@ dateCreated: 2023-03-17T08:25:15.949Z
   </tr>
 </table>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48078825336_4ef22e0dbb_k.jpg" height="200px"><figcaption> <b>СА0924АР</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48078825336_4ef22e0dbb_k.jpg" width="100%"></div></div>
 
 ### 8295
 #### Tabs {.tabset}
@@ -514,14 +425,10 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1FBXA4XatZFo8ikhnAVJBNU5DWRaIcSAJ"></td>
-    <td>ЗиЛ 130 </td>
+    <td style="width:300px"><img src="https://live.staticflickr.com/65535/49087152287_965adc9e8e_k.jpg"></td>
+    <td><b>ЗиЛ 130 </b><br></td>
   </tr>
 </table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/49087152287_965adc9e8e_k.jpg" height="200px"><figcaption> <b>С8295ВН</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/49087152287_965adc9e8e_k.jpg" width="100%"></div></div>
-
 
 ## Кранове
 
@@ -540,13 +447,10 @@ dateCreated: 2023-03-17T08:25:15.949Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://live.staticflickr.com/65535/40664856963_b299d9d2f8_k.jpg"></td>
-    <td>Авариен кран </td>
+    <td><b>MAN</b> Авариен кран<br></td>
   </tr>
 </table>
 
-##### Галерия
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/40664856963_b299d9d2f8_k.jpg" height="200px"><figcaption> <b>СВ8768ВН</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/40664856963_b299d9d2f8_k.jpg" width="100%"></div></div>
 
 ### 5002
 
@@ -556,14 +460,25 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg"></td>
-    <td>Доставен 1994г. Използва се за? </td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5002%2027.2.2015.jpg"></td>
+    <td><b></b> Доставен 1994г.<br></td>
   </tr>
 </table>
 
-##### Галерия
 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" height="200px"><figcaption> <b>СА5002АР</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52343534620_9bb44d5ced_k.jpg" width="100%"></div></div>
+### 5003
+
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/5003%206.6.2014.jpg"></td>
+    <td><b></b> <br></td>
+  </tr>
+</table>
+
 
 
 ### 0913
@@ -573,13 +488,11 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1Is2aByacrg1RevV13MIY3EufgotfpTKi"></td>
-    <td>Кран</td>
+    <td style="width:300px"><img src="https://live.staticflickr.com/65535/51519150674_715689fadb_k.jpg"></td>
+    <td><b>ZiL 133</b>Кран</td>
   </tr>
 </table>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" height="200px"><figcaption> <b>СА0913АР</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Iol6tgnlYrAqLbxQjyEh1PbXhsj7N7eP" width="100%"></div></div>
 
 
 
@@ -591,14 +504,10 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q"></td>
+    <td style="width:300px"><img src="https://live.staticflickr.com/65535/51541716697_be14166b6d_k.jpg"></td>
     <td>Товарен</td>
   </tr>
 </table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q" height="200px"><figcaption> <b>СА0910АР</b> 📷 trinmo.org</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cDccf6-JosrEEBTcREC-2uKYDYq5Iu-q" width="100%"></div></div>
-
 
 ## Автобуси
 
