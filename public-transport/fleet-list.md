@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T18:03:32.510Z
+date: 2024-03-15T14:30:30.485Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -70,6 +70,7 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **DAC Чавдар** | [317 ETR](/bg/public-transport/fleet-list/1986-DAC-Chavdar-317-ETR) |
 -   **Ikarus** | [**280.92T**](/bg/public-transport/fleet-list/1985-Ikarus-280-92T) | [280.04T](/bg/public-transport/fleet-list/1974-Ikarus-280-04T) |
 -   **MAN** | [610 FEC1](/bg/public-transport/fleet-list/1958-MAN-610-FEC1) | [MPE 1](/bg/public-transport/fleet-list/1940-MAN-MPE-1) |
+-   **Den Oudsten** | [B96 - RTK B2007](/bg/public-transport/fleet-list/2007-Den-Oudsten-B96-RTK-b2007) |
 -   **Завод "6-ти септември"** | [ТБ-51-55](/bg/public-transport/fleet-list/1950-TB-51-55) |
 -   **Завод №82 - Тушино** | [MTB-82](/bg/public-transport/fleet-list/1948-MTB-82) |
 
