@@ -2,7 +2,7 @@
 title: Икономическа рамка на обществения транспорт в София
 description: Икономика
 published: true
-date: 2024-03-15T16:11:30.173Z
+date: 2024-03-15T16:30:51.157Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T09:44:17.577Z
@@ -87,4 +87,3 @@ dateCreated: 2022-04-25T09:44:17.577Z
 ## 2013
 - [:memo: 2013 *Решение № 72 на СОС от 14.02.2013*](/bg/economics-and-society/economic-framework/2013)
 {.links-list}
-
