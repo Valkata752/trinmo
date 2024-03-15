@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:32:54.200Z
+date: 2024-03-15T09:34:53.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -331,7 +331,18 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 <td><b>ГАЗ 53А</b> <br>0916 работи по подземната мрежа (подземното окабеляване на ТБ и ТМ)</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  
+ ### 4996
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/4996%2022.2.2016.jpg"></td>
+    <td>Персонал</td>
+  </tr>
+</table>
+ 
 
 
 
@@ -508,6 +519,20 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
     <td>Товарен</td>
   </tr>
 </table>
+
+### 3594
+#### Tabs {.tabset}
+
+##### ℹ️ Информация
+
+<table style="width:100%">
+  <tr>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/3594%2020.1.2015.jpg"></td>
+    <td>Товарен</td>
+  </tr>
+</table>
+
+
 
 ## Автобуси
 
