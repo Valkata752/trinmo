@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:29:36.733Z
+date: 2024-03-15T09:30:58.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -383,8 +383,8 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/uc?id=1H_SAMieZz_D8kF0CX6OA0ThaTjL5sLtv"></td>
-    <td>Текущи ремонти</td>
+    <td style="width:300px"><img src="https://live.staticflickr.com/65535/51503494184_084644f6cb_k.jpg"></td>
+    <td><b>GAZ-52</b> Текущи ремонти</td>
   </tr>
 </table>
 
