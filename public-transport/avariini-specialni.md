@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:34:53.485Z
+date: 2024-03-15T09:36:22.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -550,14 +550,10 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="http://gtsofia.info/download.php?type=image&inline=1&id=f05e465a4435f4bf4a5ce31148a03a7d"></td>
-    <td>Използва се за? </td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/1678%2014.1.2016.jpg"></td>
+    <td>Текущи ремонти</td>
   </tr>
 </table>
-
-##### Галерия
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://gtsofia.info/download.php?type=image&inline=1&id=f05e465a4435f4bf4a5ce31148a03a7d" height="200px"><figcaption> <b>СА1678АТ</b> - 📷 Димитър Игнатов</figcaption></figure></button><div class="dropdown-content"><img src="http://gtsofia.info/download.php?type=image&inline=1&id=f05e465a4435f4bf4a5ce31148a03a7d" width="100%"></div></div>
 
 
 ### 2664
@@ -570,14 +566,10 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48969427701_0d55192774_k.jpg"></td>
-    <td>Използва се за? </td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/2664%206.6.2013.jpg"></td>
+    <td>Текущи ремонти</td>
   </tr>
 </table>
-
-##### Галерия
-
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48969427701_0d55192774_k.jpg" height="200px"><figcaption> <b>С2664ВН</b> - 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48969427701_0d55192774_k.jpg" width="100%"></div></div>
 
 ## Други
  
