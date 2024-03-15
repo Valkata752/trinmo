@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:30:58.930Z
+date: 2024-03-15T09:32:54.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -581,14 +581,10 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/48931014898_c9574a86e3_k.jpg"></td>
-    <td>Mercedes-Unimog</td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/3092%2019.7.2013.jpg"></td>
+    <td><b>Mercedes-Unimog</b></td>
   </tr>
 </table>
-
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48931014898_c9574a86e3_k.jpg" height="200px"><figcaption> <b>С3092KX</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48931014898_c9574a86e3_k.jpg" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/48999519966_ca430fbd98_k.jpg" height="200px"><figcaption> <b>С3092KX</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/48999519966_ca430fbd98_k.jpg" width="100%"></div></div>
 
 
 ### 2257
@@ -599,12 +595,10 @@ http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/spec/0326%208.10.2013.jp
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://live.staticflickr.com/65535/51009934711_6157f8ab06_k.jpg"></td>
-    <td>Самосвалите преимуществено работят със секция РП. Превозват инертни материали, асфалт, повета, отпадъци и др. насипни материали .</td>
+    <td><b>Самосвалите преимуществено работят със секция РП. Превозват инертни материали, асфалт, повета, отпадъци и др. насипни материали .</b></td>
   </tr>
 </table>
 
-##### Галерия
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51009934711_6157f8ab06_k.jpg" height="200px"><figcaption> <b>С2257ВС</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/51009934711_6157f8ab06_k.jpg" width="100%"></div></div>
 
  
 # Столичен автотранспорт
