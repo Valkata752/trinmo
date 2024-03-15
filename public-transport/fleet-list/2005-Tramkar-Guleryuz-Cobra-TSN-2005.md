@@ -2,7 +2,7 @@
 title: Трамкар Güleryüz Cobra TSN 2005
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-18T13:46:38.806Z
+date: 2024-03-15T14:01:11.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-19T12:55:21.050Z
@@ -42,29 +42,66 @@ dateCreated: 2023-03-19T12:55:21.050Z
 **Oчаквайте скоро…**
 
 # Снимки
-  
-# Tabs {.tabset}
+
 
 ## 2003
+  
+### Tabs {.tabset}
 
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1eaUEVRruO6f_Raf1USd55YktKUO7AdI_" height="200px"><figcaption><b>ТБ6</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1eaUEVRruO6f_Raf1USd55YktKUO7AdI_" width="100%"></div></div>
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1njCH1h527ng7KB9-LLl8-dxyt_P3C6e8" height="200px"><figcaption><b>ТБ6</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1njCH1h527ng7KB9-LLl8-dxyt_P3C6e8" width="100%"></div></div>
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=166QF1GyzH_M8kkSX7BNEQqoSP8H84jOb" height="200px"><figcaption><b>ТБ7</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=166QF1GyzH_M8kkSX7BNEQqoSP8H84jOb" width="100%"></div></div>
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BB91ko4c4dBe-pLoA6Z2VxjZ-AijuoRc" height="200px"><figcaption><b>ТБ9</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BB91ko4c4dBe-pLoA6Z2VxjZ-AijuoRc" width="100%"></div></div>
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1MC_Ib_88SBZq94jiyMM9-e1M0Iwn9ith" height="200px"><figcaption><b>ТБ9</b> 📷 imhd.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1MC_Ib_88SBZq94jiyMM9-e1M0Iwn9ith" width="100%"></div></div>
-<!--2003-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JWqZPJsYvUa0DHBil09-SmOKYRieexJG" height="200px"><figcaption><b>ТБ9</b> 📷 imhd.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JWqZPJsYvUa0DHBil09-SmOKYRieexJG" width="100%"></div></div>
+#### 6
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2003%20line6%2030.4.2015.jpg"></td>
+<td><b>tb2003 line6</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+  
+#### 7
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2003%20line7%2017.11.2016.jpg"></td>
+<td><b>tb2003 line7</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+ 
+#### 9 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2003%20line9%2029.3.2013.jpg"></td>
+<td><b>tb2003 line9</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## 2004
-<!--2004-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=18PSHr2jbATlFyibKSx8W-ba9ikdWc51Q" height="200px"><figcaption><b>ТБ6</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=18PSHr2jbATlFyibKSx8W-ba9ikdWc51Q" width="100%"></div></div>
-<!--2004-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1UoevzmBHP5bI0De5xPu7qxmx6XNEhfZG" height="200px"><figcaption><b>ТБ7</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1UoevzmBHP5bI0De5xPu7qxmx6XNEhfZG" width="100%"></div></div>
-<!--2004-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zmd50B6_iYhC6tQUC6Y__Yy1e7tntciX" height="200px"><figcaption><b>ТБ9</b> 📷 Владимир Симов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zmd50B6_iYhC6tQUC6Y__Yy1e7tntciX" width="100%"></div></div>
+  
+### Tabs {.tabset}
+
+#### 6
+ 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2004%20line6%201.12.2015_1.jpg"></td>
+<td><b>tb2004 line6</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+
+#### 7
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2004%20line7%2012.8.2013.jpg"></td>
+<td><b>tb2004 line7</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+
+#### 9
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/cobra/tb2004%20line9%2018.10.2013_2.jpg"></td>
+<td><b>tb2004 line9</b><br>📌 моста Чавдар <br>📆 29.09.2013 <br>🚎 <a href="/bg/public-transport/fleet-list/2005-Tramkar-Guleryuz-Cobra-TSN-2005">Трамкар Güleryüz Cobra TSN 2005 </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
