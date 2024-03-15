@@ -2,7 +2,7 @@
 title: Икономическа рамка на обществения транспорт в София
 description: Икономика
 published: true
-date: 2024-03-15T16:09:31.599Z
+date: 2024-03-15T16:11:30.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T09:44:17.577Z
@@ -87,17 +87,4 @@ dateCreated: 2022-04-25T09:44:17.577Z
 ## 2013
 - [:memo: 2013 *Решение № 72 на СОС от 14.02.2013*](/bg/economics-and-society/economic-framework/2013)
 {.links-list}
-
-
-##
-<h1>Цена на билета за еднократно пътуване през годините</h1>
-<p>&nbsp;</p>
-<div id="charts">
-  <canvas id="byMeans2010Chart" class="barChart"></canvas> 
-  <p> &nbsp;</p>
-  <canvas id="customerCountLine" class="barChart"></canvas>
-  <p> &nbsp;</p>
-  <canvas id="byCategoryChart" class="barChart"></canvas>
-</div>
-<p>&nbsp;</p>
 
