@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:47:40.680Z
+date: 2024-03-15T09:55:02.010Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -336,7 +336,17 @@ dateCreated: 2023-03-17T08:25:15.949Z
 <td>Информация...</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+### 4995
+#### Tabs {.tabset}
 
+##### ℹ️ Информация
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://www.mediapool.bg/gallery/353/eb87bccea4682325b9710ac11d821ebc.jpg"></td>
+<td>КАМАЗ</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ### 6780
 #### Tabs {.tabset}
 
