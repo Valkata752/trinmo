@@ -2,7 +2,7 @@
 title: Архив stara-sofia.com
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T23:19:13.813Z
+date: 2024-03-16T12:24:47.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T12:00:53.902Z
@@ -430,9 +430,16 @@ dateCreated: 2024-01-26T12:00:53.902Z
   
   
   
-## Трамваи (8*)
+## Трамваи (6*, 7*, 8*)
 ## Tabs {.tabset}
 ### 
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm66%20line5.jpg"></td>
+<td><b>tm66 line5 </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
