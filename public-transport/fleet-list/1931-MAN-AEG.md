@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-16T12:26:57.176Z
+date: 2024-03-16T12:34:07.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -51,6 +51,7 @@ dateCreated: 2022-05-19T22:18:58.987Z
 | **78** | 1931 |     |     |
 | **79** | 1931 |     |     |
 | **80** | 1931 |     |     |
+{.dense}
 
 # Технически характеристики
 
@@ -91,7 +92,17 @@ MAN-AEG притежава следните технико-експлоатац�
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm66%20line5.jpg"></td>
 <td><b>tm66 line5 </b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 кв. Княжево<br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
+ 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/tm66%20tm72.jpg"></td>
+<td><b>tm66, tm72 </b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
+  
+ 
+ 
+ 
 ## Tabs {.tabset}
 ### 69
   <!--следващ пост--> 
@@ -108,7 +119,11 @@ MAN-AEG притежава следните технико-експлоатац�
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/tm66%20tm72.jpg"></td>
+<td><b>tm66, tm72 </b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 <br> 📷 неизв.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## Tabs {.tabset}
 ### 76
