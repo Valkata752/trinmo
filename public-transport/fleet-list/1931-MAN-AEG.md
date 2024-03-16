@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-16T12:26:20.915Z
+date: 2024-03-16T12:26:57.176Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -107,6 +107,8 @@ MAN-AEG притежава следните технико-експлоатац�
 <td><b>tm72+422 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+
 
 ## Tabs {.tabset}
 ### 76
