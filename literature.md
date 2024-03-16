@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-15T21:04:49.793Z
+date: 2024-03-16T08:18:44.592Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -48,6 +48,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
   <td colspan=2 >ℹ️ <a href="/literature/sofiiski-obshtinski-vestnik"><b>Разгледай тук...</b></a></td></table></div>  
   
 # Вестници и списания
+
+## Столица (1992-1996)
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src=""></td>
+  <td><b>вестник Столица (1992-1996) </b><br>Излиза седмично.</td></tr>
+  <td colspan=2 >ℹ️ <a href="/literature/vestnik-stolica"><b>Разгледай тук...</b></a></td></table></div>  
+
 
 ## Вечерни новини (1952-1992)
 <!--следващ пост--> 
