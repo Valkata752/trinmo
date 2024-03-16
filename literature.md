@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-16T08:18:44.592Z
+date: 2024-03-16T08:50:33.727Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -168,10 +168,8 @@ dateCreated: 2022-04-26T09:14:34.111Z
   <td colspan=2 >ℹ️ <a href="/literature/modern-tramway-450"><b>Разгледай тук...</b></a></td></table></div>  
   
 
-
-## Статии                                           
-
-- [:seven::six: *По пътя на 76 - Невидимата памет на града*](/literature/po-patya-na-76)
+## Железопътен сборник
+- [ТОМ XII - ГОДИНА VII *1902*](/literature/jelezopaten-sbornik-1902)
 {.links-list}
 
 
