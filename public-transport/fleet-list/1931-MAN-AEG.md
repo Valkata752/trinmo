@@ -2,7 +2,7 @@
 title: MAN-AEG (66-80)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-16T12:20:16.564Z
+date: 2024-03-16T12:26:20.915Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:18:58.987Z
@@ -84,21 +84,23 @@ MAN-AEG притежава следните технико-експлоатац�
 
 # Снимки
   
-# Tabs {.tabset}
-
-## 66
- <!--66--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://stara-sofia.com/Scan4158.jpg" height="200px"><figcaption> <b>ТМ5</b> 📷 stara-sofia.com</figcaption></figure></button><div class="dropdown-content"><img src="http://stara-sofia.com/Scan4158.jpg" width="100%"></div></div>
-
-# Tabs {.tabset}
-## 69
+## Tabs {.tabset}
+### 66
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm66%20line5.jpg"></td>
+<td><b>tm66 line5 </b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 кв. Княжево<br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+  
+## Tabs {.tabset}
+### 69
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/60s/tm69%20tm419%20line2%201965.jpg"></td>
 <td><b>tm69+tm419 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80) </a> и <a href="/bg/public-transport/fleet-list/1929-Energie">Energie (401-432)</a><br>📌 неизв. <br> 📷 Trotskee travel<br></td></tr><td colspan=2 >ℹ️ </td></table></div>
 
-
-## 72	
+## Tabs {.tabset}
+### 72	
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm72%20tm422%20line2.jpg"></td>
@@ -106,16 +108,16 @@ MAN-AEG притежава следните технико-експлоатац�
 </a><br>📌 неизв.<br> 📷  H E C Piercy<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-# Tabs {.tabset}
-## 76
+## Tabs {.tabset}
+### 76
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/75-godini-gt/tm76%20line10.jpg"></td>
 <td><b>tm76 line10</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1931-MAN-AEG">MAN-AEG (66-80)</a> <br>📌 депо <br> 📷 75 години градски транспорт<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
 
-# Tabs {.tabset}
-## 79
+## Tabs {.tabset}
+### 79
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1970/tm79%20line8%201970%202.jpg"></td>
@@ -131,8 +133,8 @@ MAN-AEG притежава следните технико-експлоатац�
   <td colspan=2 >ℹ️ </td></table></div>
 
 
-# Tabs {.tabset}
-## 80	
+## Tabs {.tabset}
+### 80	
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/hec-piercy/tm80%20line12.jpg"></td>
