@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-17T19:59:39.337Z
+date: 2024-03-17T20:03:36.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -369,11 +369,19 @@ dateCreated: 2023-08-08T13:28:48.391Z
 ## Tabs {.tabset}
 
 ### 76
-<!--3300--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52713261643_5ee8fa395e_b.jpg" height="200px"><figcaption> <b>A76</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/197240833@N06/52713261643" target="_blank" title="3300"> <img src="https://live.staticflickr.com/65535/52713261643_5ee8fa395e_b.jpg" width="100%"></a></div></div>
-
-<!--3300--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52403798554_5afcea5d5e_k.jpg" height="200px"><figcaption> <b>А204</b> 📷 Борис Драголов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196406210@N08/52403798554/" target="_blank" title="3300"> <img src="https://live.staticflickr.com/65535/52403798554_5afcea5d5e_k.jpg" width="100%"></a></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52713261643_5ee8fa395e_b.jpg"></td>
+<td><b>a3300 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+### 204
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52403798554_5afcea5d5e_k.jpg"></td>
+<td><b>a3300 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Борис Драголов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## 3301
