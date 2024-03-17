@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-17T20:03:36.057Z
+date: 2024-03-17T20:04:24.279Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -388,11 +388,19 @@ dateCreated: 2023-08-08T13:28:48.391Z
 ## Tabs {.tabset}
 
 ### 76
-<!--3301--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51896127478_8a01f885e8_b.jpg" height="200px"><figcaption> <b>A76</b> 📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/194903094@N07/51896127478/" target="_blank" title="3301"> <img src="https://live.staticflickr.com/65535/51896127478_8a01f885e8_b.jpg" width="100%"></a></div></div>
-<!--3301--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52513347933_4ef95775a8_k.jpg" height="200px"><figcaption> <b>А204</b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196863628@N07/52513347933" target="_blank" title="3301"> <img src="https://live.staticflickr.com/65535/52513347933_4ef95775a8_k.jpg" width="100%"></a></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/51896127478_8a01f885e8_b.jpg"></td>
+<td><b>a3301 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+### 204
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52513347933_4ef95775a8_k.jpg"></td>
+<td><b>a3301 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ## 3302
 ## Tabs {.tabset}
