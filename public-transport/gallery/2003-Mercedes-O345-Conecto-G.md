@@ -2,7 +2,7 @@
 title: Mercedes O345 Conecto G  📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-17T20:04:24.279Z
+date: 2024-03-17T20:06:33.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T13:28:48.391Z
@@ -23,7 +23,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52137561560_fac8bcbf83_k.jpg"></td>
-<td><b>a1101 line83</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1101 line83</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## 1102
@@ -33,7 +33,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/7849/47332101952_66bcee6c84_k.jpg"></td>
-<td><b>a1102 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Апостол Чуканов</td></tr>
+<td><b>a1102 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
  
@@ -44,7 +44,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51891389088_67c38b86cc_h.jpg"></td>
-<td><b>a1106 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1106 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## 1110
@@ -54,7 +54,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/48809860577_fea5aef57a_h.jpg"></td>
-<td><b>a1110 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1110 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -66,7 +66,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/48809362728_88c5d5cd3c_h.jpg"></td>
-<td><b>a1112 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1112 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -77,7 +77,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/48809360913_f3e5200648_h.jpg"></td>
-<td><b>a1115 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1115 line83A</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -88,7 +88,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53354744676_0f22f2e958_k.jpg"></td>
-<td><b>a1117 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1117 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -100,7 +100,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53329088137_17c39e34d9_k.jpg"></td>
-<td><b>a1126 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1126 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -110,7 +110,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53345778264_0fa541ff87_k.jpg"></td>
-<td><b>a1127 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1127 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -121,7 +121,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53314286038_0ccb2b50fb_k.jpg"></td>
-<td><b>a1128 line102</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1128 line102</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -131,14 +131,14 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53330216663_0fba4e88be_k.jpg"></td>
-<td><b>a1131 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1131 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 83  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53345687443_5b5a0c6f84_k.jpg"></td>
-<td><b>a1131 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1131 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -149,7 +149,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53345360236_58f4fd2659_k.jpg"></td>
-<td><b>a1135 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1135 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
@@ -159,14 +159,14 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53329099242_b69d9ccd95_k.jpg"></td>
-<td><b>a1137 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1137 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 42
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51523487547_05162d24aa_k.jpg"></td>
-<td><b>a1137 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
+<td><b>a1137 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -176,21 +176,21 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51353801689_d3ea6cbef2_k.jpg"></td>
-<td><b>a1138 line5TM</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a1138 line5TM</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ### X10
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53345847430_a6fc4108d1_k.jpg"></td>
-<td><b>a1138 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 lineX10</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ### 11
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53330332319_b35d8949ad_k.jpg"></td>
-<td><b>a1138 line11</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line11</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
@@ -198,7 +198,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/4269/34805812775_60cbf77a2f_k.jpg"></td>
-<td><b>a1138 line44Б</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Васил Георгиев</td></tr>
+<td><b>a1138 line44Б</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Васил Георгиев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
@@ -206,13 +206,13 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53253630155_0a609e02a6_k.jpg"></td>
-<td><b>a1138 line54</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line54</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53329057602_e3b4c75003_k.jpg"></td>
-<td><b>a1138 line56</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line56</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
@@ -220,7 +220,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53015822508_5c0649fe66_k.jpg"></td>
-<td><b>a1138 line77</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line77</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
@@ -228,7 +228,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53186711579_5d21db9533_k.jpg"></td>
-<td><b>a1138 line108</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line108</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
 
 
@@ -236,7 +236,7 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/49304353432_1a550f04f5_k.jpg"></td>
-<td><b>a1138 line304</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a1138 line304</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
   
@@ -249,28 +249,28 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52813465287_f27613277d_k.jpg"></td>
-<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
+<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 120
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52544004242_00b9ad500c_k.jpg"></td>
-<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 285
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/50282543493_b42e05c0b6_k.jpg"></td>
-<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
+<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 294
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52766926461_5fa6e1249e_k.jpg"></td>
-<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a2161 line26</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## 2162
@@ -372,14 +372,14 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52713261643_5ee8fa395e_b.jpg"></td>
-<td><b>a3300 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a3300 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ### 204
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52403798554_5afcea5d5e_k.jpg"></td>
-<td><b>a3300 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Борис Драголов</td></tr>
+<td><b>a3300 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Борис Драголов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
@@ -391,14 +391,14 @@ dateCreated: 2023-08-08T13:28:48.391Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/51896127478_8a01f885e8_b.jpg"></td>
-<td><b>a3301 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
+<td><b>a3301 line76</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ### 204
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/52513347933_4ef95775a8_k.jpg"></td>
-<td><b>a3301 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2008-Mercedes-Conecto-Lf"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Любомир Николов</td></tr>
+<td><b>a3301 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Любомир Николов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 
