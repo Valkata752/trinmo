@@ -2,7 +2,7 @@
 title: Gräf & Stift GE152 M18
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-19T11:30:40.271Z
+date: 2024-03-18T13:03:24.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:27:15.257Z
@@ -62,14 +62,45 @@ dateCreated: 2022-05-19T22:27:15.257Z
 
 # Tabs {.tabset}
 ## ТБ2
-<!--1802-->
-<div class="dropdown"><button class="imgbtn">
-  <img src="https://live.staticflickr.com/65535/52163580206_b2ab3ab3f5_k.jpg" height="200px"><figcaption><b>1802</b> 📷 Владимир Симов</figcaption></button><div class="dropdown-content">
-  <a href="https://www.flickr.com/photos/137241490@N07/52163580206/" target="_blank" title="1802 - Владимир Симов">
- <img src="https://live.staticflickr.com/65535/52163580206_b2ab3ab3f5_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1807%20line2%209.7.2014.jpg"></td>
+<td><b>tb1807 line2</b><br>📌  <br>📆 09.07.2014 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 # Tabs {.tabset}
 ## ТБ4
-<!--1802--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52542352928_ceaa2fb4f6_k.jpg" height="200px"><figcaption><b>ТБ4</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/52542352928/" target="_blank" title="1802"> <img src="https://live.staticflickr.com/65535/52542352928_ceaa2fb4f6_k.jpg" width="100%"></a></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1805%20line4%2018.3.2014.jpg"></td>
+<td><b>tb1805 line4</b><br>📌  <br>📆 18.03.2014 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+# Tabs {.tabset}
+## ТБ5
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1801%20line5%201.4.2014.jpg"></td>
+<td><b>tb1801 line5</b><br>📌  <br>📆 01.04.2014 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+# Tabs {.tabset}
+## ТБ8
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1807%20line8%209.4.2014.jpg"></td>
+<td><b>tb1807 line8</b><br>📌  <br>📆 09.04.2014 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+# Tabs {.tabset}
+## ТБ11
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1801%20line11%2020.11.2013_1.jpg"></td>
+<td><b>tb1801 line11</b><br>📌  <br>📆 20.11.2013 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 
