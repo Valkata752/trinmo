@@ -2,7 +2,7 @@
 title: Gräf & Stift GE152 M18 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-18T09:49:27.203Z
+date: 2024-03-18T09:53:51.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-19T11:28:35.251Z
@@ -137,8 +137,8 @@ dateCreated: 2023-12-19T11:28:35.251Z
 ### 5
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/vladimir-simov/tb/man-graf-stift/tb1803%20line5%2022.6.2012.jpg"></td>
-<td><b>tb1803 line5</b><br>📌  <br>📆 22.06.2012 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Владимир Симов</td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1803%20line5.jpg"></td>
+<td><b>tb1803 line5</b><br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1988-Graf-Stift-GE152-M18">Gräf & Stift GE152 M18  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
