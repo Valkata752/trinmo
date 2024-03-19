@@ -2,7 +2,7 @@
 title: Рендъри и скици
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-19T11:24:29.491Z
+date: 2024-03-19T11:25:58.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T10:00:20.913Z
@@ -11,20 +11,7 @@ dateCreated: 2023-07-17T10:00:20.913Z
 # Метродиаметър 3
 <br>
 
-  
-  ## 306. Цариградско шосе /Св.Анна/
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://cache2.24chasa.bg/Images/Cache/404/Image_16033404_40_0.jpg&sz=w1000"></td>
-<td><span> Метростанция "Цариградско шосе"/Св.Анна/</span></td></tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
-
-  ## 306.  Арена София /София Тех парк/
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://scontent.fsof8-1.fna.fbcdn.net/v/t39.30808-6/314562924_5557689144299989_3463033404723421530_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6IVHUmu_OCgAX-6WYJh&_nc_ht=scontent.fsof8-1.fna&oh=00_AfDtp_bNwWg_y258SPwSMwj_PO1LNFykHyA_jSTImnCqxQ&oe=654487E6&sz=w1000"></td>
-<td><span> Метростанция "Арена София' /София Тех парк/</span></td></tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a></td></table></div>
-  
-  ## 304. Георги Аспарухов
+## 304. Георги Аспарухов
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://gradat.bg/sites/default/files/styles/article_media_embed/public/1._ms_g._asparuhov_-_peron_avtor_na_dizayna_-_arh._irena_derlipanska.jpg?itok=Dh0V0ZsK"></td>
 <td><span> Метростанция "Георги Аспарухов / перон /</span></td></tr>
