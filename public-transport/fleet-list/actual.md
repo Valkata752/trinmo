@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-03-19T14:44:58.457Z
+date: 2024-03-19T14:47:53.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -49,7 +49,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 ### Досие
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=13xnjUwLwSpu47E2iQ90FxgqXb47maAJq"></td>
+    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=13xnjUwLwSpu47E2iQ90FxgqXb47maAJq&sz=w1000"></td>
     <td><b>Инвентарни номера:</b> 2301-2367 <br><b>Линии на движение:</b> 1, 4, 5, 7, 18, 27<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2307<br><b><span style="color:#808080">Нe са в движение:</span></b> 2318</td>
   </tr>
   <td colspan=2 >ℹ️ <b>56 броя</b> - <a href="/bg/public-transport/fleet-list/2013-Pesa-122NASF">Повече информация...</a></td>
@@ -78,7 +78,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 ### Досие
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1eTNGlzkUPGedAXSt2u5z4Asbk_B8rodu"></td>
+    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1eTNGlzkUPGedAXSt2u5z4Asbk_B8rodu&sz=w1000"></td>
     <td><b>Инвентарни номера:</b> 503-511 (пенделни мотриси) <br><b>Линии на движение: </b>11 <br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> няма</td>
   </tr>
   <td colspan=2 >ℹ️ <b>9 броя</b> - <a href="/bg/public-transport/fleet-list/2000-T8K-503">Повече информация...</a></td>
@@ -145,7 +145,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 ### Досие
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2"></td>
+    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2&sz=w1000"></td>
     <td><b>Инвентарни номера:</b> 2033-2034 (2), 3001-3008, 3010-3032, 3035-3040 (37), 3009 (Учебен) <br><b>Линии на движение:</b> 3, 10, 11<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 3020</td>
   </tr>
   <td colspan=2 >ℹ️ <b>40 броя</b> - <a href="/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2">Повече информация...</a></td>
@@ -172,7 +172,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 ### Досие
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1Eu6hOV8fwp3l6b1lfC8I1LQuwYxB9j0A"></td>
+    <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1Eu6hOV8fwp3l6b1lfC8I1LQuwYxB9j0A&sz=w1000"></td>
     <td><b>Инвентарни номера:</b> 802 (разнася пясък), 708 (учебен) <br><b>Линии на движение:</b> няма<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> няма</td>
   </tr>
   <td colspan=2 >ℹ️ <b>11 броя</b> - <a href="/bg/public-transport/fleet-list/1985-T6M-700">Повече информация...</a></td>
