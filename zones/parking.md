@@ -2,7 +2,7 @@
 title: Синя и зелена зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-19T09:58:17.261Z
+date: 2024-03-19T13:28:15.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:17:50.530Z
@@ -97,19 +97,19 @@ dateCreated: 2023-12-01T07:17:50.530Z
 > Решение 704 от 28.10.2021
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1_m7_FiIutkyYHLm18f0tRfjmmDJ8sxK4">
+<img src="https://drive.google.com/thumbnail?id=1_m7_FiIutkyYHLm18f0tRfjmmDJ8sxK4&sz=w1000">
 
 ### 2018
 > Решение 511 от 26.07.2018
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1ZOVi0bOqc2L_3LfBdB0BxCQ1-ZQFT0_c">
+<img src="https://drive.google.com/thumbnail?id=1ZOVi0bOqc2L_3LfBdB0BxCQ1-ZQFT0_c&sz=w1000">
 
 ### 2013
 > Решение 521 от 26.09.2013
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=14_r9tmM9EhiEBeN6tVFjvWsYV88TD-RE">
+<img src="https://drive.google.com/thumbnail?id=14_r9tmM9EhiEBeN6tVFjvWsYV88TD-RE&sz=w1000">
 
 
 
@@ -117,4 +117,4 @@ dateCreated: 2023-12-01T07:17:50.530Z
 > Решение 148 от 22.03.2012
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=10QIotg73NbrXsfJiKj85aNPlcbfvgL_v">
+<img src="https://drive.google.com/thumbnail?id=10QIotg73NbrXsfJiKj85aNPlcbfvgL_v&sz=w1000">
