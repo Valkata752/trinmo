@@ -2,7 +2,7 @@
 title: Нискомисионна зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-01T09:47:23.468Z
+date: 2024-03-19T13:29:18.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:00:31.179Z
@@ -26,7 +26,7 @@ dateCreated: 2023-12-01T07:00:31.179Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1JlwIPw3fcS7dUuzGPGVwKSPXCU5N7V6T"></td>
+<td><img src="https://drive.google.com/thumbnail?id=1JlwIPw3fcS7dUuzGPGVwKSPXCU5N7V6T&sz=w1000"></td>
 <td>Зоната, оградена от: бул. "Васил Левски", бул. "Патриарх Евтимий", бул. "Ген. Скобелев", ул. "Опълченска", бул. "Сливница"<br></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/zones/low-emission"><b>Столична община</b></a></td></table></div>
   
@@ -38,7 +38,7 @@ dateCreated: 2023-12-01T07:00:31.179Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1e2e-WsomXqh9FM-8pvVbwY0ZpJmrTLda"></td>
+<td><img src="https://drive.google.com/thumbnail?id=1e2e-WsomXqh9FM-8pvVbwY0ZpJmrTLda&sz=w1000"></td>
 <td>Зоната, оградена от: бул. "Сливница", бул. "Данаил Николаев", бул. "Ситняково", бул. Михай Еминеску", бул. "П. Яворов", бул. "Никола Й. Вапцаров", ул. "Атанас Дуков", ул. "Люба Величкова", ул. "Сребърна", бул. "X. Ибсен", бул. "П. Ю. Тодоров", бул. "И. Е. Гешов", бул. "К. Величков".
 <br></td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/zones/low-emission"><b>Столична община</b></a></td></table></div>
