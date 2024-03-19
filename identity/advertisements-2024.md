@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-29T08:41:12.296Z
+date: 2024-03-19T18:05:31.919Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -19,10 +19,15 @@ dateCreated: 2024-01-29T08:34:18.843Z
 |**Реклама**   |ХХ.2024| |   |    | **ХХХХ** |
 {.dense}
 
-## Реклама
-  <!--реклама--> 
-  <div class="dropdown"><button class="imgbtn"><img src="link" height="200px"><figcaption><b>XXXX </b> 📷 XXX XXX </figcaption></button><div class="dropdown-content"><img src="link" width="100%"></div></div>
-  
+## ИМЕ НА РЕКЛАМА
+## Tabs {.tabset}
+
+### ИНВ. НОМЕР
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/52137561560_fac8bcbf83_k.jpg"></td>
+<td><b>a1101 line83</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
   
   
