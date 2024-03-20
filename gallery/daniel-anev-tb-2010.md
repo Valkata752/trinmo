@@ -2,7 +2,7 @@
 title: Фотограф - Даниел Анев - Тролейбуси 2010
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-20T07:51:17.244Z
+date: 2024-03-20T07:53:20.009Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-20T07:51:17.244Z
@@ -14,7 +14,7 @@ dateCreated: 2024-03-20T07:51:17.244Z
 
 ---
 
-## Ikarus 280.92T
+## Ikarus 280.92T (12**)
 ## Tabs {.tabset}
 ### 1200
 <!--следващ пост--> 
@@ -96,6 +96,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb1215 line8</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+## Ikarus 280.92T (13**)
+## Tabs {.tabset}
 ### 1302
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -156,7 +158,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb1322 line4</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
   
-  
+## Ikarus 280.92T (14**)
+## Tabs {.tabset}  
 ### 1402
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -260,7 +263,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb1431 line11</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>       
   
-  
+## Ikarus 280.92T (15**)
+## Tabs {.tabset}  
 ### 1501
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -434,7 +438,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb1525 line5</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>          
 
-
+## Ikarus 280.92T (20**)
+## Tabs {.tabset}
 ### 2052
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -448,6 +453,9 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb2052 line7</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>    
 
+
+## Ikarus 280.92T (21**)
+## Tabs {.tabset}
 ### 2102
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -522,6 +530,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb2118 line1</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
   
+## Ikarus 280.92T (26**)
+## Tabs {.tabset} 
 ### 2601
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -575,7 +585,8 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><br><b>tb2609 line9</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>     
   
-  
+## Ikarus 280.92T (27**)
+## Tabs {.tabset}  
 ### 2703
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -618,7 +629,9 @@ dateCreated: 2024-03-20T07:51:17.244Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/daniel-anev/2010/ikarus-280t/tb2721%20line6.jpg"></td>
 <td><br><b>tb2721 line6</b><br>🚎 <a href="/bg/public-transport/fleet-list/1985-Ikarus-280-92T">Ikarus 280.92T</a> <br>📆 2010<br> 📌<br> 📷 Даниел Анев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>           
-  
+
+## Ikarus 280.92T (29**)
+## Tabs {.tabset}
 ### 2902
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
