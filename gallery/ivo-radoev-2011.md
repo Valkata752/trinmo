@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2011
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T23:29:31.921Z
+date: 2024-03-21T11:51:43.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T18:12:22.624Z
@@ -264,85 +264,85 @@ dateCreated: 2024-01-06T18:12:22.624Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3311.jpg"></td>
-<td><br><b>🚋 tm921 line3</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm921 line3</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3500.jpg"></td>
-<td><br><b>🚋 tm936 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm936 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3528.jpg"></td>
-<td><br><b>🚋 tm907 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm907 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3547.jpg"></td>
-<td><br><b>🚋 tm924 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm924 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3562.jpg"></td>
-<td><br><b>🚋 tm932 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm932 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3579.jpg"></td>
-<td><br><b>🚋 tm936 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm936 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3615.jpg"></td>
-<td><br><b>🚋 tm928 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm928 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3629.jpg"></td>
-<td><br><b>🚋 tm921 line3</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm921 line3</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_7775.jpg"></td>
-<td><br><b>🚋 tm924 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm924 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_7817.jpg"></td>
-<td><br><b>🚋 tm932 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm932 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_8210.jpg"></td>
-<td><br><b>🚋 tm913 line6, tm503 line7</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm913 line6, tm503 line7</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_8220.jpg"></td>
-<td><br><b>🚋 tm918 line6, tm711 line7, tb2914 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm918 line6, tm711 line7, tb2914 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_8941.jpg"></td>
-<td><br><b>🚋 tm912 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm912 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_8984.jpg"></td>
-<td><br><b>🚋 tm921 line3</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm921 line3</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2011<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## T8M-700IT
