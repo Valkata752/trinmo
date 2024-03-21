@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2013
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T23:27:45.383Z
+date: 2024-03-21T11:57:57.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:30:01.102Z
@@ -172,17 +172,16 @@ dateCreated: 2024-01-07T06:30:01.102Z
 ## T8M-700
 ## Tabs {.tabset}
 ###
-
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_5653.jpg"></td>
-<td><br><b>🚋 tm919 line6, tm92+tm501</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm919 line6, tm92+tm501</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a> & <a href="http://trinmo.org/bg/public-transport/gallery/1935-MAN-Siemens">MAN-Siemens (81-92)</a><br>📆 2013<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_8209.jpg"></td>
-<td><br><b>🚋 tm925 line7</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tm925 line7</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2013<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ## Duewag T4+B4
