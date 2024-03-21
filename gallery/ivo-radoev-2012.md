@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2012
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T23:29:09.594Z
+date: 2024-03-21T11:55:32.486Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:21:32.589Z
@@ -383,17 +383,16 @@ dateCreated: 2024-01-07T06:21:32.589Z
 ## T8M-700
 ## Tabs {.tabset}
 ###
-
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/DSC_5921.jpg"></td>
-<td><br><b>🚋 tm903 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b> tm903 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2012<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/DSC_8472.jpg"></td>
-<td><br><b>🚋 tm915 line6</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b> tm915 line6</b><br>🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2012<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ## T8K-503
