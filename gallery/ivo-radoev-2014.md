@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2014
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-07T23:27:23.130Z
+date: 2024-03-21T12:07:30.343Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:33:39.184Z
@@ -179,33 +179,33 @@ dateCreated: 2024-01-07T06:33:39.184Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2094.jpg"></td>
-<td><b>tm923 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm923 line1</b><br> 🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2014<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2118.jpg"></td>
-<td><b>tm915 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm915 line7</b><br> 🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2014<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2132.jpg"></td>
-<td><b>tm903 line7</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm903 line7</b><br> 🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2014<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2149.jpg"></td>
-<td><b>tm916 line6</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm916 line6</b><br> 🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2014<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2014/DSC_2151.jpg"></td>
-<td><b>tm925 line1</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><b>tm925 line1</b><br> 🚋 <a href="http://trinmo.org/bg/public-transport/gallery/1990-T8M-700">Т8М-700</a><br>📆 2014<br> 📌<br> 📷 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-
 
 ##  T8K-503
 ## Tabs {.tabset}
