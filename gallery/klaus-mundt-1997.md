@@ -2,7 +2,7 @@
 title: Фотограф - Klaus Mundt - 1997
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T19:45:57.059Z
+date: 2024-03-21T15:22:58.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T21:12:52.460Z
@@ -152,7 +152,7 @@ dateCreated: 2023-11-20T21:12:52.460Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/klaus-mundt/1997/tm900%201997-08-19.jpg"></td>
-<td><b>tm900</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Klaus Mundt</td></tr>
+<td><b>tm900</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1990-T8M-700">Т8М-700</a> <br>📆 1997<br> 📌<br> 📷 Klaus Mundt</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
