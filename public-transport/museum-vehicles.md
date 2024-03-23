@@ -2,7 +2,7 @@
 title: Музейни превозни средства
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-14T06:37:16.056Z
+date: 2024-03-23T09:09:04.774Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:28:24.375Z
@@ -207,7 +207,7 @@ dateCreated: 2022-04-30T08:28:24.375Z
 ### 240
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/museum-vehicles/muzeen-240.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/radocvet/2014.03.27%20-%20tramcar/repubkika.jpg"></td>
 <td>модел: Република, 240 <br>год. производство: 1953<br>производител: ЗТ София</td></tr>
   <td colspan=2 >ℹ️ Преместен в Трамкар на 07.2013</td></table></div>
 
@@ -292,8 +292,17 @@ dateCreated: 2022-04-30T08:28:24.375Z
 <td><b></b> </td></tr>
   <td colspan=2 >📷 Peter Haseldine </td></table></div>   
   
-           
+## Franco-Belge-OeBB Charleroi
 
+## Tabs {.tabset}
+
+### 564
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/radocvet/2014.03.27%20-%20tramcar/564.jpg"></td>
+<td>модел: Franco-Belge-OeBB Charleroi <br>год. производство:  <br>производител: </td></tr>
+  <td colspan=2 >ℹ️ Преместен в Трамкар на...</td></table></div>
+  
 
   
 ## Т4М-701 (Комсомолец)          
