@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2012
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-21T11:55:32.486Z
+date: 2024-03-26T12:02:25.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:21:32.589Z
@@ -646,25 +646,25 @@ dateCreated: 2024-01-07T06:21:32.589Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/1507.jpg"></td>
-<td><br><b>🚋 tb1507 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1507 line5</b><a href=""></a> <br>📌  <br>📆 2012 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/DSC_1715.jpg"></td>
-<td><br><b>🚋 tb1303 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1303 line5</b><a href=""></a> <br>📌  <br>📆 2012 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/DSC_2671.jpg"></td>
-<td><br><b>🚋 tb1511 line2</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1511 line2</b><a href=""></a> <br>📌  <br>📆 2012 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2012/DSC_2677.jpg"></td>
-<td><br><b>🚋 tb2604 line9</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb2604 line9</b><a href=""></a> <br>📌  <br>📆 2012 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## Ikarus 280.92T Facelift
