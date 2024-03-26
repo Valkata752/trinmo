@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев 2010
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-21T09:55:56.541Z
+date: 2024-03-26T11:59:59.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-01T10:17:21.033Z
@@ -658,49 +658,49 @@ dateCreated: 2024-01-01T10:17:21.033Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1209%20%d0%a7%d0%b8%d0%ba%d0%be.jpg"></td>
-<td><br><b>🚋 tb1209</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1209</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1505.jpg"></td>
-<td><br><b>🚋 tb1505</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1505</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1509%20line5.jpg"></td>
-<td><br><b>🚋 tb1509 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1509 line5</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1509%20line11.jpg"></td>
-<td><br><b>🚋 tb1509 line11</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1509 line11</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1521%20line5.jpg"></td>
-<td><br><b>🚋 tb1521 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1521 line5</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb1525%20line5.jpg"></td>
-<td><br><b>🚋 tb1525 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb1525 line5</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb2110%20line1.jpg"></td>
-<td><br><b>🚋 tb2110 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb2110 line1</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2010/tb2118%20line1.jpg"></td>
-<td><br><b>🚋 tb2118 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb2118 line1</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ## MAN Graf & Stift
