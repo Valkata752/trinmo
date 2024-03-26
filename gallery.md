@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T23:27:03.980Z
+date: 2024-03-26T18:42:29.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -84,6 +84,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Sludge G*1995*](/gallery/sludge-g)
 - [Rob Crandall *1995*](/gallery/rob-crandall)
 - [Luc Koenot :belgium: *1993, 1996*](/gallery/luc-koenot)
+- [Bjørn O Isachsen :norway: *1992*](/gallery/bjorn-0-isachsen-1992)
 - [Ferdinand Huizer*1992*](/gallery/ferdinand-huizer)
 - [Ligne De Crête :fr: *1992*](/gallery/ligne-de-crete)
 - [Maarten van Dam / Frits van Dam*1991, 1993*](/gallery/frits-van-dam-maarten-van-dam)
