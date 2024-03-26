@@ -2,7 +2,7 @@
 title: Фотограф Bjørn O Isachsen 
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-26T18:45:00.687Z
+date: 2024-03-26T18:45:35.937Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-26T18:45:00.687Z
