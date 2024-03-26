@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2013
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-21T11:58:53.132Z
+date: 2024-03-26T12:06:36.102Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-07T06:30:01.102Z
@@ -426,53 +426,53 @@ dateCreated: 2024-01-07T06:30:01.102Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/1405.jpg"></td>
-<td><br> 🚋 <b>tb1405 line5</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb1405 line5</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/1503.jpg"></td>
-<td><br> 🚋 <b>tb1503 line4</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb1503 line4</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_0862.jpg"></td>
-<td><br> 🚋 <b>tb2702 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb2702 line1</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_0873.jpg"></td>
-<td><br> 🚋 <b>tb2704 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb2704 line1</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_0893.jpg"></td>
-<td><br> 🚋 <b>tb2723 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb2723 line1</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_2685.jpg"></td>
-<td><br> 🚋 <b>tb1517 line2</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb1517 line2</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_2686.jpg"></td>
-<td><br> 🚋 <b>tb1427 line2</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb1427 line2</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_2707.jpg"></td>
-<td><br> 🚋 <b>tb2715 line1</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb2715 line1</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2013/DSC_2713.jpg"></td>
-<td><br> 🚋 <b>tb1521 line2</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br> <b>tb1521 line2</b><a href=""></a> <br>📌  <br>📆 2013 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
