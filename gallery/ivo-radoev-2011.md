@@ -2,7 +2,7 @@
 title: Фотограф - Иво Радоев - 2011
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-21T11:51:43.288Z
+date: 2024-03-26T12:00:53.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T18:12:22.624Z
@@ -1030,7 +1030,7 @@ dateCreated: 2024-01-06T18:12:22.624Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3312.jpg"></td>
-<td><br><b>🚋 tb2614 line9</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb2614 line9</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 ## Ikarus 280.92T Facelift
@@ -1040,7 +1040,7 @@ dateCreated: 2024-01-06T18:12:22.624Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/ivo-radoev/2011/DSC_3313.jpg"></td>
-<td><br><b>🚋 tb2603 line9</b><a href=""></a> <br>📌<br> 📷 Иво Радоев</td></tr>
+<td><br><b>tb2603 line9</b><a href=""></a> <br>📌  <br>📆 2010 <br>🚎 <a href="/bg/public-transport/gallery/1985-Ikarus-280-92T">Ikarus 280.92T  </a> <br>📸 Иво Радоев</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
 ## Škoda 26TR
