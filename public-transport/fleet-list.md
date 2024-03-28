@@ -2,13 +2,14 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T16:46:51.809Z
+date: 2024-03-28T22:04:13.316Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
 ---
 
-| [**Актуален**](/bg/public-transport/fleet-list/actual) | [30.06.2023](/bg/public-transport/fleet-list/2023-06-30) | [31.12.2022](/bg/public-transport/fleet-list/2022-12-31) | [31.12.2021](/bg/public-transport/fleet-list/2021-12-31) | [31.12.2020](/bg/public-transport/fleet-list/2020-12-31) | [31.12.2019](/bg/public-transport/fleet-list/2019-12-31) | [31.12.2018](/bg/public-transport/fleet-list/2018-12-31) | [31.12.2017](/bg/public-transport/fleet-list/2017-12-31) | [31.12.2016](/bg/public-transport/fleet-list/2016-12-31) | [31.12.2015](/bg/public-transport/fleet-list/2015-12-31) | [31.12.2014](/bg/public-transport/fleet-list/2014-12-31) | [31.12.2013](/bg/public-transport/fleet-list/2013-12-31) | [31.12.2012](/bg/public-transport/fleet-list/2012-12-31) | [31.12.2011](/bg/public-transport/fleet-list/2011-12-31) | [31.12.2010](/bg/public-transport/fleet-list/2010-12-31) | [31.12.2009](/bg/public-transport/fleet-list/2009-12-31) | [31.12.2008](/bg/public-transport/fleet-list/2008-12-31) | [31.12.2007](/bg/public-transport/fleet-list/2007-12-31) | 
+| [**Актуален**](/bg/public-transport/fleet-list/actual) | [30.06.2023](/bg/public-transport/fleet-list/2023-06-30) | [31.12.2022](/bg/public-transport/fleet-list/2022-12-31) | [31.12.2021](/bg/public-transport/fleet-list/2021-12-31) | [31.12.2020](/bg/public-transport/fleet-list/2020-12-31) | [31.12.2019](/bg/public-transport/fleet-list/2019-12-31) | [31.12.2018](/bg/public-transport/fleet-list/2018-12-31) | [31.12.2017](/bg/public-transport/fleet-list/2017-12-31) | [31.12.2016](/bg/public-transport/fleet-list/2016-12-31) | [31.12.2015](/bg/public-transport/fleet-list/2015-12-31) | [31.12.2014](/bg/public-transport/fleet-list/2014-12-31) | [31.12.2013](/bg/public-transport/fleet-list/2013-12-31) | [31.12.2012](/bg/public-transport/fleet-list/2012-12-31) | [31.12.2011](/bg/public-transport/fleet-list/2011-12-31) | [31.12.2010](/bg/public-transport/fleet-list/2010-12-31) | [31.12.2009](/bg/public-transport/fleet-list/2009-12-31) | [31.12.2008](/bg/public-transport/fleet-list/2008-12-31) | [31.12.2007](/bg/public-transport/fleet-list/2007-12-31) | [31.12.1958 (Трамваи)](/bg/literature/tram-archives/opis-tramvaini-koli-1958) |
+
 
 ---
 
@@ -338,16 +339,17 @@ dateCreated: 2022-04-27T08:43:50.516Z
 
 **Под наем за ремонтни дейности**
 
-| Година  <br>производство | За  | Период |     | Модел | брой  <br>доставени | брой  <br>на линия |
+| Година  <br>производство | За  | Период | Модел | брой  <br>доставени | брой  <br>на линия |
 | --- | --- | --- | --- | --- | --- |
-| 2018 | ремонт | 2022 |     | Ford Transit | 1   | 0   |
-|     | ремонт | 2022 |     | Citroën Jumper | 1   | 0   |
+| 2018 | ремонт | 2022  | Ford Transit | 1   | 0   |
+|     | ремонт | 2022  | Citroën Jumper | 1   | 0   |
 
 ## Аварийни и специални
 
 Аварийните мотриси през годините са:
 -   **ЗТС** - мотриси | [Т4М-801](/bg/public-transport/fleet-list/1989-T4M-801) | [**Т4М-50**](/bg/public-transport/fleet-list/1980-T4M-50) | [**Т4М-900**](/bg/public-transport/fleet-list/1980-T4M-900)
 -   **Разни** | [маневрена машина "Графиня"](/bg/public-transport/fleet-list/Graffiniya)
+
 ## Музейни
 
 Към днешна дата има реставрирани 3 броя превозни средства в движение и 2 броя, които не са в движение. По гаражите има още запазени превозни средства, които чакат своята реставрация. Пълен [списък](/bg/public-transport/museum-vehicles/) на всички запазени за реставрация превозни средства. 
