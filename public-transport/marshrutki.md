@@ -2,7 +2,7 @@
 title: Маршрутки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-18T13:33:57.167Z
+date: 2024-03-29T12:20:59.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-18T09:50:32.477Z
@@ -11,18 +11,13 @@ dateCreated: 2023-11-18T09:50:32.477Z
 ## Маршрути
 ## Tabs {.tabset}
 ### 2010
-<img src="https://drive.google.com/uc?id=1ekl0lNHdjdGNwSQEyipVYhAlihhtTD9B">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/2010-3-marshrutki-list.jpg">
 
 ### 2009
-<img src="https://drive.google.com/uc?id=11mcK-gXqjwgPCxOZOsfQTAsjhxIyinnB">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/2009-03-marshrutki-list.jpg">
 
 ### 2003
-
-<img src="https://drive.google.com/uc?id=1eSc-YuFCmMz4BXaVDnRHtemZwGVIm2DL"><img src="https://drive.google.com/uc?id=1hxgin4Nqflj3hpD28jLGXlmGBOChKmQz">
-
-
-### 2003
-<img src="https://drive.google.com/uc?id=1B-ZCIDdsIo8PvpeOf8I2umwymTcpfwUt">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/2003-05-marshrutki-list.jpg">
 
 ### 1982
 > Маршрутни линии към юли 1982
@@ -38,35 +33,33 @@ dateCreated: 2023-11-18T09:50:32.477Z
 ## Схеми
 ## Tabs {.tabset}
 ### 2005
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=1rJESmImCco5NJyoB3Z4FlTkA8dq4Heo3)">
-  <img src="https://drive.google.com/uc?id=1rJESmImCco5NJyoB3Z4FlTkA8dq4Heo3"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/transport/2005-2-sofia-center.jpg)">
+  <img src="http://46.10.181.183:1518/trinmo/maps/transport/2005-2-sofia-center.jpg"/>
 </figure>
 
 ### 1999
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://drive.google.com/uc?id=14K-cjya_hoLPJ5oetP05yNGw0NSbFGLE)">
-  <img src="https://drive.google.com/uc?id=14K-cjya_hoLPJ5oetP05yNGw0NSbFGLE"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/transport/1999-2marshrutki.jpg)">
+  <img src="http://46.10.181.183:1518/trinmo/maps/transport/1999-2marshrutki.jpg"/>
 </figure>
 
 
 ## По вестниците
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1rPxR5sOFpEA8DMXSgahwE94Ctuk7nWgE"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-transportna-iskra/1986/1986.08.19-br12-2.jpg"></td>
 <td>"Отново маршрутни таксита по улиците на столицата" - статия от в-к "Транспортна искра"</td></tr>
   <td colspan=2 >ℹ️ в-к "Транспортна искра", бр.12/19.8.1986г.</td></table></div>
   
- <img src="https://drive.google.com/uc?id=1qi2J0z0SBpoYNLzwJhTJMSQseYgXE_1l">
- 
+
  
 ## Спиркознаци
 ## Tabs {.tabset}
 ###
-<!--23-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dkgbO9_40euHpBihjjvJZJ1f6KTe3sSi" height="200px"><figcaption><b>23</b> 📷 Jimy</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dkgbO9_40euHpBihjjvJZJ1f6KTe3sSi" width="100%"></div></div>
-<!--32-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nvx1-yegkFxij5Gqq439QTPambEEuA7R" height="200px"><figcaption><b>32</b> 📷 Jimy</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nvx1-yegkFxij5Gqq439QTPambEEuA7R" width="100%"></div></div>
-<!--38-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1pmZKukO5GxYgLl4HXmI66VcZW18rKzBL" height="200px"><figcaption><b>38</b> 📷 Jimy</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1pmZKukO5GxYgLl4HXmI66VcZW18rKzBL" width="100%"></div></div>
-<!--38-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nYNK6XIEasuPdwZ3oWo6waW6nzJhVkaZ" height="200px"><figcaption><b>38</b> 📷 Jimy</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nYNK6XIEasuPdwZ3oWo6waW6nzJhVkaZ" width="100%"></div></div>
-
+ <!--спиркознак-->
+<div class="dropdown"><button class="imgbtn">
+  <img src="https://lh5.googleusercontent.com/sHQC1B0XKK61Qt8v8A2GdRbXcYdzhSi9hEjSVSMDf8_kJvVypLcyRTYEDjO45XmMWL8=w2400" height="300px"></button><div class="dropdown-content">
+ <img src="https://lh5.googleusercontent.com/sHQC1B0XKK61Qt8v8A2GdRbXcYdzhSi9hEjSVSMDf8_kJvVypLcyRTYEDjO45XmMWL8=w2400" width="100%"></div></div>
+ <!--спиркознак-->
+<div class="dropdown"><button class="imgbtn">
+  <img src="https://lh6.googleusercontent.com/u0V_D2-x40XTvxw9rdnM_DT4mKgwqHKWNY70YOhkHp6ZdH4T9pUelQKvyIbHMCYW2o4=w2400" height="300px"></button><div class="dropdown-content">
+ <img src="https://lh6.googleusercontent.com/u0V_D2-x40XTvxw9rdnM_DT4mKgwqHKWNY70YOhkHp6ZdH4T9pUelQKvyIbHMCYW2o4=w2400" width="100%"></div></div>
