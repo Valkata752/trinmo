@@ -2,13 +2,21 @@
 title: Новини
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-20T12:16:31.261Z
+date: 2024-03-29T07:07:42.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T15:43:04.754Z
 ---
 
 <!--https://www.sofia.bg/transport-news--> 
+
+## 28.03.2024
+> **Връщат брояча за светване на зелено на светофарите**
+{.is-info}
+
+
+- [:vertical_traffic_light: Връщат брояча за светване на зелено на светофарите  *28.03.2024*](/bg/news/20240328-svetofari)
+{.links-list}
 
 
 ## 18.03.2024
