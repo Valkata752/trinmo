@@ -2,7 +2,7 @@
 title: Маршрутна мрежа и линии
 description: Автобуси, Трамваи, Тролейбуси и Метро
 published: true
-date: 2024-01-02T10:49:37.988Z
+date: 2024-03-29T12:13:50.263Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T15:34:13.268Z
@@ -91,41 +91,44 @@ dateCreated: 2022-04-26T15:34:13.268Z
 # 🆕 Списък на линиите
 # Tabs {.tabset}
 
+## 1990
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1990-3-lines-list%d0%b8%d0%bc%d0%b0%d1%80%d1%88%d1%80%d1%83%d1%82%d0%bd%d0%b8%d1%82%d0%b5%d1%82%d0%b0%d0%ba%d1%81%d0%b8%d1%82%d0%b0.jpg">
+
 ## 1989
-<img src="https://drive.google.com/uc?id=1YwqE-Iv0mb5GENAq1514q5Tv4uJy3Jlo">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1989-3-lines-list%d0%b8%d0%bc%d0%b0%d1%80%d1%88%d1%80%d1%83%d1%82%d0%bd%d0%b8%d1%82%d0%b5%d1%82%d0%b0%d0%ba%d1%81%d0%b8%d1%82%d0%b0.jpg">
 
 ## 1988
-<img src="https://drive.google.com/uc?id=1n2u0yW3hpucMfWnJsSGDmoSfM3EiOcuv">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1988-4-lines-list%d0%b8%d0%bc%d0%b0%d1%80%d1%88%d1%80%d1%83%d1%82%d0%bd%d0%b8%d1%82%d0%b5%d1%82%d0%b0%d0%ba%d1%81%d0%b8%d1%82%d0%b0.jpg">
 
 ## 1987
 > Данните за транспорта се отнасят към 30.10.1986г. 
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1Qsz8ITvf9Jz9xYCUIIKsoSZmaw6nksrA">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/spisak-1986.jpg">
 
 ## 1986
-<img src="https://drive.google.com/uc?id=1BTl_C1gfUZ8hjaH-Ak6qrvtle_9qcbpo">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1986-03-lines-list.jpg">
 
 ## 1984
-<img src="https://drive.google.com/uc?id=1X7XEqjEQjPFhmQCfXjh4AKaLt9ElPxzH">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1984-03-lines-list.jpg">
 
 ## 1983
-<img src="https://drive.google.com/uc?id=1ne8qJG-cQ1kDRTqmEqcLjfYvzWucmwE6">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1983-03-lines-list.jpg">
 
 ## 1982
-<img src="https://drive.google.com/uc?id=1JbqADtEIel6mc5YHyJgHJ-vEQvdFQJmo">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1982-3-lines-list.jpg">
 
 ## 1981
-<img src="https://drive.google.com/uc?id=1qOq-UMCLy2gmsim6Bv5kYUpZNRHkbHt2">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1981-3-lines-list.jpg">
 
 ## 1979
-<img src="https://drive.google.com/uc?id=1p6em3ytuTI8X_TZshqly1KxoRpEmUy8Q">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1979-44.jpg"><img src="http://46.10.181.183:1518/trinmo/maps/routes/1979-45.jpg">
 
 ## 1977
-<img src="https://drive.google.com/uc?id=1OnRZRbQgCcbO9poeOoQ96WjrxIXCh-Ha">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1977-03-lines-list.jpg">
 
 ## 1968
-<img src="https://drive.google.com/uc?id=12KNHHk_RrVnjaYED4XNcGvecjEIH13Ye">
+<img src="http://46.10.181.183:1518/trinmo/maps/routes/1968(2)spisak.jpg">
 
 
 # История на маршрутната мрежа
