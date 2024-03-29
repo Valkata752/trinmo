@@ -2,7 +2,7 @@
 title: Crotram TMK22000
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-29T08:50:18.401Z
+date: 2024-03-29T08:50:59.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-24T10:31:08.076Z
@@ -140,11 +140,6 @@ TMK 2200 (известен също като NT 2200) е нископодов т
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/dimitar-andonov/tm2282/P1130013.JPG"></td>
-<td><b>tm2282 line5K</b><br> 🚋 <a href="/bg/public-transport/fleet-list/2008-Crotram-TMK2200">Crotram TMK22000</a> <br>📅 <br>📌<br> 📷 Димитър Андонов</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>  
- <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/dimitar-andonov/tm2282/P1130014.JPG"></td>
 <td><b>tm2282 line5K</b><br> 🚋 <a href="/bg/public-transport/fleet-list/2008-Crotram-TMK2200">Crotram TMK22000</a> <br>📅 <br>📌<br> 📷 Димитър Андонов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  
  <!--следващ пост--> 
