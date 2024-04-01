@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-01T21:24:32.605Z
+date: 2024-04-01T21:26:04.717Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -59,7 +59,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 - [Hilsner Keld*2008*](/gallery/hilsner-keld)
 - [Jara / prazketramvaje.cz :czech_republic:*2006*](/gallery/jara-prazsketramvaje)
 - [Olle S. Nevius*2005*](/gallery/olle-s-nevius-2005)
-- [Hans-Peter Bärtschi*2004*](/gallery/hans-peter-bartschi)
+- [Hans-Peter Bärtschi :switzerland:*2004*](/gallery/hans-peter-bartschi)
 - [Мариан Костадинов :bulgaria: *2003, 2004, 2005*](/gallery/marian-kostadinov-tm-2003)
 {.links-list}
 
@@ -125,7 +125,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 ## 60те
 - [Торос Хорисян*1968*](/gallery/toros-horisyan)
 - [FPD7*1969*](/gallery/fpd7)
-- [Hans-Peter Bärtschi*1969*](/gallery/hans-peter-bartschi)
+- [Hans-Peter Bärtschi :switzerland: *1969*](/gallery/hans-peter-bartschi)
 - [Mike Cornwall*1969*](/gallery/mike-cornwall)
 - [Димитър Кацев и Николай Щерев :bulgaria:*1967*](/gallery/dimitar-katsev-nikolay-shterev)
 - [Michael Carter*1965*](/gallery/michael-carter)
