@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2023 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-02T19:53:48.643Z
+date: 2024-04-02T19:55:07.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-07T17:50:09.883Z
