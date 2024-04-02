@@ -2,7 +2,7 @@
 title: Рекламите по возилата
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-20T22:09:41.530Z
+date: 2024-04-02T05:59:35.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T19:15:27.904Z
@@ -12,7 +12,7 @@ dateCreated: 2023-01-24T19:15:27.904Z
 <div class="table-responsive">
 <table style="width:100%">
   <tr>
-    <td><span>Кунг-Фу Панда 4, Гуми Continental; </span><br></td>
+    <td><span>Кунг-Фу Панда 4, Гуми Continental; Студен чай "Nestea";</span><br></td>
     <td><img src="https://live.staticflickr.com/65535/53598160059_d309768f9d_h.jpg"></td>
   </tr>
   <td colspan=2 >📷 <a href="/bg/identity/advertisements-2024"><b> Рекламите по возилата - 2024 г.</b></a></td>
