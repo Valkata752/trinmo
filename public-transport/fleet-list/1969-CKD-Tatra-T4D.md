@@ -2,7 +2,7 @@
 title: ČKD Tatra T4D
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T09:31:47.281Z
+date: 2024-04-04T18:53:06.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:06:00.914Z
@@ -201,10 +201,14 @@ TM2, **TM5**, **TM8**, TM14, TM15, TM19
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/09/00/69/900695.jpg" height="200px"><figcaption> <b>TM8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><a href="https://transphoto.org/photo/09/00/69/900695.jpg" target="_blank" title="1075"> <img src="https://transphoto.org/photo/09/00/69/900695.jpg" width="100%"></a></div></div>
 
 ## 1079
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/vaunut.org/tm1079%20line15.jpg"></td>
+<td><b>tm1079 line15</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1969-CKD-Tatra-T4D">Tatra T4D</a> <br>📌<br> 📷  vaunut.org</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 <!--1079-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOTvPPefpLaDjbGEcDUKgcH0ycizQIyf4rvyP8E4tIKc68YQ7m27wBHAIGo8wBRjDwg-oPH4OELP6UQ7bMgl1uFyFHv7=w1920-h854" height="200px"><figcaption><b>ТМ15</b> 📷 vaunut.org</figcaption></figure></button><div class="dropdown-content"><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOTvPPefpLaDjbGEcDUKgcH0ycizQIyf4rvyP8E4tIKc68YQ7m27wBHAIGo8wBRjDwg-oPH4OELP6UQ7bMgl1uFyFHv7=w1920-h854" width="100%"></div></div>
-<!--1079-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/03/54/06/354061.jpg" height="200px"><figcaption><b>ТМ15</b> 📷 vaunut.org </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/03/54/06/354061.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/03/54/06/354061.jpg" height="200px"><figcaption><b>ТМ8</b> 📷 Красен Панев </figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/03/54/06/354061.jpg" width="100%"></div></div>
 
 ## 1081
 <!--1081-->
