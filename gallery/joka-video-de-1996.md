@@ -2,7 +2,7 @@
 title: Фотограф - joka-video.de - 1996
 description: 
 published: true
-date: 2024-04-06T17:58:24.021Z
+date: 2024-04-06T18:09:35.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T14:41:28.828Z
@@ -392,7 +392,7 @@ dateCreated: 2023-11-20T14:41:28.828Z
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm81%20tm80%20depot.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm83%20depot.jpg"></td>
 <td><b>tm83</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>  </div>
 
@@ -431,43 +431,63 @@ dateCreated: 2023-11-20T14:41:28.828Z
 ## MAN-Siemens (81-92)
 ## Tabs {.tabset}
 ###
-<!--553--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm553%20depot.jpg" height="200px"><figcaption></figcaption><b>tm553</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm553%20depot.jpg" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm553%20depot.jpg"></td>
+<td><b>tm553</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">MAN-Siemens (81-92)</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm1%201901.jpg"></td>
+<td><b>tm1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1935-MAN-Siemens">MAN-Siemens (81-92)</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
 
 ## Graz/Siemens & Halske (1-30)
 ## Tabs {.tabset}
 ###
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot%20(1).jpg" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot%20(1).jpg" width="100%"></div></div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm1%20depot%20(1).jpg"></td>
+<td><b>tm1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz/Siemens & Halske (1-30)</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm1%20depot%20(2).jpg"></td>
+<td><b>tm1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz/Siemens & Halske (1-30)</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm1%20depot.jpg"></td>
+<td><b>tm1</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske">Graz/Siemens & Halske (1-30)</a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
 
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot%20(2).jpg" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot%20(2).jpg" width="100%"></div></div>
 
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot.jpg" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%20depot.jpg" width="100%"></div></div>
-
-## MAN-Siemens (81-92)
-## Tabs {.tabset}
-###
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%201901.jpg" height="200px"><figcaption></figcaption><b>tm1</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm1%201901.jpg" width="100%"></div></div>
 
 ## Ретро
 ## Tabs {.tabset}
 ###
-<!--253--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm253.jpg" height="200px"><figcaption></figcaption><b>tm253</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm253.jpg" width="100%"></div></div>
-
-
-<!--275--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm275.jpg" height="200px"><figcaption></figcaption><b>tm275</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm275.jpg" width="100%"></div></div>
-
-
-
-
-
-<!--587--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm587.jpg" height="200px"><figcaption></figcaption><b>tm587</b> 📷  joka-video.de</figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo-gallery/%d0%90%d1%80%d1%85%d0%b8%d0%b2%20joka-video.de/1996/%d0%a0%d0%b0%d0%b1%d0%be%d1%82%d0%bd%d0%b8/tm587.jpg" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm253.jpg"></td>
+<td><b>tm253</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm275.jpg"></td>
+<td><b>tm275</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/joka-video/1996/work/tm587.jpg"></td>
+<td><b>tm587</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 joka-video.de<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  </div>
 
 
