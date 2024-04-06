@@ -2,7 +2,7 @@
 title: Фотограф - Gisberta Yakla
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-10T21:53:22.864Z
+date: 2024-04-06T18:30:31.278Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-12T10:18:41.924Z
@@ -41,7 +41,7 @@ dateCreated: 2023-11-12T10:18:41.924Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/gisberta-yakla/tm50%20line14%20model%201950.jpg"></td>
-<td><b>tm50 line7</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌 неизв.<br> 📷 Gisberta Yakla<br></td></tr>
+<td><b>tm50 line14</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1942-DTO-31-51">ДТО Мотриси серия № 31/50 (MAN)</a><br>📌 неизв.<br> 📷 Gisberta Yakla<br></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
 <!--следващ пост--> 
