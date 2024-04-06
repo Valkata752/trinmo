@@ -2,7 +2,7 @@
 title: Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-01T21:26:04.717Z
+date: 2024-04-06T16:49:44.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T07:02:10.622Z
@@ -47,6 +47,7 @@ dateCreated: 2022-07-01T07:02:10.622Z
 
 ## 00те
 - [Иво Атамян :bulgaria: *2005-2009*](/gallery/ivo-atamyan)
+- [Николай Петракиев :bulgaria: ](/gallery/nikolay-petrakiev)
 - [Marcin Stiasny :poland: *2003-2011*](/gallery/2003-marcin-stiasny)
 {.links-list}
 
