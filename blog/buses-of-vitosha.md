@@ -2,7 +2,7 @@
 title: Автобусите на Витоша
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T13:38:12.869Z
+date: 2024-04-07T21:32:23.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-07T13:25:32.646Z
@@ -19,15 +19,52 @@ dateCreated: 2024-04-07T13:25:32.646Z
 
 # По линии
 
-## Линия 61
+## Линия 61/ 261
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a251%20line61.jpg"></td>
 <td><br><b>🚌 a251 line61</b><a href=""></a> <br>📌<br> 📷 неизв.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/spirka-org/a869%20line261.jpg"></td>
+<td><br><b>🚌 a869 line261</b><a href=""></a> <br>📌<br> 📷 spirka.org</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+### 1981
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a261-m.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Маршрут на автобусни линии 61 и 261 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
   
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-rl.png"><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-rz.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a261-r.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Разписания на автобусни линии 66 и 266 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+  
+  
 
+## Линия 461
+
+  
+### 1981
+<!--1981--> 
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a461-m.png"></center></td></tr>
+  <td><center>ℹ️ Маршрут на автобусна линия 461 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+<!--1981--> 
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a461-r.png"></center></td></tr>
+  <td><center>ℹ️ Разписание на автобусна линия 461 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+  
+  
 ## Линия 62
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -36,21 +73,72 @@ dateCreated: 2024-04-07T13:25:32.646Z
   <td colspan=2 >ℹ️ </td></table></div>
 
 
+### 1981
+<!--1981--> 
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a62-m.png"></center></td></tr>
+  <td><center>ℹ️ Маршрут на автобусна линия 62 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a62-rl.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a62-rz.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Разписание на автобусна линия 62 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+  
+  
 
 ## Линия 63
 
 
+### 1981
+<!--1981--> 
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a63-m.png"></center></td></tr>
+  <td><center>ℹ️ Маршрут на автобусна линия 63 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a63-rl.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a63-rz.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Разписание на автобусна линия 63 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+  
 
 ## Линия 64
 
+### 1981
+<!--1981--> 
+  <div class="table-responsive"><table style="width:100%"><tr>
+<td><center><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a64-m.png"></center></td></tr>
+  <td><center>ℹ️ Маршрут на автобусна линия 64 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
 
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a64-rl.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a64-lr.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Разписание на автобусна линия 64 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
 
-## Линия 66
+## Линия 66 / 266
+
+### 1981
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a266-m.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Маршрут на автобусни линии 66 и 266 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-r.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a266-r.png"></td></tr>
+  <td colspan=2 ><center>ℹ️ Разписания на автобусни линии 66 и 266 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
+  
 
 
-
+###
 ## Линия 163
 
 
@@ -64,20 +152,6 @@ dateCreated: 2024-04-07T13:25:32.646Z
   
 
 
-## Линия 261
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/spirka-org/a869%20line261.jpg"></td>
-<td><br><b>🚌 a869 line261</b><a href=""></a> <br>📌<br> 📷 spirka.org</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
-  
-
-
-## Линия 361
-
-
-
-## Линия 461
 
 # LIDL Зелена линия
 
