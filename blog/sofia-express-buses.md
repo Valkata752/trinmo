@@ -2,7 +2,7 @@
 title: Експресните автобусни линии
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T21:18:00.630Z
+date: 2024-04-07T21:37:03.717Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-07T21:06:25.257Z
@@ -11,6 +11,15 @@ dateCreated: 2024-04-07T21:06:25.257Z
 # Експресните автобусни линии
 
 
+## 11/211
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a11-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a211-m.png"></td></tr>
+<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a11-rz.png"><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a11-rl.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a211-r.png"></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 13/213
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
