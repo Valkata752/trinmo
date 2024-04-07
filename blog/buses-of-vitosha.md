@@ -2,7 +2,7 @@
 title: Автобусите на Витоша
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T13:33:48.913Z
+date: 2024-04-07T13:38:12.869Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-07T13:25:32.646Z
@@ -65,7 +65,12 @@ dateCreated: 2024-04-07T13:25:32.646Z
 
 
 ## Линия 261
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/spirka-org/a869%20line261.jpg"></td>
+<td><br><b>🚌 a869 line261</b><a href=""></a> <br>📌<br> 📷 spirka.org</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 ## Линия 361
