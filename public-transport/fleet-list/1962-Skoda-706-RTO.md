@@ -2,7 +2,7 @@
 title: Škoda 706 RTO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T21:05:11.388Z
+date: 2024-04-07T13:22:18.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:54:23.664Z
@@ -112,12 +112,18 @@ dateCreated: 2022-05-19T21:54:23.664Z
 > Версия 3 (към 1972 г. вече я има) – като версия 2, но без допълнителни фарове в бронята, без надпис “Karosa” на решетката и с външно осветление на вратите. Известни регистрационни номера: СГ 1107
 {.is-info}
 
-<!--1107--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a175%20sg1107%20line62.jpg" height="200px"><figcaption> <b>СГ1107</b> (175) 📷 Skoda Memories Bulgaria ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a175%20sg1107%20line62.jpg" width="100%"></div></div>
-<!--1118--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a177%20sg1118%201975.jpg" height="200px"><figcaption> <b>СГ1118</b> (177) 📷 сканирано от Метан ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a177%20sg1118%201975.jpg" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a175%20sg1107%20line62.jpg"></td>
+<td><br><b>🚌 a175 line62</b> (СГ 1107)<a href=""></a> <br>📌<br> 📷 Skoda Memories Bulgaria</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/a177%20sg1118%201975.jpg"></td>
+<td><br><b>🚌 a177</b> (СГ 1118)<a href=""></a> <br>📌<br> 📷  сканирано от Метан</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 
 # Tabs {.tabset}
