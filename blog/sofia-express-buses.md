@@ -2,7 +2,7 @@
 title: Експресните автобусни линии
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T21:14:49.295Z
+date: 2024-04-07T21:18:00.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-07T21:06:25.257Z
@@ -29,12 +29,42 @@ dateCreated: 2024-04-07T21:06:25.257Z
 <td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a216-rl.png"><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a216-rz.png"></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+## 42/242
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a42-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a242-m.png"></td></tr>
+<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a42-r.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a242-r.png"></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
+## 60/260
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a60-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a260-m.png"></td></tr>
+<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a60-r.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a260-r.png"></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+## 61/261
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-m.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a261-m.png"></td></tr>
+<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-rl.png"><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a61-rz.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a261-r.png"></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 66/266
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-m.png"></td>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a266-m.png"></td></tr>
-<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-rl.png"><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-r.png"></td>
+<tr><td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a66-r.png"></td>
 <td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a266-r.png"></td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
