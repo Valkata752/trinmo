@@ -2,7 +2,7 @@
 title: Автобусите на Витоша
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T21:33:53.755Z
+date: 2024-04-07T21:52:04.672Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-07T13:25:32.646Z
@@ -19,7 +19,7 @@ dateCreated: 2024-04-07T13:25:32.646Z
 
 # По линии
 
-## Линия 61/ 261
+## Линии 61/ 261
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -120,7 +120,7 @@ dateCreated: 2024-04-07T13:25:32.646Z
 <td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/a64-lr.png"></td></tr>
   <td colspan=2 ><center>ℹ️ Разписание на автобусна линия 64 през 1981г. / <a href="/bg/literature/1981-spravochnik"><b>Справочник градския пътнически транспорт 1981</b></a> </center></td></table></div>
 
-## Линия 66 / 266
+## Линии 66 / 266
 
 ### 1981
 <!--следващ пост--> 
