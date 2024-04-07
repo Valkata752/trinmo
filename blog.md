@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-07T13:40:12.137Z
+date: 2024-04-07T21:01:08.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,6 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
+- [:bus: Експресните автобусни линии *Петър Мънъри*](/bg/blog/sofia-express-buses) 
 - [:mountain: :bus: Автобусите на Витоша *Петър Мънъри*](/bg/blog/buses-of-vitosha) 
 - [:bulgaria: :bus: История на Автобуси „Чавдар“ *Петър Мънъри*](/bg/blog/avtobusi-chavdar-istoria) 
 - [:hungary: :bus: Автобуси Икарус в София *Петър Мънъри*](/bg/blog/ikarus-buses-sofia) 
