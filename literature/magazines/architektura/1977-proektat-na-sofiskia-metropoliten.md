@@ -2,7 +2,7 @@
 title: Проектът на Софийския метрополитен - 1977
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-18T12:10:44.185Z
+date: 2024-04-09T20:22:44.463Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T14:24:46.725Z
