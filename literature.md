@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-16T09:03:54.491Z
+date: 2024-04-09T20:33:55.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -139,9 +139,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 
 
+## сп. Архитектъ
+
+1930 - [Проект за преустройството на площадите Св. Неделя и Възраждане](/bg/literature/spisanie-arhitektura/1930-preustroistvo-pl-sv-nedelya-i-vazrazhdane) (Чавдар Мутафов)
+
 ## сп. Архитектура
 
-1977 - [Проектът на Софийския метрополитен](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
+1977 - [Проектът на Софийския метрополитен](/bg/literature/spisanie-arhitektura/1977-sofiiski-metropoliten) (инж. Иван Чучков и арх. Детелин Мушев)
+
 
 ## сп. Modern Tramway
 
