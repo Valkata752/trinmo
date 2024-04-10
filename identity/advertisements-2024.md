@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-02T19:55:13.538Z
+date: 2024-04-10T12:11:08.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -16,6 +16,7 @@ dateCreated: 2024-01-29T08:34:18.843Z
 ## 📜 Списък
 |реклама| от |  до |    :train:   |    :trolleybus:   |   :bus:  |
 |---|:---:|:---:|:---:|:---:|:---:|
+|**Concretix**   |04.2024| |   |    | **3405** |
 |**Студен чай "Nestea"**   |01.04.2024| |   |    | **2303, 2304, 3145** |
 |**Котешка храна "Феликс"**   |03.2024| |   |    | **3148** |
 |**Кунг-Фу панда 4 - Филм**   |03.2024| |   |    | **3322** |
@@ -33,6 +34,16 @@ dateCreated: 2024-01-29T08:34:18.843Z
   <td colspan=2 >ℹ️ </td></table></div>
   
 
+## Nestea
+## Tabs {.tabset}
+
+### 3145
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53644764313_5d4d5f6813_h.jpg"></td>
+<td><b>a3145 line88</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌ул. Сребърна <br> 📷 Вилиян Костадинов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+    
 ## Continental
 ## Tabs {.tabset}
 
