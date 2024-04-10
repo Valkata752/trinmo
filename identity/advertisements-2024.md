@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-10T12:18:34.550Z
+date: 2024-04-10T12:20:36.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -52,9 +52,19 @@ dateCreated: 2024-01-29T08:34:18.843Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53643060154_70dd5d768c_h.jpg"></td>
-<td><b>a3152 line305</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌бул. Сливница <br> 📷 Владимир Симо=в</td></tr>
+<td><b>a3152 line305</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌бул. Сливница <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-    
+       
+## Felix
+## Tabs {.tabset}
+
+### 3148
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53628053123_c86a167d05_h.jpg"></td>
+<td><b>a3148 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌ж.к. Гоце Делчев <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+        
 ## Continental
 ## Tabs {.tabset}
 
