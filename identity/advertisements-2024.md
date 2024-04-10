@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-10T12:14:16.294Z
+date: 2024-04-10T12:18:34.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -44,6 +44,16 @@ dateCreated: 2024-01-29T08:34:18.843Z
 <td><img src="https://live.staticflickr.com/65535/53644764313_5d4d5f6813_h.jpg"></td>
 <td><b>a3145 line88</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌ул. Сребърна <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+       
+## Bosch
+## Tabs {.tabset}
+
+### 3152
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53643060154_70dd5d768c_h.jpg"></td>
+<td><b>a3152 line305</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌бул. Сливница <br> 📷 Владимир Симо=в</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
     
 ## Continental
 ## Tabs {.tabset}
@@ -55,7 +65,6 @@ dateCreated: 2024-01-29T08:34:18.843Z
 <td><b>a3670 line84</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-Yutong-ZK6126HGA-CNG"> Yutong ZK6126HGA CNG</a> <br>📌Хотел Плиска <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
     
-  
   
 # Активни от минали години
 
