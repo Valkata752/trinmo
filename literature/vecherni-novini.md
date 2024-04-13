@@ -2,7 +2,7 @@
 title: вестник Вечерни новини (1952 - 1992)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-13T08:26:28.237Z
+date: 2024-04-13T08:26:58.143Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:15:06.082Z
@@ -39,7 +39,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1989*](/literature/vecherni-novini-1989)
+- [➡️*Вечерни новини - 1989*](/literature/vecherni-novini/1989)
 {.links-list}
 
 06.12.1989 (брой 240) - **Маршрутът на автобус 81** (от 27.11.1989 е променен 82)
