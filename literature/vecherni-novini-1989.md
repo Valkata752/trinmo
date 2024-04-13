@@ -2,7 +2,7 @@
 title: Вечерни новини - 1989
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-02-06T20:59:39.636Z
+date: 2024-04-13T08:22:52.870Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T19:30:29.842Z
