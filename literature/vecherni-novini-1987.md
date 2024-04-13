@@ -2,7 +2,7 @@
 title: Вечерни новини - 1987
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-01-27T22:44:39.870Z
+date: 2024-04-13T08:20:24.692Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T09:26:50.142Z
