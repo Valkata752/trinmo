@@ -2,7 +2,7 @@
 title: Вечерни новини 1984
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-13T07:59:25.842Z
+date: 2024-04-13T08:04:32.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T13:17:13.290Z
@@ -190,50 +190,86 @@ dateCreated: 2023-12-22T13:17:13.290Z
 ## 15.07.1984 (165) 
 Отново за спирка Орлов мост
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br165-15.07.1984.jpg" width="800">
+
+
 ## 06.07.1984 (157) 
 Промени в транспорта (ремонт бул. Г. Трайков - ТМ9, ТМ6)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br157-06.07.1984.jpg" width="800">
 
 ## 04.07.1984 (155) 
 Промени в транспорта (ремонт в гората - ТМ2, ТМ14 и ТМ19)
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br155-04.07.1984.jpg" width="800">
+
 ## 05.06.1984 (130) 
 Троен път за жилищния комплекс "Люлин (тунел Люлин)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br130-05.06.1984.jpg" width="800">
 
 ## 03.06.1984 (129) 
 С трамвай от Красна поляна до Княжево (топлопровод ул. Н. Рилски" - TM1, TM7, TM15)
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br129-03.06.1984-.jpg" width="800">
+
 ## 01.06.1984 (127) 
 Промени в транспорта (топлопровод ул. Н. Рилски" - TM1, TM7, TM15)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br127-01.06.1984.jpg" width="800">
 
 ## 23.05.1984 (120) 
 Промени в движението при бул. "Георги Трайков" (строеж МС Европейски Съюз)
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br120-23.05.1984.jpg" width="800">
+
 ## 30.04.1984 (103) 
 Промени в транспорта (Честване на 1 май)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br103-30.04.1984.jpg" width="800">
 
 ## 03.04.1984 (79) 
 От строителната карта
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br79-03.04.1984.jpg" width="800">
+
+
 ## 22.03.1984 (70)
 Нови транспортни маршрути (А54, А88, А114)
+
 
 ## 21.03.1984 (69) 
 Центрове за управление на траснпорта
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br69-21.03.1984.jpg" width="800">
+
 ## 24.02.1984 (47) 
 Кои ще са първите широки трамвайни линии
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br47-24.02.1984.jpg" width="800">
 
 ## 17.01.1984 (14) 
 гараж Дружба
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br14-17.01.1984-1.jpg" width="800">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br14-17.01.1984-2.jpg" width="800">
+
 ## 07.01.1984 (6) 
 Трамвай превклчва светофарите (бул. Цар Борис III)
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br6-07.01.1984.jpg" width="800">
 
 ## 06.01.1984 (5) 
 Промени в транспорта (водопровод Х. Димитър - А75, А85)(Ремонт гората ТМ2, ТМ14 и ТМ19)
 
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br5-06.01.1984.jpg" width="800">
+
+
 ## 02.01.1984 (1) 
 Промени в транспорта (А72 по Коперник)
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br1-02.01.1984-1.jpg" width="800">
 
 ## 02.01.1984 (1) 
 Нови пътища, нови строежи
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/1984/br1-02.01.1984-2.jpg" width="800">
