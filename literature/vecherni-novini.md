@@ -2,7 +2,7 @@
 title: вестник Вечерни новини (1952 - 1992)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-13T06:11:28.329Z
+date: 2024-04-13T08:26:28.237Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:15:06.082Z
@@ -17,7 +17,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1992*](/literature/vecherni-novini-1992)
+- [➡️*Вечерни новини - 1992*](/literature/vecherni-novini/1992)
 {.links-list}
 
 19.03.1992 (брой 53) - **Автобуси от Торино по столичните улици**  
@@ -28,7 +28,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1991*](/literature/vecherni-novini-1991)
+- [➡️*Вечерни новини - 1991*](/literature/vecherni-novini/1991)
 {.links-list}
 
 04.12.1991 (брой 237) -  **№ 4 ще стигне до края на “Дружба”**
@@ -93,7 +93,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1988*](/literature/vecherni-novini-1988)
+- [➡️*Вечерни новини - 1988*](/literature/vecherni-novini/1988)
 {.links-list}
 
 30.12.1988 (брой 272) - **Тролей Н2 пътува по булевард Бъкстон**
@@ -161,7 +161,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1987*](/literature/vecherni-novini-1987)
+- [➡️*Вечерни новини - 1987*](/literature/vecherni-novini/1987)
 {.links-list}
 
 25.11.1987 (брой 275) - **Съобщение** - реконструцкия релсов път по Г. Димитров
@@ -217,7 +217,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1986*](/literature/vecherni-novini-1986)
+- [➡️*Вечерни новини - 1986*](/literature/vecherni-novini/1986)
 {.links-list}
 
 29.06.1986 (брой 151) - **29 юни - ден на работниците от транспорта**
@@ -244,7 +244,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1985*](/literature/vecherni-novini-1985)
+- [➡️*Вечерни новини - 1985*](/literature/vecherni-novini/1985)
 {.links-list}
 
 31.12.1985 (306) - Транспортът в новогодишната нощ
@@ -289,12 +289,8 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1984*](/literature/vecherni-novini-1984)
+- [➡️*Вечерни новини - 1984*](/literature/vecherni-novini/1984)
 {.links-list}
-
-
-
-
 
 18.12.1984 (брой 296) - **Промени в транспорта** (63A)
 11.12.1984 (брой 290) - **Новини от транспорта**
@@ -347,7 +343,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1983*](/literature/vecherni-novini-1983)
+- [➡️*Вечерни новини - 1983*](/literature/vecherni-novini/1983)
 {.links-list}
 
 25.12.1983 (брой 300) - **С тролейбус № 5**
@@ -413,7 +409,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1978*](/literature/vecherni-novini-1978)
+- [➡️*Вечерни новини - 1978*](/literature/vecherni-novini/1978)
 {.links-list}
 
 20.01.1978 (брой ??) - **Първият рейс** (Пускането на ТБ6)
@@ -423,7 +419,7 @@ dateCreated: 2024-01-31T13:15:06.082Z
 ## Tabs {.tabset}
 
 ###
-- [➡️*Вечерни новини - 1975*](/literature/vecherni-novini-1975)
+- [➡️*Вечерни новини - 1975*](/literature/vecherni-novini/1975)
 {.links-list}
 
 26.06.1975 (брой 7298) - **София в 24 часа** (промяна на ТБ4 и 86)
