@@ -2,7 +2,7 @@
 title: Вечерни новини - 1983
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-13T07:36:31.066Z
+date: 2024-04-13T08:15:56.155Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T12:55:04.555Z
