@@ -2,7 +2,7 @@
 title: Вечерни новини - 1992
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-27T00:25:15.264Z
+date: 2024-04-13T08:24:41.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T19:29:10.313Z
