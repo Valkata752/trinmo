@@ -2,7 +2,7 @@
 title: Вечерни новини - 1988
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-01-28T11:00:29.009Z
+date: 2024-04-13T08:21:01.512Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T19:31:26.618Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-30T19:31:26.618Z
 <img src="https://lh6.googleusercontent.com/syBO8BhSCDfCL05udIzYil-olNvl2aMEm0-RCaBO3rCcUfyNedjUoTqKAnqtDEaDo40=w2400" width="800">
 
 ## 29.12.1988 (271)
-<img src="https://lh4.googleusercontent.com/0i6pH6SNbYRliL9UK9eisaftRQl1IvEEIkZ1ax3PbvB7sWD3wTBD5cMt4uAJAfHedwg=w2400" width="800"><<br><img src="https://lh4.googleusercontent.com/7IgKif1D9EgbRDTAACFKoWFUc8A5XL1oKZUq_MAb0uEkdCUT2SsfYqmu24FZH8fyiK8=w2400" width="800">
+<img src="https://lh4.googleusercontent.com/0i6pH6SNbYRliL9UK9eisaftRQl1IvEEIkZ1ax3PbvB7sWD3wTBD5cMt4uAJAfHedwg=w2400" width="800"><br><img src="https://lh4.googleusercontent.com/7IgKif1D9EgbRDTAACFKoWFUc8A5XL1oKZUq_MAb0uEkdCUT2SsfYqmu24FZH8fyiK8=w2400" width="800">
 
 
 ## 28.12.1988 (270)
