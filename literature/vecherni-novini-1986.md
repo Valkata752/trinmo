@@ -2,7 +2,7 @@
 title: Вечерни новини - 1986
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-01-27T15:54:18.571Z
+date: 2024-04-13T08:19:10.494Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T09:28:03.657Z
