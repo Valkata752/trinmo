@@ -2,7 +2,7 @@
 title: Вечерни новини 1984
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-13T08:04:32.017Z
+date: 2024-04-13T08:16:14.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-22T13:17:13.290Z
