@@ -2,7 +2,7 @@
 title: Транспортна искра (1960-1988)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-24T12:52:36.095Z
+date: 2024-04-13T08:12:29.379Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:52:26.663Z
@@ -322,7 +322,7 @@ dateCreated: 2024-01-31T13:52:26.663Z
 ## 1968
 ## Tabs {.tabset}
 ###
-- [➡️*Вестник Транспортна искра - 1968*](/bg/literature/transportna-iskra/196)
+- [➡️*Вестник Транспортна искра - 1968*](/bg/literature/transportna-iskra/1968)
 {.links-list}
 
 28.12.1968 (брой 21)  - Нови автобуси в Земляне
