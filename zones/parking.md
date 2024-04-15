@@ -2,7 +2,7 @@
 title: Синя и зелена зона
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-19T13:28:15.112Z
+date: 2024-04-15T06:35:31.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-01T07:17:50.530Z
@@ -118,3 +118,8 @@ dateCreated: 2023-12-01T07:17:50.530Z
 {.is-info}
 
 <img src="https://drive.google.com/thumbnail?id=10QIotg73NbrXsfJiKj85aNPlcbfvgL_v&sz=w1000">
+
+## История
+**Синята зона на София** - [Вечерни новини - бр. 190 -  27.09.1989](http://www.trinmo.org/bg/literature/vecherni-novini/1989)
+
+<img src="https://lh3.googleusercontent.com/QUERThi_VLPcgeyPlWrP5oQoMOY4DG-Z8m5Mazha813i9qC_-LAALgpDzoq3J-kNTc8=w2400" width="800">
