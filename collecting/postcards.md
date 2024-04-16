@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-30T15:53:23.582Z
+date: 2024-04-16T21:08:39.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -31,21 +31,28 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1Gls-O1ZyqZgCo8zJm85pUtcly2Fuht_D"></td>
-<td><img src="https://drive.google.com/uc?id=15KZRdvRp6IpilvDi9GjeRtmKyVtMeOoV"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm72%20line%202%20382_001.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm72%20line2%20382_002.jpg"></td></tr>
   <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/A-135-1960%20D.Vlaev.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/A-135-1960%20D.Vlaev%20(1).jpg"></td></tr>
+  <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
+  
   
 ## Иван. Д. Баджаров
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1AmnK6x0g4gFobRknKoVbg3gkwVoLlOdU"></td>
-<td><img src="https://drive.google.com/uc?id=1p81KiDI6jEUVz2wU64CrGvOEcsdkARii"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/targovska%201a.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/targovska%201b.jpg"></td></tr>
   <td colspan=2 >ℹ️  1908-1911 / Иван. Д. Баджаров</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1TRuuDMnXp05LOk04iG7fvufbaDX04YVx"></td>
-<td><img src="https://drive.google.com/uc?id=152jZ-f6uHKSndb0hp-k7m-zlDv7ruhfz"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/dondukov%201a.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/dondukov%201b.png"></td></tr>
   <td colspan=2 >ℹ️  1901-1910 / Иван. Д. Баджаров</td></table></div>
 
 
@@ -53,15 +60,15 @@ dateCreated: 2023-05-27T08:14:13.057Z
 ## A. Weber
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=16bOeJyTfcr95kp7NiewOM0EJxrmdWX3c"></td>
-<td><img src="https://drive.google.com/uc?id=17gzjh4S1jAhocupSd9XhLcosPhKEJggv"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria%20luiza%201a.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria%20luiza%201b.jpg"></td></tr>
   <td colspan=2 >ℹ️  1908-1911 / A. Weber</td></table></div>
   
  
 ## Неизвестен
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=1u_S2bdyLJmQsNzi9066zYmXWgvVCMawi"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv%20nedelya%201a%2077.jpg"></td>
 <td>пл.Св. Неделя</td></tr>
   <td colspan=2 >ℹ️  73.</td></table></div>
   
