@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-16T21:08:39.834Z
+date: 2024-04-16T21:10:00.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -12,8 +12,8 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=18NnOb6T7MOBXQT3FcmdjuFGstJ3hKzxN"></td>
-<td><img src="https://drive.google.com/uc?id=1vZY9CV8gM6CkI3wKYpvGR7USGevWpCd_"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm649%20(1).JPG"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm649%20(2).JPG"></td></tr>
   <td colspan=2 >ℹ️ Людмил Попов</td></table></div>
   
   
@@ -22,8 +22,8 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/uc?id=10FSYj4tQN88H_YSyZaTjzXYh6X30_0QX"></td>
-<td><img src="https://drive.google.com/uc?id=1W39BpNYsn8mnNALrit7Erwqat7KDWLCs"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_001.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_002.jpg"></td></tr>
   <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
   
 
