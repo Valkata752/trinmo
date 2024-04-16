@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-07T20:13:46.754Z
+date: 2024-04-16T20:39:48.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -321,6 +321,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4127--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1663/23859564733_c309a99b8f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/23859564733/" target="_blank" title="4127"> <img src="https://live.staticflickr.com/1663/23859564733_c309a99b8f_z.jpg" width="100%"></a></div></div>
 
+### 21
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53659254860_0dc2e1270f_k.jpg"></td>
+<td><b>tm4127 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 4128
 ## Tabs {.tabset}
 ### 20 
