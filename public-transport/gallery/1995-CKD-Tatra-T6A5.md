@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-07T20:10:08.727Z
+date: 2024-04-16T20:38:04.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-05T08:57:28.671Z
@@ -41,7 +41,14 @@ dateCreated: 2024-02-05T08:57:28.671Z
 <td><img src="https://live.staticflickr.com/65535/52647338754_1f2bb824cd_k.jpg"></td>
 <td><b>tm4149+tm4151 line22</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
+
+### 21
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53658784206_91d04c0dc9_k.jpg"></td>
+<td><b>tm4149 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+   
   
 ## 4152
 ## Tabs {.tabset}
@@ -172,7 +179,16 @@ dateCreated: 2024-02-05T08:57:28.671Z
   <td colspan=2 >ℹ️ </td></table></div>
   
   
- 
+## 4179
+## Tabs {.tabset}
+
+### 21
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53581825646_fb5e7c745c_k.jpg"></td>
+<td><b><b>tm4179 line21 </b></b><br>🚋 <a href="/bg/public-transport/fleet-list/1995-CKD-Tatra-T6A5">ČKD Tatra T6A5</a><br>📌 <br> 📷 Захари Захариев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
  ## 4180
 
 ## Tabs {.tabset}
