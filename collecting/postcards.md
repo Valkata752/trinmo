@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-16T21:18:33.626Z
+date: 2024-04-16T21:23:11.970Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -22,9 +22,16 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm21%20t.chipev.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm21%20t.chipev%20(1).jpg"></td></tr>
+  <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_001.jpg"></td>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_002.jpg"></td></tr>
   <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
+  
   
 
 ## Д. Влаев
