@@ -2,7 +2,7 @@
 title: Ansaldo-Breda (121-140)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-21T13:21:34.172Z
+date: 2024-04-21T13:37:51.320Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:16:12.233Z
@@ -102,79 +102,142 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 ## Tabs {.tabset}
 
 ### 121
-<!--121--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://transphoto.org/photo/04/44/76/444762.jpg" height="200px"><figcaption> <b>121</b> 📷 100 години ГТ</figcaption></figure></button><div class="dropdown-content"><img src="https://transphoto.org/photo/04/44/76/444762.jpg" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://transphoto.org/photo/04/44/76/444762.jpg"></td>
+<td><b>tm121</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)
+</a><br>📌  <br> 📷 100 години ГТ<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 
 ### 122
-<!--122-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1j5QHkeg2sVvUqfpQS2iwlQROJsl6b1V0" height="200px"><figcaption><b>tm122 line3</b> 📷 Trotskee travel</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1j5QHkeg2sVvUqfpQS2iwlQROJsl6b1V0" width="100%"></div></div>
-<!--122+352+472--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jJrmLy5nMhbbh98igWMFjeARlAR_xrV7" height="200px"><figcaption></figcaption><b> tm122+tm352+tm472 line3</b> 📷 BZMOTMAN </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jJrmLy5nMhbbh98igWMFjeARlAR_xrV7" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trotskee/70s/1970/tm122%20line3%20Trotskee%201970.jpg"></td>
+<td><b>tm122 line3</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)
+</a><br>📌 гара Захарна фабрика <br> 📷 Trotskee travel<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/bzmotman/tm122%20tm352%20tm472%20line3.jpg"></td>
+<td><b>tm122+tm352+tm472 line3</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)</a><br>📌 гара Захарна фабрика<br> 📷 BZMOTMAN<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ### 123
-<!--123--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15AnxXkUigSkSaJ-lNvFcf5s89aoPKSqU" height="200px"><figcaption><b>TM1</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15AnxXkUigSkSaJ-lNvFcf5s89aoPKSqU" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm123%20line1.jpg"></td>
+<td><b>tm123 line1</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ## 126-130
 ## Tabs {.tabset}
 
-### 128
-<!--128--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12t694bEXN2xQ1uyqFUhWpdSYfqfb6Jf5" height="200px"><figcaption><b>TM2</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12t694bEXN2xQ1uyqFUhWpdSYfqfb6Jf5" width="100%"></div></div>
-<!--128--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm128%20SC_F_SUP-5w060-0005005_IMG-0000893833.jpg" height="200px"><figcaption><b>tm128</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm128%20SC_F_SUP-5w060-0005005_IMG-0000893833.jpg" width="100%"></div></div>
+### 127
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pascal-pontremoli/tm127%20tm357%20line2%20Sofia_23_08_1964_1_photo_Pascal_Pontremoli.jpg"></td>
+<td><b>tm127 tm357 line2</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)</a> и <a href="/bg/public-transport/fleet-list/1937-DTO-351-370">ДТО Ремаркета серия № 351/370 (за мотриси Breda)</a> <br>📌пл. Св. Неделя <br> 📷  Pascal Pontremoli</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+
+### 128
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm128%20SC_F_SUP-5w060-0005005_IMG-0000893833.jpg"></td>
+<td><b>tm128</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lombardiabeniculturali.it</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm128%20line2.jpg"></td>
+<td><b>tm128 line2</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ 
 ### 129
 <!--129--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj" height="200px"><figcaption><b>TM3</b> 📷 неизв. ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vDcw5OghleeNKvrqt-WTFcNWGGRvgaUj" width="100%"></div></div>
 
 ### 130
-<!--130--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg" height="200px"><figcaption><b>tm130</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg" width="100%"></div></div>
-
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg"></td>
+<td><b>tm130</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lombardiabeniculturali.it</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 131-135
 ## Tabs {.tabset}
 
 ### 132
-<!--132--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=177S0z_rAaGmhE7ryPmuSoEzAlGpvC_mF" height="200px"><figcaption><b>TM4</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=177S0z_rAaGmhE7ryPmuSoEzAlGpvC_mF" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm132%20line4.jpg"></td>
+<td><b>tm132 line4</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ### 133
-<!--133--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TV6BfmUR3mcnvvZauL9OIMMy3uzQEzIk" height="200px"><figcaption><b>TM4</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TV6BfmUR3mcnvvZauL9OIMMy3uzQEzIk" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm133%20line4.jpg"></td>
+<td><b>tm133 line4</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 ## 135
-<!--135--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm135%20SC_F_SUP-5w060-0005008_IMG-0000893836.jpg" height="200px"><figcaption><b>tm135</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm135%20SC_F_SUP-5w060-0005008_IMG-0000893836.jpg" width="100%"></div></div>
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm135%20SC_F_SUP-5w060-0005008_IMG-0000893836.jpg"></td>
+<td><b>tm135</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lombardiabeniculturali.it</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 136-140
 ## Tabs {.tabset}
 
 ### 136
-<!--136-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1CT8DHuabnnWMV7OTTejsCQTuQlEtmH9Y" height="200px"><figcaption><b>TM2</b> 📷 ohoboho ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1CT8DHuabnnWMV7OTTejsCQTuQlEtmH9Y" width="100%"></div></div>
-
-### 137
-<!--137, 357--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hdASDeLvTKdx9KWTLfMPGQjedo68xXv2" height="200px"><figcaption><b>tm137 tm357 line2</b> 📷 Pascal Pontremoli</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hdASDeLvTKdx9KWTLfMPGQjedo68xXv2" width="100%"></div></div>
-
-
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/ohoboho/tm136%20line2.jpg"></td>
+<td><b>tm136 line2</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Ohoboho</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 
 ### 139
-<!--139--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=192OmIszKwBWCTGZKf-k1KooBPP8bvnrM" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=192OmIszKwBWCTGZKf-k1KooBPP8bvnrM" width="100%"></div></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm139_depot.jpg"></td>
+<td><b>tm139</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)</a><br>📌 <br> 📷 Росен Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
 
 ## Работни
 ## Tabs {.tabset}
 
 ### 551
-<!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L-pWhV80AbXNHSxn993wNdJhfOXl2y8m" height="200px"><figcaption></figcaption><b>tm551+tm583 tm843</b> 📷 Peter Haseldine </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L-pWhV80AbXNHSxn993wNdJhfOXl2y8m" width="100%"></div></div>
-<!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" height="200px"><figcaption><b>депо</b> 📷 Росен Димитров  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1hyHwegpTF7-WhOXAvqRTObeeaLXAwL68" width="100%"></div></div>
-<!--551--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" height="200px"><figcaption></figcaption><b>tm551</b> 📷 Jara prazsketramvaje.cz </figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1wbAkYG1zyxf2WaTujFJcEmz5a5a-2FCz" width="100%"></div></div>
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/peter-haseldine/tm551%20tm843.jpg"></td>
+<td><b>tm551+tm583 tm843</b><br> 🚋 <a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda">Ansaldo-Breda (121-140)
+</a><br>📌 неизв. <br> 📷 Peter Haseldine<br></td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm551.jpeg"></td>
+<td><b>tm551</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a><br>📌 <br> 📷 Росен Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>  
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/rosen-dimitrov/tm551_depot.jpg"></td>
+<td><b>tm551</b><br> 🚋 <a href="/bg/public-transport/work-trams">Работни трамваи</a><br>📌 <br> 📷 Росен Димитров</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/jara-prazsketramvaje/tm551%20depot%20sofie-066.jpg"></td>
+<td><b>tm551</b><br> 🚋 <a href=""></a> <br>📆 03.2006<br>📌<br> 📷 Jara prazsketramvaje.cz</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
