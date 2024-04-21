@@ -2,7 +2,7 @@
 title: 60 години градски транспорт - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-21T13:07:32.106Z
+date: 2024-04-21T13:19:29.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-16T21:05:23.910Z
@@ -96,8 +96,10 @@ http://46.10.181.183:1518/trinmo/gallery/60-godini/str48-tm2.jpg"></td>
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str54-tm121.jpg"></td>
-<td><b></b>Мотриса тип "Бреда" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Мотриса тип "Бреда" (1938 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1938-Ansaldo-Breda
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
+  
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
