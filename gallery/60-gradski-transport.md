@@ -2,7 +2,7 @@
 title: 60 години градски транспорт - Галерия
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-21T12:40:21.898Z
+date: 2024-04-21T13:07:32.106Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-16T21:05:23.910Z
@@ -26,22 +26,21 @@ http://46.10.181.183:1518/trinmo/gallery/60-godini/str48-tm2.jpg"></td>
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str48-remarke.jpg"></td>
 <td><b></b>Първото реморке </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"></td>
-<td><b>Четириосната мотриса "Цепелин"</b> - <br><a href="/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin
+<td><b>Четириосната мотриса "Цепелин" (1908 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin
 ">Повече информация</a></td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str50-charleroi.jpg"></td>
-<td><b>Мотриса тип 151-162 "Шарлероа"</b> - <br><a href="/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin
+<td><b>Мотриса тип 151-162 "Шарлероа" (1914 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1914-Franco-Belge-OeBB-Charleroi
 ">Повече информация</a></td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
-    
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
 
 
 
@@ -49,41 +48,50 @@ http://46.10.181.183:1518/trinmo/gallery/60-godini/str48-tm2.jpg"></td>
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str51-tm10.jpg"></td>
-<td><b></b>Двуосна мотриса тип "Сименс" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Двуосна мотриса тип "Сименс" (1924 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str51-tm59.jpg"></td>
-<td><b></b>Двуосна мотриса "BBC" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
-
+<td><b>Двуосна мотриса "BBC" (1928 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1928-Franco-Belge-BBC
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
+  
+  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str52-tm424.jpg"></td>
-<td><b></b>Реморке "Енержи" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Реморке "Енержи" (1929 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1929-Energie
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str52-tm72.jpg"></td>
-<td><b></b>Двуосна мотриса тип "МАН" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Двуосна мотриса тип "МАН" (1931 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1931-MAN-AEG
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
+  
 
 
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str53-tm81.jpg"></td>
-<td><b></b>Двуосна мотриса тип "МАН" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Двуосна мотриса тип "МАН" (1935 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1935-MAN-Siemens
+">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
+
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/60-godini/str53-tm332.jpg"></td>
-<td><b></b>Реморке тип "Юрдинген" </td></tr>
-  <td colspan=2 > ℹ️  <a href="http://46.10.181.183:1518/trinmo/gallery/60-godini/str-49-tm205.jpg"><b>60 години градски транспорт</b></a></td></table></div>
+<td><b>Реморке тип "Юрдинген" (1939 г.)</b> - <br><a href="/bg/public-transport/fleet-list/1939-Uerdingen">Повече информация</a></td></tr>
+  <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/60-years-public-transport"><b>60 години градски транспорт</b></a></td></table></div>
+
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
