@@ -2,7 +2,7 @@
 title: Ansaldo-Breda (121-140)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-21T13:13:02.565Z
+date: 2024-04-21T13:21:34.172Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:16:12.233Z
@@ -25,7 +25,7 @@ dateCreated: 2022-05-19T22:16:12.233Z
 
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://drive.google.com/file/d/1SDbKsxMh7KNYpbWsSZrrZHt1nMJE-03t/view?usp=1rbKzIb3aVBppX2bzw0uRZrQyXVW8FXMx"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg"></td>
   <td><b>Ernesto Breda (Фирма)</b> - Трамвайни вагони за град София (България)<br>
 Breda Photographic Department (attr.)<br>
 Местоположение: Sesto San Giovanni (MI), Fondazione ISEC Istituto per la Storia dell'Età Contemporanea, Фотографски отдел на Историческия архив на Бреда, C_SC_143</td></tr>
@@ -123,7 +123,7 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 <!--128--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12t694bEXN2xQ1uyqFUhWpdSYfqfb6Jf5" height="200px"><figcaption><b>TM2</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12t694bEXN2xQ1uyqFUhWpdSYfqfb6Jf5" width="100%"></div></div>
 <!--128--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HaUO8JT2b7HrBLWo_HOmnFzDA6Fw2Yal" height="200px"><figcaption><b>tm135</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HaUO8JT2b7HrBLWo_HOmnFzDA6Fw2Yal" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm128%20SC_F_SUP-5w060-0005005_IMG-0000893833.jpg" height="200px"><figcaption><b>tm128</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm128%20SC_F_SUP-5w060-0005005_IMG-0000893833.jpg" width="100%"></div></div>
 
 ### 129
 <!--129--> 
@@ -131,7 +131,7 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 
 ### 130
 <!--130--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1rbKzIb3aVBppX2bzw0uRZrQyXVW8FXMx" height="200px"><figcaption><b>tm135</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1rbKzIb3aVBppX2bzw0uRZrQyXVW8FXMx" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg" height="200px"><figcaption><b>tm130</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/SC_F_SUP-5w060-0005007_IMG-0000893835.jpg" width="100%"></div></div>
 
 
 
@@ -148,8 +148,7 @@ Ansaldo-Breda (121-140) притежава следните технико-ек�
 
 ## 135
 <!--135--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=11rnsSxnlWkm2PbfxawFL4kS3gZHNBGrr" height="200px"><figcaption><b>tm135</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=11rnsSxnlWkm2PbfxawFL4kS3gZHNBGrr" width="100%"></div></div>
-
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm135%20SC_F_SUP-5w060-0005008_IMG-0000893836.jpg" height="200px"><figcaption><b>tm135</b> 📷 lombardiabeniculturali.it</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/trasporti-teniviri/tm135%20SC_F_SUP-5w060-0005008_IMG-0000893836.jpg" width="100%"></div></div>
 
 ## 136-140
 ## Tabs {.tabset}
