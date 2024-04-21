@@ -2,7 +2,7 @@
 title: 1981 Справочник
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-28T18:10:44.368Z
+date: 2024-04-21T14:02:26.956Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T18:10:10.812Z
@@ -50,7 +50,7 @@ dateCreated: 2022-04-30T18:10:10.812Z
 ### TБ1, ТБ2
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_029.jpg">
 
-### TБ3, ТБ6
+### TБ3, ТБ4, ТБ6
 <img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/page_031.jpg">
 
 
