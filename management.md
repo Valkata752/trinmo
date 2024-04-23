@@ -1,8 +1,8 @@
 ---
 title: Управление
-description: Кратко описание
+description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-10T08:09:06.307Z
+date: 2024-04-23T20:09:14.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:52:30.987Z
