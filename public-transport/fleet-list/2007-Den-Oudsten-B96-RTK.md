@@ -2,7 +2,7 @@
 title: Den Oudsten B96 - RTK B2007
 description: 
 published: true
-date: 2024-03-15T16:46:30.521Z
+date: 2024-04-24T21:03:48.255Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-15T14:23:38.474Z
@@ -56,7 +56,9 @@ dateCreated: 2024-03-15T14:23:38.474Z
 
 # Технически характеристики
 
-**Oчаквайте скоро…**
+|         |  |
+|:--------:|:--------:|
+| <img src="http://46.10.181.183:1518/trinmo/literature/technical/rtk-tb/brochure1.png"> | <img src="http://46.10.181.183:1518/trinmo/literature/technical/rtk-tb/brochure2.png"> |
 
 ## Чертеж
 
