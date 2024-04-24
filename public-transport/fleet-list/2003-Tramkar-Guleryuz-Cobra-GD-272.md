@@ -2,7 +2,7 @@
 title: Трамкар Güleryüz Cobra GD 272 	
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T14:15:59.842Z
+date: 2024-04-24T21:04:58.326Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:25:50.971Z
@@ -33,7 +33,10 @@ dateCreated: 2022-05-19T22:25:50.971Z
 
 # Технически характеристики
 
-**Oчаквайте скоро…**
+|         |  |
+|:--------:|:--------:|
+| <img src="http://46.10.181.183:1518/trinmo/literature/technical/tb-2002/brochure1.png"> | <img src="http://46.10.181.183:1518/trinmo/literature/technical/tb-2002/brochure2.png"> |
+
 
 ## Чертеж
 
