@@ -2,13 +2,13 @@
 title: ОУП на Столична община
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-08-22T14:06:48.950Z
+date: 2024-04-27T11:15:23.446Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T11:27:43.752Z
 ---
 
-- [:notebook_with_decorative_cover: Развитие на трамвайната мрежа *От 2009 до сега*](/bg/public-transport/tram-network-oup-2009)
+- [:notebook_with_decorative_cover: Развитие на трамвайната мрежа *От 2009 до сега*](/bg/infrastructure/rail-network/history)
 {.links-list}
 
 ---
