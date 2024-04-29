@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-29T21:05:29.613Z
+date: 2024-04-29T21:18:27.711Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -19,9 +19,10 @@ dateCreated: 2024-01-29T08:34:18.843Z
 |**Concretix**   |04.2024| |   |    | **3405** |
 |**Bosch**   |04.2024| |   |    | **3143, 3151, 3152** |
 |**Студен чай "Nestea"**   |01.04.2024| |   |    | **2303, 2304, 3145** |
-|**Котешка храна "Феликс"**   |03.2024| |   |    | **2305, 3147, 3148** |
+|**Котешка храна "Феликс"**   |03.2024| |   |    | **2305, 3141, 3147, 3148** |
 |**Кунг-Фу панда 4 - Филм**   |03.2024| |   |    | **3322** |
 |**Гуми Continental**   |03.2024| |   |    | **3667, 3670** |
+|**Нощ на звездите**   |02.2024| |   |    | **1601, 1602, 2301, 3151** |
 {.dense}
 
 ## Кунг-Фу панда 4 - Филм
@@ -34,10 +35,41 @@ dateCreated: 2024-01-29T08:34:18.843Z
 <td><b>a3322 line413</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes-Benz O345 Conecto G</a> <br>📌НСБАЛ по онкология <br> 📷 Вилиян Костадинов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-
-## Nestea
+       
+## Нощ на звездите
 ## Tabs {.tabset}
 
+### 1601
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53582854072_1cf2189f8f_h.jpg"></td>
+<td><b>a1601 line11</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌бул. Сливница <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+ 
+### 1602
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53545984260_19471c5436_h.jpg"></td>
+<td><b>a1602 line83</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌бул. Вардар <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+### 3151
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53604288798_ac50b87b5a_h.jpg"></td>
+<td><b>a3151 line404</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌пл. Лъвов мост <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+    
+## Nestea
+## Tabs {.tabset}
+  
+### 2303
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53647802933_f9e110e010_h.jpg"></td>
+<td><b>a2303 line280</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌Лесотехнически университет <br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ### 3145
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -57,6 +89,13 @@ dateCreated: 2024-01-29T08:34:18.843Z
        
 ## Felix
 ## Tabs {.tabset}
+
+### 3141
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53655445112_7b140db8e4_h.jpg"></td>
+<td><b>a3141 line413</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌УНСС <br> 📷 Любомир Николов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
 ### 3147
  <!--следващ пост--> 
