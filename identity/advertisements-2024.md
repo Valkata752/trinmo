@@ -2,7 +2,7 @@
 title: Рекламите по возилата - 2024 г.
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-29T20:00:53.283Z
+date: 2024-04-29T20:08:06.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T08:34:18.843Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-29T08:34:18.843Z
 |**Concretix**   |04.2024| |   |    | **3405** |
 |**Bosch**   |04.2024| |   |    | **3143, 3151, 3152** |
 |**Студен чай "Nestea"**   |01.04.2024| |   |    | **2303, 2304, 3145** |
-|**Котешка храна "Феликс"**   |03.2024| |   |    | **3148** |
+|**Котешка храна "Феликс"**   |03.2024| |   |    | **3147, 3148** |
 |**Кунг-Фу панда 4 - Филм**   |03.2024| |   |    | **3322** |
 |**Гуми Continental**   |03.2024| |   |    | **3667, 3670** |
 {.dense}
@@ -58,16 +58,22 @@ dateCreated: 2024-01-29T08:34:18.843Z
 ## Felix
 ## Tabs {.tabset}
 
+### 3147
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53664616866_0a309f36b8_h.jpg"></td>
+<td><b>a3147 line213</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌пл. Лъвов Мост <br> 📷 Владимир Симов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+
 ### 3148
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53628053123_c86a167d05_h.jpg"></td>
 <td><b>a3148 line204</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2018-MAN-Lions-City-G-CNG"> MAN A23 Lion's City G CNG (2018)</a> <br>📌ж.к. Гоце Делчев <br> 📷 Владимир Симов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-        
-## Continental
-## Tabs {.tabset}
 
+## Tabs {.tabset}
+## Continental
 ### 3670
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
