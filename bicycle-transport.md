@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-03T14:43:12.147Z
+date: 2024-05-03T14:55:17.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ## Статии
 
-- [:busstop: Виенски спирки *Велосипедни алеи*](/bg/blog/shared-cycle-public-transport-stop/)
+- [:busstop: Виенски спирки *Споделени с велосипеден транспорт*](/bg/bicycle-transport/vienski-spirki)
 {.links-list}
 
 
