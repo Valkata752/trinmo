@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-03T14:42:32.745Z
+date: 2024-05-03T14:43:12.147Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ## Статии
 
-- [:busstop: Виенски спирки *Велосипедни алеи*](/bg/blog/2023-vitosha-proleten-fest)
+- [:busstop: Виенски спирки *Велосипедни алеи*](/bg/blog/shared-cycle-public-transport-stop/)
 {.links-list}
 
 
