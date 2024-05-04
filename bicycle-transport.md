@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-04T16:22:40.193Z
+date: 2024-05-04T16:23:51.299Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -91,7 +91,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ## Карта на велосипедните трасета
 
-<iframe loading="lazy" src="https://www.google.com/maps/d/u/2/edit?mid=12sVZoAokIelIRKoBU2SyVGSiz4Z0tzU&usp=sharing" width="100%" height="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe loading="lazy" src="https://www.google.com/maps/d/u/0/viewer?mid=12sVZoAokIelIRKoBU2SyVGSiz4Z0tzU" width="100%" height="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 ## Списък на съществуващите велоалеи
