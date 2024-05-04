@@ -2,19 +2,16 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-04T16:30:51.674Z
+date: 2024-05-04T17:02:41.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
 ---
 
-## Карта на велосипедните трасета
+## Карти на велосипедните трасета
 
-<iframe loading="lazy" src="https://www.google.com/maps/d/embed?mid=1Y9a48wogD_Pu7oRax3QE1xkEwutus3A&ehbc=2E312F" width="100%" height="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-## Списък на съществуващите велоалеи
-
-**Очаквайте скоро…**
+- [:world_map: :bicyclist:  Интерактивни карти *Тринмо, Софенхаген, Софияплан*](http://trinmo.org/bg/bicycle-transport/maps)
+{.links-list}
 
 
 ## Списък на съществуващите велоалеи
