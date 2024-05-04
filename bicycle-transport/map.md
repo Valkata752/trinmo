@@ -2,7 +2,7 @@
 title: Карта на велоалеите в София
 description: 
 published: true
-date: 2024-05-04T16:51:09.616Z
+date: 2024-05-04T16:51:59.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-04T16:33:29.917Z
@@ -12,15 +12,13 @@ dateCreated: 2024-05-04T16:33:29.917Z
 {.is-info}
 
 ## Софенхаген
-
-<iframe style="position:relative; top:-30px; border:none;" 
-      src="https://www.sofenhagen.com/" 
-      width="100%" height="640"></iframe>
-</div>
+<iframe loading="lazy" src="https://www.sofenhagen.com/" width="100%" height="640"  style="position:relative; top:-100px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## Списък на съществуващите велоалеи
             
 **Очаквайте скоро…**
+
+
 
 
 
