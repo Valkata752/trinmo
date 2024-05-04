@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-04T14:46:37.410Z
+date: 2024-05-04T15:03:14.352Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -91,7 +91,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ## Карта на велосипедните трасета
 
-**Очаквайте скоро…**
+<iframe loading="lazy" src="https://maps.google.bg/maps/ms?msa=0&amp;msid=208939365315387283079.00046e05d787f3a9f0350&amp;ie=UTF8&amp;t=h&amp;vpsrc=6&amp;source=embed&amp;ll=42.678145,23.334274&amp;spn=0.161537,0.219383&amp;z=12&amp;output=embed" width="100%" height="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## Списък на съществуващите велоалеи
 
