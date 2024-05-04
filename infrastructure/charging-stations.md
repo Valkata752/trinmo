@@ -2,7 +2,7 @@
 title: Зарядни станции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-12T20:59:48.469Z
+date: 2024-05-04T15:08:22.925Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T19:54:14.414Z
@@ -159,4 +159,15 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ## 📍 Локации
 | <span style="color:#81C784">🔌 Бавна</span> | <span style="color:#64B5F6">🔌 Бърза</span> | 
+
+
+<iframe loading="lazy" src="https://www.google.com/maps/d/u/1/embed?mid=1EM-3y5i6x36hNGA5OXzKoujqn_hIPpc&amp;ehbc=2E312F" width="100%" height="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
+
+
+
+
+
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1EM-3y5i6x36hNGA5OXzKoujqn_hIPpc&amp;ehbc=2E312F" width="100%" height="600"></iframe>
