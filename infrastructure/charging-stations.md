@@ -2,7 +2,7 @@
 title: Зарядни станции
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-04T15:09:29.470Z
+date: 2024-05-04T15:19:40.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T19:54:14.414Z
@@ -43,7 +43,7 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1A0d2FIIQpMO3ABcqnt6_Y6NGVir5YGGO" height="200px"><figcaption><b>5️⃣	АП Малашевци <br></b> 📷 Столична община</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1A0d2FIIQpMO3ABcqnt6_Y6NGVir5YGGO" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/malashevtsi-higer.jpg" height="200px"><figcaption><b>5️⃣	АП Малашевци <br></b> 📷 Столична община</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/malashevtsi-higer.jpg" width="100%"></div></div>
 
 
 ### Поръчка 5 Karsan
@@ -59,7 +59,7 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=192rmdeMxfzv7mkv6yxHLCXpuDfJBc-Ol" height="200px"><figcaption><b>6️⃣ Трамкар <br></b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=192rmdeMxfzv7mkv6yxHLCXpuDfJBc-Ol" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/tramkar-karsan.jpg" height="200px"><figcaption><b>6️⃣ Трамкар <br></b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/tramkar-karsan.jpg" width="100%"></div></div>
 
 
 ### Тестови електробуси
@@ -88,7 +88,7 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BhRlSyRZWjvSJEV8nuK83FwHTKUox6yF" height="200px"><figcaption><b>3️⃣ автостанция Гео Милев <br></b> 📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BhRlSyRZWjvSJEV8nuK83FwHTKUox6yF" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/geo-milev-2.jpg" height="200px"><figcaption><b>3️⃣ автостанция Гео Милев <br></b> 📷 Апостол Чуканов</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/geo-milev-2.jpg" width="100%"></div></div>
 
 
 ### Поръчка 30 Higer
@@ -111,7 +111,7 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cfrGwTZv_naTwlD_E6r6jf_dMVgOpvYG" height="200px"><figcaption><b>1️⃣6️⃣ автостанция Гео Милев <br></b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cfrGwTZv_naTwlD_E6r6jf_dMVgOpvYG" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/geo-milev-1.jpg" height="200px"><figcaption><b>1️⃣6️⃣ автостанция Гео Милев <br></b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/geo-milev-1.jpg" width="100%"></div></div>
 
 
 
@@ -131,9 +131,9 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1dGv9bLfna2LuAHio7F75FkmXkFyzVm8k" height="200px"><figcaption><b>1️⃣7️⃣	 ж.к. Младост 1 <br></b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1dGv9bLfna2LuAHio7F75FkmXkFyzVm8k" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/mladost-1.jpg" height="200px"><figcaption><b>1️⃣7️⃣	 ж.к. Младост 1 <br></b> 📷 Любомир Николов</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/mladost-1.jpg" width="100%"></div></div>
 <!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1sKw6D_A4G7NLriT3p2buw7C6kkXUfTrU" height="200px"><figcaption><b>1️⃣8️⃣	Трамкар <br></b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1sKw6D_A4G7NLriT3p2buw7C6kkXUfTrU" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/tramkar-higer.jpg" height="200px"><figcaption><b>1️⃣8️⃣	Трамкар <br></b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/tramkar-higer.jpg" width="100%"></div></div>
 
 ### Тестови електробуси
 
@@ -147,9 +147,9 @@ dateCreated: 2022-04-30T19:54:14.414Z
 
 ##### Снимки
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1TI81UtUOI4A58zYDtDkrci7P5agmGOKg" height="200px"><figcaption><b>1️⃣ ул. Амстердам <br></b> 📷 Красен Панев</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1TI81UtUOI4A58zYDtDkrci7P5agmGOKg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/ul-amsterdam.jpg" height="200px"><figcaption><b>1️⃣ ул. Амстердам <br></b> 📷 Красен Панев</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/ul-amsterdam.jpg" width="100%"></div></div>
 <!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nEMJUFFVmBWxrWNw27qDhSqst6gKOPur" height="200px"><figcaption><b>2️⃣ бул. Сливница <br></b> 📷 Chariot Bus</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nEMJUFFVmBWxrWNw27qDhSqst6gKOPur" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/stochna-gara.jpg" height="200px"><figcaption><b>2️⃣ бул. Сливница <br></b> 📷 Chariot Bus</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/infrastructure/charging-stations/stochna-gara.jpg" width="100%"></div></div>
 
 
 ## Хронология
