@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-05-04T17:02:41.098Z
+date: 2024-05-04T17:03:00.291Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ## Карти на велосипедните трасета
 
-- [:world_map: :bicyclist:  Интерактивни карти *Тринмо, Софенхаген, Софияплан*](http://trinmo.org/bg/bicycle-transport/maps)
+- [:world_map: :bicyclist:  Интерактивни карти *Тринмо, Софенхаген, Софияплан*](/bg/bicycle-transport/maps)
 {.links-list}
 
 
