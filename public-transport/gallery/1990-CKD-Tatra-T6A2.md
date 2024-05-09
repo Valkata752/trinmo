@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2 📸
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T20:19:30.107Z
+date: 2024-05-09T21:08:44.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T22:55:47.389Z
@@ -392,9 +392,20 @@ dateCreated: 2023-12-03T22:55:47.389Z
 ### 3010
 <!--3010--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" height="200px"><figcaption> <b>TМ4</b> 📷 Петър М.</figcaption></figure></button><div class="dropdown-content"><a href="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" target="_blank" title="3010"> <img src="/подвижен-състав-галерия/1990-ckd-tatra-t6a2/tm4_tatra_t6a2.jpg" width="100%"></a></div></div>
- <!--3010--> 
- <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50405652302_bc82491e79_k.jpg" height="200px"><figcaption> <b>3010</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/190437946@N08/50405652302/in/album-72157716127699751/" target="_blank" title="3010"> <img src="https://live.staticflickr.com/65535/50405652302_bc82491e79_k.jpg" width="100%"></a></div></div>
- 
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/50405652302_bc82491e79_k.jpg"></td>
+<td><b><b>tm3010 line6</b></b><br>📌  <br> 📷 Александър Бахчевански</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6a2/tm3010%20line15.jpg"></td>
+<td><b><b>tm3010 line15</b></b><br>📌  <br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
 <!--3010--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1IETUKSH4AW9r8K8AFq8EFHmj_u3QNBTj" height="200px"><figcaption><b>TM18</b> 📷 joka-video.de ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1IETUKSH4AW9r8K8AFq8EFHmj_u3QNBTj" width="100%"></div></div>
 
