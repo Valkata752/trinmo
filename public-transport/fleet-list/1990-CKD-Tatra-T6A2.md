@@ -2,7 +2,7 @@
 title: ČKD Татра Т6А2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-26T20:20:39.385Z
+date: 2024-05-09T21:08:55.602Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:00:08.386Z
@@ -153,7 +153,12 @@ dateCreated: 2022-05-19T22:00:08.386Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" height="200px"><figcaption><b>TM14</b> 📷 Jara  ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1GSw5qQfbGe63rbGx3sxyWBBFwbYyo9Uf" width="100%"></div></div>
 <!--2026-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?export=view&id=1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" height="200px"><figcaption><b>TM15</b> 📷 kamim.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?export=view&id=1elXLkyLqQ6skFeCIUg-2FUT5RehGZLJp" width="100%"></div></div>
-
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6a2/tm3010%20line15.jpg"></td>
+<td><b><b>tm3010 line15</b></b><br>📌  <br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
 <!--2003--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" height="200px"><figcaption> <b>TM19</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/52087371504_c7722f0a21_k.jpg" width="100%"></div></div>
 
