@@ -1,8 +1,8 @@
 ---
-title: Преименувания на булеварди
+title: Преименувания на улици и булеварди
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-29T00:05:49.246Z
+date: 2024-05-11T13:37:34.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-21T13:27:34.848Z
@@ -93,3 +93,17 @@ dateCreated: 2023-01-21T13:27:34.848Z
 |бул. Черни връх|без промяна|
 |бул. Шипченски проход| |
 |бул. Янко Сакъзов| бул. Ген. Владимир Заимов |
+
+
+## 1992
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1992/1992.08.07-br5.1.jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1992/1992.08.14-br6.jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1992/1992.08.18-br7.jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1992/1992.08.28-br8-2.jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1992/1992.09.04-br9.jpg">
+
+<img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/1993/1993.01.15-br2.jpg">
