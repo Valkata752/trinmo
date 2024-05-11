@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-04T14:51:04.935Z
+date: 2024-05-11T13:59:37.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -45,7 +45,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 {.links-list}
 
 ## История
-- [:train: Отрязаният "бул. Христо Ботев" *Петър Мънъри*](/bg/blog/0tryazaniyat-bul-hristo-botev)
+- [:train: Отрязаният "бул. Христо Ботев" *Петър Мънъри*](/bg/blog/otryazaniyat-bul-hristo-botev)
 - [:trolleybus: Трамвай безъ релси *списание Сердика - книга 2/3 - 1941 г.*](/bg/blog/tramvai-bez-relsi)
 - [:train: Столичната трамвайна мрежа - 1939г. *списание Сердика, книга 9, 1939 г.*](/bg/blog/stolichnata-tramvaina-mreja-1939)
 - [:trolleybus::train: Движението на трамваите и тролеите през 1956г. *Петър Мънъри*](/bg/blog/trams-and-trolleybuses-sofia-1956)
