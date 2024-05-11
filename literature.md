@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-09T20:33:55.696Z
+date: 2024-05-11T13:15:41.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -52,7 +52,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Столица (1992-1996)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src=""></td>
+<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/stolica-cover.png"></td>
   <td><b>вестник Столица (1992-1996) </b><br>Излиза седмично.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/vestnik-stolica"><b>Разгледай тук...</b></a></td></table></div>  
 
@@ -235,9 +235,9 @@ dateCreated: 2022-04-26T09:14:34.111Z
   
 
 
-# 🚇 Софийското метро
+# 🚇 Метрополитени
 
-"Софийското метро" е любителско издание, насочено към феновете на метрото и транспортните ентусиасти. В него се публикува актуална и интересна информация, свързана със столичното метро и метрополитените по света. Изданието не е обвързано по никакъв начин с "Метрополитен" ЕАД. 
+"Метрополитени" е любителско издание, насочено към феновете на метрото и транспортните ентусиасти. В него се публикува актуална и интересна информация, свързана със столичното метро и метрополитените по света. Изданието не е обвързано по никакъв начин с "Метрополитен" ЕАД. 
 <!--1--> 
 <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br1.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br2.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br3.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br4.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br5.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br6.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br7.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br8.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 8</a></b></figcaption></figure></button></div>
 
