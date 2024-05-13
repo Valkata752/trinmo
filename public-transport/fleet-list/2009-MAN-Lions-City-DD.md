@@ -2,7 +2,7 @@
 title: MAN Lion's City DD ND313
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-13T08:06:19.916Z
+date: 2024-05-13T08:07:36.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-17T13:18:31.255Z
@@ -11,10 +11,10 @@ dateCreated: 2024-02-17T13:18:31.255Z
 # Кратка история
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/martin-lazarov/man-lions-city-dd/a2605%20linex50.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-lions-city-dd/a2605%20lineX43.jpg"></td>
 <td>През 2024 г. са доставени двуетажни автобуси за София. Автобусите са с бивши берлински номера 3358, 3377, 3400 и 3401. 
 </td></tr>
-  <td colspan=2 >📷 Мартин Лазаров </td></table></div>   
+  <td colspan=2 >📷 Апостол Чуканов </td></table></div>   
   
   
 # Списък
@@ -58,6 +58,7 @@ dateCreated: 2024-02-17T13:18:31.255Z
 <td><b><b>a2605 lineX43</b></b><br>📅<br> 📌 <br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
+# Tabs {.tabset}  
 ## X50
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
