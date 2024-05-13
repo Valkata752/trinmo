@@ -2,7 +2,7 @@
 title: MAN Lion's City DD ND313
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-13T08:07:36.646Z
+date: 2024-05-13T08:08:46.589Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-17T13:18:31.255Z
@@ -49,23 +49,30 @@ dateCreated: 2024-02-17T13:18:31.255Z
 
 # Снимки
   
-# Tabs {.tabset}
+
 
 ## X43
+## Tabs {.tabset}
+
+### 2605
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-lions-city-dd/a2605%20lineX43.jpg"></td>
 <td><b><b>a2605 lineX43</b></b><br>📅<br> 📌 <br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
-# Tabs {.tabset}  
 ## X50
+## Tabs {.tabset}
+
+### 2604
+
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/apostol-chukanov/man-lions-city-dd/a2604%20lineX50.jpg"></td>
 <td><b><b>a2604 lineX50</b></b><br>📅<br> 📌 <br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
-  
+
+### 2605
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/martin-lazarov/man-lions-city-dd/a2605%20linex50.jpg"></td>
