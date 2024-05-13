@@ -1,8 +1,8 @@
 ---
-title: ČKD Татра Т6А2 📸
+title: ČKD Tatra T6A2 📸
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-09T21:08:44.636Z
+date: 2024-05-13T08:10:36.847Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T22:55:47.389Z
