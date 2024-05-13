@@ -2,7 +2,7 @@
 title: MAN A39 Lion's City DD ND313
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-13T07:51:06.473Z
+date: 2024-05-13T07:51:41.574Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-17T13:18:31.255Z
@@ -44,8 +44,10 @@ dateCreated: 2024-02-17T13:18:31.255Z
 # Снимки
   
 # Tabs {.tabset}
-  <!--следващ пост--> 
+
+## X50
+<!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/martin-lazarov/man-lions-city-dd/a2605%20linex50.jpg"></td>
-<td><b><b>aXXXX lineXX</b></b><br>📅<br> 📌 <br> 📷 Автор</td></tr>
+<td><b><b>a2605 lineX50</b></b><br>📅<br> 📌 <br> 📷 Мартин Лазаров</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
