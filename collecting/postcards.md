@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-14T18:41:24.552Z
+date: 2024-05-14T18:46:28.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -84,11 +84,7 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv%20nedelya%201a%2077.jpg"></td>
 <td>73. пл.Св. Неделя</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
-  
-  
-## Österreichische Nationalbibliothek
 
-  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/1931%20AKON_AK083_275.jpg"></td>
@@ -100,6 +96,12 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK082_157.jpg"></td>
 <td>86. София, Бул.Мария-Луиза</td></tr>
   <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv-nedelya-93.jpg"></td>
+<td>93. пл.Св. Неделя</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
