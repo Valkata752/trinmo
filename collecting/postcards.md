@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-14T18:54:21.614Z
+date: 2024-05-14T18:58:44.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -68,7 +68,13 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/dondukov%201b.png"></td></tr>
   <td colspan=2 >ℹ️  1901-1910 / Иван. Д. Баджаров</td></table></div>
 
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/narodno-sabranie-d.badjarov.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/narodno-sabranie-d.badjarov-1.jpg"></td></tr>
+  <td colspan=2 >ℹ️  20 / Иван. Д. Баджаров</td></table></div>
+  
+  
   
 ## A. Weber
 <!--следващ пост--> 
