@@ -2,7 +2,7 @@
 title: Комисия по транспорт и пътна безопасност
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-15T06:36:20.609Z
+date: 2024-05-15T06:37:07.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T13:00:45.211Z
@@ -11,7 +11,7 @@ dateCreated: 2023-03-09T13:00:45.211Z
 - [:notebook_with_decorative_cover: Архив *мандат 2019-2023*](/bg/politics/transport-council/2019-2023)
 {.links-list}
 
-<iframe src="https://council.sofia.bg/2019-2023-archive-transport-road-safety" title="Разписания" width="100%" height="800px" frameBorder="0">
+<iframe src="https://council.sofia.bg/postoianna-komisia-po-transport-i-turizum" title="Разписания" width="100%" height="800px" frameBorder="0">
 </iframe>
 
 
