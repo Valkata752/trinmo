@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-16T19:04:29.225Z
+date: 2024-05-16T21:44:19.955Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:one::nine::eight::four: Брошура с информация за рекламите по возилата *СО Градски транспорт*](/bg/blog/reklami-po-vozilata-1984) 
+- [:page_with_curl:  Брошура с информация за рекламите по возилата - 1987*СО Градски транспорт*](/bg/blog/reklami-po-vozilata-1984) 
 - [:bus: Експресните автобусни линии *Петър Мънъри*](/bg/blog/sofia-express-buses) 
 - [:mountain: :bus: Автобусите на Витоша *Петър Мънъри*](/bg/blog/buses-of-vitosha) 
 - [:bulgaria: :bus: История на Автобуси „Чавдар“ *Петър Мънъри*](/bg/blog/avtobusi-chavdar-istoria) 
