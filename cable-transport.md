@@ -2,7 +2,7 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2024-05-16T10:49:47.599Z
+date: 2024-05-16T10:50:40.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
@@ -271,4 +271,7 @@ dateCreated: 2022-04-30T08:36:00.239Z
 
 
 # Официален договор
+> Договор за продажба на акции в размер на 100% от капитала на "Въжени линии" ЕАД. - 20.12.2007
+{.is-info}
+
 <iframe src="https://drive.google.com/file/d/1qBcfORYX7rRmM5VAY0FIzMEJ1Ws8x2Jo/preview" width="100%" height="480"></iframe>
