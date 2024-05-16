@@ -2,11 +2,13 @@
 title: Въжени линии
 description: Кратко описание
 published: true
-date: 2023-11-29T13:54:39.951Z
+date: 2024-05-16T10:49:47.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-30T08:36:00.239Z
 ---
+
+
 
 > Към Витоша има изградени **3** лифта - Драгалевски, Симеоновски и Княжевски. Те правят връзката на София с високите части на Витоша.
 {.is-info}
@@ -265,9 +267,8 @@ dateCreated: 2022-04-30T08:36:00.239Z
   <td colspan=2 >ℹ️ planinite.info</td></table></div>
   
 
-    
 
 
 
-
-
+# Официален договор
+<iframe src="https://drive.google.com/file/d/1qBcfORYX7rRmM5VAY0FIzMEJ1Ws8x2Jo/preview" width="100%" height="480"></iframe>
