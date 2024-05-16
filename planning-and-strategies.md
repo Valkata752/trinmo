@@ -2,7 +2,7 @@
 title: Планиране и стратегии
 description: Кратко описание
 published: true
-date: 2023-12-01T10:09:39.681Z
+date: 2024-05-16T10:59:52.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:51:51.135Z
@@ -62,6 +62,8 @@ dateCreated: 2022-04-27T07:51:51.135Z
 - [:triangular_ruler: Наредба 2 *За планиране и проектиране на комуникационно-транспортната система на урбанизираните територии*](/bg/planning-and-strategies/naredba-2)
 - [:bus: Наредба *За реда и условията за пътуване с обществения градски транспорт на територията на Столична община*](/bg/planning-and-strategies/naredba-gradski-transport)
 - [:no_entry_sign:  Зони в СО *Нискоемсионни, Синя и зелена, Зона 30.*](/bg/zones)
+- [:busstop: Наредба за градска среда - Приложение 7 *Технически спецификации за елементите на спирки на масовия градски транспорт*](/bg/planning-and-strategies/naredba-gradska-sreda)
+{.links-list}
 {.links-list}
 
     
