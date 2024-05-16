@@ -2,7 +2,7 @@
 title: Планиране и стратегии
 description: Кратко описание
 published: true
-date: 2024-05-16T10:59:52.757Z
+date: 2024-05-16T11:00:39.491Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:51:51.135Z
@@ -48,9 +48,8 @@ dateCreated: 2022-04-27T07:51:51.135Z
 {.links-list}
 
 ## Развитие на метрото
-- [:metro: Проектът на Софийския метрополитен *инж. Иван Чучков и арх. Детелин Мушев (сп. Архитектруа)*](/bg/literature/magazines/architektura/1977-proektat-na-sofiskia-metropoliten)
+- [:metro: Проектът на Софийския метрополитен *инж. Иван Чучков и арх. Детелин Мушев (сп. Архитектруа)*](/bg/literature/magazines/architektura/1977-sofiiski-metropoliten)
 {.links-list}
-
 
 ## Транспортно-комуникационен план
 - [:metro: Аткуализация на транспортно-комуникационния план на гр. София с хоризонт 2000 год.*Софпроект - 1990г.*](/bg/planning-and-strategies/1990-actualizaica-transport-komunikacionen-plan-sofia)
