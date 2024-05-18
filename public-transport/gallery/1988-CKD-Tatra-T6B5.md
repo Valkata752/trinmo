@@ -2,7 +2,7 @@
 title: ČKD Tatra T6B5 📷
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-04-16T20:39:48.578Z
+date: 2024-05-18T22:00:34.231Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T20:48:28.179Z
@@ -74,6 +74,14 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4104 line20</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Александър Бахчевански</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
+### 21
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6b5/tm4104%20line21.jpg"></td>
+<td><b>tm4104 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 ## 4105
 ## Tabs {.tabset}
 ### 20
@@ -261,6 +269,13 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <td><b>tm4119+tm41117 line22</b><br> 🚋 <a href="/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Tatra T6B5</a> <br>📌 гара Подуяне<br> 📷 Апостол Чуканов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+  ### 21
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6b5/tm4119%20line21.jpg"></td>
+<td><b>tm4119 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
 ## 4120
 ## Tabs {.tabset}
 ### 20
@@ -322,11 +337,12 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1663/23859564733_c309a99b8f_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/23859564733/" target="_blank" title="4127"> <img src="https://live.staticflickr.com/1663/23859564733_c309a99b8f_z.jpg" width="100%"></a></div></div>
 
 ### 21
-<!--следващ пост--> 
+ <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://live.staticflickr.com/65535/53659254860_0dc2e1270f_k.jpg"></td>
-<td><b>tm4127 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Любомир Николов</td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6b5/tm4127%20line21.jpg"></td>
+<td><b>tm4127 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Петър М.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
   
 ## 4128
 ## Tabs {.tabset}
@@ -346,6 +362,15 @@ dateCreated: 2024-01-28T20:48:28.179Z
 <!--4130--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/1508/25939378894_b22871952d_z.jpg" height="200px"><figcaption><b>ТМ20</b> 📷 Владимир Симов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/137241490@N07/25939378894/" target="_blank" title="4130"> <img src="https://live.staticflickr.com/1508/25939378894_b22871952d_z.jpg" width="100%"></a></div></div>
 
+### 21
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/pjm/tatra-t6b5/tm4130%20line21.jpg"></td>
+<td><b>tm4130 line21</b><br> 🚋 <a href=""></a> <br>📌<br> 📷 Петър М.</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
+  
 ## 4131
 ## Tabs {.tabset}
 ### 20
