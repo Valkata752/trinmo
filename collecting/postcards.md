@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-14T19:07:50.800Z
+date: 2024-05-19T13:16:24.179Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -41,19 +41,25 @@ dateCreated: 2023-05-27T08:14:13.057Z
   
 
 ## Д. Влаев
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/sofia-uni-d-vlaev-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/sofia-uni-d-vlaev-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ Д. Влаев / Акл-2028</td></table></div>
+  
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/tm72%20line%202%20382_001.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/tm72%20line2%20382_002.jpg"></td></tr>
+  <td colspan=2 >ℹ️ Д. Влаев / Акл-2071</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm72%20line%202%20382_001.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm72%20line2%20382_002.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-1960%20D.Vlaev.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-1960%20D.Vlaev%20(1).jpg"></td></tr>
   <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
-  
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/A-135-1960%20D.Vlaev.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/A-135-1960%20D.Vlaev%20(1).jpg"></td></tr>
-  <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
-  
+   
   
 ## Иван. Д. Баджаров
 <!--следващ пост--> 
