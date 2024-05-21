@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-06T18:05:50.910Z
+date: 2024-05-21T20:48:52.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -82,7 +82,7 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ### 1949
-<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/2-zapaden-park.jpg"></td>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/3-gara-zaharna-fabrika.jpg"></td>
       <td><b>ТМ3 от 1950 г. до сега</b><br> ТМ8 от 2000 до 2002г.<br> ТМ15 от 2005г. до 2009г. </td></tr><td colspan=2 >ℹ️ </td></table></div>
     
 ## Иван Вазов
