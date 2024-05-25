@@ -2,7 +2,7 @@
 title: Аварийни и специални
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-15T09:55:02.010Z
+date: 2024-05-25T12:23:56.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-17T08:25:15.949Z
@@ -402,7 +402,17 @@ dateCreated: 2023-03-17T08:25:15.949Z
 <td>Товари</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+### 4916
+#### Tabs {.tabset}
 
+##### ℹ️ Информация
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lubomir-nikolov/2024.05/4916.jpg"></td>
+<td>Товари - Релси</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+  
 
 ### 4993
 #### Tabs {.tabset}
@@ -538,8 +548,8 @@ dateCreated: 2023-03-17T08:25:15.949Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:300px"><img src="https://live.staticflickr.com/65535/51519150674_715689fadb_k.jpg"></td>
-    <td><b>ZiL 133</b>Кран</td>
+    <td style="width:300px"><img src="http://46.10.181.183:1518/trinmo/gallery/lubomir-nikolov/2024.05/0913.jpg"></td>
+    <td><b>ZiL 133</b> - Кран</td>
   </tr>
 </table>
 
