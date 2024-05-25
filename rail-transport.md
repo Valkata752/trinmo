@@ -2,7 +2,7 @@
 title: Железопътен транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-23T15:36:44.744Z
+date: 2024-05-25T17:06:36.898Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-16T07:47:41.196Z
@@ -91,12 +91,6 @@ dateCreated: 2022-05-16T07:47:41.196Z
 
 # Архивни разписания на БДЖ
 <!--https://streleco.wordpress.com/bdz-->
-
-
-<!--1--> 
-<button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ewV9KyOeaeslTlM752dXhv5wXHlvPNjB" height="400px"><figcaption><b><a href="/bg/rail-transport/timetables-2021-2022">12.12.2021 - 10.12.2022</a></b></figcaption></figure></button></div> 
-
-
 
 ## Исторически
 
