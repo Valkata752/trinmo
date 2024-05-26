@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-19T13:16:24.179Z
+date: 2024-05-26T13:15:12.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -64,26 +64,26 @@ dateCreated: 2023-05-27T08:14:13.057Z
 ## Иван. Д. Баджаров
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/targovska%201a.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/targovska%201b.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/targovska%201a.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/targovska%201b.jpg"></td></tr>
   <td colspan=2 >ℹ️  1908-1911 / Иван. Д. Баджаров</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/dondukov%201a.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/dondukov%201b.png"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/dondukov%201a.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/dondukov%201b.png"></td></tr>
   <td colspan=2 >ℹ️  1901-1910 / Иван. Д. Баджаров</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/narodno-sabranie-d.badjarov.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/narodno-sabranie-d.badjarov-1.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/narodno-sabranie-d.badjarov.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/narodno-sabranie-d.badjarov-1.jpg"></td></tr>
   <td colspan=2 >ℹ️  20 / Иван. Д. Баджаров</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-d.badjarov-46.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-d.badjarov-46-1.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/maria-luiza-d.badjarov-46.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-badzharov/maria-luiza-d.badjarov-46-1.jpg"></td></tr>
   <td colspan=2 >ℹ️  46 / Иван. Д. Баджаров</td></table></div>
   
   
