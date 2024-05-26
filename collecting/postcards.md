@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-26T13:22:11.430Z
+date: 2024-05-26T13:34:53.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -162,3 +162,22 @@ dateCreated: 2023-05-27T08:14:13.057Z
   <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
 
 
+## Българска фотография
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/066-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/066-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️  66 / Българска фотография - издание</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/095-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/095-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️  95 / Българска фотография - издание</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/135-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/balgarska-fotografia/135-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️  135 / Българска фотография - издание</td></table></div>
+  
