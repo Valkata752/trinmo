@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-26T13:39:11.482Z
+date: 2024-05-26T13:47:33.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -126,65 +126,72 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-gr-paskov-17.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-gr-paskov-17-1.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/017-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/017-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 17. пл.Св. Неделя</td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv%20nedelya%201a%2077.jpg"></td>
-<td>73. пл.Св. Неделя</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/073-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 73. пл.Св. Неделя</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/1931%20AKON_AK083_275.jpg"></td>
-<td>77. София, Бул.Мария-Луиза</td></tr>
-  <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+<td></td></tr>
+  <td colspan=2 >ℹ️  77. София, Бул.Мария-Луиза</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-gr-paskov-83.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/maria-luiza-gr-paskov-83-1.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/083-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/083-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 83. пл.Св. Неделя</td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK082_157.jpg"></td>
-<td>86. София, Бул.Мария-Луиза</td></tr>
-  <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 86. София, Бул.Мария-Луиза</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv-nedelya-93.jpg"></td>
-<td>93. пл.Св. Неделя</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/093-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 93. пл.Св. Неделя</td></table></div>
 
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/117_1.jpg"></td>
-<td>117. София Джамията</td></tr>
-  <td colspan=2 >ℹ️  </td></table></div>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/117-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 117. София Джамията </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK102_398.jpg"></td>
-<td>119. пл. Св. Неделя</td></tr>
-  <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+<td></td></tr>
+  <td colspan=2 >ℹ️  119. пл. Св. Неделя</td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/184-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/184-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 184. Съдебната палата</td></table></div>
+  
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK102_400.jpg"></td>
-<td>197. пл.Св.Неделя</td></tr>
-  <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+<td></td></tr>
+  <td colspan=2 >ℹ️  197. пл.Св.Неделя</td></table></div>
   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK102_404.jpg"></td>
-<td>пл.Народно Събрание</td></tr>
-  <td colspan=2 >ℹ️  1934 / Österreichische Nationalbibliothek</td></table></div>
+<td></td></tr>
+  <td colspan=2 >ℹ️  пл.Народно Събрание</td></table></div>
 
 
