@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-26T13:18:08.813Z
+date: 2024-05-26T13:22:11.430Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -135,6 +135,12 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/sv-nedelya-93.jpg"></td>
 <td>93. пл.Св. Неделя</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/117_1.jpg"></td>
+<td>117. София Джамията</td></tr>
+  <td colspan=2 >ℹ️  </td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
