@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-27T07:51:25.076Z
+date: 2024-05-27T07:52:53.007Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -56,58 +56,6 @@ dateCreated: 2023-07-31T11:52:22.172Z
 |   2005  |   2023   | WMAA20ZZ05R002434 |            |         S-RS 1504 | LU-ET 102 | CO 7203 CP |   Busverkehr Rhein-Neckar GmbH  |
 |   2005  |   2023   | WMAA20ZZ15R002443 |            |                | KA-SB 685 | CO 7204 CP | Regionalbusverkehr Südwest GmbH |
 {.dense}
-
-# Снимки
-
-## Tabs {.tabset}
-
-### Представяне
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L7WZQ1I_b2MD72NkK4O_I6c_qIdWKIyt" height="200px"><figcaption> <b>Представяне<br></b> 📷 Община Костинброд</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L7WZQ1I_b2MD72NkK4O_I6c_qIdWKIyt" width="100%"></div></div>
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=17dhigQBtYcb4s2BD2D2O0gElLd9Zm6Cn" height="200px"><figcaption> <b>Представяне<br></b> 📷 Община Костинброд</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=17dhigQBtYcb4s2BD2D2O0gElLd9Zm6Cn" width="100%"></div></div>
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1s_TnpoN96NlrEiZNIo8CNZMjfSpNFc2S" height="200px"><figcaption> <b>Представяне<br></b> 📷 Община Костинброд</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1s_TnpoN96NlrEiZNIo8CNZMjfSpNFc2S" width="100%"></div></div>
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1atE5Y6IgDIDsNGUloZnYrXaudjSjmJnq" height="200px"><figcaption> <b>Представяне<br></b> 📷 Община Костинброд</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1atE5Y6IgDIDsNGUloZnYrXaudjSjmJnq" width="100%"></div></div>
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1c8-W8KZK4fZr2F-3tXGXNlOv0ytcm79B" height="200px"><figcaption> <b>Представяне<br></b> 📷 Община Костинброд</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1c8-W8KZK4fZr2F-3tXGXNlOv0ytcm79B" width="100%"></div></div>
-
-
-## Tabs {.tabset}
-
-### Линия 1
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1W9w9Zurvf4zyjgz3suKv3JskBuee6wvq" height="200px"><figcaption> <b>7200</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1W9w9Zurvf4zyjgz3suKv3JskBuee6wvq" width="100%"></div></div>
-
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" height="200px"><figcaption> <b>7204</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1znQnzVweMPvowL5eddc0hPCjdYrXBLCV" width="100%"></div></div>
-
-#### Преди общински превозвач
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" height="200px"><figcaption> <b>5597</b> 📷 Емил Шиваров</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-b8laRD6riPTJrUNFuiYqNb-ZFmBh7n3" width="100%"></div></div>
-
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" height="200px"><figcaption> <b></b> 📷 Ники 1515</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nv6E17oeQlNCe7ROGs49RiaByYTD9J_r" width="100%"></div></div>
-
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" height="200px"><figcaption> <b>7615</b> 📷 неизв.</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ngIrQfdwGXoNqTJdAuwmpQmtPc0Y0YVZ" width="100%"></div></div>
-
-
-## Tabs {.tabset}
-
-
-### Линия 3
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1oNkSAJrnhVtit6E-Be4uCZjP8s5Deyrw" width="100%"></div></div>
-
-## Tabs {.tabset}
-
-
-### Линия 4
-<!--1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1IeG7ROGXCq3PD5DJr8IO-SNzwi69jvmZ" height="200px"><figcaption> <b>7201</b> 📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1IeG7ROGXCq3PD5DJr8IO-SNzwi69jvmZ" width="100%"></div></div>
-
 
 
 # Малко История
