@@ -2,7 +2,7 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-09-28T08:19:51.875Z
+date: 2024-05-27T07:42:36.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
@@ -118,7 +118,7 @@ dateCreated: 2023-07-31T11:52:22.172Z
 > Може да се видят линиите за Костинброд - 34, 35, 36, 37, 38, 39, 40 и 92.
 {.is-info}
 
-<img src="https://drive.google.com/uc?id=1vswH2rTLICQUH9Q6C4fpYyVuMsz9-Ku6">
+<img src="http://46.10.181.183:1518/trinmo/maps/okologradski/1983-avtobusni-linii-v-okologradskia-raion.jpg">
 
 ## История на линиите до Костинброд
 
