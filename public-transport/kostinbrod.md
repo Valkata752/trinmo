@@ -2,45 +2,43 @@
 title: Градски транспорт Костинброд
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-27T07:42:36.673Z
+date: 2024-05-27T07:51:25.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T11:52:22.172Z
 ---
 
-<table style="width:100%">
-  <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1-70xIVEeZxKc0torZBfuDoo7Koj2PMH5"></td>
-    <td><b>Нова транспортен оператор</b><br>От 1 август 2023 г. започва дейност общинското дружество „Общински превози Костинброд“ </td>
-  </tr>
-  <td colspan=2 >ℹ️ Община Костинброд</td>
-</table>
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://kostinbrod.bg/wp-content/uploads/2023/07/3.jpeg"></td>
+<td>От 1 август 2023 г. започва дейност общинското дружество „Общински превози Костинброд“</td></tr>
+  <td colspan=2 >ℹ️ Община Костинброд</td></table></div>
+  
+  
 
 # Разписания
 
 # Tabs {.tabset}
 
 ## 1️⃣ Петърч
-<img src="https://drive.google.com/uc?id=1DvPfQLKKM2fT-kNjAwtqIKtydGWV7P75" style="width:400px">
+<img src="https://kostinbrod.bg/wp-content/uploads/2023/07/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%BF%D0%B5%D1%82%D1%8A%D1%80%D1%87-1-scaled.jpg" style="width:400px">
 
 ## 3️⃣ Драговищица
 
-<img src="https://drive.google.com/uc?id=1depVjQnzu-S0VTFM-HWrrvhp7M864inB" style="width:400px">
+<img src="https://kostinbrod.bg/wp-content/uploads/2023/07/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D1%80%D0%B0%D0%B3%D0%BE%D0%B2%D0%B8%D1%89%D0%B8%D1%86%D0%B0-scaled.jpg" style="width:400px">
 
 
 ## 4️⃣ Царичина
 
-<img src="https://drive.google.com/uc?id=1d6bp1ciupWniJMWiWMIdNsipFCYQwLIy" style="width:400px">
+<img src="https://kostinbrod.bg/wp-content/uploads/2023/07/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D1%86%D0%B0%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0-scaled.jpg" style="width:400px">
 
 ## 5️⃣ Мина Чибавоци
 
-<img src="https://drive.google.com/uc?id=1ZFZUgoqvPCWf4JuRofMQARYW4ZJM_WK-" style="width:400px" >
+<img src="https://kostinbrod.bg/wp-content/uploads/2023/07/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D1%87%D0%B8%D0%B1%D0%B0%D0%BE%D0%B2%D1%86%D0%B8-scaled.jpg" style="width:400px" >
 
 ## 9️⃣ Опицвет
 
-<img src="https://drive.google.com/uc?id=1iklhta2Qx_bB6H1ZzpKvTFQnC1Yu6oqL" style="width:400px" >
+<img src="https://kostinbrod.bg/wp-content/uploads/2023/07/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%BE%D0%BF%D0%B8%D1%86%D0%B2%D0%B5%D1%82-scaled.jpg" style="width:400px" >
 
 
 
