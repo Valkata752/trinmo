@@ -2,7 +2,7 @@
 title: Атракционен превоз
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-28T09:55:21.541Z
+date: 2024-05-28T09:56:01.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T09:53:06.756Z
@@ -13,6 +13,8 @@ dateCreated: 2024-05-28T09:53:06.756Z
 
 
 ## 01.06.2024 - Атракционна линия "ЗООПАРК" 
+
+Предстояща
 
 
 ## 18.05.2024 - Атракционна линия "НОЩ НА МУЗЕИТЕ"
@@ -27,6 +29,11 @@ dateCreated: 2024-05-28T09:53:06.756Z
 </td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/7849/47332101952_66bcee6c84_k.jpg"></td>
+<td><b>a1102 line42</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Mercedes O345 Conecto G</a> <br>📌 <br> 📷 Апостол Чуканов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
   
 
 ## 03.03.2024 - Атракционна линия "НИМ"
