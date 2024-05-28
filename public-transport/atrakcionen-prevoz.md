@@ -2,7 +2,7 @@
 title: Атракционен превоз
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-28T10:03:54.850Z
+date: 2024-05-28T10:05:00.297Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T09:53:06.756Z
@@ -29,11 +29,7 @@ dateCreated: 2024-05-28T09:53:06.756Z
 </td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-  <!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="https://live.staticflickr.com/65535/53584473950_70e70a72c5_h.jpg"></td>
-<td><b>Столичен автотранспорт</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Ikarus 280</a> <br>📌 НИМ<br> 📷 Иво Радоев</td></tr>
-  <td colspan=2 >ℹ️ </td></table></div>
+
   
   
 
@@ -55,4 +51,11 @@ dateCreated: 2024-05-28T09:53:06.756Z
 
 </td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
+  
+    <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://live.staticflickr.com/65535/53584473950_70e70a72c5_h.jpg"></td>
+<td><b>Столичен автотранспорт</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Ikarus 280</a> <br>📌 НИМ<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
   
