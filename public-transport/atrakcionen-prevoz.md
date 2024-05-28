@@ -2,7 +2,7 @@
 title: Атракционен превоз
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-28T10:20:33.824Z
+date: 2024-05-28T10:24:59.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T09:53:06.756Z
@@ -56,7 +56,6 @@ dateCreated: 2024-05-28T09:53:06.756Z
 Автобус 3 – Икарус 280.</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-## Tabs {.tabset}
 ### Чавдар 130
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -64,7 +63,6 @@ dateCreated: 2024-05-28T09:53:06.756Z
 <td><b>Сдружение "ГТИ"</b><br> 🚌 <a href=""> </a>Чавдар 130 <br>📌 Цариградско шосе<br> 📷 Yasen N</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
-## Tabs {.tabset}
 ### Чавдар 11М4
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -72,7 +70,6 @@ dateCreated: 2024-05-28T09:53:06.756Z
 <td><b>Сдружение "ГТИ"</b><br> 🚌 <a href=""> </a>Чавдар 11М4 <br>📌 Цариградско шосе<br> 📷 Yasen N</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
 
-## Tabs {.tabset}
 ### Mercedes O305G
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -81,7 +78,6 @@ dateCreated: 2024-05-28T09:53:06.756Z
   <td colspan=2 >ℹ️ </td></table></div>
 
 
-## Tabs {.tabset}
 ### Ikarus 280
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
