@@ -2,7 +2,7 @@
 title: Атракционен превоз
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-28T10:05:18.684Z
+date: 2024-05-28T10:11:07.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-28T09:53:06.756Z
@@ -55,7 +55,24 @@ dateCreated: 2024-05-28T09:53:06.756Z
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="https://live.staticflickr.com/65535/53584473950_70e70a72c5_h.jpg"></td>
-<td><b>Столичен автотранспорт</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> Ikarus 280</a> <br>📌 НИМ<br> 📷 Иво Радоев</td></tr>
+<td><b>Столичен автотранспорт</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> </a>Ikarus 280 <br>📌 НИМ<br> 📷 Иво Радоев</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+
+ ## 13.01.2024 - Атракционна линия "123 ГОДИНИ ГРАДСКИ ТРАНСПОРТ"
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="https://scontent-sof1-1.xx.fbcdn.net/v/t39.30808-6/419894834_395117076350850_1856229116051439067_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CP0WXvJe1KwQ7kNvgHcLPIl&_nc_ht=scontent-sof1-1.xx&oh=00_AYDf5KmEQjZRXJGAdErJ31fPU74i7M489HDJBVi_5M7HVw&oe=665B8BF7"></td>
+<td><b>Сдружение ГТИ и Столичен автотранспорт</b><br> 🚌 <a href="/bg/public-transport/fleet-list/2003-Mercedes-O345-Conecto-G"> </a>Mercedes O305G и Ikarus 280 <br>📌 пл. Александър Невски<br> 📷 Александър Бахчевански
+</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
   
   
+
+
+
+
+## 26-27.12.2024 - Атракционна линия "КОЛЕДА"
+
+<!--следващ пост--> 
