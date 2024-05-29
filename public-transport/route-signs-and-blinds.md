@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T23:04:11.042Z
+date: 2024-05-29T23:09:11.638Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -140,49 +140,49 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 ## Земляне Вар.1
 <!--А11/А73--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/FDqxEtUNfvOOM-7GtlsrCfZOYjkdTAw9Gcf7iXjrpQp-46erQDp7j6L4aupif56Oh8s=w2400" height="100px"><br><img src="https://lh6.googleusercontent.com/hUCgIKq0qklQPPLhmaiv0iXo70AQepIc8GBCPKnc6G6NOcvfkr7Nhf16HfSGdsjQWuo=w2400" height="100px"><figcaption> <b>А11/А73</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/11-73%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/11-73%20(2).jpg" height="100px"><figcaption> <b>А11/А73</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А58/А77--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vgShCus_1SRaUv38bz1ffd_0lCgVst0z" height="100px"><br><img src="https://drive.google.com/uc?id=10IyaFWYTl8o53Rm9uzDrWJ_BoNwTbjiD" height="100px"><figcaption> <b>А58/А77</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/58-77%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/58-77%20(2).jpg" height="100px"><figcaption> <b>А58/А77</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А61/А62--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15hwvtkPhqgOmdQLiEJ88Loi5t7L8BC-e" height="100px"><br><img src="https://drive.google.com/uc?id=1hvE3kgK7C8Y0md2ugcO7-BXdMz0Aqlbd" height="100px"><figcaption> <b>А61/А62</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/61-62%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/61-62%20(2).jpg" height="100px"><figcaption> <b>А61/А62</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А63/А202--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/fclzBg61w0IMJl41a2iIZNrLlDPe3Y16zMck8f4pMf_oYoAjbWmd1noHLcg0d3MbPGU=w2400" height="100px"><br><img src="https://lh4.googleusercontent.com/-jkoVk2E9HVazIsMEe3wor_w80IinQiYLs0k9ynf-KPM1Rr_ZT6II9S-IikvVNX0OfU=w2400" height="100px"><figcaption> <b>А63/А202</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/63-202%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/63-202%20(2).jpg" height="100px"><figcaption> <b>А63/А202</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А83/А102--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/RJ8-w8cSay8P6k3Pjz6hN9OK_1KFuvtgh9iiETRqTXth5FoOnT-S1bPlGOVNdQDsYZk=w2400" height="100px"><br><img src="https://lh6.googleusercontent.com/pm3qCREf8ZM-85ZlqGeQhjqMw-wR9tk9ZX6FJKhXvl1CixoYnJGiZkNPLraNDnZ7PV8=w2400" height="100px"><figcaption> <b>А83/А102</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/83-102%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/83-102%20(2).jpg" height="100px"><figcaption> <b>А83/А102</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А107/А211--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/w5Xfz3OYVJzz26HEWakQvHDC0TgF3rJ-bl5w7tREIq6lXKI1-9QWL9EstuwnBA0_2x8=w2400" height="100px"><br><img src="https://lh4.googleusercontent.com/eNysVZbyPW-dNseX9tlNNAVYFAzKU-9EASXGWDBYFUzG_9gfn6JHyTUzFi5oJrGkWQM=w2400" height="100px"><figcaption> <b>А107/А211</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/107-211%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/107-211%20(2).jpg" height="100px"><figcaption> <b>А107/А211</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 
 ## Земляне Вар.2
 <!--А58--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/9WzXFrs1c4tCrnTcT2RmqAgT6y8X1m_cC9iqeCwJJEMxydCUBXPJ9TY2K46IXMexUzg=w2400" height="100px"><figcaption> <b>А58</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/58-prazno%20(1).jpg" height="100px"><figcaption> <b>А58</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А64--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/e0Y-TDMemMhblLrPTj96mFiGPva6ji1qFW8myg8eAtCD8XTLKLRtQf5b6n46o0qwwpk=w2400" height="100px"><figcaption> <b>А64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/64-prazno%20(1).jpg" height="100px"><figcaption> <b>А64</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А65--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/Y8STrZoFjKqWNp_7lcSx7fbFdWrFRdxxJ5xaxs6Qml98HOw6Byg_BIcEezQSRdYReyI=w2400" height="100px"><figcaption> <b>А65</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/65-prazno%20(1).jpg" height="100px"><figcaption> <b>А65</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А67--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/WG8ZWxWgA3ZwJYae7AvasT1pco2U0b8nAy9txuixDbzR6EOs-y_2PaQx968gI-GV0EA=w2400" height="100px"><figcaption> <b>А67</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/67-prazno%20(1).jpg" height="100px"><figcaption> <b>А67</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А72--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/o-K5azpAYM14KOQ-lHoDoDmUtXwJibNR9k2CnFexwXDJ-wX-kCQzdP3N34rVUsTcxEI=w2400" height="100px"><figcaption> <b>А72</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/72-prazno%20(1).jpg" height="100px"><figcaption> <b>А72</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А73--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/FBWnv0DGu5nzCee30cSSTwCZMezKxq2ltm8Q-CZS4HN5HAD0MdoHuLzmrIWgdvGS7N8=w2400" height="100px"><figcaption> <b>А73</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/73-prazno%20(1).jpg" height="100px"><figcaption> <b>А73</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А74--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/n-ZB9Pzgq_zouSro23mfCxP4_EbsL-OBzTC_t48QAmZaFsIXgzRLWdG2_qMIEDaOvGE=w2400" height="100px"><figcaption> <b>А74</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/74-prazno%20(1).jpg0" height="100px"><figcaption> <b>А74</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А77--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/VtxcTBpFIkdZn7DsJ0_ba1HcjCJeEP170EPllgfLv4m73xboZ1CAOmfQMtTAz2QPKy4=w2400" height="100px"><figcaption> <b>А77</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/77-prazno%20(1).jpg" height="100px"><figcaption> <b>А77</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А83--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/lLW3csjS0qHw7rnYCZzwrPKN6yp9XuhmrrPpUZrekE_8ND3SrAelEiONrhIHEb_Xm9g=w2400" height="100px"><figcaption> <b>А83</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/83-prazno%20(1).jpg" height="100px"><figcaption> <b>А83</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А93--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/vE4wkbmscIRzl5-49dMnCxIvRD9Tth5ynp4RFXmRtBpopXwU71-Bu3yz1-Dj9qwJJ7M=w2400" height="100px"><figcaption> <b>А93</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/93-prazno%20(1).jpg" height="100px"><figcaption> <b>А93</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А103--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/mCSxPXx7QBh_TdNPi7AXREg6EE5r2JlPPKEDqvIHfPzsk_oYPO8A_z92OGHbGwuKirE=w2400" height="100px"><figcaption> <b>А103</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/103-prazno%20(1).jpg" height="100px"><figcaption> <b>А103</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А108--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/nQvECEYffxNQShLlPIMwVr_cgKFXwY3y-xDWOTfcVmZFc_BkVmLNSzUQ-0gnVWxDB14=w2400" height="100px"><figcaption> <b>А108</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/108-prazno%20(1).jpg" height="100px"><figcaption> <b>А108</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А111--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/qrDSUH4OLRcJaiiqwGrkjiafF9BEk_2RtPKD6uQyKQVTZ8uvMnaSL5jjJx0sCgl2oGY=w2400" height="100px"><figcaption> <b>А111</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/111-prazno%20(1).jpg" height="100px"><figcaption> <b>А111</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--А122--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/oDV45x9tsai_UU6wPfCQtNrwBpAf3MQufoHuRAqJWp3qX8DUjwboQPuu_Jkz5P_UQIQ=w2400" height="100px"><figcaption> <b>А122</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/zemlyane/122-prazno%20(1).jpg" height="100px"><figcaption> <b>А122</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ## Дружба
 
