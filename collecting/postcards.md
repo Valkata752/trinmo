@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T21:27:22.074Z
+date: 2024-05-29T21:35:15.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -48,22 +48,27 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm21%20t.chipev.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm21%20t.chipev%20(1).jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm21%20t.chipev.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm21%20t.chipev%20(1).jpg"></td></tr>
   <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_001.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm38%20lineknqjevska%20447_002.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm38%20lineknqjevska%20326_001.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm38%20lineknqjevska%20447_002.jpg"></td></tr>
   <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm22-tm15-t.chipev.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm22-tm15-t.chipev2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/099-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/099-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 99. Тодор Чипев</td></table></div>
   
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/174-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/174-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 174. Тодор Чипев</td></table></div>
   
 
 ## Д. Влаев
