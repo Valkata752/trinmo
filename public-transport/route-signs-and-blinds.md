@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T23:14:19.358Z
+date: 2024-05-29T23:16:34.197Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -131,8 +131,8 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 # Големи трамвайни
 <!--ТМ7--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Xj8eUma6AC6PCqTymbZOHo1gY5dPxBir" height="100px"><figcaption><b>TM7</b> 📷 Т6М-400 ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Xj8eUma6AC6PCqTymbZOHo1gY5dPxBir" width="100%"></div></div>
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1uwgY6j0x2EJUDgYP1Bu2RbRZOg4-K_Sz" height="100px"><figcaption><b>TM15</b> 📷 Т8М-301 ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uwgY6j0x2EJUDgYP1Bu2RbRZOg4-K_Sz" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/black/line7.jpg" height="100px"><figcaption><b>TM7</b> 📷 Т6М-400 ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Xj8eUma6AC6PCqTymbZOHo1gY5dPxBir" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/black/line15.jpg" height="100px"><figcaption><b>TM15</b> 📷 Т8М-301 ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1uwgY6j0x2EJUDgYP1Bu2RbRZOg4-K_Sz" width="100%"></div></div>
 
 # Хартиени / Картонени табели
 
