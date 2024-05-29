@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T21:48:08.425Z
+date: 2024-05-29T21:55:57.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -94,11 +94,18 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-1960%20D.Vlaev.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-1960%20D.Vlaev%20(1).jpg"></td></tr>
-  <td colspan=2 >ℹ️ Д. Влаев</td></table></div>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-121-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-121-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ A-121/1960 пл. Св. Неделя</td></table></div>
    
-  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/d-vlaev/A-135-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ A-135/1960 пл. Св. Неделя</td></table></div>
+   
+   
+   
 ## Иван. Д. Баджаров
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
