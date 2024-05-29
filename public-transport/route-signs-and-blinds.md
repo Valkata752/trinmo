@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T23:09:11.638Z
+date: 2024-05-29T23:14:19.358Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -187,7 +187,14 @@ dateCreated: 2022-05-01T09:45:32.265Z
 ## Дружба
 
 ## Малашевци
+<!--А64/А150--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/64-150%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/64-150%20(2).jpg" height="100px"><figcaption> <b>А64/А150</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
+<!--А85/А86--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/85-86%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/85-86%20(2).jpg" height="100px"><figcaption> <b>А85/А86</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--А94/А280--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/94-280%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/bus/malashevtsi/94-280%20(2).jpg" height="100px"><figcaption> <b>А94/А280</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 # Ролки
 
