@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-28T05:47:41.776Z
+date: 2024-05-29T21:19:12.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -162,6 +162,12 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td></td></tr>
   <td colspan=2 >ℹ️ 93. пл.Св. Неделя</td></table></div>
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/105-1.png"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 105. пл. Народно събрание</td></table></div>
+  
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/117-1.jpg"></td>
@@ -170,15 +176,22 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-2.jpg"></td></tr>
-  <td colspan=2 >ℹ️ 125. бул. Мария Луиза</td></table></div>
-
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/118-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/118-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 118. пл. Народно събрание</td></table></div>
+  
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/AKON_AK102_398.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️  119. пл. Св. Неделя</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 125. бул. Мария Луиза</td></table></div>
+
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
