@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T21:55:57.747Z
+date: 2024-05-29T22:10:13.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -34,16 +34,26 @@ dateCreated: 2023-05-27T08:14:13.057Z
   <td colspan=2 >ℹ️  169 / Българска фотография - издание</td></table></div>
   
   
-## Людмил Попов
+## ДИ "Септември"
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm649%20(1).JPG"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/tm649%20(2).JPG"></td></tr>
-  <td colspan=2 >ℹ️ Людмил Попов</td></table></div>
-  
-  
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-13167-A-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-13167-A-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ Д-13167-А / Р. Илиев</td></table></div>  
 
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-14709-A-1.JPG"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-14709-A-2.JPG"></td></tr>
+  <td colspan=2 >ℹ️ Д-14709-А / Людмил Попов</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-17757-A-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/di-septemvri/D-17757-A-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ Д-17757-А / Кр. Янев</td></table></div>  
+  
 ## Тодор Чипев
 
 <!--следващ пост--> 
