@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T22:57:08.103Z
+date: 2024-05-29T23:04:11.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -92,20 +92,20 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 ## T6A2
 <!--TM5/8--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/T6TGqnGch7vtGtY2ITxxDlfc-pZqZ1XvrMvp6ylYg5O6gqGTOzsP-eR0mCAeD0ZMjZY=w2400" height="100px"><br><img src="https://lh3.googleusercontent.com/K9-zP9DU9ez67ee1mxeMW4w3bVSj9FLswnSc2UliH5bLbm0i0kSzH0_7xIAzrFErM-U=w2400" height="100px"><figcaption> <b>TM5/ТМ8</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/5-8%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/5-8%20(2).jpg" height="100px"><figcaption> <b>TM5/ТМ8</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM9/Нищо--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/xbttluTYSpHWgAIrAsiUF7jw4rnvRxwpcLBX-b7_gg4ynjgtcvdRM-hG2i5UunRgSQA=w2400" height="100px"><br><img src="https://lh3.googleusercontent.com/mKQ68toQg8aYbWd1xPta2CFXFji60fp_QNfcCxHyJWlhK4EUpE9mt3oE0qAqebE4WkA=w2400" height="100px"><figcaption> <b>TM9/празно</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/9-nishto%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/9-nishto%20(2).jpg" height="100px"><figcaption> <b>TM9/празно</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM10/TM18--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/z9Ehk2twZHvIHUadCeYM7jbJxEkNqBT2vKf_EHHAroV2SiHMpedrobT8cegWIjDEZfs=w2400" height="100px"><br><img src="https://lh6.googleusercontent.com/RQDCsBnLJ8uAn8pQRn00jEzWTdK9J2Ghz_ICtgouW_ZaUNIqnAdUWjhKO9zGbEj5Bog=w2400" height="100px"><figcaption> <b>TM10/ТМ18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/10-18%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/10-18%20(2).jpg" height="100px"><figcaption> <b>TM10/ТМ18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 ## Български
 <!--TM2/ТМ14--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/H6B_Y2dksZVNfo2e6g-p8pZ4EVZQ_g8RqecZLoFtmg_OjyLHfngt6e4yE4KcIWS22rY=w2400" height="100px"><br><img src="https://lh6.googleusercontent.com/ASJAncvgzgbRhop5BewGH8V13glvJWCSJE1Syxd1Pxwva29VT9n4HVOecf9aCERAHHw=w2400" height="100px"><figcaption> <b>TM2/ТМ14</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/2-14%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/2-14%20(2).jpg" height="100px"><figcaption> <b>TM2/ТМ14</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM8/депо--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/EDR2KR7X9f-Hy29PbOTQk7O9OnCcHAV4ZFhUuSMInhRBvb8nX3h0zREfOrR4nq8OMa8=w2400" height="100px"><br><img src="https://lh3.googleusercontent.com/0RD44lFLRjVXYvHKN_Hpn1VUFoG_5JXm5yHJmBCGA_ZVWLAjjqx5xGR6TcKfqQO__vw=w2400" height="100px"><figcaption> <b>TM8/депо</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/8-depo%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/8-depo%20(2).jpg" height="100px"><figcaption> <b>TM8/депо</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM14/ТМ18--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/rJuGZAS3t8LkzrP5J2gT2ZhnRKAY9o8Egq9V2PB_sDJU82b_RTsk4PcWm6zZghH9xGs=w2400" height="100px"><br><img src="https://lh3.googleusercontent.com/Wkj9AlTMzakslC5012VIGTcf8qNJ1zZpsm3HXXbxc16jyEhDJxkxaeeIe38RYxlXhK8=w2400" height="100px"><figcaption> <b>TM14/ТМ18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/14-18%20(1).jpg" height="100px"><br><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/metal/14-18%20(2).jpg" height="100px"><figcaption> <b>TM14/ТМ18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 
@@ -116,17 +116,17 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 ## Банишора
 <!--TM3--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/6Cw0g8e6-K2AVV07pkj7_gSYVTXHqbV-elfOPmJB5mgwwWWNhLOrztkE-iAWOAY_ndQ=w2400" height="100px"><figcaption> <b>TM3</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/3%20(1).jpg" height="100px"><figcaption> <b>TM3</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/W1BJSBAX0Xd6jnT0iWbQP-WJh2dqsXA3LGFnQ-a8gEt9eMLpGvLbddUz4Jq_ibt5q7A=w2400" height="100px"><figcaption> <b>TM6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/6%20(1).jpg" height="100px"><figcaption> <b>TM6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM7--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/gQ6VLxm1kZ-XFwUYJDkwHzlZIY7BkwC4zyE_XbMVwJ-OMf_eo_1XWRjXAoOG6CQJvYU=w2400" height="100px"><figcaption> <b>TM7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/7%20(1).jpg" height="100px"><figcaption> <b>TM7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/qFGGX0atdgb4DIkTYiP3-Defdj66YmDl6UpEFxHaOw2CB964ucaWJxV2jWPhYy7N83Y=w2400" height="100px"><figcaption> <b>TM12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/12%20(1).jpg" height="100px"><figcaption> <b>TM12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM16--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/cXZ9dnL4bPW1Jrx_GBb6e8w08miGbeRrhoYAohQiVeH6E43n1gq_BYt1aa8xsKmZDAo=w2400" height="100px"><figcaption> <b>TM16</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/16%20(1).jpg" height="100px"><figcaption> <b>TM16</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--TM18--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/vEJ3vzMe_XIK5KrBKs7XGMzSlYHMk119lf0pewl8D0NST6qwF7KOCFBhYjX9OnSrZR4=w2400" height="100px"><figcaption> <b>TM18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tm/old-wood/18%20(1).jpg" height="100px"><figcaption> <b>TM18</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 # Големи трамвайни
