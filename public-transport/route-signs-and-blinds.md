@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-29T22:29:52.970Z
+date: 2024-05-29T22:57:08.103Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -17,35 +17,53 @@ dateCreated: 2022-05-01T09:45:32.265Z
 
 ##  Тролейбуси
 <!--ТБ1--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/vcA9YGOWA7mU9yaVoF3Mr99XeQ5BbnMGVJbkOWEzKGumVsMrQFBZfGsF7y7MScYhMSc=w2400" height="60px"><figcaption> <b>ТБ1</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb1-1.jpg" height="60px"><figcaption> <b>ТБ1</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ1--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb1.jpg" height="60px"><figcaption> <b>ТБ1</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/000FDwCp2W-J-jDqTPYS06IFJx_x3aEsPqLhK_eJRn8C3krveW_xqoi_-IpVkSarejo=w2400" height="60px"><figcaption> <b>ТБ2</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb2-1.jpg" height="60px"><figcaption> <b>ТБ2</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ2--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb2.jpg" height="60px"><figcaption> <b>ТБ2</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ3--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb3.jpg" height="60px"><figcaption> <b>ТБ3</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/ZHOhRabCOln2Ch5wdIUWb4jv6A13OOzE-cKNzga6NcmhKAP3mD-Ktt-4bdHqOpIqBzo=w2400" height="60px"><figcaption> <b>ТБ4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb4.jpg" height="60px"><figcaption> <b>ТБ4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ4--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb4-1.jpg" height="60px"><figcaption> <b>ТБ4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ5--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/KH1Fxk0uR60oj5HSg6S5KkzkhMuPA539wC43oSmjAFB6uCqI40WpnhkNt2oTxhY0HGY=w2400" height="60px"><figcaption> <b>ТБ5</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb5.jpg" height="60px"><figcaption> <b>ТБ5</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ5--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb5-1.jpg" height="60px"><figcaption> <b>ТБ5</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ5Б--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/vBldURR0YJcTYKsIOE74AhZMND4P3aORyr4un4MvNAycFcsxBGzo33RsFBglLtdyrc0=w2400" height="60px"><figcaption> <b>ТБ5Б</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb5%d0%91-1.jpg" height="60px"><figcaption> <b>ТБ5Б</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/q2y4HN2auVYJD2gkPT3ro5iUf5PsZQfcNM0Vr1HHPcXte4wbsWn99ojC1cVg-5ZYX6Y=w2400" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6-1.jpg" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/XhjfvyfzXkUs1m__Z2InBbrtrMl18IjbMz-gZKOo12utKM64z5Xt86ui_Dam0Eakvqo=w2400" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6-2.jpg" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ7--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/kF8DyiYgu2Fus14YYn5jmxKe9xX7-CuSREXzio4RGpSgn_hRJLOLGeE7r1_oA0IEFgM=w2400" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb7-1.jpg" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ7--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/f1J87XXIl4kelNlLhgwwQAAOzsZ_VLgNuQynSKCbTQwShjoZBK-ZRVcx3vFp6GdxnzY=w2400" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb7-2.jpg" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ7--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb7.jpg" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ9--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81odhwYskDQE1TP2I2bVj9OUE-dWoTE3j3CzIcNcefFS84HFx4BT4AItXX29BGAWOWQR6O7w8x8O4xPMN1fid7nSFS0Heg=w1920-h854" height="60px"><figcaption> <b>ТБ9</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb9-1.jpg" height="60px"><figcaption> <b>ТБ9</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ9--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/TV0EuV4CD9-TQfbIE8e5KEEvvPa3LHjHeAa8Mo-jLLWVLouhho5DQuyEFCFtmEhIwlM=w2400" height="60px"><figcaption> <b>ТБ9</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb9-2.jpg" height="60px"><figcaption> <b>ТБ9</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ10--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/Sf3URqkkdkLs-6SzWOZZNrVXeRnB3GrAgHovLImB9Yjb5YFBbCIKsg8utJe_PNPolek=w2400" height="60px"><figcaption> <b>ТБ10</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb10-1.jpg" height="60px"><figcaption> <b>ТБ10</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ10--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb10.jpg" height="60px"><figcaption> <b>ТБ10</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ11--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/53qiHRivoa716YjHU5lZLpo0sqZ_TyryW8faKkpP_ZmeHyOOK7pKu2JNTGId4oNr4oY=w2400" height="60px"><figcaption> <b>ТБ11</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb11-1.jpg" height="60px"><figcaption> <b>ТБ11</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ11--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb11.jpg" height="60px"><figcaption> <b>ТБ11</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/xIxDXPSXSuqNH_tKM27bpTtja1bfT9JXDKow5DDKMxuB30aw5xoigXRSaHTzalgOly8=w2400" height="60px"><figcaption> <b>ТБ12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb12-1.jpg" height="60px"><figcaption> <b>ТБ12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ12--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/5AGYOMJkO8FhVx2UZU-HqoxvehMmQQBTE2PulLfvpMyJLdyvI8xKtzl-v4w9LibfkmY=w2400" height="60px"><figcaption> <b>ТБ12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb12-2.jpg" height="60px"><figcaption> <b>ТБ12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ12--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb12.jpg" height="60px"><figcaption> <b>ТБ12</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ## MAN SG262 / SL232
 
