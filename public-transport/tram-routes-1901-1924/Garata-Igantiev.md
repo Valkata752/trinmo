@@ -2,7 +2,7 @@
 title: Трамвайна линия Гарата - Игнатиев
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-21T09:30:32.653Z
+date: 2024-05-30T08:26:05.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T14:51:47.791Z
@@ -61,13 +61,34 @@ dateCreated: 2022-05-26T14:51:47.791Z
 # Tabs {.tabset}
 
 ## BBC (1-28)
-<!--11--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12tcVNCyXZjj28gpgtlKIn-_o-bydr1SY" height="200px"><figcaption><b>11</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12tcVNCyXZjj28gpgtlKIn-_o-bydr1SY" width="100%"></div></div>
-<!--11--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=15l8Ap0ijuV9Pu915zRGdoi9Teo74HrvF" height="200px"><figcaption><b>11</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=15l8Ap0ijuV9Pu915zRGdoi9Teo74HrvF" width="100%"></div></div>
-<!--11--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1gsiwvDgm23mUYVuUWoDqQWLMctXCYY92" height="200px"><figcaption><b>11 и 14</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1gsiwvDgm23mUYVuUWoDqQWLMctXCYY92" width="100%"></div></div>
-<!--13--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1Nfo0SrOXa127vXwxcXzulqX2_uc3lP0d" height="200px"><figcaption><b>13</b> 📷 "София между две столетия", Георги Тахов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Nfo0SrOXa127vXwxcXzulqX2_uc3lP0d" width="100%"></div></div>
-<!--25--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1KljbMUvOJgMK4DjGtMPpxM_Rvr8n1ShU" height="200px"><figcaption><b>25</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1KljbMUvOJgMK4DjGtMPpxM_Rvr8n1ShU" width="100%"></div></div>
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-linegarata-ignatiev-(1).jpg"></td>
+<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-linegarata-ignatiev.jpg"></td>
+<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-tm14-linegarata-ignatiev.jpg"></td>
+<td><b>tm11, tm14 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+  <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/historic/tm13%20linegarata-ginatiev.jpg"></td>
+<td><b>tm13 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 "София между две столетия", Георги Тахов</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ 
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm25-graf-ignatiev.jpg"></td>
+<td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌 ул. Граф Игнатиев <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
