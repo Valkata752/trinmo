@@ -2,7 +2,7 @@
 title: Трамвайна линия Княжевска
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-30T08:36:39.771Z
+date: 2024-05-30T08:37:53.303Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T14:56:26.405Z
@@ -82,9 +82,14 @@ dateCreated: 2022-05-26T14:56:26.405Z
   <td colspan=2 >ℹ️ </td></table></div> 
   
   
-<!--17--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NYx_ilGQQLOLBpmwLoIzWlvG1emLml8N" height="200px"><figcaption><b>17</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NYx_ilGQQLOLBpmwLoIzWlvG1emLml8N" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm17%20lineknqjevskata.jpg"></td>
+<td><b>tm17 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
+
+  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm17-lineknqjevskata.jpg"></td>
@@ -92,8 +97,11 @@ dateCreated: 2022-05-26T14:56:26.405Z
   <td colspan=2 >ℹ️ </td></table></div>    
   
   
-<!--19--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1X_AJRBQ06gapZuKU_6udLP2GTMsLu7N1" height="200px"><figcaption><b>19</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1X_AJRBQ06gapZuKU_6udLP2GTMsLu7N1" width="100%"></div></div>
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/tm19%20lineknqjevskata.jpg"></td>
+<td><b>tm19 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
