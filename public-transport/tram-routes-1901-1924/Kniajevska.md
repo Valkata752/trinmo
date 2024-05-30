@@ -2,7 +2,7 @@
 title: Трамвайна линия Княжевска
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-05-21T09:24:06.825Z
+date: 2024-05-30T08:36:39.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T14:56:26.405Z
@@ -49,24 +49,62 @@ dateCreated: 2022-05-26T14:56:26.405Z
 
 # Снимки
   
+  
 # Tabs {.tabset}
 
 ## BBC (1-28)
-<!--2--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1PH5cZhmQHLu4f8F8wtXLXhEHmC7TRvFp" height="200px"><figcaption><b>2</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1PH5cZhmQHLu4f8F8wtXLXhEHmC7TRvFp" width="100%"></div></div>
-<!--4--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1nxDMeK-NANk9FTOCbglFAd4pcjuytZxb" height="200px"><figcaption><b>4</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1nxDMeK-NANk9FTOCbglFAd4pcjuytZxb" width="100%"></div></div>
-<!--6--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=12kDYX_8azFdG9MH310b32_sIBdIgDhyp" height="200px"><figcaption><b>6</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=12kDYX_8azFdG9MH310b32_sIBdIgDhyp" width="100%"></div></div>
-<!--9--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1ZxkA2ATEZw396W8Oa8DAaQWptJ_DbeoC" height="200px"><figcaption><b>9</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1ZxkA2ATEZw396W8Oa8DAaQWptJ_DbeoC" width="100%"></div></div>
+
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm2-lineknqjevskata.jpg"></td>
+<td><b>tm2 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/historic/tm4.jpg"></td>
+<td><b>tm4 lineКняжевска </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌  <br> 📷 РИМ София</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm6.jpg"></td>
+<td><b>tm6 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm9-lineknqjevskata.jpg"></td>
+<td><b>tm9 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div> 
+  
+  
 <!--17--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1NYx_ilGQQLOLBpmwLoIzWlvG1emLml8N" height="200px"><figcaption><b>17</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1NYx_ilGQQLOLBpmwLoIzWlvG1emLml8N" width="100%"></div></div>
-<!--17--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1RN1G3OR0zGPm-w8-o0HuJ-15o0dZiz18" height="200px"><figcaption><b>17</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1RN1G3OR0zGPm-w8-o0HuJ-15o0dZiz18" width="100%"></div></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm17-lineknqjevskata.jpg"></td>
+<td><b>tm17 lineКняжевската </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>    
+  
+  
 <!--19--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1X_AJRBQ06gapZuKU_6udLP2GTMsLu7N1" height="200px"><figcaption><b>19</b> 📷 lostbulgaria.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1X_AJRBQ06gapZuKU_6udLP2GTMsLu7N1" width="100%"></div></div>
-<!--21--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1YCSNrYKngXXU48XP5qjsIUAi1PhqccUu" height="200px"><figcaption><b>21</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1YCSNrYKngXXU48XP5qjsIUAi1PhqccUu" width="100%"></div></div>
-<!--24--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1g9TL7LOfVCH_yo-3JZNWzEQUSzNNDVWq" height="200px"><figcaption><b>24</b> 📷 stara-sofia.com ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1g9TL7LOfVCH_yo-3JZNWzEQUSzNNDVWq" width="100%"></div></div>
+
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm21-tm25-lineknqjevskata.jpg"></td>
+<td><b>tm21, tm25 lineКняжевската </b><br> 🚋 <a href=""></a> <br>📌 <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>
+  
+ <!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm24-lineknqjevskata.jpg"></td>
+<td><b>tm24 lineКняжевската</b><br> 🚋 <a href=""></a> <br>📌 Княжево <br> 📷 www.stara-sofia.com</td></tr>
+  <td colspan=2 >ℹ️ </td></table></div>   
+
+
