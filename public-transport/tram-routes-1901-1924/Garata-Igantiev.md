@@ -2,7 +2,7 @@
 title: Трамвайна линия Гарата - Игнатиев
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-30T08:26:05.281Z
+date: 2024-05-30T08:27:09.777Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T14:51:47.791Z
@@ -64,31 +64,31 @@ dateCreated: 2022-05-26T14:51:47.791Z
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-linegarata-ignatiev-(1).jpg"></td>
-<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-linegarata-ignatiev.jpg"></td>
-<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+<td><b>tm11 lineГарата-Игнатиев </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm11-tm14-linegarata-ignatiev.jpg"></td>
-<td><b>tm11, tm14 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
+<td><b>tm11, tm14 lineГарата-Игнатиев </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌  <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/unknown/historic/tm13%20linegarata-ginatiev.jpg"></td>
-<td><b>tm13 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌  <br> 📷 "София между две столетия", Георги Тахов</td></tr>
+<td><b>tm13 lineГарата-Игнатиев </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌  <br> 📷 "София между две столетия", Георги Тахов</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
  
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/stara-sofia/tm25-graf-ignatiev.jpg"></td>
-<td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 <a href=""></a> <br>📌 ул. Граф Игнатиев <br> 📷 www.stara-sofia.com</td></tr>
+<td><b>tm25 lineГарата-Игнатиев </b><br> 🚋 BBC (1-28) <a href="/bg/public-transport/fleet-list/1901-BBC-1-28"></a> <br>📌 ул. Граф Игнатиев <br> 📷 www.stara-sofia.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>   
   
