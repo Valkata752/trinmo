@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-09T23:01:37.338Z
+date: 2024-06-04T08:11:32.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -16,34 +16,34 @@ dateCreated: 2022-07-25T14:52:09.716Z
 > Еднократният билет става 2.00лв!
 {.is-info}
 
-<img src="https://lh4.googleusercontent.com/eezxgpNFmDwB7igc_rNBtMCHE3DMiX-ScoZBGuLpEMGQLnKx3pam_9GUnSDRYAVq0_w=w2400" width="50%"/>
-<img src="https://lh4.googleusercontent.com/BWZMD7S5Wot8qdPJ1jovb2_qQvmCLgAXEXSTFIdpmwpw-b7nmx60V02uD9J1verJ2Ww=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.539-40.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.539-41.jpg" width="50%"/>
 
 ## Решение №178 на СОС от 05.04.2018
-<img src="https://lh5.googleusercontent.com/BXEBnJcqMD1_NKEK3s5MN4TBwOVK0JQDRaRxcq029vtyLkneuDw1laJRVGw9F4ZscKs=w2400" width="50%"/>
-<img src="https://lh5.googleusercontent.com/FiF2aoBr70i49EfFlpoVCTnKK1348fBjWaJOnjyrWIeQjWy33nCMXm3CHGinJE7y6xE=w2400" width="50%"/>
-<img src="https://lh6.googleusercontent.com/gI6Ag-OErimXeMv6margBi4Y_hnB7PSSkMkZdjt-Q3xfuRKn0x5CAzm_WjI2XwnOitM=w2400" width="50%"/>
-<img src="https://lh5.googleusercontent.com/giiT0N68zA4SrJLjp-QNjOjscQ-s1UnTEfDluiVFxmnIMJ7Hfi9AOGgIbI1EW6SU34Q=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-1.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-2.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-4.jpg" width="50%"/>
 
 ## Решение №270 на СОС от 14.04.2016
 > Еднократният билет става 1.60лв!
 {.is-info}
 
-<img src="https://lh5.googleusercontent.com/MRgkKCipExrqN0x3XM2Boa_VYp9FZwwjtspokCP0RZtNOb5dPp-odrpXOvaQS9ymIfY=w2400" width="50%"/>
-<img src="https://lh3.googleusercontent.com/Ekmle8ySI8GLXP9pZKasld7CRTXjbUVYKXX32Kw_eCVvewGGUL_swiLHE7msqd43kBQ=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-4.jpg" width="50%"/>
 
 ## Решение №617 на СОС от 21.11.2013
-<img src="https://lh4.googleusercontent.com/thX2jLl826Gj4I9mzYHrSreFzFuiCR0-bD6ehbdROXegs6w5444AuQK_xClxnqraVew=w2400" width="50%"/>
-<img src="https://lh4.googleusercontent.com/chezdwGqrGc0pFR7Mf9df2b42p7zQChZpJEXBSjQgru3toBq4dGC1HrGilWqrAAVB2Q=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R617-2013-11.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R617-2013-12.jpg" width="50%"/>
 
 ## Решение №520 на СОС от 26.09.2013
-<img src="https://lh3.googleusercontent.com/84ByvWCBRki1HscG6x1hpu0r8eM5jJeUx60a5LcOxCStFBX_N8DIwE-gR1WN1mRXDow=w2400" width="50%"/>
-<img src="https://lh4.googleusercontent.com/E-qKPJUr6BjALA2JBnCREEx90yOfH_wFnveHq_oB-RAPkGKyxP_xm7NOTSns7xi52f8=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R520-PR4-2013-1.1.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R520-PR4-2013-2.jpg" width="50%"/>
 
 
 ## Решение №147 на СОС от 22.03.2012
-<img src="https://lh6.googleusercontent.com/tbN__3x53kyRmF4487Dv4-hcxvQO2t3UJapUXE4-ZgtCz8pJDX0TJ6yw124YL8gwNvo=w2400" width="50%"/>
-<img src="https://lh3.googleusercontent.com/TgfaWi1SrPX9H5bZAKjgDsVPkxw-vVSIh0OHe1iwuPeQecB2335ONz2Vv-ikReChQ9s=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R147-2012-14.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R147-2012-15.jpg" width="50%"/>
 
 ## Решение №508 на СОС от 28.07.2011
 > Без промяна на цените. Създава се нова ал.3 в чл.9 на Наредбата за превоз на пътници и условия за пътуване с масовия градски транспрт на територията на Столична община, със следното съдържание: 
@@ -53,8 +53,8 @@ dateCreated: 2022-07-25T14:52:09.716Z
 https://council.sofia.bg/documents/20182/135608/R508-2011.pdf/fc28f88c-2c58-4087-b807-f897b45b221a
 
 ## Решение №767 на СОС от 17.12.2009
-<img src="https://lh6.googleusercontent.com/wETkOJx0RAT4slngXe5XrnjW97rDc2hOQXRhxUZnjrAHCnNlzYP5BRxF0vgBohwVDp0=w2400" width="50%"/>
-<img src="https://lh6.googleusercontent.com/ssRAUINEDODUPXSe4w574hxNAIcJxlaignSZFkF3hbwPaLQ2lVWSQgDeOuQb2hzB2Jw=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R767-2009-7.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R767-2009-8.jpg" width="50%"/>
 
 
 ## Решение №458 на СОС от 24.07.2008
@@ -64,18 +64,24 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 > Еднократният билет става 1.00лв!
 {.is-info}
 
-<img src="https://lh5.googleusercontent.com/tZ_Pi95IEHT2JeofnOKOauL8E8O67gxo_T1EpPSrqdeXSb3CTck2SYKSBsa-_L4MFnY=w2400" width="50%"/>
-<img src="https://lh5.googleusercontent.com/rQcmbzDOr-3B2S3MO9skINy2JsdHvkMth2clmW3leuBS_lIndeEpqUkOtN5Ne0MMQrU=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R305_2008-7.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R305_2008-8.jpg" width="50%"/>
 
 ## Решение №413 на СОС от 08.06.2006
-<img src="https://lh5.googleusercontent.com/dbRag-z4724Tn7NMHH-3EJWt-PAsB03FzxKPC1bQQSTQmbwh8-Eug7qEniJojOffZmA=w2400" width="50%"/>
-<img src="https://lh3.googleusercontent.com/aDLZPOpY2iR5rRa1unStXbEKLG-Vq-jE1mBRdZ5YL4PL49K9tkYvvJCr_YqoHj8QgxE=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R413-PR-2006-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R413-PR-2006-4.jpg" width="50%"/>
 
 ## Решение № 53 на СОС от 26.05.2003
 
 ## Решение № 24 на СОС от 11.12.2000
 
 ## Решение № 36 на СОС от 14.03.2000
+
+## Протокол №40 СОС от 09.03.1998
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Scan_20240424.png
+" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Scan_20240424%20(2).png" width="50%"/>
+
 
 ## Решение на СОС от 28.07.1997
 
@@ -94,7 +100,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 ## Решение на СНС от 08.1991
 
 ## Протокол №17 на СГНС от 11.07.1977
-<img src="https://lh4.googleusercontent.com/sdRLPkGqaMEgPj13MvBLLEznun5GcyhE_pZ7Syrw-4ZRMPxBL096f2qYoK3DpWIwabE=w2400" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/1977-r17.jpg" width="50%"/>
 
 # Еднократно пътуване
 <br>
