@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:25:24.574Z
+date: 2024-06-05T07:29:21.800Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -310,7 +310,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
   <!--1996--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_3.jpg" height="150px"><figcaption> <b>1996</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
-
+### Tabs {.tabset}
 #### 1993 - 1995
 >  От 1994 се изписва Столична голяма община 
 {.is-info}
@@ -325,18 +325,20 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1993.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-##  1964-1992
+#  Еднократно пътуване
+
+## 1964-1992
 <br>
 
 ### Tabs {.tabset}
-
-#### 1989-1991
->   1989 - 1992 ДФО Градски транспорт
+#### 1989 - 1992
+> ДФО Градски транспорт
 {.is-info}
 <!--1989-1992--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rosn_8UHlKAC8Sx6487NSY0-z_fKm8Op9zB8HlwwT_gTm-JnqMKjGBIzkUMDQhF1YGEZ3JNQQkNeZ2UPQbAjNEBy6urJpm-9q1XmDPgVWNTVbkulTRUhbZ4dCkYfqhtDjqKFSpw6" height="150px"><figcaption> <b>1989-1992</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
+### Tabs {.tabset}
 #### 1987-1989
 >   1987 - 1989 СО Градски транспорт
 {.is-info}
@@ -347,7 +349,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/c4trXD9vIexa3qpWZOH9fpKlVXLf-YaMqKL4zNbak-51Fr6JIdHk7eK88jAFT8coY00=w2400" height="150px"><figcaption> <b>1987-1989</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-
+### Tabs {.tabset}
 #### 1978-1987
 >   1978 - 1987 СД Градски транспорт (Стопанска дирекция  Градски тротранспорт съществува от 1971 до 1987г, докато СГНС става СНС през 1978, така е този билет може да бъде датиран от този период. Билет от 6 стотинки)
 {.is-info}
@@ -361,7 +363,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--1980 - 1987--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/-R3PLamPZQAnM2vPSNtFfUgtZgOUkFV_Jq7NtsrY9yQF1AytGhTUvAFPAWhixHV337o=w2400" height="150px"><figcaption> <b>30 ст. / 3лв.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
-
+### Tabs {.tabset}
 #### 1971-1978
 >   1971 - 1978 СД Градски транспорт (Стопанска дирекция  Градски транспорт съществува от 1971 до 1987г, докато СГНС става СНС през 1978, така е този билет може да бъде датиран от този период.)
 {.is-info}
@@ -375,6 +377,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--1971-1987--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/RbOQkbh7SX912UaXuat85FaiPGbuY0skvUPcR1sKB9ZmW-Jr87Y3ePImXMxslvvbnIU=w2400" height="150px"><figcaption> <b>1971-1978</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
+### Tabs {.tabset}
 #### 1964-1968
 >   <b>1964 - 1968</b>  СП Градски транспорт (Стопанско предприятие "Градски транспорт") / <b>СГНС</b> 
 {.is-info}
