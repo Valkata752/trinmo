@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:15:52.219Z
+date: 2024-06-05T07:16:19.379Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -119,6 +119,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--2018--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2018.jpg" height="200px"><figcaption> <b>2018</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
+### Tabs {.tabset}
 #### 2014 - 2017
 > Билетът вече е карта
 {.is-info}
@@ -134,7 +135,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--2014--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  
-
+### Tabs {.tabset}
 #### 2009-2013
 >  Вече с новото лого на Център за градска мобилност
 {.is-info}
@@ -152,7 +153,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
   <!--2009--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_2.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
-
+### Tabs {.tabset}
 #### 2001-2008
 >  Вече е билет за еднократно пътуване
 {.is-info}
@@ -183,7 +184,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2001_3.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-
+### Tabs {.tabset}
 #### 1997-2000
 > Нов дизайн на билетите
 {.is-info}
