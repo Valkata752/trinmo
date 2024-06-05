@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:09:00.966Z
+date: 2024-06-05T07:13:00.180Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -193,15 +193,15 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
   <!--2000--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2000_3.jpg" height="200px"><figcaption> <b>2000</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1999_-_0_25_билет.jpg" height="200px"><figcaption> <b>1999</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1999_4.jpg" height="200px"><figcaption> <b>1999</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/-PqRPWGG3xKZr6qUR6fB3qqzAAIbhelL37L4HRKLkWpIL9UJwVanAFRInhYzyXR_424=w2400" height="200px"><figcaption> <b>1999</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1999_2.jpg" height="200px"><figcaption> <b>1999</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1998--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1998_-_250_билет.jpg" height="200px"><figcaption> <b>1998</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1998.jpg" height="200px"><figcaption> <b>1998</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1997_-_200_билет.jpg" height="200px"><figcaption> <b>1997</b> - 200 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_4.jpg" height="200px"><figcaption> <b>1997</b> - 200 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1997_-_150_билет.jpg" height="200px"><figcaption> <b>1997</b> - 150 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_6.jpg" height="200px"><figcaption> <b>1997</b> - 150 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ##  1997-2023 от водача
 ### Tabs {.tabset}
