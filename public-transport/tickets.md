@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:38:42.106Z
+date: 2024-06-05T07:40:46.470Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -368,13 +368,13 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/UMNkIFsIx9d18JTErwU7QnyHBMg_zQiM_3mUse-RxUILzewIb2uHd_XtQb70GD_5pVA=w2400" height="150px"><figcaption> <b>1971-1978</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1971-1978%204-Stotinki.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/bBff8oW0_A5tZl1fqkz6sNb9geCFaAVx4jWVruCLcyUEr04XuLKd1E5ghrq8Yec4wa4=w2400" height="150px"><figcaption> <b>1976</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1976%204%d1%81%d1%82.jpg" height="150px"><figcaption> <b>0,04 ст. 75 годишнина</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/RbOQkbh7SX912UaXuat85FaiPGbuY0skvUPcR1sKB9ZmW-Jr87Y3ePImXMxslvvbnIU=w2400" height="150px"><figcaption> <b>1971-1978</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1971%20-%201978%200.06.jpg" height="150px"><figcaption> <b>0,06 ст. </b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ## 1964 - 1968
 ## Tabs {.tabset}
