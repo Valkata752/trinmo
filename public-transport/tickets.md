@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-04T08:11:32.997Z
+date: 2024-06-05T07:03:09.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -113,26 +113,26 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2020_-_1_60_карта.jpg" height="200px"><figcaption> <b>2020</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2019--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2019_-_1_60_карта.jpg" height="200px"><figcaption> <b>2019</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2019_1.jpg" height="200px"><figcaption> <b>2019</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2018--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2018_-_1_60_карта.jpg" height="200px"><figcaption> <b>2018</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2018.jpg" height="200px"><figcaption> <b>2018</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 #### 2014 - 2017
 > Билетът вече е карта
 {.is-info}
 
 <!--2017--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2017_-_1_60_карта.jpg" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2017.jpg" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2016_-_1_60_карта.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2016_-_1_60_карта.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2015--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2015_-_1_00_карта.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2014_-_1_00_карта.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  
 
 #### 2009-2013
