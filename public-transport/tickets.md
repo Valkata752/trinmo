@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:16:19.379Z
+date: 2024-06-05T07:25:24.574Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -207,34 +207,76 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 ##  1997-2023 от водача
 ### Tabs {.tabset}
 
+### Tabs {.tabset}
 #### 2023
 > Нов дизайн на билета
 {.is-info}
 
 <!--2023--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/QLDkzOsvZyu0Gz8VkaXueb6SldlOsHHnj18UZvY7XUkzmHp_rg_um3W2Ml6N3ljhDO0=w2400" height="200px"><figcaption> <b>2023</b> - 2,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2023.jpg" height="200px"><figcaption> <b>2023</b> - 2,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
+### Tabs {.tabset}
 #### 2018 - 2022
 > Нова идентичност ЦГМ
 {.is-info}
 
 <!--2020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/B5y26D_sUAThgVuIJaSPe8HSfoxsbWEcIHT8jKNU2ntFlUNhFl4DwoM9KJdkPPgVLB0=w2400" height="200px"><figcaption> <b>2020</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
-#### 2014 - 2017
+<!--2019--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2019.jpg" height="200px"><figcaption> <b>2019</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+
+<!--2018--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2018_1.jpg" height="200px"><figcaption> <b>2018</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+### Tabs {.tabset}
+#### 2013 - 2017
 > Билетът вече е карта
 {.is-info}
 
 <!--2017--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/gH4HbswneeSCB-tX040uUip5pEZRe1pN13qB-lLf4_72uCHXdhMmGCWP8K3azjmmIiQ=w2400" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
+<!--2016--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2016--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2015--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2014--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2013--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2013_2.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+### Tabs {.tabset}
 #### 2009-2013
 >  Вече с новото лого на Център за градска мобилност
 {.is-info}
 
-<!--2014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/XuFJalMA0R9RAXTBxeg6hGI7f93EGN662DLp5PsBksgwGqPaRDFnsZt1XZ--rU62g3k=w2400" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--2013--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2013_3.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
+<!--2012--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2012).jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2011--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2011.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2010--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2010_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2009--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2009.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--2009--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+
+### Tabs {.tabset}
 #### 1997-2000
 > Нов дизайн на билетите
 {.is-info}
