@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:31:48.498Z
+date: 2024-06-05T07:32:21.970Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -335,7 +335,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/rosn_8UHlKAC8Sx6487NSY0-z_fKm8Op9zB8HlwwT_gTm-JnqMKjGBIzkUMDQhF1YGEZ3JNQQkNeZ2UPQbAjNEBy6urJpm-9q1XmDPgVWNTVbkulTRUhbZ4dCkYfqhtDjqKFSpw6" height="150px"><figcaption> <b>1989-1992</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-## 1987-1989
+## 1987 - 1989
 ## Tabs {.tabset}
 ### СО Градски транспорт
 
@@ -345,7 +345,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/c4trXD9vIexa3qpWZOH9fpKlVXLf-YaMqKL4zNbak-51Fr6JIdHk7eK88jAFT8coY00=w2400" height="150px"><figcaption> <b>1987-1989</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-## 1978-1987
+## 1978 - 1987
 ## Tabs {.tabset}
 ### СД Градски транспорт
 
@@ -362,7 +362,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/-R3PLamPZQAnM2vPSNtFfUgtZgOUkFV_Jq7NtsrY9yQF1AytGhTUvAFPAWhixHV337o=w2400" height="150px"><figcaption> <b>30 ст. / 3лв.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
-## 1971-1978
+## 1971 - 1978
 ## Tabs {.tabset}
 ### СД Градски транспорт
 
@@ -378,7 +378,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <!--1971-1987--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/RbOQkbh7SX912UaXuat85FaiPGbuY0skvUPcR1sKB9ZmW-Jr87Y3ePImXMxslvvbnIU=w2400" height="150px"><figcaption> <b>1971-1978</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
-## 1964-1968
+## 1964 - 1968
 ## Tabs {.tabset}
 ### СП Градски транспорт
 
