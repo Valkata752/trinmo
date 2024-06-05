@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:32:21.970Z
+date: 2024-06-05T07:34:07.976Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -105,7 +105,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 # Еднократно пътуване
 <br>
 
-##  1997-2022
+##  1997 - 2022
 ### Tabs {.tabset}
 
 #### 2018 - 2022
@@ -136,7 +136,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  
 ### Tabs {.tabset}
-#### 2009-2013
+#### 2009 - 2013
 >  Вече с новото лого на Център за градска мобилност
 {.is-info}
 
@@ -154,7 +154,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_2.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
-#### 2001-2008
+#### 2001 - 2008
 >  Вече е билет за еднократно пътуване
 {.is-info}
 
@@ -185,7 +185,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 
 
 ### Tabs {.tabset}
-#### 1997-2000
+#### 1997 - 2000
 > Нов дизайн на билетите
 {.is-info}
 
@@ -254,7 +254,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2013_2.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
-#### 2009-2013
+#### 2009 - 2013
 >  Вече с новото лого на Център за градска мобилност
 {.is-info}
 
@@ -277,7 +277,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
-#### 1997-2000
+#### 1997 - 2000
 > Нов дизайн на билетите
 {.is-info}
   <!--2001--> 
@@ -324,8 +324,6 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
   <!--1993--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1993.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
-
-#  Еднократно пътуване
 
 ## 1989 - 1992
 ## Tabs {.tabset}
