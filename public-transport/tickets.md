@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:03:09.181Z
+date: 2024-06-05T07:09:00.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -140,17 +140,17 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2013--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2013_-_1_00_билет.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2013_1.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2012--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2012_-_1_00_билет.jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2012_2.jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2011--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2011_-_1_00_билет.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2011_1.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2010--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2010_-_1_00_билет.jpg" height="200px"><figcaption> <b>2010</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2010_1.jpg" height="200px"><figcaption> <b>2010</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2009_-_1_00_билет.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2009_-_1_00_билет_цгм.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_2.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 #### 2001-2008
@@ -158,29 +158,29 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2008_-_1_00_билет.jpg" height="200px"><figcaption> <b>2008</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2008_1.jpg" height="200px"><figcaption> <b>2008</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/aiX76KQC566O-rOXYPg1q1-4ZHnQyXlPs5PNEuJioK8gDEawSR2M2OSJOK-_CRELSuU=w2400" height="200px"><figcaption> <b>2008</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2008_3.jpg" height="200px"><figcaption> <b>2008</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2007--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2007_-_0_70_билет.jpg" height="200px"><figcaption> <b>2007</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2007.jpg" height="200px"><figcaption> <b>2007</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2006--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2006_-_0_70_билет.jpg" height="200px"><figcaption> <b>2006</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2006.jpg" height="200px"><figcaption> <b>2006</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2006--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/EGpHad2Q8YcJL2SWVR6dVbqIVAW4R6n5b8e394Lrz5FvAoIP0E2xb57pErsKkHYavyw=w2400" height="200px"><figcaption> <b>2006</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2006_2.jpg" height="200px"><figcaption> <b>2006</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2005--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2005_-_0_50_билет.jpg" height="200px"><figcaption> <b>2005</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2005_1.jpg" height="200px"><figcaption> <b>2005</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2004--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2004_-_0_50_билет.jpg" height="200px"><figcaption> <b>2004</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2004.jpg" height="200px"><figcaption> <b>2004</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2003--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh4.googleusercontent.com/k3LLcCuYDV5kdCpc8qFHfPhEstReBNPxMcyyAb_RVwunsX3rD9_4EeCegnIwoHAawhQ=w2400" height="200px"><figcaption> <b>2003</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2003.jpg" height="200px"><figcaption> <b>2003</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2003--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2003_-_0_40_билет.jpg" height="200px"><figcaption> <b>2003</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2003_1.jpg" height="200px"><figcaption> <b>2003</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2002--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/094BKmzRcYUp0GakPPXiogLLX32xA_q6O3QhrONATNeN2nbq6DUQzJNQRpgQ02mwIvA=w2400" height="200px"><figcaption> <b>2002</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2002.jpg" height="200px"><figcaption> <b>2002</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/3lcqfNeuI17mkcVzk5bFS0u_uIVEpUIK1cFxmHCSWMZKV25-nKB0PlIFtNhM7RIkA_M=w2400" height="200px"><figcaption> <b>2001</b> - 0,40 лв. <br> Юбилеен</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2001ен.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв. <br> Юбилеен</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh5.googleusercontent.com/54tJJWLKOX_nP1hTa8ScafulP0v_NfELEnRW23S5nJyaa0ABY2Ypjovz31HYRVpgL64=w2400" height="200px"><figcaption> <b>2001</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2001_3.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 
@@ -189,9 +189,9 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--2000--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/2000_-_0_30_билет.jpg" height="200px"><figcaption> <b>2000</b> - 0,30 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2000_2.jpg" height="200px"><figcaption> <b>2000</b> - 0,30 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2000--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/f2nELTHZX9ETZmz6R5xbdSwUpCQdc2KMRTaP6MyDMdQ3HcG1Z5A2TWIsdSM3aq-P7Ho=w2400" height="200px"><figcaption> <b>2000</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2000_3.jpg" height="200px"><figcaption> <b>2000</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1999_-_0_25_билет.jpg" height="200px"><figcaption> <b>1999</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
