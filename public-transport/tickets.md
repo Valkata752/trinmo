@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:34:07.976Z
+date: 2024-06-05T07:38:42.106Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -385,13 +385,21 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh6.googleusercontent.com/T7G8ChX5t1GYXERNpBWeQ72ylhz8pCmNoC8sNQxFl83RGkmJGebUMmTM4IPBSTHdf_E=w2400" height="150px"><figcaption> <b>4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.12-2.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/to2YZc78-GuH6autN5YNOXsWqAmSQuneWShrT9g4sNzN--RIpi8b1Hy55MDl-m4dVw0=w2400" height="150px"><figcaption> <b>3</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.12.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/cUG5tJwi8KPnG6yBL1Ukaxwqiw5dipVmtGnlnPe8GT8sRB03AV7NRE9dAGQstp8tP1I=w2400" height="150px"><figcaption> <b>2</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.08.jpg" height="150px"><figcaption> <b>0,08 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/hF18AsgR30hiwi749xxZYVzvRB8dJrzTIYEim5VQV73mNIflp94pu5tpdgiS-msufhA=w2400" height="150px"><figcaption> <b>1</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-2.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--1971-1987--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-1.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+
+<!--1971-1987--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-3.1.jpg" height="150px"><figcaption> <b>0,04 ст. Х4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 
