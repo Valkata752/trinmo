@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:13:00.180Z
+date: 2024-06-05T07:15:52.219Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -255,17 +255,17 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/dnoisz570iY9ZGB3dEZV4kSOsVTp4j0Ipt0UqiEHTTq6411ILHjB247t4cBWQN1kOTA=w2400" height="150px"><figcaption> <b>1997</b> - 100 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997.jpg" height="150px"><figcaption> <b>1997</b> - 100 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1997_-_40_билет.jpg" height="150px"><figcaption> <b>1997</b> - 40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_1.jpg" height="150px"><figcaption> <b>1997</b> - 40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1997_-_35_билет.jpg" height="150px"><figcaption> <b>1997</b> - 35/40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_2.jpg" height="150px"><figcaption> <b>1997</b> - 35/40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1996_-_25_билет.jpg" height="150px"><figcaption> <b>1996</b> - 25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_1.jpg" height="150px"><figcaption> <b>1996</b> - 25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1996_-_15_билет.jpg" height="150px"><figcaption> <b>1996</b> 15 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_2.jpg" height="150px"><figcaption> <b>1996</b> 15 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1996_-_10_билет.jpg" height="150px"><figcaption> <b>1996</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_3.jpg" height="150px"><figcaption> <b>1996</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 #### 1993 - 1995
@@ -273,13 +273,13 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1995--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1995_-_10_билет.jpg" height="150px"><figcaption> <b>1995</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1995_2.jpg" height="150px"><figcaption> <b>1995</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1994--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1994_-_5_билет.jpg" height="150px"><figcaption> <b>1994</b> 5 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1994_1.jpg" height="150px"><figcaption> <b>1994</b> 5 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1994--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1994_-_3_билет.jpg" height="150px"><figcaption> <b>1994</b> 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1994_3.jpg" height="150px"><figcaption> <b>1994</b> 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1993--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="/идентичност/билети/обикновени/1993_-_3_билет.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1993.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 ##  1964-1992
