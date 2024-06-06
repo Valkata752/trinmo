@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T19:28:02.410Z
+date: 2024-06-06T19:37:35.381Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -202,6 +202,12 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/073-1.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ 73. пл.Св. Неделя</td></table></div>
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/1931%20AKON_AK083_275.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️  77. София, Бул.Мария-Луиза</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -279,13 +285,6 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/005-1.jpg"></td>
 <td><img src=""></td></tr>
   <td colspan=2 >ℹ️ 5.</td></table></div>
-
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/onb-digital/1931%20AKON_AK083_275.jpg"></td>
-<td></td></tr>
-  <td colspan=2 >ℹ️  77. София, Бул.Мария-Луиза</td></table></div>
-
 
   
 <!--следващ пост--> 
