@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T22:10:13.774Z
+date: 2024-06-06T19:28:02.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -153,30 +153,132 @@ dateCreated: 2023-05-27T08:14:13.057Z
  
 ## Гр. Пасков
 
+### Черна лента
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/015-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/005-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 5. </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/007-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 7. </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/015-1.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ 15. бул. Цар Освободител</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/017-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/017-2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/017-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/017-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 17. пл.Св. Неделя </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/018-1.png"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/018-2.png"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/018-1.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/018-2.png"></td></tr>
   <td colspan=2 >ℹ️ 18. бул. Цар Освободител</td></table></div>
   
+
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/041-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/041-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 41. </td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/073-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/063-1.jpg"></td>
+<td></td></tr>
+  <td colspan=2 >ℹ️ 63. </td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/073-1.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ 73. пл.Св. Неделя</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/083-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/083-2.jpg"></td></tr>
+  <td colspan=2 >ℹ️ 83. пл.Св. Неделя</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/094-1.1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 94.</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/107-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 107.</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/108-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 108.</td></table></div>
+    
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/109-1.1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 109.</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/111-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 111.</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/114-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 114.</td></table></div>
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/115-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 115.</td></table></div>
+    
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/122-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 122.</td></table></div>
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/124-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 124.</td></table></div>
+  
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/127-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 127.</td></table></div>
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/129-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 129.</td></table></div>
+  
+  
+### Без черна лента
+
+
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/005-1.jpg"></td>
+<td><img src=""></td></tr>
+  <td colspan=2 >ℹ️ 5.</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -184,12 +286,7 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td></td></tr>
   <td colspan=2 >ℹ️  77. София, Бул.Мария-Луиза</td></table></div>
 
-<!--следващ пост--> 
-<div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/083-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/083-2.jpg"></td></tr>
-  <td colspan=2 >ℹ️ 83. пл.Св. Неделя</td></table></div>
-  
+
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
@@ -199,26 +296,26 @@ dateCreated: 2023-05-27T08:14:13.057Z
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/093-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/093-3.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ 93. пл.Св. Неделя</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/105-1.png"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/105-2.png"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/105-1.png"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/105-2.png"></td></tr>
   <td colspan=2 >ℹ️ 105. пл. Народно събрание</td></table></div>
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/117-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/117-1.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️ 117. София Джамията </td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/118-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/118-2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/118-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/118-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 118. бул. Царица Йоанна</td></table></div>
   
   <!--следващ пост--> 
@@ -229,21 +326,21 @@ dateCreated: 2023-05-27T08:14:13.057Z
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/125-2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/125-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/125-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 125. бул. Мария Луиза</td></table></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/181-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/181-2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/181-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/181-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 181. бул. Мария Луиза с Джамията</td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/184-1.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/184-2.jpg"></td></tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/184-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/bez-lenta/184-2.jpg"></td></tr>
   <td colspan=2 >ℹ️ 184. Съдебната палата</td></table></div>
   
   
