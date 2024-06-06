@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T20:55:05.213Z
+date: 2024-06-06T20:58:48.522Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -253,8 +253,8 @@ dateCreated: 2023-01-18T15:24:02.204Z
 ## Tabs {.tabset}
 
 ###
-<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/11-metrost-vitosha.jpg"></td>
-<td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. <br> ТМ9 от 1971 г. до 1978 г. <br> ТМ15 от 07.05.2024 г.</td></tr><td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td></table></div>
+<div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/6-buxton.jpg"></td>
+<td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. до 12.2011 г.<br> ТМ9 от 1971 г. до 1978 г. <br><b> ТМ15 от 07.05.2024 г.</b></td></tr><td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td></table></div>
 
 
 
