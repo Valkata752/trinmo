@@ -2,7 +2,7 @@
 title: Автобусна линия City Sightseeing
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T20:41:51.489Z
+date: 2024-06-06T20:42:56.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-21T13:35:48.150Z
@@ -55,7 +55,7 @@ Setra S215HR, MAN SD200, MAN SD202
 
 ## Setra S215HR
 <!--1914--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a1914%20lineCSS.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HYfeQ5qGkMgM8ZA7F5VqsGm6XJuZOoWY" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a1914%20lineCSS.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a1914%20lineCSS.jpg" width="100%"></div></div>
 
 # Tabs {.tabset}
 
