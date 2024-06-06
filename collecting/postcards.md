@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T20:04:13.353Z
+date: 2024-06-06T20:12:38.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -169,13 +169,22 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/005-1.jpg"></td>
 <td></td></tr>
-  <td colspan=2 >ℹ️ 5. </td></table></div>
+  <td colspan=2 >ℹ️ 5. пл. Александър I</td></table></div>
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/007-1.jpg"></td>
 <td></td></tr>
+  <td colspan=2 >ℹ️ 7. Княжево</td></table></div>
+
+  
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/007-3.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/g-paskov/cherna-lenta/007-4.jpg"></td></tr>
   <td colspan=2 >ℹ️ 7. </td></table></div>
+  
+  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
