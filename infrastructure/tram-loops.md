@@ -2,7 +2,7 @@
 title: Обръщателни колела
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-21T20:48:52.114Z
+date: 2024-06-06T20:55:05.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-18T15:24:02.204Z
@@ -248,19 +248,17 @@ dateCreated: 2023-01-18T15:24:02.204Z
 <div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/11-metrost-vitosha.jpg"></td>
 <td>ТМ9 от 1960г. до 2010 г. <br> ТМ2 от 1965 до 1993г. <br> ТМ8 през 1993г. <br> ТМ12 от 1993 до 1999г. <br> ТМ14 от 1999 до 04.2007 г.<br> <b>ТМ10 от 04.2007г. до сега</b><br> ТМ15 от 1979г. до 1980г.<br> ТМ18 от 1984г. до 1985г.</td></tr><td colspan=2 >ℹ️ Старо наименование - <b>Хладилника</b></td></table></div>
 
-
-
-
-
-# Действащи без редовни линии
-  
 ## Бъкстон
 
 ## Tabs {.tabset}
 
 ###
 <div class="table-responsive"><table style="width:100%"><tr><td><img src="http://46.10.181.183:1518/trinmo/infrastructure/tram-loops/11-metrost-vitosha.jpg"></td>
-<td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. <br> ТМ9 от 1971 г. до 1978 г. </td></tr><td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td></table></div>
+<td>ТМ13 от 1966 г. до 1989 г. <br> ТМ4 от 04.2010 г. <br> ТМ9 от 1971 г. до 1978 г. <br> ТМ15 от 07.05.2024 г.</td></tr><td colspan=2 >ℹ️ Използва се от ТМ5 при подбиване на релсовия път.</td></table></div>
+
+
+
+# Действащи без редовни линии
 
 
 
