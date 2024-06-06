@@ -2,7 +2,7 @@
 title: Автобусна линия City Sightseeing
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-06-22T13:01:25.547Z
+date: 2024-06-06T20:38:26.706Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-21T13:35:48.150Z
@@ -34,12 +34,13 @@ dateCreated: 2023-06-21T13:35:48.150Z
 
 
 # Маршрути през годините
-
-<table style="width:100%"><tr><td class="td2"><span style="color:#999999">Неизв. | <b>пл. Александър Невски </b> - Център -  <b>пл. Александър Невски</b> (Кръгов маршрут)</span><br></td><td class="td2" rowspan="2"><div class="dropdown"><button class="imgbtn"><img src="https://drive.google.com/uc?id=1x_KKr-pM6Kx3vyepTi9fQq-cKWtTOa53" width="300px"></button><div class="dropdown-content">
- <img src="https://drive.google.com/uc?id=1x_KKr-pM6Kx3vyepTi9fQq-cKWtTOa53" width="100%"></div></div></td></tr><tr><td class="td2" >ℹ️ <a href="https://citysightseeing.bg/">citysightseeing.bg</a></td></tr></table>
- 
-
-
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/citysightseeing_sf_route_n-1.jpg"></td>
+  <td class="td2"><span style="color:#999999">Неизв. | <b>пл. Александър Невски </b> - Център -  <b>пл. Александър Невски</b> (Кръгов маршрут)</span><br></td></tr>
+  <td colspan=2 >ℹ️ <a href="https://citysightseeing.bg/">citysightseeing.bg</a></td></table></div>
+  
+  
 # Експлоатационни параметри
 
 1 автобус - 3 курса на ден
@@ -54,7 +55,7 @@ Setra S215HR, MAN SD200, MAN SD202
 
 ## Setra S215HR
 <!--1914--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1HYfeQ5qGkMgM8ZA7F5VqsGm6XJuZOoWY" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HYfeQ5qGkMgM8ZA7F5VqsGm6XJuZOoWY" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a1914%20lineCSS.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HYfeQ5qGkMgM8ZA7F5VqsGm6XJuZOoWY" width="100%"></div></div>
 <!--1914--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-yq4cB0kL_nqpAG6dxUDS_HsFbysDNNV" height="200px"><figcaption> <b>гараж</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-yq4cB0kL_nqpAG6dxUDS_HsFbysDNNV" width="100%"></div></div>
 
@@ -63,15 +64,15 @@ Setra S215HR, MAN SD200, MAN SD202
 
 ## MAN SD202
 <!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cfoY6SW3gvXlTQt9vkMYfkKALM_My7nS" height="200px"><figcaption> <b>частен</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cfoY6SW3gvXlTQt9vkMYfkKALM_My7nS" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532.jpg" height="200px"><figcaption> <b>частен</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532.jpg" width="100%"></div></div>
 <!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1lh9WlovXtNmeKC4bkINGeM9EsoDZCe9u" height="200px"><figcaption> <b>гараж</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1lh9WlovXtNmeKC4bkINGeM9EsoDZCe9u" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%201.jpg" height="200px"><figcaption> <b>гараж</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%201.jpg" width="100%"></div></div>
 <!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1BktAxLLWYhlNsZ6vS7KovVyjdyXFhDvM" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1BktAxLLWYhlNsZ6vS7KovVyjdyXFhDvM" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%202.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%202.jpg" width="100%"></div></div>
 <!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1XpksORmXzXfyVz3UPJRoaNoPPfYwazMl" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1XpksORmXzXfyVz3UPJRoaNoPPfYwazMl" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%203.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%203.jpg" width="100%"></div></div>
 <!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1cu0MO7utg9t1plEXUbAXFy5KdjP-BDKj" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1cu0MO7utg9t1plEXUbAXFy5KdjP-BDKj" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%205.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%205.jpg" width="100%"></div></div>
 <!--8532--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1N0_Wz1nQtvyrn9ZClwM6PxVoHqMOw3Bv" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1N0_Wz1nQtvyrn9ZClwM6PxVoHqMOw3Bv" width="100%"></div></div>
 
@@ -81,8 +82,8 @@ Setra S215HR, MAN SD200, MAN SD202
 
 ## MAN SD200
 <!--2574--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1I2SPqbqRS_lOBH8bhY6A5Kr7mutqkgQh" height="200px"><figcaption> <b>CSS</b> 📷 imhd.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1I2SPqbqRS_lOBH8bhY6A5Kr7mutqkgQh" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS.jpg" height="200px"><figcaption> <b>CSS</b> 📷 imhd.sk ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS.jpg" width="100%"></div></div>
 <!--2574--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1f7JdbHc8VVbU5rTqOHJHVqCWtWuBa7n_" height="200px"><figcaption> <b>CSS</b> 📷 Ивайло Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1f7JdbHc8VVbU5rTqOHJHVqCWtWuBa7n_" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%201.JPG" height="200px"><figcaption> <b>CSS</b> 📷 Ивайло Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%201.JPG" width="100%"></div></div>
 <!--2574--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1L0FfGcrcpjUaj5OR5qKkc3865OjCOfSS" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1L0FfGcrcpjUaj5OR5qKkc3865OjCOfSS" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%20Tuborg.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%20Tuborg.jpg" width="100%"></div></div>
