@@ -2,7 +2,7 @@
 title: Автобусна линия City Sightseeing
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T20:38:26.706Z
+date: 2024-06-06T20:41:51.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-21T13:35:48.150Z
@@ -56,9 +56,6 @@ Setra S215HR, MAN SD200, MAN SD202
 ## Setra S215HR
 <!--1914--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a1914%20lineCSS.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1HYfeQ5qGkMgM8ZA7F5VqsGm6XJuZOoWY" width="100%"></div></div>
-<!--1914--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1-yq4cB0kL_nqpAG6dxUDS_HsFbysDNNV" height="200px"><figcaption> <b>гараж</b> 📷 Вилиян Костадинов ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1-yq4cB0kL_nqpAG6dxUDS_HsFbysDNNV" width="100%"></div></div>
-
 
 # Tabs {.tabset}
 
@@ -73,9 +70,6 @@ Setra S215HR, MAN SD200, MAN SD202
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%203.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%203.jpg" width="100%"></div></div>
 <!--8532--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%205.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a8532%20lineCSS%205.jpg" width="100%"></div></div>
-<!--8532--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1N0_Wz1nQtvyrn9ZClwM6PxVoHqMOw3Bv" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1N0_Wz1nQtvyrn9ZClwM6PxVoHqMOw3Bv" width="100%"></div></div>
-
 
 
 # Tabs {.tabset}
@@ -87,3 +81,9 @@ Setra S215HR, MAN SD200, MAN SD202
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%201.JPG" height="200px"><figcaption> <b>CSS</b> 📷 Ивайло Атамян ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%201.JPG" width="100%"></div></div>
 <!--2574--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%20Tuborg.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/a2574%20CSS%20Tuborg.jpg" width="100%"></div></div>
+
+
+<!--2574--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51674973003_297e673db0_k.jpg" height="200px"><figcaption> <b>CSS</b> 📷 city-sightseeing ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://live.staticflickr.com/65535/51674973003_297e673db0_k.jpg" width="100%"></div></div>
+
+
