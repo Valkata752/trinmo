@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T19:37:35.381Z
+date: 2024-06-06T19:57:37.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -56,6 +56,8 @@ dateCreated: 2023-05-27T08:14:13.057Z
   
 ## Тодор Чипев
 
+
+### Пощенска карта / Carte Postale  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm21%20t.chipev.jpg"></td>
@@ -67,6 +69,15 @@ dateCreated: 2023-05-27T08:14:13.057Z
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm38%20lineknqjevska%20326_001.jpg"></td>
 <td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm38%20lineknqjevska%20447_002.jpg"></td></tr>
   <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
+
+### Пощенска карта за вътрешна кореспонденция
+<!--следващ пост--> 
+<div class="table-responsive"><table style="width:100%"><tr>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm16-1.jpg"></td>
+<td><img src="http://46.10.181.183:1518/trinmo/gallery/postcards/t-chipev/tm16-2.jpg
+"></td></tr>
+  <td colspan=2 >ℹ️ Тодор Чипев</td></table></div>
+  
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
