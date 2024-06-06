@@ -2,7 +2,7 @@
 title: Автобусна линия City Sightseeing
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-06T20:42:56.005Z
+date: 2024-06-06T20:44:19.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-21T13:35:48.150Z
@@ -22,7 +22,7 @@ dateCreated: 2023-06-21T13:35:48.150Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=1WYbFhpFIOEc50CR1dOXl8KaF-ub5TBOu"></td>
+    <td style="width:400px"><img src="http://46.10.181.183:1518/trinmo/gallery/CitySightseeing/15_0.jpg"></td>
     <td><b>City Sightseeing Sofia</b><br>Всеки ден от 10.30, 12:00 и 13:15ч. можете да ни намерите в началото на ул. Оборище (на гърба на катедралата Александър Невски), от където тръгва автобуса на Сити сайтсийнг. <br><span style="color:#999999"><b>НЯМА ДА ИМА ТУРОВЕ ДО ВТОРО НАРЕЖДАНЕ</b></span></td>
   </tr>
   <td colspan=2 >ℹ️ Вилиян Костадинов</td>
