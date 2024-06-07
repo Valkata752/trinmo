@@ -2,7 +2,7 @@
 title: Политика
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-03-03T17:54:52.847Z
+date: 2024-06-07T15:20:09.244Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T07:55:05.394Z
@@ -19,7 +19,7 @@ dateCreated: 2022-04-27T07:55:05.394Z
     <td style="width:300px">Столичен общински съвет - комисия по транспорт и пътна безопасност</td>
     <td>Списък на заседанията на комисията по транспорт в Столична община</td>
   </tr>
-  <td colspan=2 >ℹ️ <a href="/bg/politics/transport-council">Връзка към страницата</a></td>
+  <td colspan=2 >ℹ️ <a href="https://council.sofia.bg/postoianna-komisia-po-transport-i-turizum">Връзка към страницата</a></td>
 </table>
 
 ## Столичен общински съвет
