@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-07T11:06:27.352Z
+date: 2024-06-07T11:08:49.880Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -32,7 +32,7 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **Ernesto Breda** | [Ansaldo-Breda (121-140)](/bg/public-transport/fleet-list/1938-Ansaldo-Breda) |
 -   **Ateliers métallurgiques** | [Nivelle-ASEA (106-115)](/bg/public-transport/fleet-list/1929-Nivelle-ASEA) | 
 -   **Siemens** | [Graz/Siemens & Halske (1-30)](/bg/public-transport/fleet-list/1924-Graz-Siemens-Halske) |
--   **Franco-Belge-OeBB** | [Charleroi (151-162)](/bg/public-transport/fleet-list/1914-Franco-Belge-OeBB-Charleroi) |
+-   **Franco-Belge-OeBB** | [Charleroi (151-162)](/bg/public-transport/fleet-list/1914-Franco-Belge-OeBB-Charleroi) | [Franco-Belge / E&H (1-28)](/bg/public-transport/fleet-list/1901-BBC-1-28) | [BBC - ремарке (33-64)](/bg/public-transport/fleet-list/1901-BBC-33-64) | [Franco-Belge-BBC (51-65)](/bg/public-transport/fleet-list/1928-Franco-Belge-BBC) |
 -   **La Brugeoise et Nivelles SA АМ-АСЕС** | [Cepelin (34-39 -> 201-206)](/bg/public-transport/fleet-list/1908-La-Brugeoise-et-Nivelles-Cepelin) |
 -   **Разни** | [Energie (401-432)](/bg/public-transport/fleet-list/1929-Energie) 
 
