@@ -2,7 +2,7 @@
 title: Toyota Caetano H2 Citygold (тестов)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-12T13:58:30.269Z
+date: 2024-06-12T14:01:19.373Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:58:30.269Z
@@ -37,7 +37,7 @@ dateCreated: 2024-06-12T13:58:30.269Z
 
 # Технически характеристики
 
-<iframe src="https://drive.google.com/file/d/1De6kBCG_PNm6U-bqVDRuXDfMIPGLZXp8/preview" width="100%" height="480"></iframe>
+<iframe src="https://caetanobus.pt/wp-content/uploads/2019/10/H2.City-Gold_ENG.pdf" width="100%" height="480"></iframe>
 
 
 
