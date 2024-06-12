@@ -2,7 +2,7 @@
 title: Подвижен състав
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-12T06:57:57.465Z
+date: 2024-06-12T13:45:27.264Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:43:50.516Z
@@ -49,6 +49,7 @@ dateCreated: 2022-04-27T08:43:50.516Z
 -   **Karsan** | [**e-Jest**](/bg/public-transport/fleet-list/2022-Karsan-e-Jest) | [**Jest+** (тестов)](/bg/public-transport/fleet-list/2016-Karsan-Jest+) |
 -   **Neoplan** | [**N4426/3 Centroliner** (тестов)](/bg/public-transport/fleet-list/2003-Neoplan-N4426) | [N4009](/bg/public-transport/fleet-list/1988-Neoplan-N4009) |
 -   **DAF** | [SB250 LPG / Berkhof Premier](/bg/public-transport/fleet-list/1999-DAF-SB250-LPG-Berkhof-Premier) |
+-   **Toyota** | [Caetano H2 Citygold (тестов)](/bg/public-transport/fleet-list/Toyota-Caetano-H2) |
 -   **Fiat Iveco** | [421 AL](/bg/public-transport/fleet-list/1972-Fiat-Iveco-421-AL) |
 -   **Güleryüz Cobra** | [GD 272](/bg/public-transport/fleet-list/2008-Guleryuz-Cobra-GD-272) |
 -   **Iveco** | [370.10.24](/bg/public-transport/fleet-list/1995-Iveco-370-10-24) |
