@@ -2,7 +2,7 @@
 title: Рекламите по возилата
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-10T17:41:37.158Z
+date: 2024-06-29T08:55:31.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-24T19:15:27.904Z
@@ -12,7 +12,7 @@ dateCreated: 2023-01-24T19:15:27.904Z
 <div class="table-responsive">
 <table style="width:100%">
   <tr>
-    <td><span>Кунг-Фу Панда 4, Гуми Continental; Студен чай "Nestea"; Concretix; Гарфилд; Оберон; Logitech 2024;</span><br></td>
+    <td><span>Кунг-Фу Панда 4, Гуми Continental; Студен чай "Nestea"; Concretix; Гарфилд; Оберон; Logitech 2024; Лоши момчета 4; Arrise; Azzaro Wanted; Флатимо; Отвътре навън 2; Козметика "Maybelline"; Daikin; Минимарт;</span><br></td>
     <td><img src="https://live.staticflickr.com/65535/53598160059_d309768f9d_h.jpg"></td>
   </tr>
   <td colspan=2 >📷 <a href="/bg/identity/advertisements-2024"><b> Рекламите по возилата - 2024 г.</b></a></td>
