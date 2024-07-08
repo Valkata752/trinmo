@@ -2,7 +2,7 @@
 title: Обществени поръчки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-12-13T17:37:12.577Z
+date: 2024-07-08T06:59:34.732Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:15:45.332Z
@@ -45,6 +45,7 @@ dateCreated: 2022-04-27T08:15:45.332Z
 
 | Номер | Статут | брой | Спечелила фирма | Избран модел | Договор или решение | Сума |
 | --- | --- | --- | --- | --- | --- | --- |
+| [00203-2024-0017](https://app.eop.bg/today/363027) | в процедура  | 18    |  |  | | 98 100 000,00 BGN |
 | [00203-2022-0003](http://www.elektrotransportsf.com/index.php?option=com_content&view=article&id=2181%3A-4-3-&catid=3%3Alatestorders&Itemid=29&lang=bg) | приключена | 4   | “Чериът моторс" АД | Higer | [**№ CE-86/13.07.2022**](https://drive.google.com/file/d/1XhJT0Nf4dEOsEvOwkkJ0Olo2APA1Xh_k/view?usp=sharing) | 6 333 804.00 BGN |
 | [00203-2022-0002](http://www.elektrotransportsf.com/index.php?option=com_content&view=article&id=2180%3A-4-1009-mm&catid=3%3Alatestorders&Itemid=29&lang=bg) | приключена | 4   | Pojazdy szynowe Pesa Bydgoszcz SA | 30м трамваи 1009мм | [**№ CE-85/11.07.2022**](https://drive.google.com/file/d/1MKfqV40xOLf48Q48chz7PAqATcQTYSED/view?usp=sharing) | 19 885 668.00 BGN |
 | 00203-2020-0008 | приключена | 15  | Dopravny Podnik Hl. M. Prahy | Tatra T6A5 | [**№  СЕ-180/06.11.2020**](https://drive.google.com/file/d/13-TXqmHplbIM592sjYkBLNshKKg19WDN/view?usp=sharing) | 5 685 000,00 CZK |
