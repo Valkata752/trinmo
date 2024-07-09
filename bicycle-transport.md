@@ -2,7 +2,7 @@
 title: Велосипеден транспорт
 description: Кратко описание
 published: true
-date: 2024-07-09T14:55:16.460Z
+date: 2024-07-09T14:56:01.670Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T15:24:52.757Z
@@ -135,7 +135,7 @@ dateCreated: 2022-04-29T15:24:52.757Z
 
 ### **Програма за развитие на велосипедния транспорт на територията на Столична община 2016 - 2019 г.**
 
-- [:bicyclist: 2016 - 2019 *Програма за развитие на велосипедния транспорт на територията на Столична община 2016 - 2019 г.*](/trinmo.org/bg/planning-and-strategies/2016-2019-programa-za-razvitie-na-velosipednia-transport)
+- [:bicyclist: 2016 - 2019 *Програма за развитие на велосипедния транспорт на територията на Столична община 2016 - 2019 г.*](/bg/planning-and-strategies/2016-2019-programa-za-razvitie-na-velosipednia-transport)
 {.links-list}
 
 ### **План за устойчива градска мобилност на град София - 2035**
