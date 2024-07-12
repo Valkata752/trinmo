@@ -2,7 +2,7 @@
 title: Mercedes Conecto Lf
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-07-12T07:29:56.898Z
+date: 2024-07-12T07:31:04.084Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T21:16:41.481Z
@@ -329,7 +329,7 @@ dateCreated: 2022-05-19T21:16:41.481Z
 <!--56-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/52817440588_6729387a4b_k.jpg" height="200px"><figcaption><b>A56 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/196876073@N04/52817440588/" target="_blank" title="1809"> <img src="" width="100%"></a></div></div>
 <!--58-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50047581882_be32d2b3e1_k.jpg" height="200px"><figcaption><b>A58 </b>📷 Вилиян Костадинов</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/50047581882/" target="_blank" title="1809"> <img src="https://live.staticflickr.com/65535/50047581882_be32d2b3e1_k.jpg" width="100%"></a></div></div>     
+<div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/50047581882_be32d2b3e1_k.jpg" height="200px"><figcaption><b>A58 </b>📷 Лъчезар Митев</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/lachezarmitev/50047581882/" target="_blank" title="1809"> <img src="https://live.staticflickr.com/65535/50047581882_be32d2b3e1_k.jpg" width="100%"></a></div></div>     
 <!--59-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://live.staticflickr.com/65535/51391985495_7a11ff9075_k.jpg" height="200px"><figcaption><b>A59 </b>📷 Александър Бахчевански</figcaption></figure></button><div class="dropdown-content"><a href="https://www.flickr.com/photos/193651199@N06/51391985495/" target="_blank" title="1809"> <img src="https://live.staticflickr.com/65535/51391985495_7a11ff9075_k.jpg" width="100%"></a></div></div>     
 <!--A59A--> 
