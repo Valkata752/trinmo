@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-06-05T07:40:46.470Z
+date: 2024-08-25T20:57:25.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -16,34 +16,34 @@ dateCreated: 2022-07-25T14:52:09.716Z
 > Еднократният билет става 2.00лв!
 {.is-info}
 
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.539-40.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.539-41.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.539-40.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.539-41.jpg" width="50%"/>
 
 ## Решение №178 на СОС от 05.04.2018
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-1.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-2.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-3.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-4.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-1.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-2.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R.%20178%20-%20Pr.%204%20-%20I-4.jpg" width="50%"/>
 
 ## Решение №270 на СОС от 14.04.2016
 > Еднократният билет става 1.60лв!
 {.is-info}
 
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-3.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-4.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/Prilojenie%20po%20R.%20270%20-%203%20-%207-4.jpg" width="50%"/>
 
 ## Решение №617 на СОС от 21.11.2013
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R617-2013-11.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R617-2013-12.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R617-2013-11.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R617-2013-12.jpg" width="50%"/>
 
 ## Решение №520 на СОС от 26.09.2013
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R520-PR4-2013-1.1.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R520-PR4-2013-2.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R520-PR4-2013-1.1.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R520-PR4-2013-2.jpg" width="50%"/>
 
 
 ## Решение №147 на СОС от 22.03.2012
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R147-2012-14.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R147-2012-15.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R147-2012-14.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R147-2012-15.jpg" width="50%"/>
 
 ## Решение №508 на СОС от 28.07.2011
 > Без промяна на цените. Създава се нова ал.3 в чл.9 на Наредбата за превоз на пътници и условия за пътуване с масовия градски транспрт на територията на Столична община, със следното съдържание: 
@@ -53,8 +53,8 @@ dateCreated: 2022-07-25T14:52:09.716Z
 https://council.sofia.bg/documents/20182/135608/R508-2011.pdf/fc28f88c-2c58-4087-b807-f897b45b221a
 
 ## Решение №767 на СОС от 17.12.2009
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R767-2009-7.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R767-2009-8.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R767-2009-7.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R767-2009-8.jpg" width="50%"/>
 
 
 ## Решение №458 на СОС от 24.07.2008
@@ -64,12 +64,12 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 > Еднократният билет става 1.00лв!
 {.is-info}
 
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R305_2008-7.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R305_2008-8.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R305_2008-7.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R305_2008-8.jpg" width="50%"/>
 
 ## Решение №413 на СОС от 08.06.2006
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R413-PR-2006-3.jpg" width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/R413-PR-2006-4.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R413-PR-2006-3.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/R413-PR-2006-4.jpg" width="50%"/>
 
 ## Решение № 53 на СОС от 26.05.2003
 
@@ -78,9 +78,9 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 ## Решение № 36 на СОС от 14.03.2000
 
 ## Протокол №40 СОС от 09.03.1998
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Scan_20240424.png
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/Scan_20240424.png
 " width="50%"/>
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/Scan_20240424%20(2).png" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/Scan_20240424%20(2).png" width="50%"/>
 
 
 ## Решение на СОС от 28.07.1997
@@ -100,7 +100,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 ## Решение на СНС от 08.1991
 
 ## Протокол №17 на СГНС от 11.07.1977
-<img src="http://46.10.181.183:1518/trinmo/karti-bileti/prices-over-the-years/1977-r17.jpg" width="50%"/>
+<img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/prices-over-the-years/1977-r17.jpg" width="50%"/>
 
 # Еднократно пътуване
 <br>
@@ -113,11 +113,11 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2019--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2019_1.jpg" height="200px"><figcaption> <b>2019</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2019_1.jpg" height="200px"><figcaption> <b>2019</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2018--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2018.jpg" height="200px"><figcaption> <b>2018</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2018.jpg" height="200px"><figcaption> <b>2018</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 2014 - 2017
@@ -125,15 +125,15 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2017--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2017.jpg" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2017.jpg" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2015--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  
 ### Tabs {.tabset}
 #### 2009 - 2013
@@ -141,17 +141,17 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2013--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2013_1.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2013_1.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2012--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2012_2.jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2012_2.jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2011--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2011_1.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2011_1.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2010--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2010_1.jpg" height="200px"><figcaption> <b>2010</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2010_1.jpg" height="200px"><figcaption> <b>2010</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
  <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2009_2.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2009_2.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 2001 - 2008
@@ -159,29 +159,29 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2008_1.jpg" height="200px"><figcaption> <b>2008</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2008_1.jpg" height="200px"><figcaption> <b>2008</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2008--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2008_3.jpg" height="200px"><figcaption> <b>2008</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2008_3.jpg" height="200px"><figcaption> <b>2008</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2007--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2007.jpg" height="200px"><figcaption> <b>2007</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2007.jpg" height="200px"><figcaption> <b>2007</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2006--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2006.jpg" height="200px"><figcaption> <b>2006</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2006.jpg" height="200px"><figcaption> <b>2006</b> - 0,70 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2006--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2006_2.jpg" height="200px"><figcaption> <b>2006</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2006_2.jpg" height="200px"><figcaption> <b>2006</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2005--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2005_1.jpg" height="200px"><figcaption> <b>2005</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2005_1.jpg" height="200px"><figcaption> <b>2005</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2004--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2004.jpg" height="200px"><figcaption> <b>2004</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2004.jpg" height="200px"><figcaption> <b>2004</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2003--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2003.jpg" height="200px"><figcaption> <b>2003</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2003.jpg" height="200px"><figcaption> <b>2003</b> - 0,50 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2003--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2003_1.jpg" height="200px"><figcaption> <b>2003</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2003_1.jpg" height="200px"><figcaption> <b>2003</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2002--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2002.jpg" height="200px"><figcaption> <b>2002</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2002.jpg" height="200px"><figcaption> <b>2002</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2001ен.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв. <br> Юбилеен</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2001ен.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв. <br> Юбилеен</figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--2001--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2001_3.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2001_3.jpg" height="200px"><figcaption> <b>2001</b> - 0,40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 ### Tabs {.tabset}
@@ -190,19 +190,19 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--2000--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2000_2.jpg" height="200px"><figcaption> <b>2000</b> - 0,30 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2000_2.jpg" height="200px"><figcaption> <b>2000</b> - 0,30 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--2000--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/2000_3.jpg" height="200px"><figcaption> <b>2000</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/2000_3.jpg" height="200px"><figcaption> <b>2000</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1999_4.jpg" height="200px"><figcaption> <b>1999</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1999_4.jpg" height="200px"><figcaption> <b>1999</b> - 0,25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1999--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1999_2.jpg" height="200px"><figcaption> <b>1999</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1999_2.jpg" height="200px"><figcaption> <b>1999</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1998--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1998.jpg" height="200px"><figcaption> <b>1998</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1998.jpg" height="200px"><figcaption> <b>1998</b> - 250 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_4.jpg" height="200px"><figcaption> <b>1997</b> - 200 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1997_4.jpg" height="200px"><figcaption> <b>1997</b> - 200 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
    <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_6.jpg" height="200px"><figcaption> <b>1997</b> - 150 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1997_6.jpg" height="200px"><figcaption> <b>1997</b> - 150 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ##  1997-2023 от водача
 ### Tabs {.tabset}
@@ -213,7 +213,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2023--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2023.jpg" height="200px"><figcaption> <b>2023</b> - 2,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2023.jpg" height="200px"><figcaption> <b>2023</b> - 2,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 2018 - 2022
@@ -221,14 +221,14 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2020--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2020.jpg" height="200px"><figcaption> <b>2020</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2019--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2019.jpg" height="200px"><figcaption> <b>2019</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2019.jpg" height="200px"><figcaption> <b>2019</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 <!--2018--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2018_1.jpg" height="200px"><figcaption> <b>2018</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2018_1.jpg" height="200px"><figcaption> <b>2018</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 2013 - 2017
@@ -239,19 +239,19 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://lh3.googleusercontent.com/gH4HbswneeSCB-tX040uUip5pEZRe1pN13qB-lLf4_72uCHXdhMmGCWP8K3azjmmIiQ=w2400" height="200px"><figcaption> <b>2017</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2016_1.jpg" height="200px"><figcaption> <b>2016</b> - 1,60 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2016--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2016_2.jpg" height="200px"><figcaption> <b>2016</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2015--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2015_1.jpg" height="200px"><figcaption> <b>2015</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2014--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2014_1.jpg" height="200px"><figcaption> <b>2014</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2013--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2013_2.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2013_2.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 2009 - 2013
@@ -259,22 +259,22 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--2013--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2013_3.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2013_3.jpg" height="200px"><figcaption> <b>2013</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2012--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2012).jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2012).jpg" height="200px"><figcaption> <b>2012</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2011--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2011.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2011.jpg" height="200px"><figcaption> <b>2011</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2010--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2010_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2010_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2009.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2009.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--2009--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/2.obiknoveni-vodach/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/2.obiknoveni-vodach/2009_1.jpg" height="200px"><figcaption> <b>2009</b> - 1,00 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 1997 - 2000
@@ -298,17 +298,17 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997.jpg" height="150px"><figcaption> <b>1997</b> - 100 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1997.jpg" height="150px"><figcaption> <b>1997</b> - 100 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_1.jpg" height="150px"><figcaption> <b>1997</b> - 40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1997_1.jpg" height="150px"><figcaption> <b>1997</b> - 40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1997--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1997_2.jpg" height="150px"><figcaption> <b>1997</b> - 35/40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1997_2.jpg" height="150px"><figcaption> <b>1997</b> - 35/40 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_1.jpg" height="150px"><figcaption> <b>1996</b> - 25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1996_1.jpg" height="150px"><figcaption> <b>1996</b> - 25 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_2.jpg" height="150px"><figcaption> <b>1996</b> 15 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1996_2.jpg" height="150px"><figcaption> <b>1996</b> 15 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1996--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1996_3.jpg" height="150px"><figcaption> <b>1996</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1996_3.jpg" height="150px"><figcaption> <b>1996</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ### Tabs {.tabset}
 #### 1993 - 1995
@@ -316,13 +316,13 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1995--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1995_2.jpg" height="150px"><figcaption> <b>1995</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1995_2.jpg" height="150px"><figcaption> <b>1995</b> - 10 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1994--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1994_1.jpg" height="150px"><figcaption> <b>1994</b> 5 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1994_1.jpg" height="150px"><figcaption> <b>1994</b> 5 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1994--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1994_3.jpg" height="150px"><figcaption> <b>1994</b> 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1994_3.jpg" height="150px"><figcaption> <b>1994</b> 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
   <!--1993--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/1.obiknoveni/1993.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/1.obiknoveni/1993.jpg" height="150px"><figcaption> <b>1993</b> - 3 лв.</figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 ## 1989 - 1992
@@ -368,13 +368,13 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1971-1978%204-Stotinki.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sd-gradski-transport/1971-1978%204-Stotinki.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1976%204%d1%81%d1%82.jpg" height="150px"><figcaption> <b>0,04 ст. 75 годишнина</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sd-gradski-transport/1976%204%d1%81%d1%82.jpg" height="150px"><figcaption> <b>0,04 ст. 75 годишнина</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sd-gradski-transport/1971%20-%201978%200.06.jpg" height="150px"><figcaption> <b>0,06 ст. </b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sd-gradski-transport/1971%20-%201978%200.06.jpg" height="150px"><figcaption> <b>0,06 ст. </b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 ## 1964 - 1968
 ## Tabs {.tabset}
@@ -385,21 +385,21 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 {.is-info}
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.12-2.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.12-2.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.12.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.12.jpg" height="150px"><figcaption> <b>0,12 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.08.jpg" height="150px"><figcaption> <b>0,08 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.08.jpg" height="150px"><figcaption> <b>0,08 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-2.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.04-2.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-1.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.04-1.jpg" height="150px"><figcaption> <b>0,04 ст.</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 <!--1971-1987--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/karti-bileti/photos/sp-gradski-transport/0.04-3.1.jpg" height="150px"><figcaption> <b>0,04 ст. Х4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/public-transport/karti-bileti/photos/sp-gradski-transport/0.04-3.1.jpg" height="150px"><figcaption> <b>0,04 ст. Х4</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 
 
 
