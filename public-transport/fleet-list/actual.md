@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-08-27T13:46:41.537Z
+date: 2024-08-27T13:46:49.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
