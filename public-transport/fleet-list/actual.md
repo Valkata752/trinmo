@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-08-27T13:42:42.848Z
+date: 2024-08-27T13:43:04.133Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -439,7 +439,7 @@ T4D-C: 1143, 1171, 1187, 1199 T4D-M2: 4034, 4059, 4077
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://live.staticflickr.com/65535/52551012787_6559b918c7_k.jpg"></td>
-    <td><b>Инвентарни номера:</b> 1301-1321<br><b>Линии на движение:</b> 47, 49, 59, 63, 66, У1, У2<br><br><b><span style="color:#808080">Нe са в движение:</span></b> 1306,1307</td>
+    <td><b>Инвентарни номера:</b> 1301-1321<br><b>Линии на движение:</b> 47, 49, 59, 63, 66, У1, У2<br><br><b><span style="color:#808080">Нe са в движение:</span></b> 1303,1316</td>
   </tr>
   <td colspan=2 >ℹ️ <b>21 броя</b> - <a href="/bg/public-transport/fleet-list/2011-Mercedes-O560-Intouro-M">Повече информация...</a></td>
 </table>
