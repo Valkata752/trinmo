@@ -2,7 +2,7 @@
 title: Блог
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-10-04T06:42:05.145Z
+date: 2024-10-04T06:42:15.818Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T10:24:49.382Z
@@ -16,7 +16,7 @@ dateCreated: 2022-04-25T10:24:49.382Z
 
 
 ## Блог
-- [:train:  Официалното представяне на възстановения трамвай МАН-СИМЕНС 553*Transportal*](/bg/blog/reklami-po-vozilata-1987) 
+- [:train:  Официалното представяне на възстановения трамвай МАН-СИМЕНС 553*Transportal*](/bg/blog/tramvai-simens) 
 - [:page_with_curl:  Брошура с информация за рекламите по возилата - 1987*СО Градски транспорт*](/bg/blog/reklami-po-vozilata-1987) 
 - [:bus: Експресните автобусни линии *Петър Мънъри*](/bg/blog/sofia-express-buses) 
 - [:mountain: :bus: Автобусите на Витоша *Петър Мънъри*](/bg/blog/buses-of-vitosha) 
