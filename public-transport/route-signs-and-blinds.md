@@ -2,7 +2,7 @@
 title: Табели и ролки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-29T23:21:08.944Z
+date: 2024-10-06T20:30:29.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T09:45:32.265Z
@@ -40,6 +40,10 @@ dateCreated: 2022-05-01T09:45:32.265Z
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6-1.jpg" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ6--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6-2.jpg" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ6--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6-3.jpg" height="60px"><figcaption> <b>ТБ6</b></figcaption></figure></button><div class="dropdown-content"></div></div>
+<!--ТБ6--> 
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb6a.jpg" height="60px"><figcaption> <b>ТБ6A</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ7--> 
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/route-signs/tb/tb7-1.jpg" height="60px"><figcaption> <b>ТБ7</b></figcaption></figure></button><div class="dropdown-content"></div></div>
 <!--ТБ7--> 
