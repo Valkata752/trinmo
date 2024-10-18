@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-10-18T11:08:34.273Z
+date: 2024-10-18T11:13:17.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -49,7 +49,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=13xnjUwLwSpu47E2iQ90FxgqXb47maAJq&sz=w1000"></td>
-    <td><b>Инвентарни номера:</b> 2301-2367 <br><b>Линии на движение:</b> 1, 4, 5, 7, 18, 27<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2307<br><b><span style="color:#808080">Нe са в движение:</span></b> 2318</td>
+    <td><b>Инвентарни номера:</b> 2301-2367 <br><b>Линии на движение:</b> 1, 4, 5, 7, 18, 27<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2316<br><b><span style="color:#808080">Нe са в движение:</span></b> 2318</td>
   </tr>
   <td colspan=2 >ℹ️ <b>56 броя</b> - <a href="/bg/public-transport/fleet-list/2013-Pesa-122NASF">Повече информация...</a></td>
 </table>
@@ -63,7 +63,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://live.staticflickr.com/65535/52144080986_6b21a2a9f6_b.jpg"></td>
-    <td><b>Инвентарни номера:</b> 3401-3418 <br><b>Линии на движение:</b> 6<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2411</td>
+    <td><b>Инвентарни номера:</b> 3401-3418 <br><b>Линии на движение:</b> 6<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 3403</td>
   </tr>
   <td colspan=2 >ℹ️ <b>18 броя</b> - <a href="/bg/public-transport/fleet-list/2007-T8M-700IT">Повече информация...</a></td>
 </table>
@@ -92,7 +92,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://live.staticflickr.com/65535/49162447272_68ca61e27a_k.jpg"></td>
-    <td><b>Инвентарни номера:</b> 2041-2057 <br><b>Линии на движение:</b> 3<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2048</td>
+    <td><b>Инвентарни номера:</b> 2041-2057 <br><b>Линии на движение:</b> 3<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2056</td>
   </tr>
   <td colspan=2 >ℹ️ <b>17 броя</b> - <a href="/bg/public-transport/fleet-list/1999-CKD-Tatra-T6A2-SF">Повече информация...</a></td>
 </table>
@@ -137,7 +137,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
   <td colspan=2 >ℹ️ <b>26 броя</b> - <a href="/bg/public-transport/fleet-list/1990-Schindler-Waggon-AG-Be-4-6">Повече информация...</a></td>
 </table>
 
-## ČKD Tatra Т6А2
+## ČKD Tatra Т6А2B
 
 ## Tabs {.tabset}
 
@@ -145,7 +145,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=1sGkLCVrfSHo1V2kP5eI10_7sr54KjyK2&sz=w1000"></td>
-    <td><b>Инвентарни номера:</b> 2033-2034 (2), 3001-3008, 3010-3032, 3035-3040 (37), 3009 (Учебен) <br><b>Линии на движение:</b> 3, 10, 11<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 3020</td>
+    <td><b>Инвентарни номера:</b> 2033-2034 (2), 3001-3008, 3010-3032, 3035-3040 (37), 3009 (Учебен) <br><b>Линии на движение:</b> 3, 10, 11<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 3001, 3004</td>
   </tr>
   <td colspan=2 >ℹ️ <b>40 броя</b> - <a href="/bg/public-transport/fleet-list/1990-CKD-Tatra-T6A2">Повече информация...</a></td>
 </table>
@@ -159,7 +159,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="http://sofiatransport.atwebpages.com/IMG_2490.JPG"></td>
-    <td><b>Инвентарни номера:</b> 4101-4137 <br><b>Линии на движение: </b> 20<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 4118</td>
+    <td><b>Инвентарни номера:</b> 4101-4137 <br><b>Линии на движение: </b> 20<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 4124</td>
   </tr>
   <td colspan=2 >ℹ️ <b>37 броя</b> - <a href="/bg/public-transport/fleet-list/1988-CKD-Tatra-T6B5">Повече информация...</a></td>
 </table>
@@ -185,7 +185,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://transphoto.org/photo/12/73/00/1273007.jpg"></td>
-    <td><b>Инвентарни номера:</b> Т4D-M: 4042, 4045, 4059, 4077, 4080 (всички са резерви) – 5, B4D-M: 4764 (резерва) – 1 <br><b>Линии на движение: </b> Студен резерв за 22<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> няма</td>
+    <td><b>Инвентарни номера:</b> Т4D-M: 4042, 4045, 4059, 4077, 4080 (всички са резерви) – 5, B4D-M: 4764 (резерва) – 1 <br><b>Линии на движение: </b> Студен резерв за 22<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 4080 - преоборудване в работен вагон за депо "Искър"</td>
   </tr>
   <td colspan=2 >ℹ️ <b>8 броя</b> + 2 ремаркета - <a href="/bg/public-transport/fleet-list/1971-CKD-Tatra-T4D-M2">Повече информация...</a></td>
 </table>
