@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-10-18T11:13:17.044Z
+date: 2024-10-18T11:13:42.616Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -11,7 +11,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 | [**Актуален**](/bg/public-transport/fleet-list/actual) | [30.06.2023](/bg/public-transport/fleet-list/2023-06-30) | [31.12.2022](/bg/public-transport/fleet-list/2022-12-31) | [31.12.2021](/bg/public-transport/fleet-list/2021-12-31) | [31.12.2020](/bg/public-transport/fleet-list/2020-12-31) | [31.12.2019](/bg/public-transport/fleet-list/2019-12-31) | [31.12.2018](/bg/public-transport/fleet-list/2018-12-31) | [31.12.2017](/bg/public-transport/fleet-list/2017-12-31) | [31.12.2016](/bg/public-transport/fleet-list/2016-12-31) | [31.12.2015](/bg/public-transport/fleet-list/2015-12-31) | [31.12.2014](/bg/public-transport/fleet-list/2014-12-31) | [31.12.2013](/bg/public-transport/fleet-list/2013-12-31) | [31.12.2012](/bg/public-transport/fleet-list/2012-12-31) | [31.12.2011](/bg/public-transport/fleet-list/2011-12-31) | [31.12.2010](/bg/public-transport/fleet-list/2010-12-31) | [31.12.2009](/bg/public-transport/fleet-list/2009-12-31) | [31.12.2008](/bg/public-transport/fleet-list/2008-12-31) | [31.12.2007](/bg/public-transport/fleet-list/2007-12-31) | | [30.06.1998 - ТБ](/bg/public-transport/fleet-list/1998-06-30-tb) | 
 
 ---
-> Списъкът е актуален към 01.10.2023
+> Списъкът е актуален към 18.10.2024
 {.is-warning}
 
 # Полезна информация
