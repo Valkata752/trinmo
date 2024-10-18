@@ -2,7 +2,7 @@
 title: Актуален подвижен състав
 description: Транспортна инфраструктура, планиране и мобилност
 published: true
-date: 2024-10-18T11:13:42.616Z
+date: 2024-10-18T11:17:34.585Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-22T17:41:52.023Z
@@ -49,7 +49,7 @@ dateCreated: 2022-07-22T17:41:52.023Z
 <table style="width:100%">
   <tr>
     <td style="width:300px"><img src="https://drive.google.com/thumbnail?id=13xnjUwLwSpu47E2iQ90FxgqXb47maAJq&sz=w1000"></td>
-    <td><b>Инвентарни номера:</b> 2301-2367 <br><b>Линии на движение:</b> 1, 4, 5, 7, 18, 27<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2316<br><b><span style="color:#808080">Нe са в движение:</span></b> 2318</td>
+    <td><b>Инвентарни номера:</b> 2301-2367 <br><b>Линии на движение:</b> 1, 4, 5, 7, 18, 27<br><br><b><span style="color:#FFB74D">На основен ремонт:</span></b> 2316<br><b><span style="color:#808080">Нe са в движение:</span></b> 2301, 2318, 2325, 2329</td>
   </tr>
   <td colspan=2 >ℹ️ <b>56 броя</b> - <a href="/bg/public-transport/fleet-list/2013-Pesa-122NASF">Повече информация...</a></td>
 </table>
