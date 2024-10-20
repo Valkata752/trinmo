@@ -2,22 +2,26 @@
 title: 1936 Праилник служба на трамваите
 description: 
 published: true
-date: 2024-10-20T08:45:18.767Z
+date: 2024-10-20T08:49:20.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T08:19:14.315Z
 ---
 
-<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/0.jpg" width="600px">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/0.jpg">
 
 ## Съдържание
-<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/7.jpg" width="600px">
-<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/9.jpg" width="600px">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/5.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/6.jpg">
 
-## А. Ръководство
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/9.jpg">
+
+## А. Видове на колите и състава на влаковете
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/10.jpg">
+
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/11.jpg">
 
-## Б. Видове на колите и съставите на влаковете
+## В. Състояние на колите във влака, приемане и предаване
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/12.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/13.jpg">
 
