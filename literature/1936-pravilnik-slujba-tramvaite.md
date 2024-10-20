@@ -2,7 +2,7 @@
 title: 1936 Праилник служба на трамваите
 description: 
 published: true
-date: 2024-10-20T08:54:17.388Z
+date: 2024-10-20T08:56:26.262Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T08:19:14.315Z
@@ -25,8 +25,6 @@ dateCreated: 2024-10-20T08:19:14.315Z
 ## В. Състояние на колите във влака, приемане и предаване
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/12.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/13.jpg">
-
-## В. Състояние на 
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/14.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/15.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/16.jpg">
@@ -39,6 +37,8 @@ dateCreated: 2024-10-20T08:19:14.315Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/23.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/24.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/25.jpg">
+
+## Г. Персонал по влаковете
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/26.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/27.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/28.jpg">
@@ -60,6 +60,8 @@ dateCreated: 2024-10-20T08:19:14.315Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/40.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/41.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/42.jpg">
+
+## Е. Движение
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/43.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/44.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/45.jpg">
