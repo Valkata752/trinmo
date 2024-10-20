@@ -2,7 +2,7 @@
 title: 1936 Праилник служба на трамваите
 description: 
 published: true
-date: 2024-10-20T08:52:10.243Z
+date: 2024-10-20T08:54:17.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T08:19:14.315Z
@@ -11,8 +11,9 @@ dateCreated: 2024-10-20T08:19:14.315Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/0.jpg">
 
 ## Съдържание
-<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/5.jpg">
-<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/6.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/1.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/2.jpg">
+<img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/3.jpg">
 
 ## А. Правилник
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/9.jpg">
