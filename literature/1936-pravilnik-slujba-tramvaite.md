@@ -1,8 +1,8 @@
 ---
-title: 1936 Праилник служба на трамваите
+title: 1936 Правилник за службата на трамваите
 description: 
 published: true
-date: 2024-10-20T08:56:26.262Z
+date: 2024-10-20T11:57:19.617Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T08:19:14.315Z
