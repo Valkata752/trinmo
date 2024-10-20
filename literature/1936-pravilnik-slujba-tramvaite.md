@@ -2,7 +2,7 @@
 title: 1936 Праилник служба на трамваите
 description: 
 published: true
-date: 2024-10-20T08:27:20.211Z
+date: 2024-10-20T08:41:24.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T08:19:14.315Z
@@ -13,9 +13,15 @@ dateCreated: 2024-10-20T08:19:14.315Z
 ## Съдържание
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/7.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/9.jpg">
+
+## А. Ръководство
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/11.jpg">
+
+## Б. Видове на колите и съставите на влаковете
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/12.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/13.jpg">
+
+## В. Състояние на 
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/14.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/15.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/16.jpg">
@@ -34,6 +40,10 @@ dateCreated: 2024-10-20T08:19:14.315Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/29.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/30.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/31.jpg">
+
+
+
+## Д. Маневрена служба
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/32.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/33.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/34.jpg">
@@ -68,6 +78,8 @@ dateCreated: 2024-10-20T08:19:14.315Z
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/63.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/64.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/65.jpg">
+
+## Ж. Път и инсталации в станциите
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/66.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/67.jpg">
 <img src="http://46.10.181.183:1518/trinmo/literature/1936-pravilnik-slujba-tramvaite/68.jpg">
