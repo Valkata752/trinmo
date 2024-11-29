@@ -2,7 +2,7 @@
 title: Легендарни автобуси - DeAgostini
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-27T11:24:38.117Z
+date: 2024-11-29T19:34:40.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T11:25:42.499Z
@@ -254,3 +254,319 @@ dateCreated: 2023-09-30T11:25:42.499Z
 7163130 Neoplan NH9L creme/white
 7163131 Opel Blitz -54 blue/white
 7163111 Steyr 380 Q 1955 Maroon/White
+
+
+
+
+# Autobus dal Mondo
+<td colspan="7" class="style1">
+		<table cellpadding="7">
+						<tbody class="style1">
+						<tr>
+										<td style="width: 20px" class="style33">
+										&nbsp;</td>
+										<td class="style34" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0001.jpg"><br>
+										</td>
+										<td class="style34" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0002.jpg"><br>
+										</td>
+										<td class="style35" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0003.jpg"></td>
+										<td class="style35" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0004.jpg"></td>
+										<td class="style34" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0005.jpg"></td>
+										<td style="width: 21px" class="style33">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0006.jpg"></td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0007.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0008.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0009.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0010.jpg"><br>
+										</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0011.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0012.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0013.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0014.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0015.jpg"></td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0016.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0017.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0018.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0019.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0020.jpg"></td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0021.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0022.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0023.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0024.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0025.jpg"><br>
+										</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0026.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0027.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0028.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0029.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0030.jpg"><br>
+										</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0031.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0032.jpg"><br>
+										</td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0033.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0034.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0035.jpg"><br>
+										</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0036.jpg"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0037.jpg"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0038.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0039.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0040.jpg" width="200" height="271"><br>
+										</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0041.jpg" width="200" height="271"><br>
+										</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0042.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0043.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0044.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0045.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0046.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0047.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0048.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0049.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0050.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0051.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0052.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0053.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0054.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0055.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0056.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0057.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0058.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0059.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0060.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0061.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0062.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0063.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0064.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0065.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0066.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0067.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0068.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0069.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0070.jpg" width="200" height="271"></td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style36">
+										&nbsp;</td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0071.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0072.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0073.jpg" width="200" height="271"></td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0074.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style37" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0075.jpg" width="200" height="271">&nbsp;</td>
+										<td style="width: 21px" class="style36">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px" class="style38">
+										&nbsp;</td>
+										<td class="style39" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0076.jpg" width="200" height="271"></td>
+										<td class="style39" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0077.jpg" width="200" height="271"></td>
+										<td class="style39" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0078.jpg" width="200" height="271"></td>
+										<td class="style39" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0079.jpg" width="200" height="271"></td>
+										<td class="style39" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_0080.jpg" width="200" height="271"></td>
+										<td style="width: 21px" class="style38">
+										&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px">&nbsp;</td>
+										<td class="style32" style="width: 322px">
+										&nbsp;</td>
+										<td class="style32" style="width: 322px">
+										&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										&nbsp;</td>
+										<td style="width: 21px">&nbsp;</td>
+						</tr>
+						<tr>
+										<td style="width: 20px">&nbsp;</td>
+										<td class="style32" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_FR_0020.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style32" style="width: 322px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_FR_0053.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										<img alt="" src="http://www.arancionedigenova.it/omnibus/mondo/anteprime/HAdM_FR_0067.jpg" width="200" height="271">&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										&nbsp;</td>
+										<td class="style32" style="width: 323px">
+										&nbsp;</td>
+										<td style="width: 21px">&nbsp;</td>
+						</tr>
+		</tbody></table>
+		</td>
