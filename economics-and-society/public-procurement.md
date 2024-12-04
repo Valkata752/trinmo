@@ -2,7 +2,7 @@
 title: Обществени поръчки
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-12-04T17:44:59.558Z
+date: 2024-12-04T17:45:12.497Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T08:15:45.332Z
@@ -45,7 +45,7 @@ dateCreated: 2022-04-27T08:15:45.332Z
 
 | Номер | Статут | брой | Спечелила фирма | Избран модел | Договор или решение | Сума |
 | --- | --- | --- | --- | --- | --- | --- |
-| [00203-2024-0028](https://app.eop.bg/today/365310) | в процедура  | 35    |  | тролейбуси | | 98 100 000,00 BGN |
+| [00203-2024-0028](https://app.eop.bg/today/365310) | в процедура  | 35    |  | тролейбуси | | 45 500 000,00 BGN |
 | [00203-2024-0017](https://app.eop.bg/today/363027) | в процедура  | 18    |  | трамваи  | | 98 100 000,00 BGN |
 | [00203-2022-0003](http://www.elektrotransportsf.com/index.php?option=com_content&view=article&id=2181%3A-4-3-&catid=3%3Alatestorders&Itemid=29&lang=bg) | приключена | 4   | “Чериът моторс" АД | Higer | [**№ CE-86/13.07.2022**](https://drive.google.com/file/d/1XhJT0Nf4dEOsEvOwkkJ0Olo2APA1Xh_k/view?usp=sharing) | 6 333 804.00 BGN |
 | [00203-2022-0002](http://www.elektrotransportsf.com/index.php?option=com_content&view=article&id=2180%3A-4-1009-mm&catid=3%3Alatestorders&Itemid=29&lang=bg) | приключена | 4   | Pojazdy szynowe Pesa Bydgoszcz SA | 30м трамваи 1009мм | [**№ CE-85/11.07.2022**](https://drive.google.com/file/d/1MKfqV40xOLf48Q48chz7PAqATcQTYSED/view?usp=sharing) | 19 885 668.00 BGN |
