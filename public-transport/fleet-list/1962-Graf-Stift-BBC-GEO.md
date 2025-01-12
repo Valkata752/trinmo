@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-12T20:39:10.964Z
+date: 2025-01-12T20:41:22.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -141,7 +141,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
  # Tabs {.tabset}
 ## 2216
 <!--2216-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" height="200px"><figcaption><b>2216</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1jbsYZ3ReAcxtrmXSFhUPYaAw6BkKaeD7" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tb2216.jpg" height="200px"><figcaption><b>2216</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tb2216.jpg" width="100%"></div></div>
    <!--2216-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" height="200px"><figcaption><b>tb2216</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" width="100%"></div></div>
