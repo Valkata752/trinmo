@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-01T21:26:33.420Z
+date: 2025-01-12T20:39:10.964Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -120,14 +120,14 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 ## 203 / 2203
 
 <!--203-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1vTFhx8axVa4YIHgqZU_C67U7Ju3xNqaE" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1vTFhx8axVa4YIHgqZU_C67U7Ju3xNqaE" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb203%20depot.jpg" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb203%20depot.jpg" width="100%"></div></div>
 <!--2203-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" height="200px"><figcaption><b>ТБ7</b> 📷 Hans Lenhart ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" width="100%"></div></div>
 
  # Tabs {.tabset} 
 ## 205
 <!--205-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1zPlGQXTl76EiCW125YnJnLcYyXjCwNrj" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1zPlGQXTl76EiCW125YnJnLcYyXjCwNrj" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb205%20depot.jpg" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb205%20depot.jpg" width="100%"></div></div>
 
 # Tabs {.tabset}
 ## 218/2218
