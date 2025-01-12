@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-12T21:03:18.309Z
+date: 2025-01-12T21:04:30.878Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -122,7 +122,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 <!--203-->
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb203%20depot.jpg" height="200px"><figcaption><b>депо Надежда</b> 📷 H. Luff ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/h-luff/tb203%20depot.jpg" width="100%"></div></div>
 <!--2203-->
-<div class="dropdown"><button class="imgbtn"><figure><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" height="200px"><figcaption><b>ТБ7</b> 📷 Hans Lenhart ⭐</figcaption></figure></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1JVjQmfgFXJa7Q1oz3tpAmI_Y1kLQwGqw" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/hans-lenhart/tb2203%20line7.jpg" height="200px"><figcaption><b>ТБ7</b> 📷 Hans Lenhart ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/hans-lenhart/tb2203%20line7.jpg" width="100%"></div></div>
 
  # Tabs {.tabset} 
 ## 205
