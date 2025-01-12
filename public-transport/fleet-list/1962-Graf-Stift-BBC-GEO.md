@@ -2,7 +2,7 @@
 title: Gräf & Stift BBC GEO
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-12T20:41:22.615Z
+date: 2025-01-12T21:03:18.309Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T22:30:56.353Z
@@ -133,7 +133,7 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 ## 218/2218
    <!--2218-->
 <div class="dropdown"><button class="imgbtn">
-  <img src="https://drive.google.com/uc?id=1h-MefLnsouG4dMLv3vmpPldpsbJDdMBa" height="200px"><figcaption><b>tb218 line7</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1h-MefLnsouG4dMLv3vmpPldpsbJDdMBa" width="100%"></div></div>
+  <img src="http://46.10.181.183:1518/trinmo/literature/stadtverkehr/1989.10%20Obusse%20in%20Bulgarien/tb218_line7.jpg" height="200px"><figcaption><b>tb218 line7</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/literature/stadtverkehr/1989.10%20Obusse%20in%20Bulgarien/tb218_line7.jpg" width="100%"></div></div>
      <!--2218-->
 <div class="dropdown"><button class="imgbtn">
   <img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" height="200px"><figcaption><b>2218</b> 📷 spirka.org</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=1Dt7PIXaxxc_2qkLwEXD-5p-J_G0Q2ODm" width="100%"></div></div>
@@ -144,4 +144,4 @@ http://www.polier.ch/page/archiv/Sutter/ausland/austria/A-G/ESG.htm
 <div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tb2216.jpg" height="200px"><figcaption><b>2216</b> 📷 100 години градски транспорт ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/100-godini-gt/tb2216.jpg" width="100%"></div></div>
    <!--2216-->
 <div class="dropdown"><button class="imgbtn">
-  <img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" height="200px"><figcaption><b>tb2216</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="https://drive.google.com/uc?id=14yvCiKDY2Bc8VLolbWk2o087CLNe1A_A" width="100%"></div></div>
+  <img src="http://46.10.181.183:1518/trinmo/literature/stadtverkehr/1989.10%20Obusse%20in%20Bulgarien/tb2216_brak.jpg" height="200px"><figcaption><b>tb2216</b> 📷 M. Martinek</figcaption></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/literature/stadtverkehr/1989.10%20Obusse%20in%20Bulgarien/tb2216_brak.jpg" width="100%"></div></div>
