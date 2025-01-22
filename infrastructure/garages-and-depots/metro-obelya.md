@@ -2,7 +2,7 @@
 title: депо Обеля
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-07-11T06:36:14.445Z
+date: 2025-01-22T08:49:31.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T11:38:24.017Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-11T11:38:24.017Z
 
 <table style="width:100%">
   <tr>
-    <td style="width:400px"><img src="https://drive.google.com/uc?id=148Qb0BgbTgkYiaeg7MdnXolhsrfwVNTs"></td>
+    <td style="width:400px"><img src=""></td>
     <td><b>Депо Обеля </b><br> Депото е разкрито на ... <br>Обслужва линии... </td> 
   </tr>
       <td colspan=2 >ℹ️ Адрес</td>
