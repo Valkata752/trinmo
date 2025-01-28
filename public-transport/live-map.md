@@ -2,7 +2,7 @@
 title: Livemap
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-28T13:12:26.966Z
+date: 2025-01-28T19:23:04.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T13:54:33.033Z
@@ -12,6 +12,6 @@ dateCreated: 2024-12-30T13:54:33.033Z
 </iframe>
 
 
-> Картата е разработена от  <a href="https://github.com/BPilot253">BPilot253</a>
+> Картата е разработена от  <a href="https://github.com/BPilot253">BPilot253</a>, данните са от ЦГМ.
 {.is-info}
 
