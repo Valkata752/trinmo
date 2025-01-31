@@ -2,129 +2,262 @@
 title: Д категория
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-31T06:48:02.085Z
+date: 2025-01-31T16:03:06.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T06:17:49.110Z
 ---
 
-## Държави в ЕС
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
-  <thead style="background-color: #f2f2f2;">
+<table>
     <tr>
-      <th>Държава</th>
-      <th>Изискване за възраст</th>
-      <th>Намаляване на минималната възраст при условия</th>
-      <th>Изискване за категория B</th>
-      <th>Изискване за категория C</th>
-      <th>Изискване за стаж</th>
-      <th>Други</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://mobilit.belgium.be/fr/route/conduire/permis-de-conduire/permis-de-conduire-belge/bus-et-autocar-categorie-d-d1-de-d1e">Белгия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td></td>
+        <td>Държава</td>
+        <td>Изискване за възраст</td>
+        <td>Намаляване на минималната възраст при<br>условия</td>
+        <td>Изискване за категория B</td>
+        <td>Изискване за категория C</td>
+        <td>Изискване за стаж</td>
+        <td>Други</td>
     </tr>
     <tr>
-      <td><a href="https://www.service-public.fr/particuliers/vosdroits/F2844">Франция</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td></td>
+        <td>Белгия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.bussgeldkatalog.org/fuehrerscheinklassen/d-fuehrerschein/#welche_bus-fuehrerscheinklassen_gibt_es">Германия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td></td>
+        <td>Франция</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.patente.it/info-patenti/patente-d-d1?idc=982">Италия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>В миналото е съществувало изискване за стаж с категория B</td>
+        <td>Германия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.transportstyrelsen.se/sv/vagtrafik/korkort/ta-korkort/valj-behorighet/buss/d-buss/">Люксембург</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>Съкратени часове по практика за притежателите на категория С и D1</td>
+        <td>Италия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>В миналото е съществувало изискване за стаж с<br>категория B</td>
     </tr>
     <tr>
-      <td><a href="https://www.cbr.nl/nl/rijbewijs-halen/bus/busrijbewijs-halen/rijbewijs-d">Нидерландия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>Допълнителен сертификат за професионална категория D</td>
+        <td>Люксембург</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Съкратени часове по практика за притежателите на категория С<br>и D1</td>
     </tr>
     <tr>
-      <td><a href="https://www.rsa.ie/services/learner-drivers/get-qualified/cpc-driver---bus---d">Ирландия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td></td>
+        <td>Нидерландия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Допълнителен сертификат за професионална<br>категория D</td>
     </tr>
     <tr>
-      <td><a href="https://www.diplomaleoforeiou.gr/com/62_Diplwma-Lewforeioy-(Diplwma-D-kathgorias)">Гърция</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td></td>
-    </tr>
-    <!-- Repeat for the rest of the 27 countries -->
-    <tr>
-      <td><a href="https://capproacademy.fi/koulutukset/ajokortti/d-kortti-linja-autokortti/">Финландия</a></td>
-      <td>24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td></td>
+        <td>Дания</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
     <tr>
-      <td><a href="https://einsteins.lv/lv/kategorijas/d-kategorija">Латвия</a></td>
-      <td>24 г.</td>
-      <td style="color: red;">Х</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td>Допълнителен сертификат за професионална категория D</td>
+        <td>Ирландия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
     <tr>
-      <td><a href="http://ucbulgaria.com/shofiorski-kursove-d">България</a></td>
-      <td>24 г.</td>
-      <td style="color: red;">Х</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td></td>
+        <td>Гърция</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
     </tr>
-  </tbody>
+    <tr>
+        <td>Португалия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Съкратени часове по практика за притежателите на категория С ; без теоретичен изпит с<br>категория D1</td>
+    </tr>
+    <tr>
+        <td>Испания</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Австрия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Швеция</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>До 24-годишна възраст се ограничава разстоянието на шофиране</td>
+    </tr>
+    <tr>
+        <td>Кипър</td>
+        <td>24 г.</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Литва</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Допълнителен сертификат за професионална<br>категория D</td>
+    </tr>
+    <tr>
+        <td>Малта</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Полша</td>
+        <td>21 г.*</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>*До 24- годишна възраст се ограничава разстоянието<br>за шофиране</td>
+    </tr>
+    <tr>
+        <td>Словакия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Унгария</td>
+        <td>21 г.*</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>*До 24- годишна възраст документът не е валиден<br>извън страната</td>
+    </tr>
+    <tr>
+        <td>Чехия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Румъния</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Съкратен курс с категории С и<br>D1</td>
+    </tr>
+    <tr>
+        <td>Хърватия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Х</td>
+        <td>Съкратен курс с категории C, CE<br>и D1, D1E</td>
+    </tr>
+    <tr>
+        <td>Естония</td>
+        <td>24 г.</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>1,5 година с<br>категория В</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Словения</td>
+        <td>24 г.</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>Три години стаж с категория B<br>или без стаж с категория С</td>
+        <td></td>
+        <td>Категория С се получава без изискване за<br>стаж</td>
+    </tr>
+    <tr>
+        <td>Финландия</td>
+        <td>24 г.</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Латвия</td>
+        <td>24 г.</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>Х</td>
+        <td>Допълнителен сертификат за професионална<br>категория D</td>
+    </tr>
+    <tr>
+        <td>България</td>
+        <td>24 г.</td>
+        <td>Х</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
 </table>
-
-
-
