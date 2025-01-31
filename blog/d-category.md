@@ -2,7 +2,7 @@
 title: Д категория
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-31T06:21:05.547Z
+date: 2025-01-31T06:23:35.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T06:17:49.110Z
@@ -23,6 +23,7 @@ dateCreated: 2025-01-31T06:17:49.110Z
     </tr>
   </thead>
   <tbody>
+    <!-- Example rows -->
     <tr>
       <td><a href="https://mobilit.belgium.be/fr/route/conduire/permis-de-conduire/permis-de-conduire-belge/bus-et-autocar-categorie-d-d1-de-d1e">Белгия</a></td>
       <td>още 24 г.</td>
@@ -42,34 +43,16 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.bussgeldkatalog.org/fuehrerscheinklassen/d-fuehrerschein/#welche_bus-fuehrerscheinklassen_gibt_es">Германия</a></td>
+      <td><a href="https://www.mcw.gov.cy/mcw/rtd/rtd.nsf/All/0E7D7AAC6B7610ACC225781C0029D44B">Кипър</a></td>
       <td>още 24 г.</td>
-      <td style="color: green;">✔</td>
+      <td style="color: red;">Х</td>
       <td style="color: green;">✔</td>
       <td style="color: red;">Х</td>
       <td style="color: red;">Х</td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.patente.it/info-patenti/patente-d-d1?idc=982">Италия</a></td>
-      <td>още 24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>В миналото е съществувало изискване за стаж с категория B</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.transportstyrelsen.se/sv/vagtrafik/korkort/ta-korkort/valj-behorighet/buss/d-buss/">Люксембург</a></td>
-      <td>още 24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>Съкратени часове по практика за притежателите на категория С и D1</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.cbr.nl/nl/rijbewijs-halen/bus/busrijbewijs-halen/rijbewijs-d">Нидерландия</a></td>
+      <td><a href="https://eket.lt/d-kategorija/">Литва</a></td>
       <td>още 24 г.</td>
       <td style="color: green;">✔</td>
       <td style="color: green;">✔</td>
@@ -78,7 +61,7 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td>Допълнителен сертификат за професионална категория D</td>
     </tr>
     <tr>
-      <td><a href="https://www.rsa.ie/services/learner-drivers/get-qualified/cpc-driver---bus---d">Ирландия</a></td>
+      <td><a href="https://www.transport.gov.mt/land/licence/obtaining-your-driving-licence-786">Малта</a></td>
       <td>още 24 г.</td>
       <td style="color: green;">✔</td>
       <td style="color: green;">✔</td>
@@ -87,7 +70,16 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.diplomaleoforeiou.gr/com/62_Diplwma-Lewforeioy-(Diplwma-D-kathgorias)">Гърция</a></td>
+      <td><a href="https://www.autodna.pl/blog/prawo-jazdy-kat-d/">Полша</a></td>
+      <td>още 21 г.*</td>
+      <td style="color: red;">Х</td>
+      <td style="color: green;">✔</td>
+      <td style="color: red;">Х</td>
+      <td style="color: red;">Х</td>
+      <td>*До 24-годишна възраст се ограничава разстоянието за шофиране</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.autoskola.akademia.sk/sk/skupina-d/">Словакия</a></td>
       <td>още 24 г.</td>
       <td style="color: green;">✔</td>
       <td style="color: green;">✔</td>
@@ -96,16 +88,16 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.segurancamaxima.pt/categorias-de-conducao/categoria-d-pesados-passageiros/">Португалия</a></td>
-      <td>още 24 г.</td>
-      <td style="color: green;">✔</td>
+      <td><a href="https://gyorsjogositvany.hu/busz-jogositvany/d-kategoria">Унгария</a></td>
+      <td>още 21 г.*</td>
+      <td style="color: red;">Х</td>
       <td style="color: green;">✔</td>
       <td style="color: red;">Х</td>
       <td style="color: red;">Х</td>
-      <td>Съкратени часове по практика за притежателите на категория С; без теоретичен изпит с категория D1</td>
+      <td>*До 24-годишна възраст документът не е валиден извън страната</td>
     </tr>
     <tr>
-      <td><a href="https://aebotella.es/curso/permiso-de-conducir-clase-d">Испания</a></td>
+      <td><a href="https://autoskola-abc.cz/ridicsky-prukaz-pro-skupinu-d">Чехия</a></td>
       <td>още 24 г.</td>
       <td style="color: green;">✔</td>
       <td style="color: green;">✔</td>
@@ -114,33 +106,14 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.oesterreich.gv.at/themen/persoenliche_dokumente_und_bestaetigungen/fuehrerschein/1/Seite.040740.html#KlasseD">Австрия</a></td>
+      <td><a href="https://autogeneral.ro/permis-categoria-d/">Румъния</a></td>
       <td>още 24 г.</td>
       <td style="color: green;">✔</td>
       <td style="color: green;">✔</td>
       <td style="color: red;">Х</td>
       <td style="color: red;">Х</td>
-      <td></td>
+      <td>Съкратен курс с категории С и D1</td>
     </tr>
-    <tr>
-      <td><a href="https://www.transportstyrelsen.se/sv/vagtrafik/korkort/ta-korkort/valj-behorighet/buss/d-buss/">Швеция</a></td>
-      <td>още 24 г.</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: red;">Х</td>
-      <td style="color: red;">Х</td>
-      <td>До 24-годишна възраст се ограничава разстоянието на шофиране</td>
-    </tr>
-    <tr>
-      <td><a href="https://ucbulgaria.com/shofiorski-kursove-d">България</a></td>
-      <td>още 24 г.</td>
-      <td style="color: red;">Х</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td style="color: green;">✔</td>
-      <td></td>
-    </tr>
-    <!-- Add remaining rows for all other countries -->
+    <!-- Add the remaining rows similarly -->
   </tbody>
 </table>
-
