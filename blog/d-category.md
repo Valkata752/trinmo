@@ -2,7 +2,7 @@
 title: Д категория
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-01-31T06:17:49.110Z
+date: 2025-01-31T06:21:05.547Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-31T06:17:49.110Z
@@ -131,7 +131,16 @@ dateCreated: 2025-01-31T06:17:49.110Z
       <td style="color: red;">Х</td>
       <td>До 24-годишна възраст се ограничава разстоянието на шофиране</td>
     </tr>
-    <!-- Add remaining countries following the same structure -->
+    <tr>
+      <td><a href="https://ucbulgaria.com/shofiorski-kursove-d">България</a></td>
+      <td>още 24 г.</td>
+      <td style="color: red;">Х</td>
+      <td style="color: green;">✔</td>
+      <td style="color: green;">✔</td>
+      <td style="color: green;">✔</td>
+      <td></td>
+    </tr>
+    <!-- Add remaining rows for all other countries -->
   </tbody>
 </table>
 
