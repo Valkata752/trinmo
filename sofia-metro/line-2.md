@@ -2,7 +2,7 @@
 title: Метролиния 2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:27:38.439Z
+date: 2025-02-07T15:21:06.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:48:54.754Z
@@ -420,6 +420,18 @@ dateCreated: 2023-08-18T07:48:54.754Z
 <time datetime="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;М2</time>
     <span><strong>ДЖЕЙМС БАУЧЕР</strong> Крайна станция</span></li>
 </ul>
+
+# Разписание
+
+## Линия М2
+
+>  част от курсовете са до и от Бизнес парк.
+{.is-info}
+
+
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M1/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+</iframe>
+
 
 # Снимки
 # Tabs {.tabset}
