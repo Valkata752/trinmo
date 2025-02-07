@@ -2,7 +2,7 @@
 title: Метролиния 4
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T09:55:47.362Z
+date: 2025-02-07T15:18:13.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:58:08.934Z
@@ -100,6 +100,27 @@ dateCreated: 2023-08-18T07:58:08.934Z
 
 - **Очаквайте скоро…**
 {.grid-list}
+
+# Разписания
+
+# Tabs {.tabset}
+
+## Линия М4
+
+> Линии М1 И М4 общ участък МС ОБЕЛЯ - МС СЛИВНИЦА - МС СЕРДИКА 1 - МС МЛАДОСТ 1
+{.is-info}
+
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M4/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+</iframe>
+
+## Линия М1
+
+> Линии М1 И М4 общ участък МС ОБЕЛЯ - МС СЛИВНИЦА - МС СЕРДИКА 1 - МС МЛАДОСТ 1
+{.is-info}
+
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M1/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+</iframe>
+
 
 # Снимки
 # Tabs {.tabset}
