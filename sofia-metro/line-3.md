@@ -2,7 +2,7 @@
 title: Метролиния 3
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-02-07T15:22:29.561Z
+date: 2025-02-07T15:22:46.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:56:14.647Z
@@ -20,7 +20,7 @@ dateCreated: 2023-08-18T07:56:14.647Z
 {.is-info}
 
 
-<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M2/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M3/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
 </iframe>
 
 # Кратка история
