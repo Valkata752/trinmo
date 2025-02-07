@@ -2,7 +2,7 @@
 title: Метролиния 1
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2023-11-20T10:29:17.968Z
+date: 2025-02-07T15:17:23.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:25:37.771Z
@@ -282,6 +282,27 @@ dateCreated: 2023-08-18T07:25:37.771Z
 
 - **Очаквайте скоро…**
 {.grid-list}
+
+# Разписания
+
+# Tabs {.tabset}
+
+## Линия М1
+
+> Линии М1 И М4 общ участък МС ОБЕЛЯ - МС СЛИВНИЦА - МС СЕРДИКА 1 - МС МЛАДОСТ 1
+{.is-info}
+
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M1/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+</iframe>
+
+## Линия М4
+
+> Линии М1 И М4 общ участък МС ОБЕЛЯ - МС СЛИВНИЦА - МС СЕРДИКА 1 - МС МЛАДОСТ 1
+{.is-info}
+
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M4/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+</iframe>
+
 
 
 
