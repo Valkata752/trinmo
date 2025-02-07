@@ -2,7 +2,7 @@
 title: Метролиния 2
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-02-07T15:21:06.392Z
+date: 2025-02-07T15:21:15.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T07:48:54.754Z
@@ -429,7 +429,7 @@ dateCreated: 2023-08-18T07:48:54.754Z
 {.is-info}
 
 
-<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M1/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
+<iframe src="https://dimitar5555.github.io/sofiatraffic-schedules/#!metro/M2/" title="Разписания" width="100%" height="800px" scrolling="yes" frameBorder="0">
 </iframe>
 
 
