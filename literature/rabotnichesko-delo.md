@@ -2,7 +2,7 @@
 title: Работническо дело (1927-1990)
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T13:46:52.519Z
+date: 2025-02-08T09:00:27.291Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T13:46:52.519Z
@@ -67,6 +67,16 @@ dateCreated: 2024-01-31T13:46:52.519Z
 {.links-list}
 
 30.09.1975 (брой 273) - **Между грозното и красивото**
+
+
+## 1973
+В1085-1973-182-273
+## Tabs {.tabset}
+### 
+- [➡️*Работническо дело - 1971*](/literature/rabotnichesko-delo-1973)
+{.links-list}
+
+
 
 ## 1971
 ## Tabs {.tabset}
