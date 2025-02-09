@@ -2,11 +2,13 @@
 title: Livemap
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-02-07T08:48:31.694Z
+date: 2025-02-09T06:19:53.882Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T13:54:33.033Z
 ---
+
+# Tabs {.tabset}
 
 # Вариант 1
 <iframe src="https://livemap-sofiatraffic.bpilot253.com">Your Browser Does Not Support iframes!</iframe>
