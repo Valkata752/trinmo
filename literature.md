@@ -2,7 +2,7 @@
 title: Литература
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-11T13:15:41.714Z
+date: 2025-02-11T17:15:48.669Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T09:14:34.111Z
@@ -19,14 +19,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## списание София (1953-1991)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/spisanie-sofia/cover%20sofia.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/spisanie-sofia/cover%20sofia.jpg"></td>
   <td><b>списание София (1953-1991)</b><br>В тях е изследвано историческото развитие, обществения и културния живот на град София. Публикувани са статистически сведения от демографски, стопански и благоустройствен характер.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/spisanie-sofia"><b>Разгледай тук...</b></a></td></table></div>  
 
 ## списание Сердика (1937-1952)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/spisanie-serdika/cover.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/spisanie-serdika/cover.jpg"></td>
   <td><b>списание Сердика (1937-1952)</b><br>В тях е изследвано историческото развитие, обществения и културния живот на град София. Публикувани са статистически сведения от демографски, стопански и благоустройствен характер.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/spisanie-serdika"><b>Разгледай тук...</b></a></td></table></div>  
 
@@ -36,14 +36,14 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Столичен общински вестник (1925-1936)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolichen-obshitnski/cover.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-stolichen-obshitnski/cover.jpg"></td>
   <td><b>Столичен общински вестник (1925-1936)</b><br>Излиза всеки петък в периода от 1927 до 1936.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/stolichen-obshtinski-vestnik"><b>Разгледай тук...</b></a></td></table></div>  
   
 ## Софийски общински вестник (1914-1918)  
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-sofiiski-obshtinski/cover.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-sofiiski-obshtinski/cover.jpg"></td>
   <td><b>Софийски общински вестник (1914-1918)</b><br>Излиза всяка седмица в периода от 1914 до 1918.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/sofiiski-obshtinski-vestnik"><b>Разгледай тук...</b></a></td></table></div>  
   
@@ -52,7 +52,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Столица (1992-1996)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-stolica/stolica-cover.png"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-stolica/stolica-cover.png"></td>
   <td><b>вестник Столица (1992-1996) </b><br>Излиза седмично.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/vestnik-stolica"><b>Разгледай тук...</b></a></td></table></div>  
 
@@ -60,7 +60,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Вечерни новини (1952-1992)
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-vecherni-novini/cover.png"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-vecherni-novini/cover.png"></td>
   <td><b>вестник Вечерни новини (1952-1992) </b><br>Излиза ежедневно.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/vecherni-novini"><b>Разгледай тук...</b></a></td></table></div>  
   
@@ -69,7 +69,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Работническо дело (1927-1990) 
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-rabotnichesko-delo/cover.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-rabotnichesko-delo/cover.jpg"></td>
   <td><b>вестник Работническо дело (1927-1990) </b><br>Излиза ежедневно.</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/rabotnichesko-delo"><b>Разгледай тук...</b></a></td></table></div>  
   
@@ -78,7 +78,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## Транспортна искра (1960-1988)
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-transportna-iskra/cover-1.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-transportna-iskra/cover-1.jpg"></td>
   <td><b>вестник Транспортна искра (1960-1988) </b><br></td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/transportna-iskra"><b>Разгледай тук...</b></a></td></table></div>  
   
@@ -86,7 +86,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/vestnik-transportna-iskra/cover-2.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/vestnik-transportna-iskra/cover-2.jpg"></td>
   <td><b>вестник Електотранспортно дело (1955-1959) </b><br>От 1960г. се преименува на Транспортна искра</td></tr>
   <td colspan=2 >ℹ️ <a href="/literature/elektrotransportno-delo"><b>Разгледай тук...</b></a></td></table></div>  
 
@@ -188,28 +188,28 @@ dateCreated: 2022-04-26T09:14:34.111Z
 ## 1964
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/1964-ukazatel/cover.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/1964-ukazatel/cover.jpg"></td>
 <td>Указател - 1964</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1964-ukazatel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1978
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/1978-patevoditel/a0.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/1978-patevoditel/a0.jpg"></td>
 <td>Пътеводител - 1978</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1978-patevoditel"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1981
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/1981-spravochnik/korica.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/1981-spravochnik/korica.jpg"></td>
 <td>Справочник - 1981</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1981-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
   
 ## 1983
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/literature/1983-spravochnik/00-00.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/literature/1983-spravochnik/00-00.jpg"></td>
 <td>Справочник - 1983</td></tr>
   <td colspan=2 >ℹ️ <a href="/bg/literature/1983-spravochnik"><b>Разгледай тук...</b></a></td></table></div>
 
@@ -239,7 +239,7 @@ dateCreated: 2022-04-26T09:14:34.111Z
 
 "Метрополитени" е любителско издание, насочено към феновете на метрото и транспортните ентусиасти. В него се публикува актуална и интересна информация, свързана със столичното метро и метрополитените по света. Изданието не е обвързано по никакъв начин с "Метрополитен" ЕАД. 
 <!--1--> 
-<button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br1.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br2.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br3.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br4.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br5.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br6.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br7.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/literature/sofiiskoto-metro/br8.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 8</a></b></figcaption></figure></button></div>
+<button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br1.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-1">брой 1</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br2.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-2">брой 2</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br3.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-3">брой 3</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br4.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-4">брой 4</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br5.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-5">брой 5</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br6.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-6">брой 6</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br7.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 7</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/literature/sofiiskoto-metro/br8.jpg" height="300px"><figcaption><b><a href="/literature/sofiiskoto-metro/broi-7">брой 8</a></b></figcaption></figure></button></div>
 
 # Чуждестранна литература
 
