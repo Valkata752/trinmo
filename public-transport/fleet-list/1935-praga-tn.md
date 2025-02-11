@@ -2,7 +2,7 @@
 title: Praga TN
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-16T19:53:35.517Z
+date: 2025-02-11T17:16:35.537Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T15:35:39.100Z
@@ -20,7 +20,7 @@ dateCreated: 2023-02-12T15:35:39.100Z
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/autobusy-prvn%c3%ad-republiky-protektor%c3%a1tu-1918-1945/Screenshot%202020-12-13%20233307.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/gallery/autobusy-prvn%c3%ad-republiky-protektor%c3%a1tu-1918-1945/Screenshot%202020-12-13%20233307.jpg"></td>
 <td> Готовите десет автобуса на плаца на завода производител, подготвени за изпращане за България.</td></tr>
   <td colspan=2 >ℹ️ Autobusy první republiky a protektorátu: 1918-1945</td></table></div>
   
@@ -130,21 +130,21 @@ dateCreated: 2023-02-12T15:35:39.100Z
   
  
  <!--2120--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/lineA.jpg" height="200px"><figcaption> <b>неизв.</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/lineA.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/gallery/forum-aspirin/lineA.jpg" height="200px"><figcaption> <b>неизв.</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://77.85.25.192:1518/trinmo/gallery/forum-aspirin/lineA.jpg" width="100%"></div></div>
  
  
  <!--2120--> 
-<div class="dropdown"><button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf2120.jpg" height="200px"><figcaption> <b>СФ 2120</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://46.10.181.183:1518/trinmo/gallery/forum-aspirin/sf2120.jpg" width="100%"></div></div>
+<div class="dropdown"><button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/gallery/forum-aspirin/sf2120.jpg" height="200px"><figcaption> <b>СФ 2120</b> 📷 Форумъ Аспиринъ Аспиринъ ⭐</figcaption></figure></button><div class="dropdown-content"><img src="http://77.85.25.192:1518/trinmo/gallery/forum-aspirin/sf2120.jpg" width="100%"></div></div>
 
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/40-godini-tramvai/fig25-avtobus-1935.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/gallery/40-godini-tramvai/fig25-avtobus-1935.jpg"></td>
 <td><b></b>Фиг. 25. Първите автобуси на Д.Т.О., тип 1935 г., бензинов мотор 100 к.с., дървена каруцерия</td></tr>
   <td colspan=2 > ℹ️  <a href="/bg/literature/anniversary/40-years-public-transport"><b>Софийските трамваи 1901-1941 година</b></a></td></table></div>
   
   
 <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/gallery/lostbulgaria/%d0%a1%d0%a4%20%d0%a5%d0%a5%d0%a5%d0%a5.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/gallery/lostbulgaria/%d0%a1%d0%a4%20%d0%a5%d0%a5%d0%a5%d0%a5.jpg"></td>
 <td><b>aPraga lineE</b><br> 🚌 <a href="/bg/public-transport/fleet-list/1935-praga-tn">Praga TN</a> <br>📌 <br> 📷 lostbulgaria.com</td></tr>
   <td colspan=2 >ℹ️ </td></table></div>
