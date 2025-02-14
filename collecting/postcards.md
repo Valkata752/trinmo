@@ -2,7 +2,7 @@
 title: Пощенски картички
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2025-02-14T21:42:00.603Z
+date: 2025-02-14T21:43:58.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-27T08:14:13.057Z
@@ -365,7 +365,7 @@ dateCreated: 2023-05-27T08:14:13.057Z
   
   <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://77.85.25.192:1518/trinmo/gallery/onb-digital/AKON_AK102_400.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/gallery/postcards/onb-digital/AKON_AK102_400.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️  197. пл.Св.Неделя</td></table></div>
   
@@ -374,7 +374,7 @@ dateCreated: 2023-05-27T08:14:13.057Z
 
  <!--следващ пост--> 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://77.85.25.192:1518/trinmo/gallery/onb-digital/AKON_AK102_404.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/gallery/postcards/onb-digital/AKON_AK102_404.jpg"></td>
 <td></td></tr>
   <td colspan=2 >ℹ️  пл.Народно Събрание</td></table></div>
 
