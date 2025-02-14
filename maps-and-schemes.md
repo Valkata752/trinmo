@@ -2,7 +2,7 @@
 title: Карти и схеми
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-02-08T18:14:56.651Z
+date: 2025-02-14T14:33:02.707Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T08:22:21.095Z
@@ -19,76 +19,76 @@ dateCreated: 2022-05-03T08:22:21.095Z
 
 ##
 <!--1--> 
-<button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/2005-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/2002-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1999-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1998-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1991-02-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1968(1)cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://46.10.181.183:1518/trinmo/maps/covers/1962-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button></div>
+<button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/2005-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2005">2005</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/2002-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/2002">2002</a></b></figcaption></figure></button></div> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/1999-3-front.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1999">1999</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/1998-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1998">1998</a></b></figcaption></figure></button> <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/1991-02-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1991">1991</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/1968(1)cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1968">1968</a></b></figcaption></figure></button></div>  <button class="imgbtn"><figure><img src="http://77.85.25.192:1518/trinmo/maps/covers/1962-2-cover.jpg" height="300px"><figcaption><b><a href="/bg/maps-and-schemes/1962">1962</a></b></figcaption></figure></button></div>
 
 # Схеми СКГТ / ЦГМ
 # Tabs {.tabset}
 
 ## 01.2024
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2024.01-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2024.01-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2024.01-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2024.01-cgm.jpg"/>
 </figure>
 
 ## 11.2023
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2023.11-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2023.11-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2023.11-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2023.11-cgm.jpg"/>
 </figure>
 
 ## 06.2022
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2022.06-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2022.06-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2022.06-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2022.06-cgm.jpg"/>
 </figure>
 
 ## 03.2021
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2021.03-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2021.03-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2021.03-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2021.03-cgm.jpg"/>
 </figure>
 
 ## 09.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2020.09-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2020.09-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2020.09-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2020.09-cgm.jpg"/>
 </figure>
 
 ## 08.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2020.08-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2020.08-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2020.08-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2020.08-cgm.jpg"/>
 </figure>
 
 ## 01.2020
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2020.01-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2020.01-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2020.01-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2020.01-cgm.jpg"/>
 </figure>
 
 
 ## 12.2019
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2019.12-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2019.12-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2019.12-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2019.12-cgm.jpg"/>
 </figure>
 
 ## 04.2019
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2019.04-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2019.04-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2019.04-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2019.04-cgm.jpg"/>
 </figure>
 
 ## 01.2018
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2018.01-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2018.01-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2018.01-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2018.01-cgm.jpg"/>
 </figure>
 
 ## 09.2017
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2017.09-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2017.09-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2017.09-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2017.09-cgm.jpg"/>
 </figure>
 
 
 ## 06.2017
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2017.06-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2017.06-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2017.06-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2017.06-cgm.jpg"/>
 </figure>
 
 ## 01.2017
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2016.07-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2016.07-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2016.07-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2016.07-cgm.jpg"/>
 </figure>
 
 
@@ -98,65 +98,65 @@ dateCreated: 2022-05-03T08:22:21.095Z
 </figure>
 
 ## 06.2016
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2016.06-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2016.06-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2016.06-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2016.06-cgm.jpg"/>
 </figure>
 
 ## 03.2016
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2016.03-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2016.03-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2016.03-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2016.03-cgm.jpg"/>
 </figure>
 
 ## 01.2016
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2016.01-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2016.01-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2016.01-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2016.01-cgm.jpg"/>
 </figure>
 
 
 ## 05.2015
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2015.05-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2015.05-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2015.05-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2015.05-cgm.jpg"/>
 </figure>
 
 
 ## 11.2014
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2014.11-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2014.11-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2014.11-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2014.11-cgm.jpg"/>
 </figure>
 
 
 ## 07.2014
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2014-07-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2014-07-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2014-07-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2014-07-cgm.jpg"/>
 </figure>
 
 ## 03.2014
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2014-03-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2014-03-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2014-03-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2014-03-cgm.jpg"/>
 </figure>
 
 
 
 ## 08.2013
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2013.08-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2013.08-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2013.08-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2013.08-cgm.jpg"/>
 </figure>
 
 
 ## 02.2013
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2013.02-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2013.02-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2013.02-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2013.02-cgm.jpg"/>
 </figure>
 
 
 ## 02.2012
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/2012.02-cgm.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/2012.02-cgm.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/2012.02-cgm.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/2012.02-cgm.jpg"/>
 </figure>
 
 ## 01.1991
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://46.10.181.183:1518/trinmo/maps/sofia/1991-sofia-gt.jpg)">
-  <img src="http://46.10.181.183:1518/trinmo/maps/sofia/1991-sofia-gt.jpg"/>
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(http://77.85.25.192:1518/trinmo/maps/sofia/1991-sofia-gt.jpg)">
+  <img src="http://77.85.25.192:1518/trinmo/maps/sofia/1991-sofia-gt.jpg"/>
 </figure>
 
 
