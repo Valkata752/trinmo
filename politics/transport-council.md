@@ -1,8 +1,8 @@
 ---
-title: transportna_komisia
+title: Постоянна комисия по транспорт и пътна безопаснот към СОС
 description: Постоянна комисия по транспорт и пътна безопасност
 published: true
-date: 2025-02-20T08:13:55.721Z
+date: 2025-02-20T08:20:39.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-20T08:06:05.340Z
