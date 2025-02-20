@@ -2,7 +2,7 @@
 title: Билети и карти
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-08-25T20:57:25.456Z
+date: 2025-02-20T18:05:13.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T14:52:09.716Z
@@ -1014,7 +1014,7 @@ https://council.sofia.bg/documents/20182/321967/R_458_2008.pdf/357d809d-f6fa-4e1
 
 
 
-# Абонаментни карти - ДТО
+# Абонаментни карти - ДТО 
 
 # Tabs {.tabset}
 
