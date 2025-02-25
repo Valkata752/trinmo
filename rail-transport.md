@@ -2,7 +2,7 @@
 title: Железопътен транспорт
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-05-25T17:20:39.780Z
+date: 2025-02-25T18:46:09.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-16T07:47:41.196Z
@@ -41,6 +41,11 @@ dateCreated: 2022-05-16T07:47:41.196Z
 
 # 📍 Експлоатационни пунктове и жп мрежа в Столична община
 <p><iframe src="https://www.google.com/maps/d/embed?mid=1OAwHjeNTPIgGDEcOFeMUN2sI8VUFrCBN&ehbc=2E312F" width="100%" height="800"></iframe></p>
+
+
+
+https://www.google.com/maps/d/u/0/embed?mid=1DKY_uscRY0Py2nOThEVglDFIqm-k-fm4&g_ep=CAESBjI1LjguMRgAIN1iKmwsOTQyNDI1MTQsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksNDcwODQzOTMsOTQyMTMyMDBCAkJH&shorturl=1&ll=42.70529419572468%2C23.29950830314817&z=10
+
 
 # Околовръстна железопътна линия
 
