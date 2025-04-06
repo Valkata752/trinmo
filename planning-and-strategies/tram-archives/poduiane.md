@@ -2,7 +2,7 @@
 title: Трамваите през Подуяне
 description: Транспорт, инфраструктура и мобилност
 published: true
-date: 2024-01-31T14:20:00.732Z
+date: 2025-04-06T18:21:43.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T15:21:21.930Z
@@ -12,15 +12,15 @@ dateCreated: 2023-10-30T15:21:21.930Z
 {.links-list}
 ---
 
-<img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/botevgradsko.jpg">
+<img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/botevgradsko.jpg">
 
 
 ## 1922 г.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-1922-bez-linii.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/poduiane-1922-bez-linii.jpg"></td>
 <td>През кръстовището пред гара Подуяне преминава трасето на околовръстната жп линия на град София. Тя се отделя от трасето на линията София – Пловдив при ул. „Черкова“ и продължава на юг. В момента по същата следа са разположени бул. „Данаил Николаев“ и бул. „Ситняково“.</tr>
-  <td colspan=2 >ℹ️ <a href=""><b></b></a>1922г. </td></table></div>
+  <td colspan=2 ℹ️ <a href=""><b></b></a>1922г. </td></table></div>
   
   
 > Пресичането на ул. Ц. Елеонора (Орханийското шосе) с околовръстната железница и трамвая
@@ -28,8 +28,8 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/img817.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/Poduene%201937.jpg"></td></tr>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/img817.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/Poduene%201937.jpg"></td></tr>
   <td colspan=2 >ℹ️ https://stara-sofia.blogspot.com/</td></table></div>
 
   
@@ -48,7 +48,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ### 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/tm129.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/tm129.jpg"></td>
 <td>Последна спирка - Подуяне, 1965-та. Mотрисата е Ансалдо-Бреда, № 129 по линия 3.
 Стълбовете на контактната мрежа от царско време са прекрасни!
 </td></tr>
@@ -60,8 +60,8 @@ dateCreated: 2023-10-30T15:21:21.930Z
 Трамвайна линия 10 преминава през кръстовището напред по Орханийско (Ботевградско) шосе и достига до пресичането му със Слатинска река. Трасето след преминаването под жп линията София – Пловдив (малко преди настоящия пл. „Пирдоп“) е едно коловозно с две места за разминаване на мотриси.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-3-10.jpg"></td>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/botevgradsko-tm10.jpg">
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/poduiane-3-10.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/botevgradsko-tm10.jpg">
 </tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1936 - 1949 г. </td></table></div>
 
@@ -78,7 +78,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/Scan1810.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/Scan1810.jpg"></td>
 <td>Последната спирка на трамвай 10 на Оранхийско шосе
 (Сегашен бул. "Ботевградско шосе")
 </td></tr>
@@ -91,7 +91,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 1949 г. -1987 г. – Трасето на линия 10 по Ботевградско шосе е закрито, но релсите не са изцяло демонтирани по подлеза под жп линията. До гара Подуяне продължава да се движи единствено трамвай 3. 
 
 
-<img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/tm734.jpeg">
+<img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/2-tram-poduiane/tm734.jpeg">
 
 
 През 1987 г. трамвай 3 е скъсен до Паметника Левски, а трасето до Гара Подуяне започва да се заменя с ново със стандартно междурелсие.
@@ -100,7 +100,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 ## 1988 г.
 
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-1993.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/poduiane-1993.jpg"></td>
 <td>Като етап от разширението на нормално релсовия трамвай и изграждането на пътен възел Подуяне, до временно обръщало югозападно от кръстовището е пуснат трамвай 20.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>1988 г. </td></table></div>
   
@@ -116,7 +116,7 @@ dateCreated: 2023-10-30T15:21:21.930Z
 
 ## 1995 г.
 <div class="table-responsive"><table style="width:100%"><tr>
-<td><img src="http://46.10.181.183:1518/trinmo/planning-and-strategies/2-tram-poduiane/poduiane-sega.jpg"></td>
+<td><img src="http://77.85.25.192:1518/trinmo/planning-and-strategies/historic-tram-archives/2-tram-poduiane/poduiane-sega.jpg"></td>
 <td>1995 г.– открит е пътен възел Подуяне с трасето по бул. Ботевградско шосе. Трамваите вече преминават през функциониращото и до днес трасе. Временното постепенно се застроява с жилищни и офисни сгради.</tr>
   <td colspan=2 >ℹ️ <a href=""><b></b></a>Днешни дни</td></table></div>
   
